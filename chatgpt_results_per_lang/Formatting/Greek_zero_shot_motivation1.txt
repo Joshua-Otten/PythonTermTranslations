@@ -1,0 +1,67 @@
+.
+
+Απόλυτη τιμή, όλα, οποιαδήποτε, ASCII, δυαδικό, Boolean, πίνακας byte, bytes, κλησιμοποιήσιμο, χαρακτήρας.
+.
+
+Class method: Μέθοδος κλάσης 
+Compile: Συντάξει 
+Complex: Πολύπλοκο 
+Delete Attribute: Διαγραφή Χαρακτηριστικού 
+Dictionary: Λεξικό 
+Directory: Κατάλογος 
+Divide Modulus: Διαίρεση Modulus 
+Enumerate: Αρίθμηση 
+Evaluate: Αξιολόγηση 
+Execute: Εκτέλεση
+.
+
+Filter: Φίλτρο
+Floating Point: Πλευρική δεκαδική
+Format: Μορφή
+Frozen Set: Παγωμένο Σύνολο
+Get Attribute: Λήψη Χαρακτηριστικού
+Globals: Καθολικά
+Has Attribute: Έχει Χαρακτηριστικό
+Hash: Κατακερματισμός
+Help: Βοήθεια
+Hexadecimal: Δεκαεξαδικό
+, max, min, object, operator, output, range, set, slice, string, and tuple.
+
+Identity: ταυτότητα
+Input: είσοδος
+Integer: ακέραιος
+Is instance: είναι παράδειγμα
+Is subclass: είναι υποκλάση
+Iterator: επαναληπτής
+Length: μήκος
+List: λίστα
+Locals: τοπικά
+Map: χάρτης
+Max: μέγιστο
+Min: ελάχιστο
+Object: αντικείμενο
+Operator: τελεστής
+Output: έξοδος
+Range: εύρος
+Set: σύνολο
+Slice: κομμάτι
+String: συμβολοσειρά
+Tuple: παράσταση
+.
+
+Μέγιστο, Προβολή Μνήμης, Ελάχιστο, Επόμενο, Αντικείμενο, Οκταλικό, Ανοιχτό, Ταξινομικό, Δύναμη, Εκτύπωση.
+, str, tuple, type
+
+Property: Ιδιότητα
+Range: Εύρος
+Represent: Αναπαρίστανται
+Reversed: Ανεστραμμένο
+Round: Γύρος
+Set: Σετ
+Set Attribute: Ορισμός ιδιότητας
+Slice: Κομμάτι
+Sorted: Ταξινομημένα
+Static Method: Στατική Μέθοδος
+Str: Στρ
+Tuple: Συνόλο
+Type: Τύπος

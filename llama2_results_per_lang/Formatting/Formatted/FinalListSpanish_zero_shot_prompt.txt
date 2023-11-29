@@ -1,0 +1,222 @@
+Valor absoluto
+Todos
+Alguno
+ASCII
+Binario
+Booleano
+Arreglo de bytes
+ytes
+Llamable
+Carácter
+Método de clase
+Compilar
+Complejo
+Eliminar atributo
+Diccionario
+Directorio
+Dividir módulo
+Enumerar
+Evaluar
+Ejecutar
+Filtro
+Punto flotante
+Formato
+Conjunto congelado
+Atributo get
+Variables globales
+Tiene atributo
+Sello
+Ayuda
+Hexadecimal
+Identidad
+Entrada
+Entero
+Es instancia
+Es una subclase
+Iterador
+Longitud
+Lista
+Localidades
+Mapa
+Máximo
+Vista de memoria
+Mínimo
+Siguiente
+Objeto
+Octal
+Abierto
+Ordenal
+Poder
+Imprimir
+Propiedad
+Rango
+Representar
+Invertido
+Redondeado
+Conjunto
+Atributo del conjunto
+Trozo
+Ordenado
+Método estático
+Cadena
+Suma
+Conjunto suplementario
+Tupla
+Tipo
+Variables
+Archivar
+Capitalizar
+Minúsculas
+Centro
+Contar
+Codificar
+Termina con
+Explicar las pestañas
+Encontrar
+Mapa de formato
+Índice
+Es alfanumérico
+Es alfabético
+Es ASCII
+es decimal
+es dígito
+es identificador
+es menor
+es numérico
+es imprimible
+es espacio
+es título
+es mayúsculo
+unir
+"justificar izquierda"
+"inferior"
+"desgarradura izquierda"
+"hacer una traducción"
+"partición"
+"reemplazar"
+"encontrar en reversa"
+"índice inverso"
+"justificar derecha"
+"partición derecha"
+"división derecha"
+"franja derecha"
+"dividir"
+"líneas divididas"
+"comienza con"
+"franja"
+"cambiar caso"
+"título"
+"traducir"
+"mayúscula"
+relleno de cero (filling with zeros)
+agregar (to add)
+limpiar (to clean)
+copiar (to copy)
+extender (to extend)
+insertar (to insert)
+eliminar (to remove)
+quitar (to remove)
+invertir (to reverse)
+ordenar (to sort)
+"desde"
+"claves"
+"obtener"
+elementos
+"claves" (again, since it's a repeated term)
+eliminar elemento
+"establecer como predeterminado"
+"actualizar"
+"valores"
+"agregar"
+actualización de la diferencia
+descartar
+intersección
+actualización de la intersección
+es disjunto
+es subconjunto
+es superconjunto
+diferencia simétrica
+actualización de la diferencia simétrica
+unión
+Cerrar
+Desconectar
+Número de archivo
+Vaciar
+Es interactivo
+Leer
+Legible
+Leer línea
+Leer líneas
+Buscar
+Buscable (adjective)
+Decir (verb)
+Truncar (verb)
+Grabable (adjective)
+Escribir (verb)
+Escribir líneas (verb)
+Y (conjunction)
+Como (adverb)
+Afirmar (verb)
+Romper (verb)
+Clase
+Continuar
+Definir
+Eliminar
+Si no
+En caso de que
+Excepción
+Falso
+Finalmente
+Para
+de (preposition)
+global (adjective)
+si (conjunction)
+importar (verb)
+en (preposition)
+es (verb)
+lambda (noun)
+ninguno (pronoun)
+no local (adjective)
+no (negation)
+o
+pasar
+levantar excepción
+devolver
+verdadero
+intentar
+mientras
+con
+ceder
+error aritmético
+Error de afirmación
+Error de atributo
+Excepción
+Error de final de archivo
+Error de punto flotante
+Salida del generador
+Error de importación
+Error de identación
+Error de índice
+Error de clave
+Interrupción de teclado
+Error de búsqueda
+Error de memoria
+Error de nombre
+Error no implementado
+Error del sistema operativo
+Error de desbordamiento
+Error de referencia
+Error en tiempo de ejecución
+Parada de iteración
+Error de sintaxis
+Error de pestaña
+Error del sistema
+Salida del sistema
+Error de tipo
+Error de variable local no ligada
+Error de Unicode
+Error de codificación Unicode
+Error de decodificación Unicode
+Error de traducción Unicode
+Error de valor
+Error de división por cero

@@ -1,0 +1,314 @@
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms in Arabic:
+
+1. Absolute value - قيمة مطلقة (qeymah moutalakah)
+2. All - كل (kul)
+3. Any - أي (ayy)
+4. ASCII - سيسكى (sisiki)
+5. Binary - إحصائي (e-hissa'i)
+6. Boolean - بوليه (bouliyah)
+7. Byte array - أرRAY بيت (ar-ray bayt)
+8. Bytes - بيتس (bayts)
+9. Callable - قابل للدعوة (qabil lil-da'wah)
+10. Character -  caracter  (karakter)
+
+I hope this helps you in your project! If you have any further questions or need more translations, please feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python terms you provided:
+
+1. Class method: مетода الصنف (methoda al-sanaf)
+2. Compile: ترجمة (tarjama)
+3. Complex: معقد (ma'qad)
+4. Delete attribute: Delete  attributes: مسح بيانات (mash h bianat)
+5. Dictionary: قاموس (qamoos)
+6. Directory: دلالة (dalala)
+7. Divide modulus: تقسيم وظيفي (taqseem wa zifaa)
+8. Enumerate: تعداد (ta'addud)
+9. Evaluate: تقييم (taqeem)
+10. Execute: تنفيذ (tanfeeth)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms into Arabic:
+
+* Filter: فلتر (falter)
+* Floating point: نقطة طوئية (nokhah tawia)
+* Format: شكل (shakl)
+* Frozen set: مجموعة مقفلة (mjma3a muqaffila)
+* Get attribute: GET صفية (get safiyah)
+* Globals: عوالم كلية (aaalim kulliyah)
+* Has attribute: هو يملك صفية (huwa yamlik safiyah)
+* Hash: هش (hash)
+* Help: مساعدة (misseada)
+* Hexadecimal: برмج ال Lithmee (baramj al-lithmee)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+* Identity: الهوية (huwiyah)
+* Input: الدخول (al-dukhool)
+* Integer: العدد الصحي (al-adad al-sahee)
+* Is instance: هو مثال (huwa mithal)
+* Is subclass: هو فرع من (huwa fara' min)
+* Iterator: مستمر (moustamer)
+* Length: المدة (almuddathaa)
+* List: القائمة (al-qaa'imah)
+* Locals: المحليات (al-muhallyaat)
+* Map: الخарطة (al-khartah)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+* maximum => أقصى (pronounced "aqssa")
+* memory view => عرض الذاكرة (pronounced "arad al-dhakirah")
+* minimum => أدنى (pronounced "adnya")
+* next => تسلسل (pronounced "tasalsul")
+* object => غير محدود (pronounced "gayr muhadud")
+* octal => بسيط ثماني (pronounced "basit thamani")
+* open => فتحة (pronounced "futha")
+* ordinal => ترتيبي (pronounced "tartibi")
+* power => قوة (pronounced "quwa")
+* print => طباعة (pronounced "taba'ah")
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python terms you provided into Arabic:
+
+1. Property: خاصية (khāṣiyyah)
+2. Range: نطاق (niṭāq)
+3. Represent: تمثال (tamthīl)
+4. Reversed: مقابل (maqābil)
+5. Round: دائرة (dā’irah)
+6. Set: مجموعة (majmuʿa)
+7. Set attribute: سعtd (su’td) - note that this is a phonetic translation, as there isn't an exact equivalent of "set attribute" in Arabic.
+8. Slice: شريط (sharīṭ)
+9. Sorted: مرتب (murtaebb)
+10. Static method: مетод ثابت (metod thābit)
+
+I hope this helps! Let me know if you have any other questions or need further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Arabic:
+
+1. String - سلسلة (silsila)
+2. Summation - جمع (jamaa')
+3. Superset - مجموعة أولى (mojma'a al-ula)
+4. Tuple - تعاون (ta'awon)
+5. Type - نوع (naw'). Examples: نوع سلسلة (silsila naw'), نوع أحرف (ahraf naw')
+6. Variables - متغيرات (mutaghayyirat)
+7. Zip - زيب (zayb)
+8. Capitalize - تحليل (tahliil)
+9. Case fold - توقيع (tawqeer)
+10. Center - مركز (markaz)
+
+I hope this helps! Let me know if you have any other questions or need further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+1. Count => عدد
+2. Encode => تحويل
+3. Ends with => ن Hou
+4. Expand tabs => تweit Al-fiker
+5. Find => إيجاد
+6. Format map => خاoria تفصيل
+7. Index => 索引
+8. Is alphanumeric => هو أحرفي الأرقام
+9. Is alphabetic => هو أحرفي
+10. Is ASCII => هو أصcito
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python keywords you provided:
+
+* "is decimal" = "هو نصف يومي" (huwa nusif yawmi)
+* "is digit" = "هو رقم" (huwa raqam)
+* "is identifier" = "هو تعريف" (huwa tareef)
+* "is lower" = "هو منora" (huwa munira)
+* "is numeric" = "هو رقمي" (huwa raqami)
+* "is printable" = "يمكنه طباعة" (yamkinah taba'a)
+* "is space" = "هو مساحة" (huwa masaha)
+* "is title" = "هو عنوان" (huwa anwaan)
+* "is uppercase" = "هو كبير" (huwa kabeer)
+* "join" = "جامع" (jameel)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python terms you provided into Arabic:
+
+* left justify: تsonoor أسفل (Tasonoor Asfla)
+* lower: أدنى (Adna)
+* left strip: حذف أسفل (Hadf Asfla)
+* make translation: ترجمة (Tarjama)
+* partition: تقسيم (Taqseem)
+* replace: استبدال (Istibdil)
+* reverse find: إيجاد عكسي (Eijad Aksi)
+* reverse index: 索引 عكسي (Sakel Alkasi)
+* right justify: تonsoor أيمن (Tasonoor Ayman)
+* right partition: تقسيم أيمن (Taqseem Ayman)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+* right split: تقسیم يمنى (taqasim yamani)
+* right strip: إزالة يمنى (izala yamani)
+* split: تقسیم (taqasim)
+* split lines: خطوط منقوشة (khuutou al-manqousha)
+* starts with: يبدأ مع (yabdaa ma'a)
+* strip: إزالة (izala)
+* swap case: تبادل حالة (tabadul hales)
+* title: عنوان (anwaan)
+* translate: ترجمة (tarjama)
+* uppercase: حروف كبيرة (huruf kubra)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Arabic:
+
+1. Zero fill: ملء صفري (millaa safari)
+2. Append: ملء تمثيل (millaa tamthili)
+3. Clear: مسح بالنzef (mash qable nisf)
+4. Copy: نسخة (nuskha)
+5. Extend: توسع (tawseel)
+6. Insert: ملء داخل (millaa daakhil)
+7. Pop: إزالة (izala)
+8. Remove: إزالة (izala)
+9. Reverse: تبويب (tabweeb)
+10. Sort: ترتيب (tartib)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python terms you provided:
+
+* keys => مفاتيح
+* get =>  получение
+* items => منتجات
+* keys => مفاتيح (yes, it's the same word in Arabic)
+* pop item => إزالة عنصر
+* set default => تعديل لمسار
+* update => تعديل
+* values => قيم
+* add => اضافة
+* difference => تماشي
+
+I hope this helps! Let me know if you have any other questions or need further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python terms you provided into Arabic:
+
+* Difference update: تحديث الفرق (tahdid al-farq)
+* Discard: إسقاظ (isqāz)
+* Intersection: مقابلة (muqābala)
+* Intersection update: تحديث المقابلة (tahdid al-muqābala)
+* Is disjoint: ليس مزammen (laysa mumazzamen)
+* Is subset: هو نusbett (huwa nusbat)
+* Is superset: هو كبسett (huwa kabset)
+* Symmetric difference: فرق اش对 (farq ash-shat)
+* Symmetric difference update: تحديث الفرق اش对 (tahdid al-farq ash-shat)
+* Union: الاتحاد (al-ittiḥād)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python keywords you provided:
+
+1. close: إستئ closure (pronounced "ista' closure")
+2. detach: فصل عني (pronounced "fasl ana")
+3. file number: رقم الملف (pronounced "raqm al-malaf")
+4. flush: فلش (pronounced "flash")
+5. is interactive: هو انTERAKTIf (pronounced "huwa interaktif")
+6. read: قراءة (pronounced "qira'a")
+7. readable: قرائي (pronounced "qara'i")
+8. read line: قراءة خطوة (pronounced "qira'at khutuwah")
+9. read lines: قراءة خطوات (pronounced "qira'at khutuwat")
+10. seek: إستجيب (pronounced "istajib")
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+* Seekable: 可quest (kāna quest)
+* Tell: يقول (yaqool)
+* Truncate: تقصير (taqseer)
+* Writable: منبه (mnbah)
+* Write: كتابة (ktaba)
+* Write lines: كتابة سطر (ktaba satr)
+* And: و (wa)
+* As: ك (ka)
+* Assert: إشعار (isha'ar)
+* Break: فسخ (faskh)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+* Class: فصل (fasil)
+* Continue: CONTINUE (kontinu)
+* Define: تعريف (ta'reef)
+* Delete: مسح (mash)
+* Else if: else إсли (ilsy)
+* Else: أخر (akhar)
+* Except: غير (gayr)
+* False: كاذب (kadhib)
+* Finally: نهاية (nihaya)
+* For: لأن (li-anna)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python keywords you provided:
+
+* from: من (min)
+* global: عالملاKEY (aalimulki)
+* if: إذا (idha)
+* import: إستيرا Azzaman (istinara azzaman)
+* in: في (fi)
+* is: هو (huwa)
+* lambda: لامبدا (lambada)
+* None: لا شيء (laa shay’)
+* non-local: غير محلي (gayr mahali)
+* not: ليس (lais)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms into Arabic:
+
+* Or: أو
+* Pass: تسريب
+* Raise exception: رفع إception
+* Return: رجوع
+* True: صحيح
+* Try: محاولة
+* While: دوّام
+* With: مع
+* Yield: تناسق
+* Arithmetic Error: خطأ رياضي
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ I'm glad you're working on translating Python's key terms into Arabic! Here are the translations for the terms you provided:
+
+* Assertion Error: خطأ الإنساء (khaṭā’ al-insā’)
+* Attribute Error: خطأ الصفحة (khaṭā’ al-ṣafḥa)
+* Exception: استثناء (istithnā’)
+* End Of File Error: خطأ نهاية الملف (khaṭā’ nihāyat al-malaf)
+* Floating Point Error: خطأ نقطة التراكم (khaṭā’ nuqṭat at-tarākam)
+* Generator Exit: خطأ مغلق الجين (khaṭā’ mughallq al-jīn)
+* Import Error: خطأ إستيراد (khaṭā’ istirād)
+* Indentation Error: خطأ تسمية المسافة (khaṭā’ tasmīyah al-masāfāt)
+* Index Error: خطأ 索引 (khaṭā’ sūrshīn)
+* Key Error: خطأ مفتاح (khaṭā’ mufattah)
+
+I hope these translations are helpful! Let me know if you have any other questions or need further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations for the Python keywords you provided:
+
+1. Keyboard Interrupt - interrupt كيبورد (pronounced "kay-bohrd")
+2. Lookup Error - خطأ البحث (pronounced "khu-taa al-ba-hith")
+3. Memory Error - خطأ الذاكرة (pronounced "khu-taa al-dhakira")
+4. Name Error - خطأ الاسم (pronounced "khu-taa al-ism")
+5. Not Implemented Error - خطأ غير منفذ (pronounced "khu-taa ghair manfadh")
+6. OS Error - خطأ النظام (pronounced "khu-taa al-nathaam")
+7. Overflow Error - خطأ التقريب (pronounced "khu-taa al-taqreeb")
+8. Reference Error - خطأ ال referral (pronounced "khu-taa al-referal")
+9. Runtime Error - خطأ زمن التنفيذ (pronounced "khu-taa zaman al-tinifaazh")
+10. Stop Iteration - إيقاظة تكرار (pronounced "i-qaat al-takraar")
+
+I hope these translations are helpful! Please note that Arabic is a widely spoken language with many dialects, so the pronunciation may vary depending on the region and dialect.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Arabic:
+
+1. Syntax Error: خطأ لغوي (Khata' Ludwigi)
+2. Tab Error: خطأ التسasia (Khata' Al-Tasasia)
+3. System Error: خطأ النظام (Khata' Al-Nizam)
+4. System Exit: خروج النظام (Kharuj Al-Nizam)
+5. Type Error: خطأ النوع (Khata' Al-Nu'a)
+6. Unbound Local Error: خطأ المحلي الغير مرتب (Khata' Al-Mahalli Al-Gayr Marboot)
+7. Unicode Error: خطأ يونيكود (Khata' Yunikod)
+8. Unicode Encode Error: خطأ تحويل يونيكود (Khata' Tahweel Yunikod)
+9. Unicode Decode Error: خطأ تفسير يونيكود (Khata' Tafsir Yunikod)
+10. Unicode Translate Error: خطأ ترجمة يونيكود (Khata' Tarjama Yunikod)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations for the remaining terms:
+
+* Value Error: خطأ القيمة (khataba al-qima)
+* Zero Division Error: خطأ ال나سبي الصفري (khataba al-nasbiy al-safari)
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.

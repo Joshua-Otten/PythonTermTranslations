@@ -1,0 +1,265 @@
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Absolute value - स्पष्ट मान (Sapshat Maan)
+2. All - सभी (Sabhi)
+3. Any - कितने भी (Kitne Bhi)
+4. ASCII - आसकी संकलনात्मक कódigo (Aasci Sankalnaatmak Kode)
+5. Binary - दुविधा (Duvidhaa)
+6. Boolean - बूलियन (Boo-lee-yun)
+7. Byte array - बा अरे (Byte Aray)
+8. Bytes - बा (Bytes)
+9. Callable - क कर सक्ष (Koil Kar Saksh)
+10. Character - चरैक्टर (Charaktar)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Class method - क्लास मेथ (Klaas Methood)
+2. Compile - संपिल करना (SamPIl Karna)
+3. Complex - जटिल (Jatil)
+4. Delete attribute - आत्रिबुत हटाना (Atribut Hataana)
+5. Dictionary - शब्दकोश (Shabdakosh)
+6. Directory - डिरेक्टरी (Direktori)
+7. Divide modulus - विभाजन Modulus (Vibhaajan Modulus)
+8. Enumerate - सूची  banana (Soochi Banana)
+9. Evaluate - मूल्य निर्धारण करना (Moolya Nirdharan Karnā)
+10. Execute - कार्य करना (Kaary Karna)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Filter - ल्टर (philtr)
+2. Floating Point - लोटिंग प्ट (floating poinnat)
+3. Format - ォर्मेट (phorumeit)
+4. Frozen Set - मुा सेट (mukka set)
+5. Get Attribute - अत्रिबュート जानकारी प्राप्त करें (atrribute jankari prapt karen)
+6. Globals - विश्वस्तर संदर्भ (vishvasstaar sandarbh)
+7. Has Attribute - को अत्रिबुーत है (ko atribue hai)
+8. Hash - हेश (hesh)
+9. Help - सहायता (sahayata)
+10. Hexadecimal - हेक्साडीमल (heksaadimala)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Identity -  मानव की पहचान (ek mānava kī pahchān)
+2. Input - सु Vaqt का आवेश (su vakt kā āvesh)
+3. Integer - संख्या (saṃkhyā)
+4. Is instance - किस परिणाम का ाहरण है? (kis pariṇām kā udyāharan hai?)
+5. Is subclass - किस परिणाम का -क्लास है? (kis pariṇām kā up-klās hai?)
+6. Iterator -   ड करने वाला (ek oṛ phund karne vālā)
+7. Length - लमबा(lambā'ī)
+8. List - सूची (sūcī)
+9. Locals - स्थानी (sthānī)
+10. Map - नक़्शा (nak'śā)
+
+Note: These translations are in Hindi language script, which is also known as Devanagari script.
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Maximum - सबसे अधिक
+2. Memory View - मेमोरी व्यु (pronounced as "memori vyu")
+3. Minimum - सबसे नदा
+4. Next - आगा
+5. Object - ्पाद
+6. Octal - आ‍तवा
+7. Open - खुला
+8. Ordinal - सूचक
+9. Power - शक्ति
+10. Print - प्रिン्ट
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Property - संपत्ति (samaptti)
+2. Range - सambhavana (sambhavaNa)
+3. Represent - प्रतिनिधि (pratiniDhi)
+4. Reversed - टा हुआ (ulTa huA)
+5. Round - ेलु (gharēlu)
+6. Set - समुदाय (samuday)
+7. Set attribute - समुदाय की विशेषता (samuday kī viśeṣatā)
+8. Slice - टुकड़ा (tukaṛā)
+9. Sorted - सूची बना हुआ (sūcī banā huA)
+10. Static method - स्थायी संjnaan (sthāyī sannjaan)
+ Sure, I'd be happy to help! Here are the translations of the given terms into Hindi:
+
+1. String - स्ट्रिंग (striṅg)
+2. Summation - समाहार (samāhār)
+3. Superset - सुपर सेट (supar set)
+4. Tuple - टपल (ṭapal)
+5. Type - तीप (tīp)
+6. Variables - वैयABLES (vayiABLEs)
+7. Zip - ज़िप (zīp)
+8. Capitalize - कैपिटला (kāpiṭlāīj)
+9. Case Fold - केस ल्ड (kes fołḍ)
+10. Center - सेन्टर (seṇṭar)
+
+I hope this helps! Let me know if you have any further questions or need any additional assistance.
+ Sure, here are the translations of the given terms in Hindi:
+
+1. Count - संख्या (Sankhya)
+2. Encode - अनुकーड़ित करें (Anukool Karen)
+3. Ends with - समवट से पहले करें (Samajhavat Se Pahle Karen)
+4. Expand tabs - टैब्स को विस्तार करें (Tabs Ko Vistar Karen)
+5. Find - खोज करें (Khoj Karen)
+6. Format map - माप को सुविधा दें (Map Ko Suvidha Den)
+7. Index - सूची (Suchi)
+8. Is alphanumeric - अल्-नमेश है (Alfa-Namash Hai)
+9. Is alphabetic - अल्बेट का है (Alfabet Ka Hai)
+10. Is ASCII - ASCII का है (ASCII Ka Hai)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Decimal - संख्या (saṃkhyā)
+2. Digit - आा (ā̃ka)
+3. Identifier - पहचान (pahcān)
+4. Lower - निम्न (nimm)
+5. Numeric - संख्यात्मक (saṃkhyātmk)
+6. Printable - पे योग्य (chāpe yōgya)
+7. Space - स्पेस (speks)
+8. Title - शीर्ष (śīrṣ)
+9. Uppercase - बड़ा (bada)
+10. Join - जुड़ाव (jūṛāv)
+ Sure, here are the translations of the given terms in Hindi:
+
+1. Left Justify - वाम जस्टिी करना (Vaam Jastifi Karna)
+2. Lower - नीचे (Neeche)
+3. Left Strip - बाय्श स트्रिप (Baysh Strip)
+4. Make Translation - अनुवाद करना (Anuvad Karna)
+5. Partition - भाग डालना (Bhaag Daalna)
+6. Replace - स्थिति पर आदां लेना (Sthiti Par Aadaan Lena)
+7. Reverse Find - पario ुं रा देखना (Pariyo Dhoondh Utarah Dekhna)
+8. Reverse Index - पario  Slovo अनुक्रमण करना (Pariyo Slovo Anukraman Karna)
+9. Right Justify - दाहIN जस्टिी करना (Dahin Jashtiphie Karna)
+10. Right Partition - दाहIN भाग डालना (Dahin Bhaag Daalna)
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Right split - दायें स्प्लिट (Dainayen Splite)
+2. Right strip - दायें स्ट्रिप (Dainayen Stripe)
+3. Split - स्प्लिट (Splite)
+4. Split lines - स्प्लिट ला (Splite Laain)
+5. Starts with - से शुरू होता है (Se Shuru Hohta Hai)
+6. Strip - स्ट्रिप (Stripe)
+7. Swap case - केस र्मान (Kes Farman)
+8. Title - शीर्षक (Shirshak)
+9. Translate - अनुवाद करना (Anuvad Karna)
+10. Uppercase - र केस (Upar Kes)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Zero fill - शुनियों के साथ पूर्ण करना (Shunya kay saath purna karna)
+2. Append - अधीना जोड़ना (Adhina joDanna)
+3. Clear - साकरना (Saaf karna)
+4. Copy - की लेना (Kopy lena)
+5. Extend - विस्तार करना (Vistaar karna)
+6. Insert - समावेश करना (Samavesh karna)
+7. Pop - हटाना (Hatana)
+8. Remove - हटाव करना (Hataav karna)
+9. Reverse - पलट करना (Palt karna)
+10. Sort - सorted करना (Sorted karna)
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Keys (कीस) - अकाट के लिप्रमुख शब्द
+2. Get (गेट) - प्रतিलोप लियुक्त शब्द
+3. Items (आम्स) - ्पाद या सामान जिनके लिप्रतिलोप किया जाता है
+4. Keys (कीस) - पुनर्निर्धारित शब्द ( duplicate of "keys" )
+5. Pop item (प आम) - ्पाद जिसका प्रतिलोप किया जाता है, वrid करने के लि
+6. Set default (डि्ट सेट) - प्राथमिक शब्द सेट करना
+7. Update (अपडेट) - प्रतिलोप करना या संशोधन करना
+8. Values (मनात
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Difference update: अंतरिक अपडेट (Antarik Apdate)
+2. Discard: ा (Chhorna)
+3. Intersection: सम्मुखी (Sammukhi)
+4. Intersection update: सम्मुखी अपडेट (Sammukhi Apdate)
+5. Is disjoint: अलग-थलग (Alag-Thalag)
+6. Is subset: समूह (Upsamuh)
+7. Is superset: समूह (Samuh)
+8. Symmetric difference: समावेश (Samaavesh)
+9. Symmetric difference update: समावेश अपडेट (Samaavesh Apdate)
+10. Union: योजना (Yojana)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Close - सबंδ करें (Saband Karen)
+2. Detach - अलग करें (Alag Karen)
+3. File number - ा नम्बर (Fail Number)
+4. Flush - प्वा करें (Pvaij Karen)
+5. Is interactive - सं्ष संबंधित है (Sangharsh Sambandhit Hai)
+6. Read - पें (Padhen)
+7. Readable - पने योग्य (Padhne Yogy)
+8. Read line - ला पें (Line Padhen)
+9. Read lines - लाें पें (Lines Padhen)
+10. Seek - खोज करें (Khoj Karen)
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Seekable - सेक्टर (sekktā)
+2. Tell - बताना (batānā)
+3. Truncate - कटुआ (katua)
+4. Writable - लिखने योग्य (likhne yōgy)
+5. Write - लिखना (likhnā)
+6. Write lines - लिखी लिा (likhī liphāẽ)
+7. And -  Aur (aur)
+8. As - जैसे (jaisē)
+9. Assert - दाव करना (dāv karnā)
+10. Break - टूटना (ṭūṭnā)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Class - क्लास (Klaas)
+2. Continue - जारी रखना (Jaari Rakhnah)
+3. Define - संज्ति पुर्ण (Sanjyaati Purn)
+4. Delete - डेलेट (Delete)
+5. Else if - अगर नहीं (Agar Nahin)
+6. Else -  (Aur)
+7. Except - दर्श करना (Upadras Karna)
+8. False - सल (Fesal)
+9. Finally - अंत में (Ant Mein)
+10. For - कभी (Kabhi)
+ Sure, here are the translations of the given terms into Hindi:
+
+* From: से (se)
+* Global: विश्वी (vishvi)
+* If: क्या (kya)
+* Import: आयात (ayat)
+* In: में (main)
+* Is: है (hai)
+* Lambda: लाMBDA (lambda)
+* None: नONE (none)
+* Non-local: अल्पसtha (alpsatha)
+* Not: नहीं (nahin)
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Or - या (Ya)
+2. Pass - पास करें (Pas Karen)
+3. Raise Exception - ्सेप्शन ना (Akseshn Uthana)
+4. Return - वapis लेना (Vapas Lena)
+5. True - सच (Sach)
+6. Try - कoshish करें (Koshish Karen)
+7. While - जब तक (Jab Tak)
+8. With - सहित (Sahit)
+9. Yield - आवदhan देना (Avadhan Dena)
+10. Arithmetic Error - आरιथमेटिक गलती (Arithmatic Galti)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Assertion Error - असर्टesiन तक्रार (Asserting Takrar)
+2. Attribute Error - संबंधित तक्रार (Sambandhit Takrar)
+3. Exception - ्सेपशन (Eksepshan)
+4. End Of File Error - ा के अंत में तक्रार (Phail Ke Ant Mein Takrar)
+5. Floating Point Error - लोटिंग पट तक्रार (Floating Poinit Takrar)
+6. Generator Exit - जनरेटर EXIT (Jannaretor Exit)
+7. Import Error - आयात तक्रार (Ayat Takrar)
+8. Indentation Error - अंतर तक्रार (Antar Takrar)
+9. Index Error - आड़ तक्रार (Ankad Takrar)
+10. Key Error - कीव तक्रार (Keev Takrar)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Keyboard Interrupt - कीबोर्ड अंतराल (Ki Boird Antaral)
+2. Lookup Error - लुकअप आ(Lookup Aai)
+3. Memory Error - मेमोरी अशुद्धि (Memory Ashuddhi)
+4. Name Error - नाम गलती (Name Galati)
+5. Not Implemented Error - नहीं संचालित गया (Not Implemented Gaya)
+6. OS Error -  अशुद्धि (OS Ashuddhi)
+7. Overflow Error - रा अशुद्धि (Overflow Ashuddhi)
+8. Reference Error - रेन्स गलती (Reference Galati)
+9. Runtime Error - टा रन अशुद्धि (Runtime Ashuddhi)
+10. Stop Iteration - स्ट रेशन (Stop Iteration)
+ Sure, I'd be happy to help! Here are the translations of the given terms into Hindi:
+
+1. Syntax Error - संविधान ्रोर (Sanchayan Arora)
+2. Tab Error - टैब ्रोर (Taab Arora)
+3. System Error - प्रण
+ Sure, I'd be happy to help! Here are the translations of the two terms you provided:
+
+1. Value Error: मानता अनुमान संश्रvik (Manatā Anumān Sams Krit)
+2. Zero Division Error: शून्य दरजे की गलति (Shūnya Daraje Ki Galti)

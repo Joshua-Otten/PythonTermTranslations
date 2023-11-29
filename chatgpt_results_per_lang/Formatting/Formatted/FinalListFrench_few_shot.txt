@@ -1,0 +1,222 @@
+valeur absolue
+tout
+n'importe quoi
+ascii
+binaire
+booléen
+tableau d'octets
+octets
+appelable
+caractère
+classe méthode
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser modulo
+énumérer
+évaluer
+exécuter
+filter => filtre
+floating point => point flottant
+format => format
+frozen set => ensemble congelé
+get attribute => obtenir attribut
+globals => globaux
+has attribute => a attribut
+hash => hachage
+help => aide
+hexadecimal => hexadécimal
+identity => identité
+input => entrée
+integer => entier
+is instance => est instance
+is subclass => est sous-classe
+iterator => itérateur
+length => longueur
+list => liste
+locals => locaux
+map => carte
+maximum => maximum
+mémoire visuelle => vue mémoire
+minimum => minimum
+next => suivant
+objet => objet
+octal => octal
+open => ouvrir
+ordinal => ordinal
+puissance => puissance
+imprimer.
+propriété
+plage
+représenter
+inversé
+arrondi
+ensemble
+définir l'attribut
+tranche
+trié
+méthode statique
+string => chaîne
+summation => somme
+superset => ensemble supérieur
+tuple => tuple
+type => type
+variables => variables
+zip => compresser
+capitalize => mettre en majuscule
+case fold => plier la casse
+center => centrer
+count => compter
+encode => encoder
+ends with => se termine par
+expand tabs => étendre les tabulations
+find => trouver
+format map => carte de format
+index => indexer
+is alphanumeric => est alphanumérique
+is alphabetic => est alphabétique
+is ascii => est ascii
+is decimal => est décimal
+is digit => est un chiffre
+is identifier => est un identifiant
+is lower => est en minuscule
+is numeric => est numérique
+is printable => est imprimable
+is space => est un espace
+is title => est un titre
+is uppercase => est en majuscule
+join => rejoindre
+left justify => justifier à gauche
+lower => minuscule
+left strip => retirer à gauche
+make translation => faire la traduction
+partition => partitionner
+replace => remplacer
+reverse find => trouver inversement
+reverse index => index inversé
+right justify => justifier à droite
+right partition => partitionner à droite
+right split => découpage à droite
+right strip => enlever à droite
+split => découper
+split lines => découper les lignes
+starts with => commence par
+strip => enlever
+swap case => inverser la casse
+title => titre
+translate => traduire
+uppercase => majuscule
+zero fill => remplissage à zéro
+append => ajouter
+clear => effacer
+copy => copier
+extend => étendre
+insert => insérer
+pop => extraire
+remove => supprimer
+reverse => inverser
+sort => trier
+from: clé
+obtenir
+articles
+clés
+élément pop
+défaut de l'ensemble
+mettre à jour
+valeurs
+ajouter
+différence
+différence mise à jour
+jeter
+intersection
+intersection mise à jour
+est disjoint
+est sous-ensemble
+est super-ensemble
+différence symétrique
+différence symétrique mise à jour
+union
+close => fermer
+detach => détacher
+file number => numéro de fichier
+flush => vider
+is interactive => est interactif
+read => lire
+readable => lisible
+read line => lire la ligne
+read lines => lire les lignes
+seek => chercher
+seekable => accessible
+tell => dire
+truncate => tronquer
+writable => ecrivable
+write => ecrire
+write lines => ecrire des lignes
+and => et
+as => comme
+assert => assertion
+break => casser
+classe
+continuer
+définir
+supprimer
+sinon si
+sinon
+sauf
+faux
+finalement
+pour
+from => de
+global => global
+if => si
+import => importer
+in => dans
+is => est
+lambda => lambda
+none => aucun
+non-local => non-local
+not => non
+ou
+passer
+lever une exception
+retourner
+vrai
+essayer
+pendant
+avec
+rendre
+erreur arithmétique
+erreur d'assertion
+erreur d'attribut
+exception
+erreur de fin de fichier
+erreur de point flottant
+sortie du générateur
+erreur d'importation
+erreur d'indentation
+erreur d'index
+erreur de clé
+clavier interrompu
+recherche erreur
+erreur mémoire
+erreur nom
+non implémenté erreur
+erreur os
+erreur débordement
+erreur référence
+erreur exécution
+arrêter itération
+erreur de syntaxe
+erreur de tabulation
+erreur système
+sortie système
+erreur de type
+erreur locale non liée
+erreur unicode
+erreur d'encodage unicode
+erreur de décodage unicode
+erreur de traduction unicode
+value error => erreur de valeur
+zero division error => erreur de division par zéro

@@ -1,0 +1,164 @@
+.
+
+绝对值, 全部, 任何, ASCII, 二进制, 布尔, 字节数组, 字节, 可调用, 字符.
+.
+
+类方法 => Class Method
+编译 => Compile
+复数 => Complex
+删除属性 => Delete Attribute
+字典 => Dictionary
+目录 => Directory
+除取模 => Divide Modulus
+枚举 => Enumerate
+评估 => Evaluate
+执行 => Execute
+.
+
+Filter => 过滤
+Floating Point => 浮点
+Format => 格式
+Frozen Set => 冻结集合
+Get Attribute => 获取属性
+Globals => 全局
+Has Attribute => 具有属性
+Hash => 散列
+Help => 帮助
+Hexadecimal => 十六进制
+.
+
+身份, 输入, 整数, 是实例, 是子类, 迭代器, 长度, 列表, 本地, 映射.
+
+
+Maximum => 最大值, Memory View => 内存视图, Minimum => 最小值, Next => 下一个, Object => 对象, Octal => 八进制, Open => 打开, Ordinal => 序数, Power => 次方, Print => 打印
+.
+
+property => 属性, range => 范围, represent => 表示, reversed => 反转, round => 四舍五入, set => 集合, set attribute => 设置属性, slice => 切片, sorted => 排序, static method => 静态方法.
+, count.
+
+字符串, 求和, 超集, 元组, 类型, 变量, 压缩, 大写, 大小写折叠, 居中, 计数
+, is decimal, is digit.
+
+count => 计数, encode => 编码, ends with => 以...结尾, expand tabs => 展开制表符, find => 查找, format map => 格式映射, index => 索引, is alphanumeric => 是字母数字, is alphabetic => 是字母, is ascii => 是ASCII, is decimal => 是十进制, is digit => 是数字.
+.
+
+is decimal => 是小数
+is digit => 是数字
+is identifier => 是标识符
+is lower => 是小写
+is numeric => 是数字
+is printable => 是可打印的
+is space => 是空格
+is title => 是标题
+is uppercase => 是大写
+join => 连接
+, upper.
+
+Left Justify => 左对齐, Lower => 转换为小写, Left Strip => 左侧去除空格, Make Translation => 做翻译, Partition => 分割, Replace => 替换, Reverse Find => 反向查找, Reverse Index => 反向索引, Right Justify => 右对齐, Right Partition => 右分割, Upper => 转换为大写.
+
+
+right split => 从右分割
+right strip => 从右去除
+split => 分割
+split lines => 分行
+starts with => 以...开头
+strip => 去除
+swap case => 大小写互换
+title => 首字母大写
+translate => 翻译
+uppercase => 大写
+.
+
+零填充, 追加, 清除, 复制, 扩展, 插入, 弹出, 删除, 反转, 排序
+.
+
+from keys => 从键
+get => 获取
+items => 项目
+keys => 键
+pop item => 弹出项
+set default => 设置默认
+update => 更新
+values => 值
+add => 添加
+difference => 差异
+
+
+difference update => 差集更新, discard => 丢弃, intersection => 交集, intersection update => 交集更新, is disjoint => 是否不相交, is subset => 是否是子集, is superset => 是否是超集, symmetric difference => 对称差集, symmetric difference update => 对称差集更新, union => 并集
+
+
+close => 关闭
+detach => 分离
+file number => 文件号
+flush => 刷新
+is interactive => 是否交互
+read => 读取
+readable => 可读
+read line => 读取行
+read lines => 读取行数
+seek => 搜索
+.
+
+seekable: 可搜索
+tell: 告知
+truncate: 截断
+writable: 可写
+write: 写
+write lines: 写行
+and: 和
+as: 作为
+assert: 断言
+break: 中断
+, if, in, is, lambda, None, return, True.
+
+Class => 类, Continue => 继续, Define => 定义, Delete => 删除, Else if => 否则如果, Else => 否则, Except => 除外, False => 假, Finally => 最终, For => 对于, If => 如果, In => 在, Is => 是, Lambda => 匿名函数, None => 无, Return => 返回, True => 真.
+, or, pass, return, while.
+
+from: 从
+global: 全局
+if: 如果
+import: 导入
+in: 在
+is: 是
+lambda: 匿名函数
+None: 无
+non-local: 非局部
+not: 不
+or: 或
+pass: 通过
+return: 返回
+while: 当
+
+
+or => 或者
+pass => 通过
+raise exception => 抛出异常
+return => 返回
+True => 真
+try => 尝试
+while => 当
+with => 使用
+yield => 产出
+Arithmetic Error => 算术错误
+, Name Error, Recursion Error, Runtime Error, Stop Iteration.
+
+Assertion Error => 断言错误, Attribute Error => 属性错误, Exception => 异常, End Of File Error => 文件结束错误, Floating Point Error => 浮点数错误, Generator Exit => 生成器退出, Import Error => 导入错误, Indentation Error => 缩进错误, Index Error => 索引错误, Key Error => 键错误, Name Error => 名称错误, Recursion Error => 递归错误, Runtime Error => 运行时错误, Stop Iteration => 停止迭代
+, Syntax Warning
+
+键盘中断 => Keyboard Interrupt
+查找错误 => Lookup Error
+内存错误 => Memory Error
+名称错误 => Name Error
+未实现错误 => Not Implemented Error
+操作系统错误 => OS Error
+溢出错误 => Overflow Error
+引用错误 => Reference Error
+运行时错误 => Runtime Error
+停止迭代 => Stop Iteration
+语法警告 => Syntax Warning
+
+
+语法错误，制表错误，系统错误，系统退出，类型错误，未绑定本地错误，Unicode错误，Unicode编码错误，Unicode解码错误，Unicode转换错误
+
+
+值错误, 零除错误

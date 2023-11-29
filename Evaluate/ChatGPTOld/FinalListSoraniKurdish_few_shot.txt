@@ -1,0 +1,222 @@
+بەهای ڕەها
+هەموو
+هەرکام
+ئەسکی
+دووگانی
+بوولیان
+باشتی بۆشتی
+باشت
+قابلیتی کردن
+نووسە
+class method => شێوازی کلاس
+compile => کۆمپایل کردن
+complex => پێکهاتوو
+delete attribute => خاڵی سڕینهوه
+dictionary => وێنجی، وێنێکی کلمه و لهجه
+directory => پێڕه
+divide modulus => بهێنه و بهێنان
+enumerate => ئهمراوه کردن
+evaluate => بهێنان
+execute => چالاک کردن
+فیلتر(filter)
+ناوەندی بۆشایی(floating point)
+فۆرمات(format)
+دابەشی بەسەرجێگی(frozen set)
+لیستی خاستەرکردن(get attribute)
+گولبالات(globals)
+لیستی خاستەرکردن(has attribute)
+هاش(hash)
+یارمەتی(help)
+هەڵدەکسادەکۆد(hexadecimal)
+identity => تیپ
+input => وردەکردن
+integer => ژمارە
+is instance => بەتەواویە
+is subclass => نێوەکەوتنی نیشاندان
+iterator => دەستکاریکەر
+length => درێژی
+list => لیست
+locals => لۆکالۆس
+map => ناوبەری
+maximum => زۆرترین
+memory view => دیمەنی بیرگە
+minimum => کەمترین
+next => دواتر
+object => بەرکەش
+octal => ئۆکتال
+open => کراو
+ordinal => ڕێکخستنی
+power => هێز
+چاپکردن.
+property: خاسیەت
+range: بۆشایی
+represent: نیشاندان
+reversed: بە بەرگە
+round: دۆزین
+set: دابنێن
+set attribute: خاسیەتی دابنێن
+slice: کاڵاکردن
+sorted: دەستنیشانکراو
+static method: شێوەی جێگرتنی ستاتیک
+string: نۆکە،
+summation: جێگیرکردن،
+superset: سوپەرسێت،
+tuple: چەند،
+type: جۆر،
+variables: گۆڕاوەکان،
+zip: بەشدارکردن،
+capitalize: ناوەکە بکەوە،
+case fold: دابەشکردن،
+center: ناوەکە بگۆڕە،
+count => ژماردن
+encode => کۆدکردن
+ends with => بەسەر خۆی دەکات
+expand tabs => خشتەکان گەورا بکەوە
+find => گەڕان
+format map => ناوەڕۆکی فۆرماتەکردن
+index => شوێن
+is alphanumeric => ئاڵفانومێریکە؟
+is alphabetic => بۆشاییە؟
+is ascii => ئاسسیکیە؟
+دیمەلییە؟
+بەرپەرشییە؟
+ئەسمێنەریە؟
+نازکیە؟
+ژمارەیە؟
+چاپیە؟
+فضایە؟
+سەردێڕیە؟
+نازکی نێوە؟
+بەشداری بکەوە
+left justify => پاشەکەوتکردنی چەپ
+lower => لەجیگەر
+left strip => لابردنی چەپ
+make translation => دروستکردنی ترجمە
+partition => کارگێڕدان
+replace => لەبریدنەوە
+reverse find => گەڕانی بەگەڕان بۆ گواستنەوە
+reverse index => بنچینەی گەڕان
+right justify => پاشەکەوتکردنی ڕاست
+right partition => کارگێڕدانی ڕاست
+right split => شارەشی چەپ
+right strip => سڕینەوەی چەپ
+split => شارەشکردن
+split lines => شارەشکردنی خطوط
+starts with => دەستپێکردن بە
+strip => سڕینەوە
+swap case => گۆڕینی حالت
+title => سەردێڕ
+translate => تێرجان کردن
+uppercase => بەشی بەرز
+zero fill => نووسینی نەشێوەشی
+append => زیادکردن
+clear => پاککردن
+copy => نێستن
+extend => ڕێکخستن
+insert => دانان
+pop => نیشاندان
+remove => لابردن
+reverse => پێچاوکردن
+سەرجەمکردن.
+له‌کۆی
+بگەڕێنەوە
+بەرکارەکان
+کلیلەکان
+بەرکارەی دەرەوە
+دانانی پێشکەوتوو
+نوێکردنەوە
+نرخەکان
+زیادکردن
+جیاوازی
+difference update => گۆڕانکاریی ناوخۆش
+discard => ناکاشتن
+intersection => ناوخۆش
+intersection update => گۆڕانکاریی ناوخۆش
+is disjoint => کۆنەکراوە
+is subset => بۆشاییی تێدایە
+is superset => بۆشاییی گەورەیی
+symmetric difference => ناوخۆشی سیمیتیک
+symmetric difference update => گۆڕانکاریی ناوخۆشی سیمیتیک
+union => بەشی گشتی
+close: ببنەوە
+detach: لابردن
+file number: تەمەنی فایل
+flush: فلاشکردن
+is interactive: ئەلیکتیوییە؟
+read: خوێندن
+readable: قابلیتی خوێندن
+read line: خوێندنی خشتە
+read lines: خوێندنی خشتەکان
+seek: گەڕان
+seekable => پێویستی پەردەکردنی
+tell => نێردراوە
+truncate => بەکورتکردن
+writable => نووسراوە
+write => نووسین
+write lines => نووسینی چێشەکان
+and => یان
+as => پێشان
+assert => بنەڕەت
+شکستن.
+class => کلاس
+continue => چۆنێتیدا
+define => دەستپێکردن
+delete => سڕینەوە
+else if => ئەگەر دیکە
+else => ئەگەر نەبێت
+except => جیاواز
+false => ناسەخۆش
+finally => ئاخەوە
+for => بۆ
+from: لە
+global: گلۆبال
+if: گەر
+import: چوونەژوورەوە
+in: لە
+is: یە
+lambda: لامبدا
+none: هیچ
+non-local: ناگونجی
+not: نە
+or: ڕابەزێنە
+pass: چوونەدەرەوە
+raise exception: ناوەڕۆکی نێوان پێشکەش بکە
+return: پاشگەزبوونەوە
+true: دروست
+try: تاقیبکەوە
+while: لەگەڵ
+with: بەهێز
+yield: بەرزبوونەوە
+arithmetic error: هەڵەی ژمارەیی
+هەڵەی پێشکەوتن
+هەڵەی وەڵامدان
+هەڵەی کەوتن
+هەڵەی پایانی پەڕگە
+هەڵەی ناوەخۆی پێشکەوتیی
+پایانی درووستکردن
+هەڵەی کێشەکردن
+هەڵەی چوونەژورەوە
+هەڵەی نمایش
+هەڵەی پێکەوتن
+keyboard interrupt => ناچالاککردنی کلیدی
+lookup error => هەڵەی گەڕان
+memory error => هەڵەی بەکۆکردن
+name error => هەڵەی ناو
+not implemented error => هەڵەی نەکراو
+os error => هەڵەی نەرمەکاڵا
+overflow error => هەڵەی بەپشکنەوە
+reference error => هەڵەی بەستەر
+runtime error => هەڵەی نەرمەکاڵای چالاککردن
+stop iteration => دواخستنی چارکردن
+هەڵەی ڕستەسازی
+هەڵەی تاب
+هەڵەی سیستەم
+دەرچوونی سیستەم
+هەڵەی جۆر
+هەڵەی ڕێکخستنی کۆمەڵ
+هەڵەی یونیکۆد
+هەڵەی کۆدکردنی یونیکۆد
+هەڵەی ڕەشکردنی یونیکۆد
+هەڵەی ترجمەکردنی یونیکۆد
+هەڵەی نرخ
+هەڵەی بەشداری نەخشە

@@ -1,0 +1,40 @@
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Assertion Error - Error de afirmación
+2. Attribute Error - Error de atributo
+3. Exception - Excepción
+4. End Of File Error - Error de final de archivo
+5. Floating Point Error - Error de punto flotante
+6. Generator Exit - Salida del generador
+7. Import Error - Error de importación
+8. Indentation Error - Error de identación
+9. Index Error - Error de índice
+10. Key Error - Error de clave
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Keyboard Interrupt - Interrupción de teclado
+2. Lookup Error - Error de búsqueda
+3. Memory Error - Error de memoria
+4. Name Error - Error de nombre
+5. Not Implemented Error - Error no implementado
+6. OS Error - Error del sistema operativo
+7. Overflow Error - Error de desbordamiento
+8. Reference Error - Error de referencia
+9. Runtime Error - Error en tiempo de ejecución
+10. Stop Iteration - Parada de iteración
+ Here are the translations of the given terms into Spanish:
+
+1. Syntax Error - Error de sintaxis
+2. Tab Error - Error de pestaña
+3. System Error - Error del sistema
+4. System Exit - Salida del sistema
+5. Type Error - Error de tipo
+6. Unbound Local Error - Error local sin vinculación
+7. Unicode Error - Error Unicode
+8. Unicode Encode Error - Error de codificación Unicode
+9. Unicode Decode Error - Error de descodificación Unicode
+10. Unicode Translate Error - Error de traducción Unicode
+ Sure, I'd be happy to help! Here are the translations for "Value Error" and "Zero Division Error" in Spanish:
+
+* Value Error: Error de valor
+* Zero Division Error: Error de división por cero

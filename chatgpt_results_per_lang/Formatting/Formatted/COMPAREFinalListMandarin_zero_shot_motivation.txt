@@ -1,0 +1,222 @@
+absolute value : 绝对值
+all : 全部
+any : 任何
+ascii : ascii
+binary : 二进制
+boolean : 布尔
+byte array : 字节数组
+bytes : 字节
+callable : 可调用
+character : 字符
+class method : 班級方法
+compile : 編譯
+complex : 複雜
+delete attribute : 刪除屬性
+dictionary : 字典
+directory : 目錄
+divide modulus : 除模
+enumerate : 枚舉
+evaluate : 評估
+execute : 執行
+filter : 过滤
+floating point : 浮点
+format : 格式
+frozen set : 冻结集
+get attribute : 获取属性
+globals : 全局
+has attribute : 具有属性
+hash : 散列
+help : 帮助
+hexadecimal : 十六进制
+identity : 身份
+input : 輸入
+integer : 整數
+is instance : 是實例
+is subclass : 是子類
+iterator : 遍歷器
+length : 長度
+list : 列表
+locals : 本地
+map : 映射
+maximum : 最大值
+memory view : 内存视图
+minimum : 最小值
+next : 下一个
+object : 对象
+octal : 八进制
+open : 打开
+ordinal : 序数
+power : 幂
+print : 打印
+property : 属性
+range : 范围
+represent : 代表
+reversed : 反转
+round : 四舍五入
+set : 集合
+set attribute : 设置属性
+slice : 切片
+sorted : 排序
+static method : 静态方法
+string : 字符串
+summation : 求和
+superset : 超集
+tuple : 元组
+type : 类型
+variables : 变量
+zip : 压缩
+capitalize : 大写
+case fold : 折叠
+center : 居中
+count : 數
+encode : 碼
+ends with : ...結尾
+expand tabs : 開標籤
+find : 找
+format map : 式映射
+index : 引
+is alphanumeric : 字母數字
+is alphabetic : 字母
+is ascii : ascii
+is decimal : 是小数
+is digit : 是数字
+is identifier : 是标识符
+is lower : 是小写
+is numeric : 是数值
+is printable : 是可打印的
+is space : 是空格
+is title : 是标题
+is uppercase : 是大写
+join : 连接
+left justify : 左對齊
+lower : 轉小寫
+left strip : 左側去除
+make translation : 翻譯
+partition : 分割
+replace : 替換
+reverse find : 反向查找
+reverse index : 反向索引
+right justify : 右對齊
+right partition : 右分割
+right split : 右分割
+right strip : 右剥离
+split : 分割
+split lines : 分行
+starts with : 以...开头
+strip : 剥离
+swap case : 大小写互换
+title : 首字母大写
+translate : 翻译
+uppercase : 大写
+zero fill : 零填充
+append : 附加
+clear : 清除
+copy : 复制
+extend : 延伸
+insert : 插入
+pop : 弹出
+remove : 删除
+reverse : 反转
+sort : 排序。
+from keys : 从键
+get : 得到
+items : 项目
+keys : 键
+pop item : 弹出项
+set default : 设置默认
+update : 更新
+values : 值
+add : 添加
+difference : 差异。
+difference update : 異更新
+discard : 棄
+intersection : 集
+intersection update : 集更新
+is disjoint : 否不相交
+is subset : 否子集
+is superset : 否超集
+symmetric difference : 稱差
+symmetric difference update : 稱差更新
+union : 集
+close : 关闭
+detach : 分离
+file number : 文件号
+flush : 刷新
+is interactive : 是交互式的
+read : 读取
+readable : 可读的
+read line : 读行
+read lines : 读取行
+seek : 定位
+seekable : 寻
+tell : 告知
+truncate : 截断
+writable : 可写
+write : 写
+write lines : 写行
+and : 而
+as : 如
+assert : 断言
+break : 中断
+class : 类
+continue : 继续
+define : 定义
+delete : 删除
+else if : 否则如果
+else : 否则
+except : 除了
+False : 假
+finally : 最后
+for : 对于
+from : 从
+global : 全局
+if : 如果
+import : 导入
+in : 在
+is : 是
+lambda : lambda
+None : 无
+non-local : 非本地
+not : 不
+or : 答案：或者
+pass : 通过
+raise exception : 引发异常
+return : 返回
+True : 真
+try : 尝试
+while : 而
+with : 随着
+yield : 产出
+Arithmetic Error : 算术错误
+Assertion Error : 断言错误
+Attribute Error : 属性错误
+Exception : 异常
+End Of File Error : 文件结束错误
+Floating Point Error : 浮点错误
+Generator Exit : 生成器退出
+Import Error : 导入错误
+Indentation Error : 缩进错误
+Index Error : 索引错误
+Key Error : 键错误
+Keyboard Interrupt : 键盘中断
+Lookup Error : 查找错误
+Memory Error : 内存错误
+Name Error : 名称错误
+Not Implemented Error : 未实现错误
+OS Error : 操作系统错误
+Overflow Error : 溢出错误
+Reference Error : 引用错误
+Runtime Error : 运行时错误
+Stop Iteration : 停止迭代
+Syntax Error : 语法错误
+Tab Error : 制表错误
+System Error : 系统错误
+System Exit : 系统退出
+Type Error : 类型错误
+Unbound Local Error : 未绑定的局部错误
+Unicode Error : unicode错误
+Unicode Encode Error : unicode编码错误
+Unicode Decode Error : unicode解码错误
+Unicode Translate Error : unicode转换错误。
+Value Error : 值错误
+Zero Division Error : 除零错误

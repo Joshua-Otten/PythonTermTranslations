@@ -1,0 +1,235 @@
+In Python, to use the expression that returns the absolute value of a number, write: absolute value.
+In Python, to use the expression that returns True if all items in an iterable object are true, write: all.
+In Python, to use the expression that returns True if any item in an iterable object is true, write: any.
+In Python, to use the expression that returns a readable version of an object and replaces none-ascii characters with escape character, write: ascii.
+In Python, to use the expression that returns the binary version of a number, write: binary.
+In Python, to use the expression that returns the boolean value of the specified object, write: boolean.
+In Python, to use the expression that returns an array of bytes, write: byte array.
+In Python, to use the expression that returns a bytes object, write: bytes.
+In Python, to use the expression that returns True if the specified object is callable, otherwise False, write: callable.
+In Python, to use the expression that returns a character from the specified Unicode code, write: character.
+In Python, to use the expression that converts a method into a class method, write: class method.
+In Python, to use the expression that returns the specified source as an object, ready to be executed, write: compile.
+In Python, to use the expression that returns a complex number, write: complex.
+In Python, to use the expression that deletes the specified attribute (property or method) from the specified object, write: delete attribute.
+In Python, to use the expression that returns a dictionary (Array), write: dictionary.
+In Python, to use the expression that returns a list of the specified object's properties and methods, write: directory.
+In Python, to use the expression that returns the quotient and the remainder when argument1 is divided by argument2, write: divide modulus.
+In Python, to use the expression that takes a collection (e.g. a tuple) and returns it as an enumerate object, write: enumerate.
+In Python, to use the expression that evaluates and executes an expression, write: evaluate.
+In Python, to use the expression that executes the specified code (or object), write: execute.
+In Python, to use the expression that filters items in an iterable object using a filter function, write: filter.
+In Python, to use the expression that returns a floating point number, write: floating point.
+In Python, to use the expression that formats a specified value, write: format.
+In Python, to use the expression that returns a frozen set object, write: frozen set.
+In Python, to use the expression that returns the value of the specified attribute (property or method), write: get attribute.
+In Python, to use the expression that returns the current global symbol table as a dictionary, write: globals.
+In Python, to use the expression that returns True if the specified object has the specified attribute (property/method), write: has attribute.
+In Python, to use the expression that returns the hash value of a specified object, write: hash.
+In Python, to use the expression that executes the built-in help system, write: help.
+In Python, to use the expression that converts a number into a hexadecimal value, write: hexadecimal.
+In Python, to use the expression that returns the id of an object, write: identity.
+In Python, to use the expression that allows user input, write: input.
+In Python, to use the expression that returns an integer number, write: integer.
+In Python, to use the expression that returns True if a specified object is an instance of a specified object, write: is instance.
+In Python, to use the expression that returns True if a specified class is a subclass of a specified object, write: is subclass.
+In Python, to use the expression that returns an iterator object, write: iterator.
+In Python, to use the expression that returns the length of an object, write: length.
+In Python, to use the expression that returns a list, write: list.
+In Python, to use the expression that returns an updated dictionary of the current local symbol table, write: locals.
+In Python, to use the expression that returns the specified iterator with the specified function applied to each item, write: map.
+In Python, to use the expression that returns the largest item in an iterable, write: maximum.
+In Python, to use the expression that returns a memory view object, write: memory view.
+In Python, to use the expression that returns the smallest item in an iterable, write: minimum.
+In Python, to use the expression that returns the next item in an iterable, write: next.
+In Python, to use the expression that returns a new object, write: object.
+In Python, to use the expression that converts a number into an octal, write: octal.
+In Python, to use the expression that opens a file and returns a file object, write: open.
+In Python, to use the expression that converts an integer representing the Unicode of the specified character, write: ordinal.
+In Python, to use the expression that returns the value of x to the power of y, write: power.
+In Python, to use the expression that prints to the standard output device, write: print.
+In Python, to use the expression that gets, sets, or deletes a property, write: property.
+In Python, to use the expression that returns a sequence of numbers, starting from 0 and increments by 1 (by default), write: range.
+In Python, to use the expression that returns a readable version of an object, write: represent.
+In Python, to use the expression that returns a reversed iterator, write: reversed.
+In Python, to use the expression that rounds a number, write: round.
+In Python, to use the expression that returns a new set object, write: set.
+In Python, to use the expression that sets an attribute (property/method) of an object, write: set attribute.
+In Python, to use the expression that returns a slice object, write: slice.
+In Python, to use the expression that returns a sorted list, write: sorted.
+In Python, to use the expression that converts a method into a static method, write: static method.
+In Python, to use the expression that returns a string object, write: string.
+In Python, to use the expression that sums the items of an iterator, write: summation.
+In Python, to use the expression that returns an object that represents the parent class, write: superset.
+In Python, to use the expression that returns a tuple, write: tuple.
+In Python, to use the expression that returns the type of an object, write: type.
+In Python, to use the expression that returns the dict property of an object, write: variables.
+In Python, to use the expression that returns an iterator from two or more iterators, write: zip.
+In Python, to use the expression that converts the first character to upper case, write: capitalize.
+In Python, to use the expression that converts a string into lower case, write: case fold".
+In Python, to use the expression that returns a centered string, write: center.
+In Python, to use the expression that returns the number of times a specified value occurs in a string, write: count.
+In Python, to use the expression that returns an encoded version of the string, write: encode.
+In Python, to use the expression that returns true if the string ends with the specified value, write: ends with.
+In Python, to use the expression that sets the tab size of the string, write: expand tabs.
+In Python, to use the expression that searches the string for a specified value and returns the position of where it was found, write: find.
+In Python, to use the expression that formats specified values in a string, write: format.
+In Python, to use the expression that formats specified values in a string, write: format map.
+In Python, to use the expression that searches the string for a specified value and returns the position of where it was found, write: index.
+In Python, to use the expression that returns True if all characters in the string are alphanumeric, write: is alphanumeric.
+In Python, to use the expression that returns True if all characters in the string are in the alphabet, write: is alphabetic.
+In Python, to use the expression that returns True if all characters in the string are ascii characters, write: is ascii.
+In Python, to use the expression that returns True if all characters in the string are decimals, write: is decimal.
+In Python, to use the expression that returns True if all characters in the string are digits, write: is digit.
+In Python, to use the expression that returns True if the string is an identifier, write: is identifier.
+In Python, to use the expression that returns True if all characters in the string are lower case, write: is lower.
+In Python, to use the expression that returns True if all characters in the string are numeric, write: is numeric.
+In Python, to use the expression that returns True if all characters in the string are printable, write: is printable.
+In Python, to use the expression that returns True if all characters in the string are whitespaces, write: is space.
+In Python, to use the expression that returns True if the string follows the rules of a title, write: is title.
+In Python, to use the expression that returns True if all characters in the string are upper case, write: is uppercase.
+In Python, to use the expression that converts the elements of an iterable into a string, write: join.
+In Python, to use the expression that returns a left justified version of the string, write: left justify.
+In Python, to use the expression that converts a string into lower case, write: lower.
+In Python, to use the expression that returns a left trim version of the string, write: left strip.
+In Python, to use the expression that returns a translation table to be used in translations, write: make translation.
+In Python, to use the expression that returns a tuple where the string is parted into three parts, write: partition.
+In Python, to use the expression that returns a string where a specified value is replaced with the specified value, write: replace.
+In Python, to use the expression that searches the string for a specified value and returns the last position of where it was found, write: reverse find.
+In Python, to use the expression that searches the string for a specified value and returns the last position of where it was found, write: reverse index.
+In Python, to use the expression that returns a right justified version of the string, write: right justify.
+In Python, to use the expression that returns a tuple where the string is parted into three parts, write: right partition.
+In Python, to use the expression that splits the string at the specified separator, and returns a list, write: right split.
+In Python, to use the expression that returns a right trim version of the string, write: right strip.
+In Python, to use the expression that splits the string at the specified separator, and returns a list, write: split.
+In Python, to use the expression that splits the string at line breaks and returns a list, write: split lines.
+In Python, to use the expression that returns true if the string starts with the specified value, write: starts with.
+In Python, to use the expression that returns a trimmed version of the string, write: strip.
+In Python, to use the expression that swaps cases, lower case becomes upper case and vice versa, write: swap case.
+In Python, to use the expression that converts the first character of each word to upper case, write: title.
+In Python, to use the expression that returns a translated string, write: "translate"
+In Python, to use the expression that converts a string into upper case, write: "uppercase"
+In Python, to use the expression that fills the string with a specified number of 0 values at the beginning, write: zero fill.
+In Python, to use the expression that adds an element at the end of the list, write: append.
+In Python, to use the expression that removes all the elements from the list, write: clear.
+In Python, to use the expression that returns a copy of the list, write: copy.
+In Python, to use the expression that returns the number of elements with the specified value, write: count.
+In Python, to use the expression that adds the elements of a list (or any iterable) to the end of the current list, write: extend.
+In Python, to use the expression that returns the index of the first element with the specified value, write: index.
+In Python, to use the expression that adds an element at the specified position, write: insert.
+In Python, to use the expression that removes the element at the specified position, write: pop.
+In Python, to use the expression that removes the first item with the specified value, write: remove.
+In Python, to use the expression that reverses the order of the list, write: reverse.
+In Python, to use the expression that sorts the list, write: sort.
+In Python, to use the expression that removes all the elements from the dictionary, write: clear.
+In Python, to use the expression that returns a copy of the dictionary, write: copy.
+In Python, to use the expression that returns a dictionary with the specified keys and value, write: from keys.
+In Python, to use the expression that returns the value of the specified key, write: get.
+In Python, to use the expression that returns a list containing a tuple for each key value pair, write: items.
+In Python, to use the expression that returns a list containing the dictionary's keys, write: keys.
+In Python, to use the expression that removes the element with the specified key, write: pop.
+In Python, to use the expression that removes the last inserted key-value pair, write: pop item.
+In Python, to use the expression that returns the value of the specified key, and if the key does not exist, insert the key with the specified value, write: set default.
+In Python, to use the expression that updates the dictionary with the specified key-value pairs, write: update.
+In Python, to use the expression that returns a list of all the values in the dictionary, write: values
+In Python, to use the expression that returns the number of times a specified value occurs in a tuple, write: count.
+In Python, to use the expression that searches the tuple for a specified value and returns the position of where it was found, write: index.
+In Python, to use the expression that adds an element to the set, write: add.
+In Python, to use the expression that removes all the elements from the set, write: clear.
+In Python, to use the expression that returns a copy of the set, write: copy.
+In Python, to use the expression that returns a set containing the difference between two or more sets, write: difference.
+In Python, to use the expression that removes the items in this set that are also included in another, specified set, write: difference update.
+In Python, to use the expression that remove the specified item, write: discard.
+returns a set, that is the intersection of two or more sets, write: intersection.
+In Python, to use the expression that removes the items in this set that are not present in other, specified set(s), write: intersection update.
+In Python, to use the expression that returns whether two sets have an intersection or not, write: is disjoint.
+In Python, to use the expression that returns whether another set contains this set or not, write: is subset.
+In Python, to use the expression that returns whether this set contains another set or not, write: is superset.
+In Python, to use the expression that removes an element from the set, write: pop.
+In Python, to use the expression that removes the specified element, write: remove.
+In Python, to use the expression that returns a set with the symmetric differences of two sets, write: symmetric difference.
+In Python, to use the expression that inserts the symmetric differences from this set and another, write: symmetric difference update.
+In Python, to use the expression that returns a set containing the union of sets, write: union.
+In Python, to use the expression that updates the set with another set, or any other iterable, write: update.
+In Python, to use the expression that closes the file, write: close.
+In Python, to use the expression that returns the separated raw stream from the buffer, write: detach.
+In Python, to use the expression that returns a number that represents the stream, from the operating system's perspective, write: file number.
+In Python, to use the expression that flushes the internal buffer, write: flush.
+In Python, to use the expression that returns whether the file stream is interactive or not, write: is interactive.
+In Python, to use the expression that returns the file content, write: read.
+In Python, to use the expression that returns whether the file stream can be read or not, write: readable.
+In Python, to use the expression that returns one line from the file, write: read line.
+In Python, to use the expression that returns a list of lines from the file, write: read lines.
+In Python, to use the expression that changes the file position, write: seek.
+In Python, to use the expression that returns whether the file allows us to change the file position, write: seeable.
+In Python, to use the expression that returns the current file position, write: tell.
+In Python, to use the expression that resizes the file to a specified size, write: truncate.
+In Python, to use the expression that returns whether the file can be written to or not, write: writable.
+In Python, to use the expression that writes the specified string to the file, write: write.
+In Python, to use the expression that writes a list of strings to the file, write: write lines.
+In Python, to use the expression for a logical operator, write: and.
+In Python, to use the expression that creates an alias, write: as.
+In Python, to use the expression for debugging, write: assert.
+In Python, to use the expression that breaks out of a loop, write: break.
+In Python, to use the expression that defines a class, write: class.
+In Python, to use the expression that continues to the next iteration of a loop, write: continue.
+In Python, to use the expression that defines a function, write: define.
+In Python, to use the expression that deletes an object, write: delete.
+In Python, to use the expression for conditional statements, same as else if, write: else if.
+In Python, to use the expression for conditional statements, write: else.
+In Python, to use the expression for exceptions, what to do when an exception occurs, write: except.
+In Python, to use the expression for a boolean value, the result of comparison operations, write: False.
+In Python, to use the expression used with exceptions, a block of code that will be executed no matter if there is an exception or not, write: finally.
+In Python, to use the expression that creates a for loop, write: for.
+In Python, to use the expression that imports specific parts of a module, write: from.
+In Python, to use the expression that declares a global variable, write: global.
+In Python, to use the expression that makes a conditional statement, write: if.
+In Python, to use the expression that imports a module, write: import.
+In Python, to use the expression that checks if a value is present in a list, tuple, etc., write: in.
+In Python, to use the expression that tests if two variables are equal, write: is.
+In Python, to use the expression that creates an anonymous function, write: lambda.
+In Python, to use the expression that represents a null value, write: None.
+In Python, to use the expression that declares a non-local variable, write: non-local.
+In Python, to use the expression for a logical operator, write: not.
+In Python, to use the expression for a logical operator, write: or.
+In Python, to use the expression for a null statement, a statement that will do nothing, write: pass.
+In Python, to use the expression that raises an exception, write: raise exception.
+In Python, to use the expression that exits a function and return a value, write: return.
+In Python, to use the expression for a boolean value, result of comparison operations, write: True.
+In Python, to use the expression that makes a try...except statement, write: try.
+In Python, to use the expression that creates a while loop, write: while.
+In Python, to use the expression that simplifies exception handling, write: with.
+In Python, to use the expression that ends a function, returns a generator, write: yield.
+In Python, to use the expression that raises an error when it occurs in numeric calculations, write: Arithmetic Error.
+In Python, to use the expression that raises an error when an assert statement fails, write: Assertion Error.
+In Python, to use the expression that raises an error when an attribute reference or assignment fails, write: Attribute Error.
+In Python, to use the expression that is a base class for all exceptions, write: Exception.
+In Python, to use the expression that raises an error when the input() method hits an "end of file" condition (EOF), write: End Of File Error.
+In Python, to use the expression that raises an error when a floating point calculation fails, write: Floating Point Error.
+In Python, to use the expression that raises an error when a generator is closed (with the close() method), write: Generator Exit.
+In Python, to use the expression that raises an error when an imported module does not exist, write: Import Error.
+In Python, to use the expression that raises an error when indentation is not correct, write: Indentation Error.
+In Python, to use the expression that raises an error when an index of a sequence does not exist, write: Index Error.
+In Python, to use the expression that raises an error when a key does not exist in a dictionary, write: Key Error.
+In Python, to use the expression that raises an error when the user presses Ctrl+c, Ctrl+z or Delete, write: Keyboard Interrupt.
+In Python, to use the expression that raises an error when errors raised cannot be found, write: Lookup Error.
+In Python, to use the expression that raises an error when a program runs out of memory, write: Memory Error.
+In Python, to use the expression that raises an error when a variable does not exist, write: Name Error.
+In Python, to use the expression that raises an error when an abstract method requires an inherited class to override the method, write: Not Implemented Error.
+In Python, to use the expression that raises an error when a system related operation causes an error, write: OS Error.
+In Python, to use the expression that raises an error when the result of a numeric calculation is too large, write: Overflow Error.
+In Python, to use the expression that raises an error when a weak reference object does not exist, write: Reference Error.
+In Python, to use the expression that raises an error when an error occurs that does not belong to any specific exceptions, write: Runtime Error.
+In Python, to use the expression that raises an error when the next() method of an iterator has no further values, write: Stop Iteration.
+In Python, to use the expression that raises an error when a syntax error occurs, write Syntax Error.
+In Python, to use the expression that raises an error when indentation consists of tabs or spaces, write: Tab Error.
+In Python, to use the expression that raises an error when a system error occurs, write: System Error.
+In Python, to use the expression that raises an error when the sys.exit() function is called, write: System Exit.
+In Python, to use the expression that raises an error when two different types are combined, write: Type Error.
+In Python, to use the expression that raises an error when a local variable is referenced before assignment, write: Unbound Local Error.
+In Python, to use the expression that raises an error when a unicode problem occurs, write: Unicode Error.
+In Python, to use the expression that raises an error when a unicode encoding problem occurs, write: Unicode Encode Error.
+In Python, to use the expression that raises an error when a unicode decoding problem occurs, write: Unicode Decode Error.
+In Python, to use the expression that raises an error when a unicode translation problem occurs, write: Unicode Translate Error.
+In Python, to use the expression that raises an error when there is a wrong value in a specified data type, write: Value Error.
+In Python, to use the expression that raises an error when the second operator in a division is zero, write: Zero Division Error.

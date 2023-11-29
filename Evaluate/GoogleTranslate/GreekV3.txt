@@ -1,0 +1,222 @@
+απόλυτη τιμή
+όλα
+any
+ascii
+binary
+boolean
+πίνακας byte
+bytes
+callable
+χαρακτήρας
+μέθοδος κλάσης
+compile
+complex
+delete χαρακτηριστικό
+λεξικό
+directory
+divide modulus
+enumerate
+αξιολογήστε
+execute
+filter
+floating point
+format
+παγωμένο σύνολο
+get χαρακτηριστικό
+globals
+έχει χαρακτηριστικό
+hash
+help
+δεκαεξαδικό
+ταυτότητα
+input
+integer
+είναι παράδειγμα
+είναι υποκλάση
+iterator
+μήκος
+list
+locals
+map
+μέγιστο
+προβολή μνήμης
+minimum
+επόμενο
+αντικείμενο
+octal
+open
+ordinal
+power
+print
+ιδιοκτησία
+range
+αντιπροσωπεύω
+reversed
+round
+set
+set χαρακτηριστικό
+slice
+sorted
+στατική μέθοδος
+string
+summation
+υπερσύνολο
+πλειάδα
+type
+μεταβλητές
+zip
+κεφαλαία
+case fold»
+κέντρο
+count
+encode
+τελειώνει με
+επέκταση καρτελών
+find
+format map
+index
+είναι αλφαριθμητικό
+είναι αλφαβητικό
+is ascii
+είναι δεκαδικός
+είναι ψηφίο
+είναι αναγνωριστικό
+είναι πεζό
+είναι αριθμητικό
+είναι εκτυπώσιμο
+είναι κενό
+είναι τίτλος
+είναι κεφαλαίο
+join
+left justify
+low
+αριστερή λωρίδα
+make translation
+κατάτμηση
+αντικαταστήστε
+reverse find
+αντίστροφος δείκτης
+right justify
+δεξιά κατάτμηση
+δεξιά διάσπαση
+δεξιά λωρίδα
+split
+split lines
+ξεκινά με
+strip
+swap case
+τίτλος
+"translate"
+"κεφαλαία"
+zero fill
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+sort
+από κλειδιά
+get
+αντικείμενα
+keys
+pop item
+set default
+ενημέρωση
+values
+add
+διαφορά
+ενημέρωση διαφοράς
+απόρριψη
+διασταύρωση
+ενημέρωση διασταύρωσης
+είναι ασυνεχής
+είναι υποσύνολο
+είναι υπερσύνολο
+συμμετρική διαφορά
+ενημέρωση συμμετρικής διαφοράς
+union
+κλείσιμο
+detach
+αριθμός αρχείου
+flush
+είναι διαδραστική
+read
+readable
+read line
+read lines
+seek
+seeable
+tell
+περικοπή
+εγγράψιμο
+write
+write lines
+και
+ως
+assert
+break
+class
+συνέχεια
+define
+delete
+else if
+else
+εκτός
+false
+τέλος
+for
+from
+global
+if
+import
+in
+είναι
+λάμδα
+none
+non-local
+όχι
+ή
+pass
+αυξήστε την εξαίρεση
+return
+true
+δοκιμάστε
+while
+με
+απόδοση
+αριθμητικό σφάλμα
+σφάλμα ισχυρισμού
+σφάλμα χαρακτηριστικού
+εξαίρεση
+end of file error
+σφάλμα κινητής υποδιαστολής
+generator exit
+σφάλμα εισαγωγής
+σφάλμα εσοχής
+index error
+key error
+keyboard interrupt
+σφάλμα αναζήτησης
+σφάλμα μνήμης
+name error
+not implemented error
+σφάλμα λειτουργικού συστήματος
+σφάλμα υπερχείλισης
+σφάλμα αναφοράς
+σφάλμα χρόνου εκτέλεσης
+stop iteration
+σφάλμα σύνταξης
+σφάλμα καρτέλας
+σφάλμα συστήματος
+έξοδος συστήματος
+type error
+unbound local error
+unicode error
+unicode encode error
+unicode decode error
+unicode translate error
+σφάλμα τιμής
+zero division error

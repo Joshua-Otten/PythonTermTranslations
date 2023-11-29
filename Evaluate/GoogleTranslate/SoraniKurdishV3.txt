@@ -1,0 +1,222 @@
+بەهای ڕەها
+هەموو
+any
+ascii
+binary
+boolean
+ڕیزبەندی بایت
+بایت
+callable
+کاراکتەری
+class method
+compile
+ئاڵۆز
+delete attribute
+فەرهەنگ
+directory
+divide modulus
+enumerate
+هەڵسەنگاندن
+execute
+filter
+خاڵی هەڵدەفڕێت
+فۆرمات
+frozen set
+get attribute
+globals
+تایبەتمەندی هەیە
+hash
+یارمەتی
+شەش دەهەمی
+identity
+input
+ژمارە تەواو
+is instance
+subclass ە
+iterator
+length
+list
+locals
+نەخشە
+زۆرترین
+دیمەنی بیرگە
+کەمترین
+next
+object
+هەشتەم
+open
+ordinal
+power
+print
+تایبەتمەندی
+مەودا
+represent
+پێچەوانەکراوە
+round
+set
+set attribute
+slice
+ڕیزکراوە
+میتۆدی ئیستاتیک
+string
+summation
+superset
+tuple
+type
+variables
+zip
+capitalize
+case fold"
+center
+count
+encode
+بە کۆتایی دێت
+expand tabs
+find
+نەخشەی فۆرمات
+index
+ئەلفوبێی ژمارەیە
+بە ئەلفوبێیە
+is ascii
+دەهەمییە
+ژمارەیە
+ناسێنەرە
+بچووکترە
+ژمارەیە
+چاپکراوە
+is space
+ناونیشانە
+پیتی گەورەیە
+join
+left justify
+بچووک
+شریتی چەپ
+وەرگێڕان بکە
+partition
+replace
+reverse find
+reverse index
+right justify
+پارتیشنی ڕاست
+right split
+شریتی ڕاست
+split
+هێڵەکان دابەش بکە
+starts with
+strip
+swap case
+title
+"translate"
+"گەورە"
+zero fill
+append
+clear
+copy
+extend
+insert
+pop
+remove
+پێچەوانە
+sort
+لە کلیلەکانەوە
+get
+items
+کلیلەکان
+pop item
+set default
+update
+بەهاکان
+add
+جیاوازی
+difference update
+discard
+یەکتربڕین
+نوێکردنەوەی چوارچێوە
+is disjoint
+ژێرکۆمەڵە
+is superset
+جیاوازی سیمیتری
+نوێکردنەوەی جیاوازییە هاوسەنگەکان
+union
+close
+detach
+ژمارەی پەڕگە
+flush
+کارلێککارە
+read
+readable
+read line
+دێڕەکان بخوێنەرەوە
+seek
+seeable
+tell
+truncate
+writable
+بنووسە
+دێڕەکان بنووسە
+و
+as
+assert
+break
+class
+بەردەوام بە
+define
+delete
+else if
+else
+except
+هەڵە
+لە کۆتاییدا
+for
+from
+جیهانی
+if
+import
+in
+is
+lambda
+هیچ
+non-local
+نەخێر
+یان
+pass
+raise exception
+return
+ڕاستە
+try
+while
+لەگەڵ
+yield
+هەڵەی ژمێریاری
+assertion error
+هەڵەی تایبەتمەندی
+ئیستسناء
+end of file error
+هەڵەی خاڵی هەڵدەفڕێت
+generator exit
+هەڵەی هاوردەکردن
+indentation error
+index error
+key error
+keyboard interrupt
+هەڵەی گەڕان
+هەڵەی بیرگە
+name error
+هەڵەی جێبەجێ نەکراوە
+هەڵەی os
+overflow error
+هەڵەی ئاماژە
+هەڵەی کاتی جێبەجێکردن
+stop iteration
+هەڵەی ڕستەساز
+هەڵەی تاب
+system error
+system exit
+type error
+هەڵەی ناوخۆیی نەبەستراو
+unicode error
+هەڵەی کۆدکردنی یونیکۆد
+هەڵەی دیکۆدی یونیکۆد
+هەڵەی وەرگێڕانی یونیکۆد
+هەڵەی بەها
+هەڵەی دابەشکردنی سفر

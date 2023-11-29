@@ -1,0 +1,222 @@
+القيمة المطلقة
+الكل
+أي
+أسكي
+ثنائي
+بوليان
+مصفوفة بايت
+بايت
+قابل للاستدعاء
+حرف
+class method => طريقة الصنف
+compile => تجميع
+complex => معقد
+delete attribute => حذف السمة
+dictionary => قاموس
+directory => الدليل
+divide modulus => قسمة المودولس
+enumerate => تعداد
+evaluate => تقييم
+execute => تنفيذ
+filter => الفلتر
+floating point => نقطة عائمة
+format => التنسيق
+frozen set => مجموعة مجمدة
+get attribute => الحصول على السمة
+globals => العالميات
+has attribute => لديه السمة
+hash => هاش
+help => مساعدة
+hexadecimal => السداسي
+الهوية
+الإدخال
+الصحيح الصحيح
+هو سيءءء
+هو فرع من
+المشغل
+الطول
+القائمة
+المحليون
+الخريطة
+maximum => الحد الأقصى
+memory view => عرض الذاكرة
+minimum => الحد الأدنى
+next => التالي
+object => كائن
+octal => ثماني
+open => مفتوح
+ordinal => رتبي
+power => قوة
+print => طباعة
+property => خاصية
+range => نطاق
+represent => يمثل
+reversed => معكوس
+round => مستدير
+set => مجموعة
+set attribute => تعيين السمة
+slice => شريحة
+sorted => مرتب
+static method => طريقة ثابتة
+string => سلسلة
+summation => مجموع
+superset => مجموعة رئيسية
+tuple => توبل
+type => نوع
+variables => متغيرات
+zip => ضغط
+capitalize => التشكيل العلوي
+case fold => ضغط الحالة
+مركز.
+count => عد
+encode => ترميز
+ends with => ينتهي بـ
+expand tabs => توسيع الألسنة
+find => العثور على
+format map => خريطة التنسيق
+index => الفهرس
+is alphanumeric => هو أبجدي رقمي؟
+is alphabetic => هو أبجدي؟
+is ascii => هو ascii؟
+هو عشري
+هو رقم
+هو معرف
+هو حرف صغير
+هو رقمي
+هو قابل للطباعة
+هو فراغ
+هو عنوان
+هو حرف كبير
+انضم
+تحاذي اليسار
+أصغر
+قص اليسار
+عمل الترجمة
+تقسيم
+استبدال
+البحث العكسي
+فهرس عكسي
+تحاذي اليمين
+تقسيم اليمين
+right split => فصل يميني
+right strip => شريط يميني
+split => فصل
+split lines => فصل الأسطر
+starts with => يبدأ بـ
+strip => شريط
+swap case => تبديل الحالة
+title => عنوان
+translate => ترجمة
+uppercase => حروف كبيرة
+صفر ملء
+إلحاق
+واضح
+نسخ
+امتداد
+إدراج
+طرح
+إزالة
+عكس
+ترتيب
+from keys => من المفاتيح
+get => الحصول على
+items => العناصر
+keys => المفاتيح
+pop item => عنصر الانتقال
+set default => ضبط الافتراضي
+update => تحديث
+values => القيم
+add => إضافة
+difference => الفرق
+الفرق التحديث
+تجاهل
+التقاطع
+تحديث التقاطع
+هل هو متفرق؟
+هل هو جزء من؟
+هل هو مجموعة فرعية؟
+الاختلاف المتماثل
+تحديث الاختلاف المتماثل
+الاتحاد
+close => اغلاق
+detach => فصل
+file number => رقم الملف
+flush => تصفير
+is interactive => هو تفاعلي؟
+read => قراءة
+readable => قابل للقراءة
+read line => قراءة السطر
+read lines => قراءة الأسطر
+seek => البحث
+seekable => قابل للبحث
+tell => أخبر
+truncate => قص
+writable => قابل للكتابة
+write => كتابة
+write lines => كتابة الأسطر
+and => و
+as => كما
+assert => أكد
+break => كسر
+الصنف
+استمر
+حدد
+احذف
+وإلا إذا
+وإلا
+إلا
+خاطئ
+أخيراً
+لكي
+from => من
+global => عالمي
+if => لو
+import => استيراد
+in => في
+is => هو
+lambda => لامبدا
+none => لا شيء
+non-local => غير محلي
+not => ليس
+أو
+لا تحدث
+رفع استثناء
+إرجاع
+صحيح
+حاول
+بينما
+مع
+يعطي
+خطأ حسابي
+assertion error => خطأ التأكيد
+attribute error => خطأ السمة
+exception => استثناء
+end of file error => خطأ نهاية الملف
+floating point error => خطأ نقطة تطابق
+generator exit => خروج المولد
+import error => خطأ الاستيراد
+indentation error => خطأ المسافة
+index error => خطأ الفهرس
+key error => خطأ المفتاح
+فصل المفاتيح
+خطأ البحث
+خطأ الذاكرة
+خطأ الاسم
+خطأ غير منفذ
+خطأ النظام
+خطأ الحدوث
+خطأ المرجع
+خطأ التشغيل
+توقف التكرار
+خطأ لغوي
+خطأ الجدول
+خطأ نظام
+خروج النظام
+خطأ نوع
+خطأ محلي غير محدد
+خطأ يونيكود
+خطأ ترميز يونيكود
+خطأ فك ترميز يونيكود
+خطأ ترجمة يونيكود
+خطأ قيمة
+خطأ تقسيم الصفر

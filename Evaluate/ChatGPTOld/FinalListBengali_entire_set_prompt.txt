@@ -1,0 +1,222 @@
+absolute value => পরম মান
+all => সমস্ত
+any => যেকোনো
+ascii => এসক্যি
+binary => বাইনারি
+boolean => বুলিয়ান
+byte array => বাইট অ্যারে
+bytes => বাইটস
+callable => কলেব্ল
+character => অক্ষর
+ক্লাস মেথড
+কম্পাইল
+কম্প্লেক্স
+অ্যাট্রিবিউট মুছে দিন
+ডিকশনারী
+ডিরেক্টরি
+ভাগ মডুলাস
+এনুমেরেট
+মূল্যায়ন করুন
+এক্সিকিউট
+ফিল্টার
+ফ্লোটিং পয়েন্ট
+ফর্ম্যাট
+ফ্রোজেন সেট
+গেট এট্রিবিউট
+গ্লোবালস
+হাজ এট্রিবিউট
+হ্যাশ
+হেল্প
+হেক্সাডেসিম্যাল
+identity => আত্মবিশ্বাস
+input => ইনপুট
+integer => পূর্ণসংখ্যা
+is instance => হল একটি উদাহরণ
+is subclass => হল উপশ্রেণী
+iterator => ইটারেটর
+length => দৈর্ঘ্য
+list => তালিকা
+locals => স্থানীয়
+map => মানচিত্র
+maximum => সর্বোচ্চ
+memory view => মেমোরি ভিউ
+minimum => সর্বনিম্ন
+next => পরবর্তী
+object => অবজেক্ট
+octal => অষ্টমীকিং
+open => খুলুন
+ordinal => অনুক্রমিক
+power => শক্তি
+print => প্রিন্ট
+property => সম্পত্তি
+range => পরিসীমা
+represent => প্রতিনিধিত্ব করা
+reversed => উল্টিত
+round => গোল
+set => সেট
+set attribute => সেট আর্গুমেন্ট
+slice => স্লাইস
+sorted => সাজানো
+static method => স্ট্যাটিক মেথড
+string => স্ট্রিং
+summation => যোগফল
+superset => সুপারসেট
+tuple => টুপল
+type => টাইপ
+variables => ভ্যারিয়েবল
+zip => জিপ
+capitalize => ক্যাপিটালাইজ
+case fold => কেস ফোল্ড
+center => সেন্টার
+গণনা
+এনকোড
+শেষসহ
+ট্যাব সম্প্রসারণ
+খুঁজুন
+ফর্ম্যাট ম্যাপ
+সূচক
+আল্ফানিমারী
+আল্ফাবেটিক
+এসকিআই
+is decimal => সংখ্যার সমান
+is digit => সংখ্যা হলে
+is identifier => আইডেনটিফায়ার
+is lower => কম
+is numeric => সংখ্যাসূচক
+is printable => প্রিন্টেবল
+is space => স্পেস
+is title => শিরোনাম
+is uppercase => উচ্চক্ষর
+join => যোগ করুন
+left justify => বামে স্বার্থবান করুন
+lower => কম
+left strip => বাম স্ট্রিপ
+make translation => অনুবাদ করুন
+partition => ভাগ
+replace => প্রতিস্থাপন করুন
+reverse find => উল্টো খুঁজুন
+reverse index => উল্টো সূচক
+right justify => ডানে স্বার্থবান করুন
+right partition => ডান ভাগ
+right split => ডান ভাগ করুন
+right strip => ডান স্ট্রিপ
+split => ভাগ করুন
+split lines => লাইন ভাগ করুন
+starts with => দিয়ে শুরু করুন
+strip => স্ট্রিপ
+swap case => কেস স্বাদিষ্ট করুন
+title => শিরোনাম
+translate => অনুবাদ করুন
+uppercase => উপরের কেস
+শূন্য পূরণ
+যোগ করা
+পরিষ্কার
+অনুলিপি
+বিস্তার করা
+প্রবেশ করা
+পপ
+অপসারণ
+প্রতিবর্তন
+সাজান
+from keys => কীগুলি থেকে
+get => পেতে
+items => আইটেম
+keys => কী
+pop item => আইটেম পপ
+set default => ডিফল্ট সেট
+update => আপডেট
+values => মান
+add => যোগ করুন
+difference => পার্থক্য
+difference update => পার্থক্য আপডেট করুন
+discard => প্রত্যাখ্যান করুন
+intersection => অংশগুলোর মিলিত অংশ
+intersection update => অংশ আপডেট করুন
+is disjoint => অসম্পৃক্ত আছে
+is subset => উপসমূহ
+is superset => সুপারসেট
+symmetric difference => সমন্বয় পার্থক্য
+symmetric difference update => সমন্বয় পার্থক্য আপডেট করুন
+union => যুক্তি
+বন্ধ করুন
+অপসারণ করুন
+ফাইল সংখ্যা
+ফ্লাশ
+আচ্ছাদিত কি
+পড়ুন
+পড়তে পারে
+লাইন পড়ুন
+লাইন গুলি পড়ুন
+খুঁজুন
+seekable => সীকেবল
+tell => বলুন
+truncate => ট্রাঙ্কেট
+writable => লিখতে পারে
+write => লিখুন
+write lines => লাইন লিখুন
+and => এবং
+as => যেমন
+assert => আশঙ্কা করুন
+break => ভঙ্গ
+ক্লাস
+চালিয়ে যাও
+সংজ্ঞায়িত করুন
+মুছে ফেলুন
+আর যদি
+আর না
+বাদ দিতে
+মিথ্যা
+চলুন
+জন্য
+desde
+global
+si
+importar
+en
+es
+lambda
+ninguno
+no local
+no
+or => অথবা
+pass => পাস
+raise exception => ব্যতিক্রম উদ্ধার করুন
+return => ফিরে আসুন
+true => সত্য
+try => চেষ্টা করুন
+while => যতক্ষণ
+with => সহ
+yield => উত্পাদন
+arithmetic error => গণিত ত্রুটি
+assertion error => অসের্শন ত্রুটি
+attribute error => বৈশিষ্ট্য ত্রুটি
+exception => বিপত্তি
+end of file error => ফাইলের শেষ ত্রুটি
+floating point error => ফ্লোটিং পয়েন্ট ত্রুটি
+generator exit => জেনারেটর বাহির
+import error => আমদানি ত্রুটি
+indentation error => আইনগতিকতা ত্রুটি
+index error => সূচক ত্রুটি
+key error => কী ত্রুটি
+interrupción de teclado => কীবোর্ড বাদ দিন
+error de búsqueda => লুকআপ ত্রুটি
+error de memoria => মেমোরী ত্রুটি
+error de nombre => নাম ত্রুটি
+error de no implementación => অনুবাদ করা হয়নি
+error del sistema operativo => অপারেটিং সিস্টেম ত্রুটি
+error de desbordamiento => অতিরিক্ত ত্রুটি
+error de referencia => রেফারেন্স ত্রুটি
+error de tiempo de ejecución => রানটাইম ত্রুটি
+detener iteración => আইটারেশন বন্ধ করুন
+সিনট্যাক্স ত্রুটি
+ট্যাব ত্রুটি
+সিস্টেম ত্রুটি
+সিস্টেম এক্সিট
+টাইপ ত্রুটি
+অবাধ্য স্থানীয় ত্রুটি
+ইউনিকোড ত্রুটি
+ইউনিকোড এনকোড ত্রুটি
+ইউনিকোড ডিকোড ত্রুটি
+ইউনিকোড ট্রান্সলেট ত্রুটি
+ভ্যালু এরর
+শূন্য ভাগশেষ এরর

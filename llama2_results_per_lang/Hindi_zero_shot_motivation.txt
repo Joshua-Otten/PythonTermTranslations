@@ -1,0 +1,313 @@
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Absolute value - स्पर्श मान (Sparsh Maan)
+2. All - सभी (Sabhi)
+3. Any - कोभी (Koi Bhii)
+4. ASCII - ASCII कódigo (ASCIi Kod)
+5. Binary - बैनेरी (Baineri)
+6. Boolean - 布尔 (Bolar)
+7. Byte array - बा अरे (Byte Aray)
+8. Bytes - बा (Bytes)
+9. Callable - क कर्मचारि (Call Karma Char)
+10. Character - चरैक्टर (Charakter)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Class method: क्लास मेथड (Klaas Mehtod)
+2. Compile: संपिल करना (SamPIl Karna)
+3. Complex: जटिल (Jatil)
+4. Delete attribute: आत्रिव संपादन हटाना (Atriv Sampadan Hataana)
+5. Dictionary: शब्दकोश (Shabdkosh)
+6. Directory: अनुप्रयोग (Anuprayog)
+7. Divide modulus: संख्या मैदान समना (Sankhya Maidan Samajhana)
+8. Enumerate: सूची बनाना (Suchi Banana)
+9. Evaluate: मापना करना (Mapnana Karna)
+10. Execute: कार्य करना (Kaary Karna)
+
+I hope these translations are helpful for your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Filter - ल्टर (philtera)
+2. Floating Point - मावदांचा (gumavadancaha)
+3. Format - संरखन (sankrana)
+4. Frozen Set - मोज़े (moje)
+5. Get Attribute - परिभाषा की गति (paribhasha ki gati)
+6. Globals - वैश्विक (vaishvik)
+7. Has Attribute - संपत्ति (samaptti)
+8. Hash - हेश (heash)
+9. Help - सहायता (sahayata)
+10. Hexadecimal - हेक्सडेकाअल (heksudekanal)
+
+I hope this helps you in your effort to translate Python keywords into Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Identity - आसमी (aasmi)
+2. Input - पुट (input)
+3. Integer - संख्या (saankhyaa)
+4. Is instance - क्रिया का ाहरण है (kriya ka udaaharan hai)
+5. Is subclass - सब्लास करता है (sablaas karata hai)
+6. Iterator - SPython का ाहरण है (ekSPython ka udaaharan hai)
+7. Length - लम्बा(lambai)
+8. List - सूची (soochi)
+9. Locals - स्थानी (sthaanee)
+10. Map - नक्शा (naksha)
+
+I hope this helps you in your project of translating Python terms into Hindi! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Maximum - सबसे अधिक
+2. Memory View - मेमोरी व्यू
+3. Minimum - सबसे निम्न
+4. Next - आगामी
+5. Object - ्यां
+6. Octal - आ
+7. Open - खुला
+8. Ordinal - प्रतिष्
+9. Power - शक्ति
+10. Print - प्रिント
+
+I hope this helps you in your effort to make programming more accessible to people who speak Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Property - संपत्ति (samaptti)
+2. Range - सीमा (seema)
+3. Represent - प्रतिनिधि (pratinihhi)
+4. Reversed - पलटेकर (paltekar)
+5. Round - ्च (uchch)
+6. Set - समूह (samuuh)
+7. Set attribute - समूह का गुण (samuuh ka gun)
+8. Slice - ट (chhot)
+9. Sorted - सज्जिल (sajjil)
+10. Static method - स्थायी विधि (sthaayi vidhi)
+
+I hope this helps you in your effort to make programming more accessible to people who speak Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* String: स्ट्रिंग (sttring)
+* Summation: समाहार (samāhār)
+* Superset: सुपर्सेट (superset)
+* Tuple: टुपल (ṭupal)
+* Type: टा (tāip)
+* Variables: वैयABLE (vaitiable)
+* Zip: ज़िप (zip)
+* Capitalize: कैपिटला (kaipitlāiz)
+* Case fold: केस ल्ड (kesu phōld)
+* Center: सेन्टर (sentar)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Count - गिनती (Ginati)
+2. Encode - संकोड़ (Sankodh)
+3. Ends with - से अंत में (Se Anta Mein)
+4. Expand tabs - टैब्स को विस्तार करें (Tabs Ko Vistaar Karen)
+5. Find - खोज (Khoj)
+6. Format map - माप को ォーमेट करें (Map Ko Foormet Karen)
+7. Index - आ्डेक्स (Aaindex)
+8. Is alphanumeric - अल्बेत संख्या (Alfabet Sankhya)
+9. Is alphabetic - अल्बेत (Alfabet)
+10. Is ASCII - ASCII है (ASCIi Hai)
+
+I hope this helps you in your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* is decimal: संख्या (saṃkhyā)
+* is digit: े (auke)
+* is identifier: पहचान (pahcān)
+* is lower: लो (lo)
+* is numeric: संख्यात्मक (saṃkhyātmk)
+* is printable: ai (chhapAI)
+* is space: अंतर (antar)
+* is title: शीर्ष (śīrṣ)
+* is uppercase: ्च (ucc)
+* join: जुड़ाव (jūṛāv)
+
+I hope this helps you in your effort to make Python more accessible to Hindi speakers!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Hindi:
+
+1. Left justify: बासंश्रुति (Baai Sanshruti)
+2. Lower: नीचे (Niche)
+3. Left strip: बापटकář (Baai Patkar)
+4. Make translation: अनुवाद करना (Anuvad Karna)
+5. Partition: भागों का आदान (Bhagon Ka Aadaan)
+6. Replace: स्थिति अस्थिर करना (Sthiti Asthiir Karna)
+7. Reverse find: पariochk में खोज रा (Pairochk Mein Khoj Fira)
+8. Reverse index: पariochk में सूचकांक रा (Pairochk Mein Soochikaank Fira)
+9. Right justify: दाये संश्रुति (Daye Sanshruti)
+10. Right partition: दाये भागों का आदान (Daye Bhagon Ka Aadaan)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Right split - दायें स्प्लिट (Dayaen Split)
+2. Right strip - दायें स्ट्रीप (Dayaen Strip)
+3. Split - स्प्लिट (Split)
+4. Split lines - स्प्लिट ला्स (Split Lines)
+5. Starts with - से शुरू होता है (Se Shuru Hota Hai)
+6. Strip - स्ट्रीप (Strip)
+7. Swap case - केस  समय स्वाप करें (Kese Ek Samay Swap Karen)
+8. Title - शीर्ष (Shirsh)
+9. Translate - अनुवाद करना (Anuvad Karna)
+10. Uppercase - र केस (Upar Case)
+
+I hope this helps you in your project of translating Python keywords into Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Hindi:
+
+1. Zero fill: स्थिर िल (Sthir Phill)
+2. Append: संग्रह (Sangraha)
+3. Clear: सा करें (Saaf Karein)
+4. Copy: कपी (Kopi)
+5. Extend: विस्तार (Vistaar)
+6. Insert: संयोजन (Samyojan)
+7. Pop: बाहर निकाले (Bahar Nikaale)
+8. Remove: हटाना (Hataana)
+9. Reverse: पalsu (PalSU)
+10. Sort: सorte (SorTe)
+
+I hope this helps you in your effort to make coding more accessible to people who speak Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* "from" = से (se)
+* "keys" = कीज (kise)
+* "get" = प्राप्त (prāpt)
+* "items" = आम्स (āitams)
+* "pop item" = खाना निकालें (khānā nikālen)
+* "set default" = डिLTijdantenna (difLTijd antenna)
+* "update" = अपदेश (apadeś)
+* "values" = मーत्र (mētr)
+* "add" = संयोजित (saṃyojit)
+* "difference" = अंतर (antara)
+
+I hope this helps you with your project! Let me know if you have any further questions or need any more assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Hindi:
+
+1. Difference update: अंतराला अपडेट (AntralA Update)
+2. Discard: ड़ना (Chhorhna)
+3. Intersection: सम्मिश्रण (SamMisraNaa)
+4. Intersection update: सम्मिश्रण अपडेट (SamMisraNaa Update)
+5. Is disjoint: अलग-अलग है (Alag-Alag Hai)
+6. Is subset:  सबसे है (Ek Subset Hai)
+7. Is superset:  सुपरसे है (Ek Superset Hai)
+8. Symmetric difference: समानुपात अंतर (Samaanupaat Antar)
+9. Symmetric difference update: समानुपात अंतर अपडेट (Samaanupaat Antar Update)
+10. Union: संयोजन (SaNyojan)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Hindi:
+
+1. Close - समाप्त (samapt)
+2. Detach - अलग (alag)
+3. File number - ा का नंबर (phail ka number)
+4. Flush - धेensa (dhensa)
+5. Is interactive - संभावित आ(sambhavit aai)
+6. Read - पना (padhna)
+7. Readable - पने योग्य (padhne yogya)
+8. Read line - पना ला (padhna laain)
+9. Read lines - पने लाे (padhne laine)
+10. Seek - खोज करना (khoj karna)
+
+I hope these translations are helpful for your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Seekable - स्ट्रिंग (striing)
+2. Tell - कहना (kahana)
+3. Truncate - अंतमान (antimAn)
+4. Writable - लेखनी (lekhani)
+5. Write - लिखना (likhna)
+6. Write Lines - लिखना लिों के साथ (likhna liinon ke saath)
+7. And -  Aur (aur)
+8. Assert - सुदाहâr (sudhaahar)
+9. Break - ब्रेक (break)
+
+I hope this helps you in your effort to make Python more accessible to Hindi speakers!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* Class: क्लास (Klaas)
+* Continue: जारी रखना (Jaari Rakhnah)
+* Define: संबोधित करना (Sambodhita Karna)
+* Delete: मिटा करना (Mita Karna)
+* Else if:  के लियदि (Us Ke Liye Yadi)
+* Else: अन्य हालात (Any Halat)
+* Except: चार करना (Aupchaar Karna)
+* False: ्स्ट (Firast)
+* Finally: आखरी रूप में (Aakhri Rup Mein)
+* For: कभी न कभी (Kabhi Na Kabhi)
+
+I hope this helps you in your effort to translate Python's key terms into Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* from: से (se)
+* global: विश्व (vishv)
+* if: यदि (yadi)
+* import: आयात (ayat)
+* in: में (men)
+* is: है (hai)
+* lambda: लाмбダ (lamba)
+* None: को(koi)
+* non-local: अन्य काना (anya thikana)
+* not: नहीं (nahin)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+* or: या (ya)
+* pass: संप्रेषित (sampréṣit)
+* raise exception: ्सेप्शन ना (eksepshṇa uthānā)
+* return: ल वrat (laghu vrat)
+* True: सच (sach)
+* try: कoshish करना (kōśiṣh karnā)
+* while: र्मान (phirmaan)
+* with: साथ (saath)
+* yield: आवेदन (āvedan)
+* Arithmetic Error: आरिथमेटिक गलती (ārithmētik galatī)
+
+I hope this helps you in your effort to make Python more accessible to Hindi speakers!
+ I'm happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Assertion Error - अवलोकन ्रोर (Avalokan Erro)
+2. Attribute Error - संपत्ति ्रोर (Sampatti Erro)
+3. Exception - ्सेपशन (Eksepshan)
+4. End Of File Error -  के अंत में ्रोर (File Ke Ant Mein Erro)
+5. Floating Point Error - लוटिंग पट ्रोर (Floating Point Erro)
+6. Generator Exit - जेनेरेटर ्सिट (Generator Exit)
+7. Import Error - आयात ्रोर (Ayat Erro)
+8. Indentation Error - अनुच्द ्रोर (Anuchched Erro)
+9. Index Error - आक्स ्रोर (Index Erro)
+10. Key Error - कीस ्रोर (Key Erro)
+
+I hope this helps you in your project of translating Python keywords into Hindi!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Hindi:
+
+1. Keyboard Interrupt - कीबोर्ड अनुमति संवेदनशी (Keyboard Anumati Sambhavshali)
+2. Lookup Error - लुकअप र (Lookup Arora)
+3. Memory Error - मेमोरी अनुमति संवेदनशी (Memory Anumati Sambhavshali)
+4. Name Error - नाम र (Name Arora)
+5. Not Implemented Error - नहीं लागू किया जाता है (Not Implemented Arora)
+6. OS Error -  र (OS Arora)
+7. Overflow Error - आधार भ्रषा अनुमति संवेदनशी (Overflow Anumati Sambhavshali)
+8. Reference Error - रेेंस र (Reference Arora)
+9. Runtime Error - टा रन अनुमति संवेदनशी (Runtime Anumati Sambhavshali)
+10. Stop Iteration - रेशन का अनुमति संवेदनशी (Stop Iteration Anumati Sambhavshali)
+
+I hope these translations are helpful to you! Let me know if you have any further questions or need any additional assistance.
+ I'm happy to help you with that! Here are the translations of the Python key terms you provided into Hindi:
+
+1. Syntax Error - संवर्ण अशिष्ट त्रुटि (Sanchalan Ashisht Truti)
+2. Tab Error - टैब अशिष्ट त्रुटि (Tab Ashisht Truti)
+3. System Error - प्रणाली अशिष्ट त्रुटि (Pranali Ashisht Truti)
+4. System Exit - प्रणाली निकास (Pranali Nikas)
+5. Type Error - प्रकार अशिष्ट त्रुटि (Prakar Ashisht Truti)
+6. Unbound Local Error - आअशिष्ट त्रुटि (Aap Ashisht Truti)
+7. Unicode Error - यूनिकोड अशिष्ट त्रुटि (Unicode Ashisht Truti)
+8. Unicode Encode Error - यूनिकोड कोडिंग अशिष्ट त्रुटि (Unicode Koding Ashisht Truti)
+9. Unicode Decode Error - यूनिकोड देखभाड़ अशिष्ट त्रुटि (Unicode Dekhabhaari Ashisht Truti)
+10. Unicode Translate Error - यूनिकोड अनुवाद अशिष्ट त्रुटि (Unicode Anuvad Ashisht Truti)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the two terms you provided into Hindi:
+
+1. Value Error: मानता कर्मियों का अड़ (Mantra Karmyon Ka Adhikaar)
+2. Zero Division Error: शून Neu number Anekānt (Shunya Neu Number Ankahi)
+
+I hope this helps! Let me know if you need anything else translated.

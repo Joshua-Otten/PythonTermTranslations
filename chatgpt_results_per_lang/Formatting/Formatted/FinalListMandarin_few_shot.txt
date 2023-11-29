@@ -1,0 +1,222 @@
+绝对值
+全部
+任何
+ascii
+二进制
+布尔
+字节数组
+字节
+可调用
+字符
+class method
+compile
+complex
+delete attribute
+dictionary
+directory
+divide modulus
+enumerate
+evaluate
+execute
+过滤
+浮点
+格式
+冻结集合
+获取属性
+全局
+具有属性
+散列
+帮助
+十六进制
+身份
+输入
+整数
+是实例
+是子类
+迭代器
+长度
+列表
+本地
+映射
+maximum => 最大值
+memory view => 内存视图
+minimum => 最小值
+next => 下一个
+object => 对象
+octal => 八进制
+open => 打开
+ordinal => 序数
+power => 次方
+print => 打印
+property => 属性
+range => 范围
+represent => 表示
+reversed => 反转
+round => 四舍五入
+set => 集合
+set attribute => 设置属性
+slice => 切片
+sorted => 排序
+static method => 静态方法
+字符串
+求和
+超集
+元组
+类型
+变量
+压缩
+大写
+大小写折叠
+居中
+count => 计数
+encode => 编码
+ends with => 以...结尾
+expand tabs => 展开制表符
+find => 查找
+format map => 格式映射
+index => 索引
+is alphanumeric => 是字母数字
+is alphabetic => 是字母
+is ascii => 是ascii
+是小数
+是数字
+是标识符
+是小写
+是数字
+是可打印的
+是空格
+是标题
+是大写
+连接
+left justify => 左对齐
+lower => 转换为小写
+left strip => 左侧去除空格
+make translation => 做翻译
+partition => 分割
+replace => 替换
+reverse find => 反向查找
+reverse index => 反向索引
+right justify => 右对齐
+right partition => 右分割
+从右分割
+从右去除
+分割
+分行
+以...开头
+去除
+大小写互换
+首字母大写
+翻译
+大写
+零填充
+追加
+清除
+复制
+扩展
+插入
+弹出
+删除
+反转
+排序
+从键
+获取
+项目
+键
+弹出项
+设置默认
+更新
+值
+添加
+差异
+difference update => 差集更新
+discard => 丢弃
+intersection => 交集
+intersection update => 交集更新
+is disjoint => 是否不相交
+is subset => 是否是子集
+is superset => 是否是超集
+symmetric difference => 对称差集
+symmetric difference update => 对称差集更新
+union => 并集
+关闭
+分离
+文件号
+刷新
+是否交互
+读取
+可读
+读取行
+读取行数
+搜索
+可搜索
+告知
+截断
+可写
+写
+写行
+和
+作为
+断言
+中断
+class => 类
+continue => 继续
+define => 定义
+delete => 删除
+else if => 否则如果
+else => 否则
+except => 除外
+false => 假
+finally => 最终
+for => 对于
+从
+全局
+如果
+导入
+在
+是
+匿名函数
+无
+非局部
+不
+或者
+通过
+抛出异常
+返回
+真
+尝试
+当
+使用
+产出
+算术错误
+assertion error => 断言错误
+attribute error => 属性错误
+exception => 异常
+end of file error => 文件结束错误
+floating point error => 浮点数错误
+generator exit => 生成器退出
+import error => 导入错误
+indentation error => 缩进错误
+index error => 索引错误
+key error => 键错误
+keyboard interrupt
+lookup error
+memory error
+name error
+not implemented error
+os error
+overflow error
+reference error
+runtime error
+stop iteration
+语法错误
+制表错误
+系统错误
+系统退出
+类型错误
+未绑定本地错误
+unicode错误
+unicode编码错误
+unicode解码错误
+unicode转换错误
+值错误
+零除错误

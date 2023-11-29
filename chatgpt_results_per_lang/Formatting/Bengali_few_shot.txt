@@ -1,0 +1,87 @@
+, class, code, complex, comprehension, dict, exception, float, format, function, generator, iterable, list, module, object, open, range, set, slice, string, tuple.
+
+Absolute Value => নিরপেক্ষ মান, All => সব, Any => যেকোন, ASCII => এসকিউআই, Binary => দ্বিতীয়, Boolean => বুলিয়ান, Byte Array => বাইট অ্যারে, Bytes => বাইট, Callable => কলেবল, Character => অক্ষর, Class => ক্লাস, Code => কোড, Complex => জ্ঞানীয়, Comprehension => বুঝন, Dict => ডিক্শনারি, Exception => ব্যতীত, Float => ফ্লোট, Format => ফর্ম্যাট, Function => ফাংশন, Generator => জেনারেটর, Iterable => আইটারেবল, List => তালিকা, Module => মডিউল, Object => অবজেক্ট, Open => খোলা, Range => পরিসীমা, Set => সেট, Slice => স্লাইস, String => স্ট্রিং, Tuple => টুপল.
+, float, function, global, input, list, module, operator, range, set, slice, string, tuple.
+
+Class method => ক্লাস পদ্ধতি, Compile => কম্পাইল, Complex => কম্প্লেক্স, Delete attribute => বৈশিষ্ট্য মুছুন, Dictionary => অভিধান, Directory => ডিরেক্টরি, Divide modulus => ভাগ মডুলাস, Enumerate => তালিকাভুক্ত করা, Evaluate => মূল্যায়ন করা, Execute => সম্পাদন করা, Float => পদার্থ, Function => ফাংশন, Global => গ্লোবাল, Input => ইনপুট, List => তালিকা, Module => মডিউল, Operator => অপারেটর, Range => পরিসীমা, Set => সেট, Slice => স্লাইস, String => স্ট্রিং, Tuple => টুপল.
+.
+
+Filter => ফিল্টার, Floating Point => ফ্লোটিং পয়েন্ট, Format => ফর্ম্যাট, Frozen Set => ফ্রোজেন সেট, Get Attribute => এট্রিবিউট পাওয়া, Globals => গ্লোবাল, Has Attribute => হ্যাস এট্রিবিউট, Hash => হ্যাশ, Help => সহায়তা, Hexadecimal => হেক্সাডেসিম্যাল.
+.
+
+Identity => পরিচয়, Input => ইনপুট, Integer => পূর্ণসংখ্যা, Is Instance => এর অবজেক্ট, Is Subclass => এর উপজাতি, Iterator => অ্যাকসেসর, Length => দৈর্ঘ্য, List => তালিকা, Locals => স্থানীয়, Map => ম্যাপ.
+.
+
+Maximum => সর্বোচ্চ, Memory View => স্মৃতি_দৃশ্য, Minimum => সর্বনিম্ন, Next => পরবর্তী, Object => বস্তু, Octal => আটকেল, Open => খোলা, Ordinal => অনুক্রমিক, Power => শক্তি, Print => প্রিন্ট
+.
+
+Property => গুণ, Range => পরিসীমা, Represent => প্রতিনিধিত্ব করা, Reversed => উল্টানো, Round => গোণাঙ্কিত, Set => সেট, Set Attribute => গুণ স্থাপন করা, Slice => কাটা, Sorted => ক্রমবদ্ধ, Static Method => স্থির পদ্ধতি.
+.
+
+String => স্ট্রিং, Summation => যোগফল, Superset => সুপারসেট, Tuple => টুপল, Type => টাইপ, Variables => ভেরিয়েবল, Zip => জিপ, Capitalize => ক্যাপিটালাইজ, Case Fold => কেস ফোল্ড, Center => সেন্টার.
+, is decimal, is digit, is lower, is numeric, is upper.
+
+count => গণনা, encode => এনকোড, ends with => শেষ হয়, expand tabs => ট্যাব সম্প্রসারণ, find => খুঁজুন, format map => ফর্ম্যাট ম্যাপ, index => সূচক, is alphanumeric => অক্ষর-সংখ্যার হয়, is alphabetic => অক্ষরাদির হয়, is ascii => এএসসিআই হয়, is decimal => দশমিকের হয়, is digit => সংখ্যার হয়, is lower => নিম্নলিখিত হয়, is numeric => সংখ্যাগত হয়, is upper => উচ্চলিখিত হয়.
+.
+
+is decimal => ডেসিমেল হয়, 
+is digit => সংখ্যা হয়, 
+is identifier => আইডেনটিফায়ার হয়, 
+is lower => কম হয়, 
+is numeric => সংখ্যায়িত হয়, 
+is printable => প্রিন্ট করা যাবে, 
+is space => স্পেস হয়, 
+is title => শিরোনাম হয়, 
+is uppercase => উপরের হয়, 
+join => যোগ করুন.
+.
+
+Left Justify => বামে স্থির করুন, Lower => কম, Left Strip => বাম স্ট্রিপ, Make Translation => অনুবাদ করুন, Partition => ভাগ করুন, Replace => প্রতিস্থাপন করুন, Reverse Find => উল্টো খুঁজুন, Reverse Index => উল্টো সূচক, Right Justify => ডানে স্থির করুন, Right Partition => ডান ভাগ করুন.
+.
+
+right split => ডান বিভাজন, right strip => ডান স্ট্রিপ, split => বিভাজন, split lines => লাইন বিভাজন, starts with => শুরুর সাথে, strip => স্ট্রিপ, swap case => কেস স্বাদেশ, title => শিরোনাম, translate => অনুবাদ, uppercase => বড় হাতের অক্ষর.
+.
+
+Zero fill => শূন্য ফিল, Append => যোগ করা, Clear => সাফ করা, Copy => অনুলিপি, Extend => বহাল করা, Insert => প্রবেশ করা, Pop => আউট করা, Remove => অপসারণ করা, Reverse => উল্টান, Sort => সাজান.
+
+
+From keys => কীওয়ার্ড থেকে,
+Get => পাওয়া,
+Items => আইটেমস,
+Keys => কীওয়ার্ড,
+Pop item => আইটেম পপ,
+Set default => ডিফল্ট সেট করুন,
+Update => আপডেট,
+Values => মান,
+Add => যোগ করুন,
+Difference => পার্থক্য.
+.
+
+difference update => পার্থক্য আপডেট, discard => বাতিল, intersection => অন্তর, intersection update => অন্তর আপডেট, is disjoint => পৃথক, is subset => উপসেট, is superset => সুপারসেট, symmetric difference => সমতলীয় পার্থক্য, symmetric difference update => সমতলীয় পার্থক্য আপডেট, union => যুক্তি.
+, tell, truncate, write.
+
+Close => বন্ধ করুন, Detach => অপসারণ করুন, File Number => ফাইল নম্বর, Flush => ফ্লাশ করুন, Is Interactive => আন্তরিক কি, Read => পড়ুন, Readable => পঠনযোগ্য, Read Line => লাইন পড়ুন, Read Lines => লাইন গুলি পড়ুন, Seek => অনুসন্ধান করুন, Tell => বলুন, Truncate => কাটান, Write => লিখুন.
+.
+
+seekable => खोजनीय, tell => बताना, truncate => कम करना, writable => लिखने योग्य, write => लिखें, write lines => लाइनों को लिखें, and => और, as => के रूप में, assert => दावा करना, break => तोड़ना.
+, from.
+
+Class => ক্লাস, Continue => চালিয়ে যান, Define => নির্ধারণ, Delete => মুছে ফেলুন, Else If => অন্যথায় যদি, Else => অন্যথায়, Except => বিশেষ করে, False => মিথ্যা, Finally => শেষ করে, For => জন্য, From => হইতে.
+, or, pass, raise, return, True, while.
+
+from => হইতে, global => গ্লোবাল, if => যদি, import => আমদানি, in => মধ্যে, is => হইবে, lambda => ল্যাম্বডা, None => কিছুই না, non-local => অ-স্থানীয়, not => না, or => অথবা, pass => পাস, raise => উঠিয়াওয়া, return => ফিরে আসা, True => সত্য, while => যখন.
+.
+
+or => অথবা, pass => পাস, raise exception => বিরুদ্ধে অপব্যাপ্তি উঠাও, return => ফিরে আসুন, True => সত্য, try => চেষ্টা করুন, while => যখন, with => সঙ্গে, yield => প্রদান, Arithmetic Error => গণিত ত্রুটি.
+.
+
+Assertion Error => নিশ্চিতকরণ ত্রুটি, Attribute Error => বৈশিষ্ট্য ত্রুটি, Exception => বিপত্তি, End Of File Error => ফাইলের শেষ ত্রুটি, Floating Point Error => ফ্লোটিং পয়েন্ট ত্রুটি, Generator Exit => জেনারেটর বাহির, Import Error => আমদানি ত্রুটি, Indentation Error => আওতাভুক্তি ত্রুটি, Index Error => সূচী ত্রুটি, Key Error => কী ত্রুটি.
+, Type Error.
+
+Keyboard Interrupt => কীবোর্ড বিরতি, Lookup Error => লুকআপ ত্রুটি, Memory Error => মেমরি ত্রুটি, Name Error => নাম ত্রুটি, Not Implemented Error => অসমর্থিত ত্রুটি, OS Error => অপারেটিং সিস্টেম ত্রুটি, Overflow Error => অতিরিক্ত ত্রুটি, Reference Error => রেফারেন্স ত্রুটি, Runtime Error => রানটাইম ত্রুটি, Stop Iteration => আইটারেশন বন্ধ করুন, Type Error => টাইপ ত্রুটি.
+
+
+Syntax Error => বাক্যগঠন ত্রুটি, Tab Error => ট্যাব ত্রুটি, System Error => সিস্টেম ত্রুটি, System Exit => সিস্টেম বাহির, Type Error => টাইপ ত্রুটি, Unbound Local Error => অবর্ণিত স্থানীয় ত্রুটি, Unicode Error => ইউনিকোড ত্রুটি, Unicode Encode Error => ইউনিকোড এনকোড ত্রুটি, Unicode Decode Error => ইউনিকোড ডিকোড ত্রুটি, Unicode Translate Error => ইউনিকোড অনুবাদ ত্রুটি.
+, List, Tuple
+
+Value Error => মান ত্রুটি, Zero Division Error => শূন্য ভাগ ত্রুটি, List => তালিকা, Tuple => টুপল.

@@ -1,0 +1,222 @@
+valeur absolue
+all
+any
+ascii
+binaire
+booléen
+tableau d'octets
+bytes
+callable
+caractère
+méthode de classe
+compile
+complexe
+supprimer l'attribut
+dictionnaire
+répertoire
+module de division
+enumerate
+évaluer
+execute
+filtre
+virgule flottante
+format
+ensemble gelé
+get attribut
+globals
+a un attribut
+hash
+help
+hexadécimal
+identity
+entrée
+entier
+est une instance
+est une sous-classe
+iterator
+length
+list
+locals
+map
+maximum
+vue mémoire
+minimum
+suivant
+object
+octal
+open
+ordinal
+puissance
+print
+propriété
+range
+represent
+reversed
+round
+set
+set attribute
+tranche
+trié
+méthode statique
+string
+sommation
+superset
+tuple
+type
+variables
+zip
+capitaliser
+case fold
+center
+count
+encode
+se termine par
+développer les onglets
+find
+carte de format
+index
+est alphanumérique
+est alphabétique
+is ascii
+est décimal
+est un chiffre
+est un identifiant
+is lower
+est numérique
+est imprimable
+est un espace
+est le titre
+est en majuscule
+join
+justification à gauche
+lower
+bande de gauche
+make translation
+partition
+remplacer
+recherche inversée
+index inversé
+justification à droite
+partition droite
+fractionnement à droite
+bandeau droit
+split
+diviser les lignes
+commence par
+strip
+swap case
+title
+translate
+majuscule
+zéro fill
+append
+clear
+copie
+extend
+insert
+pop
+remove
+reverse
+sort
+from keys
+get
+items
+keys
+élément pop
+set default
+update
+values
+add
+différence
+mise à jour des différences
+jeter
+intersection
+mise à jour d'intersection
+est disjoint
+est un sous-ensemble
+est un sur-ensemble
+différence symétrique
+mise à jour des différences symétriques
+union
+close
+detach
+numéro de fichier
+flush
+est interactif
+read
+lisible
+read line
+lire les lignes
+rechercher
+searchable
+tell
+truncate
+inscriptible
+write
+écrire des lignes
+et
+as
+assert
+break
+class
+continue
+définir
+delete
+else if
+else
+sauf
+false
+enfin
+for
+de
+global
+si
+import
+in
+est
+lambda
+aucun
+non local
+not
+ou
+pass
+lever une exception
+return
+true
+try
+while
+avec
+rendement
+erreur arithmétique
+erreur d'assertion
+erreur d'attribut
+exception
+erreur de fin de fichier
+erreur en virgule flottante
+sortie du générateur
+erreur d'importation
+erreur d'indentation
+erreur d'index
+erreur de clé
+interruption clavier
+erreur de recherche
+erreur de mémoire
+erreur de nom
+erreur non implémentée
+erreur du système d'exploitation
+erreur de débordement
+erreur de référence
+erreur d'exécution
+arrêter l'itération
+erreur de syntaxe
+erreur de tabulation
+erreur système
+system exit
+erreur de type
+erreur locale non liée
+erreur unicode
+erreur d'encodage unicode
+erreur de décodage unicode
+erreur de traduction unicode
+erreur de valeur
+erreur de division zéro

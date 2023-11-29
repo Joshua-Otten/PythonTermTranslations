@@ -1,0 +1,235 @@
+En Python, pour utiliser l'expression qui renvoie la valeur absolue d'un nombre, écrivez : valeur absolue.
+En Python, pour utiliser l'expression qui renvoie True si tous les éléments d'un objet itérable sont vrais, écrivez : all.
+En Python, pour utiliser l'expression qui renvoie True si un élément d'un objet itérable est vrai, écrivez : any.
+En Python, pour utiliser l'expression qui renvoie une version lisible d'un objet et remplace les caractères non ascii par un caractère d'échappement, écrivez : ascii.
+En Python, pour utiliser l'expression qui renvoie la version binaire d'un nombre, écrivez : binary.
+En Python, pour utiliser l'expression qui renvoie la valeur booléenne de l'objet spécifié, écrivez : boolean.
+En Python, pour utiliser l'expression qui renvoie un tableau d'octets, écrivez : tableau d'octets.
+En Python, pour utiliser l'expression qui renvoie un objet bytes, écrivez : bytes.
+En Python, pour utiliser l'expression qui retourne True si l'objet spécifié est callable, sinon False, écrivez : callable.
+En Python, pour utiliser l'expression qui renvoie un caractère à partir du code Unicode spécifié, écrivez : caractère.
+En Python, pour utiliser l'expression qui convertit une méthode en méthode de classe, écrivez : méthode de classe.
+En Python, pour utiliser l'expression qui retourne le source spécifié sous la forme d'un objet, prêt à être exécuté, écrivez : compile.
+En Python, pour utiliser l'expression qui retourne un nombre complexe, écrivez : complex.
+En Python, pour utiliser l'expression qui supprime l'attribut spécifié (propriété ou méthode) de l'objet spécifié, écrivez : delete attribute.
+En Python, pour utiliser l'expression qui renvoie un dictionnaire (Array), écrivez : dictionnaire.
+En Python, pour utiliser l'expression qui renvoie une liste des propriétés et des méthodes de l'objet spécifié, écrivez : répertoire.
+En Python, pour utiliser l'expression qui renvoie le quotient et le reste lorsque l'argument1 est divisé par l'argument2, écrivez : module de division.
+En Python, pour utiliser l'expression qui prend une collection (par exemple un tuple) et la renvoie sous la forme d'un objet d'énumération, écrivez : enumerate.
+En Python, pour utiliser l'expression qui évalue et exécute une expression, écrivez : évalue.
+En Python, pour utiliser l'expression qui exécute le code (ou l'objet) spécifié, écrivez : execute.
+En Python, pour utiliser l'expression qui filtre les éléments d'un objet itérable à l'aide d'une fonction de filtrage, écrivez : filter.
+En Python, pour utiliser l'expression qui renvoie un nombre à virgule flottante, écrivez : virgule flottante.
+En Python, pour utiliser l'expression qui formate une valeur spécifiée, écrivez : format.
+En Python, pour utiliser l'expression qui renvoie un objet ensemble figé, écrivez : ensemble figé.
+En Python, pour utiliser l'expression qui renvoie la valeur de l'attribut spécifié (propriété ou méthode), écrivez : get attribute.
+En Python, pour utiliser l'expression qui renvoie la table de symboles globale courante en tant que dictionnaire, écrivez : globals.
+En Python, pour utiliser l'expression qui renvoie True si l'objet spécifié a l'attribut spécifié (propriété/méthode), écrivez : has attribute.
+En Python, pour utiliser l'expression qui renvoie la valeur de hachage d'un objet spécifié, écrivez : hash.
+En Python, pour utiliser l'expression qui exécute le système d'aide intégré, écrivez : help.
+En Python, pour utiliser l'expression qui convertit un nombre en une valeur hexadécimale, écrivez : hexadécimal.
+En Python, pour utiliser l'expression qui retourne l'id d'un objet, écrivez : identity.
+En Python, pour utiliser l'expression qui autorise la saisie de l'utilisateur, écrivez : input.
+En Python, pour utiliser l'expression qui renvoie un nombre entier, écrivez : entier.
+En Python, pour utiliser l'expression qui renvoie True si un objet spécifié est une instance d'un objet spécifié, écrivez : est une instance.
+En Python, pour utiliser l'expression qui renvoie True si une classe spécifiée est une sous-classe d'un objet spécifié, écrivez : est une sous-classe.
+En Python, pour utiliser l'expression qui renvoie un objet itérateur, écrivez : iterator.
+En Python, pour utiliser l'expression qui renvoie la longueur d'un objet, écrivez : length.
+En Python, pour utiliser l'expression qui renvoie une liste, écrivez : list.
+En Python, pour utiliser l'expression qui renvoie un dictionnaire mis à jour de la table des symboles locaux actuelle, écrivez : locals.
+En Python, pour utiliser l'expression qui renvoie l'itérateur spécifié avec la fonction spécifiée appliquée à chaque élément, écrivez : map.
+En Python, pour utiliser l'expression qui renvoie l'élément le plus grand d'un itérable, écrivez : maximum.
+En Python, pour utiliser l'expression qui renvoie un objet vue mémoire, écrivez : vue mémoire.
+En Python, pour utiliser l'expression qui renvoie le plus petit élément d'un itérable, écrivez : minimum.
+En Python, pour utiliser l'expression qui renvoie l'élément suivant dans un itérable, écrivez : next.
+En Python, pour utiliser l'expression qui retourne un nouvel objet, écrivez : object.
+En Python, pour utiliser l'expression qui convertit un nombre en octal, écrivez : octal.
+En Python, pour utiliser l'expression qui ouvre un fichier et renvoie un objet fichier, écrivez : open.
+En Python, pour utiliser l'expression qui convertit un entier représentant l'Unicode du caractère spécifié, écrivez : ordinal.
+En Python, pour utiliser l'expression qui renvoie la valeur de x à la puissance y, écrivez : power.
+En Python, pour utiliser l'expression qui s'imprime sur le périphérique de sortie standard, écrivez : print.
+En Python, pour utiliser l'expression qui obtient, définit ou supprime une propriété, écrivez : propriété.
+En Python, pour utiliser l'expression qui retourne une suite de nombres, en partant de 0 et incrémentée de 1 (par défaut), écrivez : range.
+En Python, pour utiliser l'expression qui renvoie une version lisible d'un objet, écrivez : represent.
+En Python, pour utiliser l'expression qui renvoie un itérateur inversé, écrivez : reversed.
+En Python, pour utiliser l'expression qui arrondit un nombre, écrivez : round.
+En Python, pour utiliser l'expression qui renvoie un nouvel objet set, écrivez : set.
+En Python, pour utiliser l'expression qui définit un attribut (propriété/méthode) d'un objet, écrivez : set attribute.
+En Python, pour utiliser l'expression qui retourne un objet slice, écrivez : slice.
+En Python, pour utiliser l'expression qui renvoie une liste triée, écrivez : sorted.
+En Python, pour utiliser l'expression qui convertit une méthode en méthode statique, écrivez : static method.
+En Python, pour utiliser l'expression qui renvoie un objet chaîne, écrivez : chaîne.
+En Python, pour utiliser l'expression qui somme les éléments d'un itérateur, écrivez : summation.
+En Python, pour utiliser l'expression qui retourne un objet qui représente la classe parent, écrivez : superset.
+En Python, pour utiliser l'expression qui renvoie un tuple, écrivez : tuple.
+En Python, pour utiliser l'expression qui retourne le type d'un objet, écrivez : type.
+En Python, pour utiliser l'expression qui renvoie la propriété dict d'un objet, écrivez : variables.
+En Python, pour utiliser l'expression qui renvoie un itérateur à partir de deux itérateurs ou plus, écrivez : zip.
+En Python, pour utiliser l'expression qui convertit le premier caractère en majuscule, écrivez : capitalize.
+En Python, pour utiliser l'expression qui convertit une chaîne en minuscule, écrivez : case fold".
+En Python, pour utiliser l'expression qui renvoie une chaîne centrée, écrivez : center.
+En Python, pour utiliser l'expression qui renvoie le nombre d'occurrences d'une valeur spécifiée dans une chaîne, écrivez : count.
+En Python, pour utiliser l'expression qui renvoie une version encodée de la chaîne, écrivez : encode.
+En Python, pour utiliser l'expression qui renvoie true si la chaîne se termine par la valeur spécifiée, écrivez : se termine par.
+En Python, pour utiliser l'expression qui définit la taille de tabulation de la chaîne, écrivez : expand tabs.
+En Python, pour utiliser l'expression qui recherche dans la chaîne une valeur spécifiée et renvoie la position de l'endroit où elle a été trouvée, écrivez : find.
+En Python, pour utiliser l'expression qui formate les valeurs spécifiées dans une chaîne, écrivez : format.
+En Python, pour utiliser l'expression qui formate les valeurs spécifiées dans une chaîne, écrivez : format map.
+En Python, pour utiliser l'expression qui recherche dans la chaîne une valeur spécifiée et renvoie la position de l'endroit où elle a été trouvée, écrivez : index.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont alphanumériques, écrivez : est alphanumérique.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont dans l'alphabet, écrivez : est alphabétique.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont des caractères ascii, écrivez : is ascii.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont des décimales, écrivez : est décimal.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont des chiffres, écrivez : est un chiffre.
+En Python, pour utiliser l'expression qui renvoie True si la chaîne est un identifiant, écrivez : est l'identifiant.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont en minuscules, écrivez : est inférieur.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont numériques, écrivez : est numérique.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont imprimables, écrivez : est imprimable.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont des espaces, écrivez : is space.
+En Python, pour utiliser l'expression qui renvoie True si la chaîne suit les règles d'un titre, écrivez : est le titre.
+En Python, pour utiliser l'expression qui renvoie True si tous les caractères de la chaîne sont en majuscules, écrivez : est en majuscule.
+En Python, pour utiliser l'expression qui convertit les éléments d'un itérable en chaîne, écrivez : join.
+En Python, pour utiliser l'expression qui renvoie une version justifiée à gauche de la chaîne, écrivez : justification à gauche.
+En Python, pour utiliser l'expression qui convertit une chaîne en minuscule, écrivez : inférieur.
+En Python, pour utiliser l'expression qui renvoie une version à gauche de la chaîne, écrivez : left strip.
+En Python, pour utiliser l'expression qui renvoie une table de traduction à utiliser dans les traductions, écrivez : make translation.
+En Python, pour utiliser l'expression qui renvoie un tuple où la chaîne est divisée en trois parties, écrivez : partition.
+En Python, pour utiliser l'expression qui renvoie une chaîne où une valeur spécifiée est remplacée par la valeur spécifiée, écrivez : replace.
+En Python, pour utiliser l'expression qui recherche dans la chaîne une valeur spécifiée et renvoie la dernière position où elle a été trouvée, écrivez : reverse find.
+En Python, pour utiliser l'expression qui recherche dans la chaîne une valeur spécifiée et renvoie la dernière position où elle a été trouvée, écrivez : index inverse.
+En Python, pour utiliser l'expression qui renvoie une version justifiée à droite de la chaîne, écrivez : justification à droite.
+En Python, pour utiliser l'expression qui renvoie un tuple où la chaîne est divisée en trois parties, écrivez : right partition.
+En Python, pour utiliser l'expression qui divise la chaîne au niveau du séparateur spécifié et renvoie une liste, écrivez : right split.
+En Python, pour utiliser l'expression qui renvoie une version ajustée à droite de la chaîne, écrivez : right strip.
+En Python, pour utiliser l'expression qui divise la chaîne au niveau du séparateur spécifié et renvoie une liste, écrivez : split.
+En Python, pour utiliser l'expression qui scinde la chaîne aux sauts de ligne et renvoie une liste, écrivez : split lines.
+En Python, pour utiliser l'expression qui renvoie true si la chaîne commence par la valeur spécifiée, écrivez : commence par.
+En Python, pour utiliser l'expression qui renvoie une version tronquée de la chaîne, écrivez : strip.
+En Python, pour utiliser l'expression qui permute les cas, les minuscules deviennent des majuscules et vice versa, écrivez : swap case.
+En Python, pour utiliser l'expression qui convertit le premier caractère de chaque mot en majuscule, écrivez : title.
+En Python, pour utiliser l'expression qui retourne une chaîne traduite, écrivez : "translate"
+En Python, pour utiliser l'expression qui convertit une chaîne en majuscule, écrivez : "uppercase"
+En Python, pour utiliser l'expression qui remplit la chaîne avec un nombre spécifié de valeurs 0 au début, écrivez : zero fill.
+En Python, pour utiliser l'expression qui ajoute un élément en fin de liste, écrivez : append.
+En Python, pour utiliser l'expression qui supprime tous les éléments de la liste, écrivez : clear.
+En Python, pour utiliser l'expression qui retourne une copie de la liste, écrivez : copy.
+En Python, pour utiliser l'expression qui renvoie le nombre d'éléments avec la valeur spécifiée, écrivez : count.
+En Python, pour utiliser l'expression qui ajoute les éléments d'une liste (ou de tout itérable) à la fin de la liste courante, écrivez : extend.
+En Python, pour utiliser l'expression qui renvoie l'index du premier élément avec la valeur spécifiée, écrivez : index.
+En Python, pour utiliser l'expression qui ajoute un élément à la position spécifiée, écrivez : insert.
+En Python, pour utiliser l'expression qui supprime l'élément à la position spécifiée, écrivez : pop.
+En Python, pour utiliser l'expression qui supprime le premier élément avec la valeur spécifiée, écrivez : remove.
+En Python, pour utiliser l'expression qui inverse l'ordre de la liste, écrivez : reverse.
+En Python, pour utiliser l'expression qui trie la liste, écrivez : sort.
+En Python, pour utiliser l'expression qui supprime tous les éléments du dictionnaire, écrivez : clear.
+En Python, pour utiliser l'expression qui retourne une copie du dictionnaire, écrivez : copy.
+En Python, pour utiliser l'expression qui renvoie un dictionnaire avec les clés et la valeur spécifiées, écrivez : from keys.
+En Python, pour utiliser l'expression qui renvoie la valeur de la clé spécifiée, écrivez : get.
+En Python, pour utiliser l'expression qui renvoie une liste contenant un tuple pour chaque paire clé-valeur, écrivez : items.
+En Python, pour utiliser l'expression qui retourne une liste contenant les clés du dictionnaire, écrivez : keys.
+En Python, pour utiliser l'expression qui supprime l'élément avec la clé spécifiée, écrivez : pop.
+En Python, pour utiliser l'expression qui supprime la dernière paire clé-valeur insérée, écrivez : pop item.
+En Python, pour utiliser l'expression qui renvoie la valeur de la clé spécifiée, et si la clé n'existe pas, insérez la clé avec la valeur spécifiée, écrivez : set default.
+En Python, pour utiliser l'expression qui met à jour le dictionnaire avec les paires clé-valeur spécifiées, écrivez : update.
+En Python, pour utiliser l'expression qui retourne une liste de toutes les valeurs du dictionnaire, écrivez : values
+En Python, pour utiliser l'expression qui renvoie le nombre de fois qu'une valeur spécifiée apparaît dans un tuple, écrivez : count.
+En Python, pour utiliser l'expression qui recherche dans le tuple une valeur spécifiée et renvoie la position où elle a été trouvée, écrivez : index.
+En Python, pour utiliser l'expression qui ajoute un élément à l'ensemble, écrivez : add.
+En Python, pour utiliser l'expression qui supprime tous les éléments de l'ensemble, écrivez : clear.
+En Python, pour utiliser l'expression qui retourne une copie de l'ensemble, écrivez : copy.
+En Python, pour utiliser l'expression qui renvoie un ensemble contenant la différence entre deux ou plusieurs ensembles, écrivez : différence.
+En Python, pour utiliser l'expression qui supprime les éléments de cet ensemble qui sont également inclus dans un autre ensemble spécifié, écrivez : différence mise à jour.
+En Python, pour utiliser l'expression qui supprime l'élément spécifié, écrivez :discard.
+renvoie un ensemble, c'est-à-dire l'intersection de deux ou plusieurs ensembles, écrivez : intersection.
+En Python, pour utiliser l'expression qui supprime les éléments de cet ensemble qui ne sont pas présents dans d'autres ensembles spécifiés, écrivez : intersection update.
+En Python, pour utiliser l'expression qui retourne si deux ensembles ont une intersection ou non, écrivez : est disjoint.
+En Python, pour utiliser l'expression qui retourne si un autre ensemble contient ou non cet ensemble, écrivez : is subset.
+En Python, pour utiliser l'expression qui retourne si cet ensemble contient ou non un autre ensemble, écrivez : is superset.
+En Python, pour utiliser l'expression qui supprime un élément de l'ensemble, écrivez : pop.
+En Python, pour utiliser l'expression qui supprime l'élément spécifié, écrivez : remove.
+En Python, pour utiliser l'expression qui renvoie un ensemble avec les différences symétriques de deux ensembles, écrivez : différence symétrique.
+En Python, pour utiliser l'expression qui insère les différences symétriques de cet ensemble et d'un autre, écrivez : mise à jour des différences symétriques.
+En Python, pour utiliser l'expression qui retourne un ensemble contenant l'union d'ensembles, écrivez : union.
+En Python, pour utiliser l'expression qui met à jour l'ensemble avec un autre ensemble, ou tout autre itérable, écrivez : update.
+En Python, pour utiliser l'expression qui ferme le fichier, écrivez : close.
+En Python, pour utiliser l'expression qui renvoie le flux brut séparé du tampon, écrivez : detach.
+En Python, pour utiliser l'expression qui renvoie un nombre qui représente le flux, du point de vue du système d'exploitation, écrivez : numéro de fichier.
+En Python, pour utiliser l'expression qui vide le tampon interne, écrivez : flush.
+En Python, pour utiliser l'expression qui renvoie si le flux du fichier est interactif ou non, écrivez : est interactif.
+En Python, pour utiliser l'expression qui renvoie le contenu du fichier, écrivez : read.
+En Python, pour utiliser l'expression qui renvoie si le flux du fichier peut être lu ou non, écrivez : lisible.
+En Python, pour utiliser l'expression qui renvoie une ligne du fichier, écrivez : read line.
+En Python, pour utiliser l'expression qui renvoie une liste de lignes du fichier, écrivez : read lines.
+En Python, pour utiliser l'expression qui modifie la position du fichier, écrivez : seek.
+En Python, pour utiliser l'expression qui retourne si le fichier permet de changer la position du fichier, écrivez : seeable.
+En Python, pour utiliser l'expression qui renvoie la position courante du fichier, écrivez : tell.
+En Python, pour utiliser l'expression qui redimensionne le fichier à une taille spécifiée, écrivez : truncate.
+En Python, pour utiliser l'expression qui renvoie si le fichier peut être écrit ou non, écrivez : writable.
+En Python, pour utiliser l'expression qui écrit la chaîne spécifiée dans le fichier, écrivez : write.
+En Python, pour utiliser l'expression qui écrit une liste de chaînes dans le fichier, écrivez : write lines.
+En Python, pour utiliser l'expression comme opérateur logique, écrivez : and.
+En Python, pour utiliser l'expression qui crée un alias, écrivez : as.
+En Python, pour utiliser l'expression pour le débogage, écrivez : assert.
+En Python, pour utiliser l'expression qui sort d'une boucle, écrivez : break.
+En Python, pour utiliser l'expression qui définit une classe, écrivez : class.
+En Python, pour utiliser l'expression qui continue jusqu'à la prochaine itération d'une boucle, écrivez : continue.
+En Python, pour utiliser l'expression qui définit une fonction, écrivez : define.
+En Python, pour utiliser l'expression qui supprime un objet, écrivez : delete.
+En Python, pour utiliser l'expression pour les instructions conditionnelles, comme else if, écrivez : else if.
+En Python, pour utiliser l'expression pour les instructions conditionnelles, écrivez : else.
+En Python, pour utiliser l'expression des exceptions, que faire lorsqu'une exception se produit, écrivez : except.
+En Python, pour utiliser l'expression d'une valeur booléenne, résultat d'opérations de comparaison, écrivez : False.
+En Python, pour utiliser l'expression utilisée avec les exceptions, un bloc de code qui sera exécuté qu'il y ait une exception ou non, écrivez : finally.
+En Python, pour utiliser l'expression qui crée une boucle for, écrivez : for.
+En Python, pour utiliser l'expression qui importe des parties spécifiques d'un module, écrivez : from.
+En Python, pour utiliser l'expression qui déclare une variable globale, écrivez : global.
+En Python, pour utiliser l'expression qui fait une instruction conditionnelle, écrivez : if.
+En Python, pour utiliser l'expression qui importe un module, écrivez : import.
+En Python, pour utiliser l'expression qui vérifie si une valeur est présente dans une liste, un tuple, etc., écrivez : in.
+En Python, pour utiliser l'expression qui teste si deux variables sont égales, écrivez : is.
+En Python, pour utiliser l'expression qui crée une fonction anonyme, écrivez : lambda.
+En Python, pour utiliser l'expression qui représente une valeur nulle, écrivez : None.
+En Python, pour utiliser l'expression qui déclare une variable non locale, écrivez : non-local.
+En Python, pour utiliser l'expression comme opérateur logique, écrivez : not.
+En Python, pour utiliser l'expression comme opérateur logique, écrivez : or.
+En Python, pour utiliser l'expression d'une instruction nulle, une instruction qui ne fera rien, écrivez : pass.
+En Python, pour utiliser l'expression qui lève une exception, écrivez : raise exception.
+En Python, pour utiliser l'expression qui sort d'une fonction et renvoie une valeur, écrivez : return.
+En Python, pour utiliser l'expression d'une valeur booléenne, résultat d'opérations de comparaison, écrivez : True.
+En Python, pour utiliser l'expression qui fait une instruction try...except, écrivez : try.
+En Python, pour utiliser l'expression qui crée une boucle while, écrivez : while.
+En Python, pour utiliser l'expression qui simplifie la gestion des exceptions, écrivez : with.
+En Python, pour utiliser l'expression qui termine une fonction, renvoie un générateur, écrivez : yield.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'elle se produit dans les calculs numériques, écrivez : Arithmetic Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une instruction assert échoue, écrivez : Assertion Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une référence ou une affectation d'attribut échoue, écrivez : Attribute Error.
+En Python, pour utiliser l'expression qui est une classe de base pour toutes les exceptions, écrivez : Exception.
+En Python, pour utiliser l'expression qui génère une erreur lorsque la méthode input() atteint une condition de "fin de fichier" (EOF), écrivez : End Of File Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'un calcul en virgule flottante échoue, écrivez : Floating Point Error.
+En Python, pour utiliser l'expression qui déclenche une erreur à la fermeture d'un générateur (avec la méthode close()), écrivez : Generator Exit.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'un module importé n'existe pas, écrivez : Erreur d'importation.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsque l'indentation n'est pas correcte, écrivez : Indentation Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'un index d'une séquence n'existe pas, écrivez : Index Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'une clé n'existe pas dans un dictionnaire, écrivez : Key Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsque l'utilisateur appuie sur Ctrl+c, Ctrl+z ou Suppr, écrivez : Keyboard Interrupt.
+En Python, pour utiliser l'expression qui génère une erreur lorsque les erreurs générées sont introuvables, écrivez : Lookup Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'un programme manque de mémoire, écrivez : Memory Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'une variable n'existe pas, écrivez : Name Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une méthode abstraite nécessite une classe héritée pour remplacer la méthode, écrivez : Erreur non implémentée.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une opération liée au système provoque une erreur, écrivez : OS Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsque le résultat d'un calcul numérique est trop grand, écrivez : Overflow Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'un objet de référence faible n'existe pas, écrivez : Reference Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'une erreur se produit qui n'appartient à aucune exception spécifique, écrivez : Runtime Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsque la méthode next() d'un itérateur n'a plus de valeur, écrivez : Stop Iteration.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une erreur de syntaxe se produit, écrivez Syntax Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsque l'indentation est constituée de tabulations ou d'espaces, écrivez : Tab Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'une erreur système se produit, écrivez : System Error.
+En Python, pour utiliser l'expression qui génère une erreur lors de l'appel de la fonction sys.exit(), écrivez : System Exit.
+En Python, pour utiliser l'expression qui génère une erreur lorsque deux types différents sont combinés, écrivez : Type Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'une variable locale est référencée avant l'affectation, écrivez : Unbound Local Error.
+En Python, pour utiliser l'expression qui déclenche une erreur lorsqu'un problème unicode survient, écrivez : Unicode Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'un problème d'encodage Unicode survient, écrivez : Unicode Encode Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'un problème de décodage unicode survient, écrivez : Unicode Decode Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'un problème de traduction unicode se produit, écrivez : Unicode Translate Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsqu'il y a une mauvaise valeur dans un type de données spécifié, écrivez : Value Error.
+En Python, pour utiliser l'expression qui génère une erreur lorsque le deuxième opérateur d'une division est zéro, écrivez : Zero Division Error.

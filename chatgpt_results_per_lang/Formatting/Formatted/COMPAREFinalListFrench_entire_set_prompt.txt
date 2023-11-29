@@ -1,0 +1,222 @@
+absolute value : valeur absolue
+all : tout
+any : n'importe quoi
+ascii : ascii
+binary : binaire
+boolean : booléen
+byte array : tableau d'octets
+bytes : octets
+callable : appelable
+character : caractère
+class method : méthode de classe
+compile : compiler
+complex : complexe
+delete attribute : supprimer l'attribut
+dictionary : dictionnaire
+directory : répertoire
+divide modulus : modulo de division
+enumerate : énumérer
+evaluate : évaluer
+execute : exécuter
+filter : filtrer
+floating point : point flottant
+format : formater
+frozen set : ensemble congelé
+get attribute : obtenir attribut
+globals : globaux
+has attribute : a attribut
+hash : hacher
+help : aide
+hexadecimal : hexadécimal
+identity : identity => identité
+input : input => entrée
+integer : integer => entier
+is instance : is instance => est une instance
+is subclass : is subclass => est une sous-classe
+iterator : iterator => itérateur
+length : length => longueur
+list : list => liste
+locals : locals => locaux
+map : map => carte
+maximum : maximum => maximum
+memory view : memory view => vue mémoire
+minimum : minimum => minimum
+next : next => suivant
+object : object => objet
+octal : octal => octal
+open : open => ouvrir
+ordinal : ordinal => ordinal
+power : power => puissance
+print : print => imprimer
+property : property => propriété
+range : range => plage
+represent : represent => représenter
+reversed : reversed => inversé
+round : round => arrondir
+set : set => ensemble
+set attribute : set attribute => définir l'attribut
+slice : slice => tranche
+sorted : sorted => trié
+static method : static method => méthode statique
+string : string => chaîne
+summation : summation => somme
+superset : superset => ensemble supérieur
+tuple : tuple => tuple
+type : type => type
+variables : variables => variables
+zip : zip => fermeture éclair
+capitalize : capitalize => capitaliser
+case fold : case fold => plier la casse
+center : center => centrer
+count : count => compter
+encode : encode => encoder
+ends with : ends with => se termine par
+expand tabs : expand tabs => étendre les onglets
+find : find => trouver
+format map : format map => mappe de format
+index : index => index
+is alphanumeric : is alphanumeric => est alphanumérique
+is alphabetic : is alphabetic => est alphabétique
+is ascii : is ascii => est ascii
+is decimal : is decimal => est décimal
+is digit : is digit => est chiffre
+is identifier : is identifier => est identificateur
+is lower : is lower => est inférieur
+is numeric : is numeric => est numérique
+is printable : is printable => est imprimable
+is space : is space => est espace
+is title : is title => est titre
+is uppercase : is uppercase => est majuscule
+join : join => joindre
+left justify : left justify => justifier à gauche
+lower : lower => minuscule
+left strip : left strip => retirer à gauche
+make translation : make translation => faire la traduction
+partition : partition => partitionner
+replace : replace => remplacer
+reverse find : reverse find => recherche inverse
+reverse index : reverse index => index inverse
+right justify : right justify => justifier à droite
+right partition : right partition => partition à droite
+right split : right split => divisé à droite
+right strip : right strip => enlever à droite
+split : split => diviser
+split lines : split lines => diviser les lignes
+starts with : starts with => commence par
+strip : strip => enlever
+swap case : swap case => échanger la casse
+title : title => titre
+translate : translate => traduire
+uppercase : uppercase => majuscule
+zero fill : zero fill => combler de zéros
+append : append => ajouter
+clear : clear => effacer
+copy : copy => copier
+extend : extend => étendre
+insert : insert => insérer
+pop : pop => extraire
+remove : remove => supprimer
+reverse : reverse => inverser
+sort : sort => trier
+from keys : from keys => à partir des clés
+get : get => obtenir
+items : items => articles
+keys : keys => clés
+pop item : pop item => élément pop
+set default : set default => défaut défini
+update : update => mettre à jour
+values : values => valeurs
+add : add => ajouter
+difference : difference => différence
+difference update : difference update => mise à jour de la différence
+discard : discard => rejeter
+intersection : intersection => intersection
+intersection update : intersection update => mise à jour de l'intersection
+is disjoint : is disjoint => est disjoint
+is subset : is subset => est sous-ensemble
+is superset : is superset => est un ensemble plus grand
+symmetric difference : symmetric difference => différence symétrique
+symmetric difference update : symmetric difference update => mise à jour de la différence symétrique
+union : union => union
+close : fermer
+detach : détacher
+file number : numéro de fichier
+flush : vider
+is interactive : est interactif
+read : lire
+readable : lisible
+read line : lire la ligne
+read lines : lire les lignes
+seek : chercher
+seekable : seekable => recherchable
+tell : tell => dire
+truncate : truncate => tronquer
+writable : writable => inscriptible
+write : write => écrire
+write lines : write lines => écrire des lignes
+and : and => et
+as : as => comme
+assert : assert => affirmer
+break : break => casser
+class : classe
+continue : continuer
+define : définir
+delete : supprimer
+else if : sinon si
+else : sinon
+except : sauf
+False : faux
+finally : finalement
+for : pour
+from : de
+global : global
+if : si
+import : importer
+in : dans
+is : est
+lambda : lambda
+None : aucun
+non-local : non local
+not : non
+or : or => ou
+pass : pass => passer
+raise exception : raise exception => lever une exception
+return : return => retourner
+True : true => vrai
+try : try => essayer
+while : while => tandis que
+with : with => avec
+yield : yield => rendement
+Arithmetic Error : arithmetic error => erreur arithmétique
+Assertion Error : erreur d'assertion
+Attribute Error : erreur d'attribut
+Exception : exception
+End Of File Error : erreur de fin de fichier
+Floating Point Error : erreur de point flottant
+Generator Exit : sortie du générateur
+Import Error : erreur d'importation
+Indentation Error : erreur d'indentation
+Index Error : erreur d'index
+Key Error : erreur de clé
+Keyboard Interrupt : interruption clavier
+Lookup Error : erreur de recherche
+Memory Error : erreur de mémoire
+Name Error : erreur de nom
+Not Implemented Error : erreur non implémentée
+OS Error : erreur os
+Overflow Error : erreur de débordement
+Reference Error : erreur de référence
+Runtime Error : erreur de temps d'exécution
+Stop Iteration : arrêt de l'itération
+Syntax Error : erreur de syntaxe
+Tab Error : erreur de tabulation
+System Error : erreur système
+System Exit : sortie système
+Type Error : erreur de type
+Unbound Local Error : erreur locale non liée
+Unicode Error : erreur unicode
+Unicode Encode Error : erreur d'encodage unicode
+Unicode Decode Error : erreur de décodage unicode
+Unicode Translate Error : erreur de traduction unicode
+Value Error : 
+Zero Division Error : 

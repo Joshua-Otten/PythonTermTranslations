@@ -1,0 +1,222 @@
+absolute value : نرخی بەشی
+all : هەموو
+any : کەسێک
+ascii : ascii
+binary : دووجێکی
+boolean : بوولیان
+byte array : باری بایت
+bytes : بایت
+callable : قابلیتی کردن
+character : تێکەڵ
+class method : کلاس مۆدید
+compile : کۆمپایل کردن
+complex : پێکه‌وت
+delete attribute : وێنه‌ی وێنه‌تی بسڕینه‌وه‌
+dictionary : فه‌رهه‌نگ
+directory : ڕوونووس
+divide modulus : به‌شداری به‌فرضی ماوه‌س
+enumerate : هه‌ندێک کردن
+evaluate : یارمه‌تی کردن
+execute : چالاک کردن
+filter : فیلتر
+floating point : نۆوونی نیشانە
+format : فۆرمات
+frozen set : دەستەی هەلبژێردراو
+get attribute : بەدەست هێنانی خاستەر
+globals : گەلۆبال
+has attribute : خاستەر داوە
+hash : هەش
+help : یارمەتی
+hexadecimal : هێژدەسیمەل
+identity : وێنە
+input : لێدان
+integer : تەواوپێک
+is instance : نیشاندەری
+is subclass : زیادکەری
+iterator : بەکارهێنەر
+length : ڕێژە
+list : لیست
+locals : کۆمەڵەکان
+map : ناوچە
+maximum : زۆرترین
+memory view : نیشاندانی حافظه
+minimum : کەمترین
+next : دواتر
+object : ئابجەکت
+octal : هەشتی
+open : کراو
+ordinal : ترتیبی
+power : نەرمەکاڵا
+print : چاپ
+property : خانه
+range : بەش
+represent : نیشاندان
+reversed : پێچەوانەکراو
+round : ڕۆنج
+set : مجموعه
+set attribute : خاسیەتی دانراو
+slice : بەشی
+sorted : دەستەوەرکراو
+static method : شێوەیەکی بەثابت
+string : سۆرتختە
+summation : جمع
+superset : سوپرسێت
+tuple : تووپل
+type : جۆر
+variables : گۆڕانکارییەکان
+zip : ناوخستن
+capitalize : بۆ گونجاو
+case fold : کۆتاۆنەکردن
+center : ناوەڕاست
+count : گەڕان
+encode : ئەنکۆدێن
+ends with : پایەدان بە
+expand tabs : پاڵپشتی تابەکان گەڕاندن
+find : پێداچوونەوە
+format map : ناوخانەی فۆرمات
+index : ئەندێکس
+is alphanumeric : ئەکسی کۆدی ئەلفانۆمێریکی؟
+is alphabetic : ئەکسی کۆدی ئەلفابی؟
+is ascii : ئەکسی کۆدی ئەسکی؟
+is decimal : دێسێمالێ
+is digit : زانێرێ
+is identifier : دێسینێرێ
+is lower : کۆمەڵێ
+is numeric : زانێرییێ
+is printable : پێشکەوتنی
+is space : فاست
+is title : سەردێڕ
+is uppercase : گەورەکۆمەڵێ
+join : بەشداربوون
+left justify : سوڵات نیول
+lower : چەپ
+left strip : چەپ لەشێوەی کردن
+make translation : ترجمە کردن
+partition : جۆکار کردن
+replace : لەجێگیری کردن
+reverse find : -
+reverse index : -
+right justify : -
+right partition : پێڕستی چەپ
+right split : سوڵات نیول کردن
+right strip : جۆکار کردنی لارەوە
+split : ئەستێرەی چەپ
+split lines : ئەستێرەی چەپی
+starts with : ئەستێرە
+strip : خزمەتکردنی خزمەت
+swap case : دەست پێداویستە لە
+title : -
+translate : ئەستێرە
+uppercase : گۆڕینی بچووکی
+zero fill : سەردێڕ
+append : تێرجان
+clear : نووسی بەشی بەرز
+copy : نووێ بکرێ
+extend : زیادکردن
+insert : پاککردن
+pop : کۆپیکردن
+remove : گەورەکردن
+reverse : بیخشکردن
+sort : پاککردن
+from keys : لابردن
+get : پێچەوانەکردن
+items : هەڵبژاردن
+keys : - مێزوو
+pop item : گەڕان
+set default : بەڵگە
+update : مێزوو
+values : بەڵگەی پێشەوە
+add : ناونیشانی پێشکەوتن
+difference : نوێکردنەوە
+difference update : نرخەکان
+discard : زیادکردن
+intersection : فراوانی
+intersection update : جۆشیانی نوێکردنه
+is disjoint : داستاندن
+is subset : دووه‌شیشه‌ش
+is superset : نوێکردنه‌وه‌ی دووه‌شیشه‌ش
+symmetric difference : ناهێشه‌؟
+symmetric difference update : زۆرشی؟
+union : زۆرترشی؟
+close : جۆشیانی ناهێشه‌ش
+detach : نوێکردنه‌وه‌ی جۆشیانی ناهێشه‌ش
+file number : یۆنان
+flush : پشتەوە
+is interactive : پارەدان
+read : نۆمێری فایل
+readable : ناردن
+read line : گشتنی پێشکەشکراوە؟
+read lines : خوێندن
+seek : پێشکەشکراو
+seekable : خوێندنی کورتە
+tell : خوێندنی کورتەکان
+truncate : گەڕان
+writable : پێدراو
+write : بەشداری
+write lines : کورتکردن
+and : نووسینی
+as : نووسین
+assert : نووسینی ڕێکەکان
+break : یان
+class : لەگەڵ
+continue : داواکردن
+define : ناچینکردن
+delete : پۆل
+else if : بەردەوام بەخێر بێن
+else : تێبینی بدە
+except : سڕینەوە
+False : ئەگەر نەخێر
+finally : ئەوانە
+for : بەڵام
+from : نەخێر
+global : ئەو نەوان
+if : بۆ
+import : - سەرجەم
+in : گۆڵەبەنیشتی
+is : گەر
+lambda : چەندخاڵ
+None : لە
+non-local : هەیە
+not : لەمبە
+or : نەخێر
+pass : نەگۆڵی
+raise exception : نەهێنێت
+return : چئیدان
+True : تیریزی
+try : واپسی
+while : راست
+with : تلاش کردن
+yield : کاتی
+Arithmetic Error : ساو
+Assertion Error : نابیناییی حسابی
+Attribute Error : سوختی دڵێنەوە
+Exception : سوختی خاسیەت
+End Of File Error : سوختی
+Floating Point Error : سوختی کۆتایی پەڕگە
+Generator Exit : سوختی نەخشەی پلاوی
+Import Error : دەرچوونی دێنەر
+Indentation Error : سوختی کۆتاکردن
+Index Error : سوختی دەستکاری
+Key Error : سوختی بنچینە
+Keyboard Interrupt : سوختی کلیل
+Lookup Error : هەڵگری کەسبوورد
+Memory Error : هەڵگری گەڕان
+Name Error : هەڵگری بەکۆڵ
+Not Implemented Error : هەڵگری ناو
+OS Error : هەڵگری نەنووسراو
+Overflow Error : هەڵگری سیستەم
+Reference Error : هەڵگری زیادکردن
+Runtime Error : هەڵگری پێناسە
+Stop Iteration : هەڵگری ڕاژەکار
+Syntax Error : هەڵگری تەواوکردن
+Tab Error : سئوی شتاب
+System Error : تەکنە شتاب
+System Exit : سیستەم شتاب
+Type Error : سیستەم دەرچە
+Unbound Local Error : جۆری شتاب
+Unicode Error : شتابی ناڕێکراوی لەگەڵ ناوی مۆڵەتی
+Unicode Encode Error : شتابی یونیکۆد
+Unicode Decode Error : شتابی یونیکۆدی نووسین
+Unicode Translate Error : شتابی یونیکۆدی کردن
+Value Error : شتابی یونیکۆدی وەرگرتن
+Zero Division Error : شه‌رزه‌ی نیشاندار

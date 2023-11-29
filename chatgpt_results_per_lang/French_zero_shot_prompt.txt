@@ -1,0 +1,105 @@
+
+
+Absolute valeur: valeur absolue
+All: tous
+Any: n'importe lequel
+ASCII: ASCII
+Binary: binaire
+Boolean: booléen
+Byte array: tableau d'octets
+Bytes: octets
+Callable: appelable
+Character: caractère
+
+
+class méthode, compiler, complexe, supprimer l'attribut, dictionnaire, répertoire, diviser le modulo, énumérer, évaluer, exécuter
+
+
+Filtre, point flottant, format, ensemble figé, obtenir attribut, globaux, a attribut, hachage, aide, hexadécimal
+
+
+identité, entrée, entier, est instance, est sous-classe, itérateur, longueur, liste, locaux, carte
+
+
+maximum - maximum
+mémoire vue - vue mémoire
+minimum - minimum
+suivant - suivant
+objet - objet
+octal - octal
+ouvert - ouvert
+ordinal - ordinal
+puissance - puissance
+imprimer - imprimer
+
+
+Propriété, gamme, représenter, inversé, rond, ensemble, définir l'attribut, tranche, trié, méthode statique
+
+
+Chaîne, somme, ensemble englobant, n-uplet, type, variables, zipper, capitaliser, plier la casse, centrer
+
+
+Compte, encoder, se termine par, étendre les onglets, trouver, format de carte, index, est alphanumérique, est alphabétique, est ASCII
+
+
+est décimal, est chiffre, est identifiant, est inférieur, est numérique, est imprimable, est espace, est titre, est majuscule, joindre
+
+
+Gauche justifié, inférieur, gauche dépouille, faire traduction, partition, remplacer, trouver inverse, index inverse, justifié à droite, partition à droite
+
+
+Droit de scission, droit de bande, scission, lignes de scission, commence par, bande, échanger le cas, titre, traduire, majuscule
+
+
+zero fill - remplir zéro
+append - ajouter
+clear - effacer/nettoyer
+copy - copier
+extend - étendre
+insert - insérer
+pop - pop/extraire
+remove - supprimer
+reverse - inverser
+sort - trier
+
+
+Clés, obtenir, articles, clés, élément pop, définir par défaut, mettre à jour, valeurs, ajouter, différence
+
+
+différence de mise à jour, rejeter, intersection, intersection de mise à jour, est disjoint, est un sous-ensemble, est un sur-ensemble, différence symétrique, mise à jour de la différence symétrique, union
+
+
+Fermer, détacher, numéro de fichier, vider, est interactif, lire, lisible, lire ligne, lire les lignes, chercher
+
+
+Cherchable, dire, tronquer, inscriptible, écrire, écrire des lignes, et, comme, affirmer, casser
+
+
+Classe, continuer, définir, supprimer, sinon si, sinon, sauf, Faux, finalement, pour
+
+
+de, global, si, importer, dans, est, lambda, aucun, non-local, pas
+
+
+or - ou
+pass - passer
+raise exception - lever une exception
+return - retourner
+True - Vrai
+try - essayer
+while - tandis que
+with - avec
+yield - rendement
+Arithmetic Error - Erreur arithmétique
+
+
+Assertion Erreur, Attribut Erreur, Exception, Fin de Fichier Erreur, Point Flottant Erreur, Générateur Sortie, Import Erreur, Indentation Erreur, Index Erreur, Clé Erreur
+
+
+Interruption Clavier, Erreur de Recherche, Erreur Mémoire, Erreur de Nom, Erreur Non Implémentée, Erreur Système, Erreur de Débordement, Erreur de Référence, Erreur de Temps d'exécution, Arrêt de l'Itération
+
+
+Erreur de syntaxe, Erreur de tabulation, Erreur système, Sortie système, Erreur de type, Erreur locale non liée, Erreur Unicode, Erreur d'encodage Unicode, Erreur de décodage Unicode, Erreur de traduction Unicode
+
+
+Erreur de valeur, Erreur de division par zéro

@@ -1,0 +1,222 @@
+absolute value => valor absoluto
+all => todos
+any => cualquiera
+ascii => ascii
+binary => binario
+boolean => booleano
+byte array => matriz de bytes
+bytes => bytes
+callable => llamable
+character => carácter
+class method => método_de_clase
+compile => compilar
+complex => complejo
+delete attribute => eliminar_atributo
+dictionary => diccionario
+directory => directorio
+divide modulus => división_módulo
+enumerate => enumerar
+evaluate => evaluar
+execute => ejecutar
+filtro
+punto flotante
+formato
+conjunto congelado
+obtener atributo
+globales
+tiene atributo
+hash
+ayuda
+hexadecimal
+identity => identidad
+input => entrada
+integer => entero
+is instance => es instancia
+is subclass => es subclase
+iterator => iterador
+length => longitud
+list => lista
+locals => locales
+map => mapa
+máximo
+vista_de_memoria
+mínimo
+siguiente
+objeto
+octal
+abierto
+ordinal
+poder
+imprimir
+propiedad
+rango
+representar
+invertido
+redondeado
+conjunto
+establecer atributo
+rebanada
+ordenado
+método estático
+string => cadena
+summation => suma
+superset => superconjunto
+tuple => tupla
+type => tipo
+variables => variables
+zip => zip
+capitalize => poner_en_mayúscula
+case fold => plegado_de_caso
+center => centrar
+count => contar
+encode => codificar
+ends with => termina_con
+expand tabs => expandir_tabulaciones
+find => encontrar
+format map => mapa_de_formato
+index => índice
+is alphanumeric => es_alfanumérico
+is alphabetic => es_alfabético
+is ascii => es_ascii
+is decimal => es_decimal
+is digit => es_dígito
+is identifier => es_identificador
+is lower => es_inferior
+is numeric => es_numérico
+is printable => es_imprimible
+is space => es_espacio
+is title => es_título
+is uppercase => es_mayúscula
+join => unir
+justificar a la izquierda
+más bajo
+quitando a la izquierda
+hacer la traducción
+partición
+reemplazar
+encontrar inversamente
+índice inverso
+justificar a la derecha
+partición derecha
+right split => división_derecha
+right strip => borrar_derecha
+split => dividir
+split lines => dividir_líneas
+starts with => comienza_con
+strip => borrar
+swap case => intercambiar_mayúsculas_y_minúsculas
+title => título
+translate => traducir
+uppercase => mayúsculas
+zero fill => relleno_de_ceros
+append => añadir
+clear => limpiar
+copy => copiar
+extend => extender
+insert => insertar
+pop => sacar
+remove => eliminar
+reverse => invertir
+sort => ordenar
+de claves
+obtener
+elementos
+claves
+eliminar elemento
+establecer valor predeterminado
+actualizar
+valores
+agregar
+diferencia
+differencia de actualización
+descartar
+intersección
+intersección de actualización
+está disjunta
+es subconjunto
+es superconjunto
+diferencia simétrica
+diferencia simétrica de actualización
+unión
+close => cerrar
+detach => separar
+file number => número de archivo
+flush => vaciar
+is interactive => es interactivo
+read => leer
+readable => leíble
+read line => leer línea
+read lines => leer líneas
+seek => buscar
+seekable => buscable
+tell => decir
+truncate => truncar
+writable => escribible
+write => escribir
+write lines => escribir_líneas
+and => y
+as => como
+assert => afirmar
+break => romper
+clase
+continuar
+definir
+eliminar
+si no
+si no
+excepto
+falso
+finalmente
+para
+from => desde
+global => global
+if => si
+import => importar
+in => en
+is => es
+lambda => lambda
+none => ninguno
+non-local => no_local
+not => no
+o
+pasar
+levantar excepción
+devolver
+verdadero
+intentar
+mientras
+con
+rendimiento
+error aritmético
+erro de afirmación
+error de atributo
+excepción
+error de fin de archivo
+error de punto flotante
+salida del generador
+error de importación
+error de sangría
+error de índice
+error de clave
+interrupción de teclado
+error de búsqueda
+error de memoria
+error de nombre
+error no implementado
+error de so
+error de desbordamiento
+error de referencia
+error de tiempo de ejecución
+detener la iteración
+error de sintaxis
+error de tabulación
+error del sistema
+salida del sistema
+error de tipo
+error local no ligado
+error unicode
+error de codificación unicode
+error de descodificación unicode
+error de traducción unicode
+error de valor => erreur_de_valeur
+error de división cero => erreur_de_division_zéro

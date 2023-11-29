@@ -1,0 +1,222 @@
+valeur absolue
+all
+any
+ascii
+binary
+boolean
+tableau d'octets
+bytes
+callable
+caractère
+méthode de classe
+compile
+complex
+delete attribute
+dictionnaire
+répertoire
+module de division
+enumerate
+évalue
+execute
+filter
+virgule flottante
+format
+ensemble figé
+get attribute
+globals
+has attribute
+hash
+help
+hexadécimal
+identity
+input
+entier
+est une instance
+est une sous-classe
+iterator
+length
+list
+locals
+map
+maximum
+vue mémoire
+minimum
+next
+object
+octal
+open
+ordinal
+power
+print
+propriété
+range
+represent
+reversed
+round
+set
+set attribute
+slice
+sorted
+static method
+chaîne
+summation
+superset
+tuple
+type
+variables
+zip
+capitalize
+case fold"
+center
+count
+encode
+se termine par
+expand tabs
+find
+format map
+index
+est alphanumérique
+est alphabétique
+is ascii
+est décimal
+est un chiffre
+est l'identifiant
+est inférieur
+est numérique
+est imprimable
+is space
+est le titre
+est en majuscule
+join
+justification à gauche
+inférieur
+left strip
+make translation
+partition
+replace
+reverse find
+index inverse
+justification à droite
+right partition
+right split
+right strip
+split
+split lines
+commence par
+strip
+swap case
+title
+"translate"
+"uppercase"
+zero fill
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+sort
+from keys
+get
+items
+keys
+pop item
+set default
+update
+values
+add
+différence
+différence mise à jour
+discard
+intersection
+intersection update
+est disjoint
+is subset
+is superset
+différence symétrique
+mise à jour des différences symétriques
+union
+close
+detach
+numéro de fichier
+flush
+est interactif
+read
+lisible
+read line
+read lines
+seek
+seeable
+tell
+truncate
+writable
+write
+write lines
+and
+as
+assert
+break
+class
+continue
+define
+delete
+else if
+else
+except
+false
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+none
+non-local
+not
+or
+pass
+raise exception
+return
+true
+try
+while
+with
+yield
+arithmetic error
+assertion error
+attribute error
+exception
+end of file error
+floating point error
+generator exit
+erreur d'importation
+indentation error
+index error
+key error
+keyboard interrupt
+lookup error
+memory error
+name error
+erreur non implémentée
+os error
+overflow error
+reference error
+runtime error
+stop iteration
+syntax error
+tab error
+system error
+system exit
+type error
+unbound local error
+unicode error
+unicode encode error
+unicode decode error
+unicode translate error
+value error
+zero division error

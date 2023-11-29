@@ -1,0 +1,296 @@
+
+
+Absolute Value => निरपेक्ष मान
+All => सभी
+Any => कोई भी
+ASCII => एस्कीइ
+Binary => द्विआधारी
+Boolean => बूलियन
+Byte Array => बाइट अरे
+Bytes => बाइट्स
+Callable => कॉलेबल
+Character => वर्ण
+.
+
+Class Method => क्लास विधि
+Compile => संकलित करें
+Complex => जटिल
+Delete Attribute => विशेषता हटाएं
+Dictionary => शब्दकोश
+Directory => निर्देशिका
+Divide Modulus => भाग मॉड्यूलस
+Enumerate => संख्यात्मक
+Evaluate => मूल्यांकन
+Execute => निष्पादित करें
+.
+
+Filter => फिल्टर
+Floating Point => फ्लोटिंग पॉइंट
+Format => स्वरूप
+Frozen Set => फ्रोजन सेट
+Get Attribute => गेट एट्रिब्यूट
+Globals => वैश्विक
+Has Attribute => है एट्रिब्यूट
+Hash => हैश
+Help => सहायता
+Hexadecimal => षड्यंजक
+
+
+Identity => पहचान
+Input => इनपुट
+Integer => पूर्णांक
+Is instance => है उदाहरण
+Is subclass => है उपकरण
+Iterator => इटरेटर
+Length => लंबाई
+List => सूची
+Locals => स्थानीय
+Map => नक्शा
+
+
+Maximum => अधिकतम
+Memory view => स्मृति दृश्य
+Minimum => न्यूनतम
+Next => अगला
+Object => वस्तु
+Octal => अष्टिकी
+Open => खुला
+Ordinal => क्रमांकीय
+Power => शक्ति
+Print => प्रिंट
+
+
+Property: गुण
+Range: सीमा
+Represent: प्रतिनिधित्व
+Reversed: उलटा
+Round: गोल
+Set: सेट
+Set Attribute: गुण सेट करें
+Slice: टुकड़ा
+Sorted: क्रमित
+Static Method: स्थिर विधि
+
+
+String: स्ट्रिंग 
+Summation: योग 
+Superset: सुपरसेट 
+Tuple: ट्यूपल 
+Type: प्रकार 
+Variables: चर 
+Zip: ज़िप 
+Capitalize: कैपिटलाइज 
+Case Fold: केस फोल्ड 
+Center: केंद्र
+, is digit, is lower, is numeric, is upper
+
+count => गणना
+encode => एन्कोड
+ends with => से समाप्त
+expand tabs => टैब्स विस्तार
+find => ढूंढें
+format map => प्रारूप नक्शा
+index => अनुक्रमणिका
+is alphanumeric => आर्डर की है
+is alphabetic => वर्णमाला है
+is ascii => एस्की है
+is digit => अंक है
+is lower => निचला है
+is numeric => संख्यात्मक है
+is upper => ऊपरी है
+
+
+is decimal => दशमलव है
+is digit => अंक है
+is identifier => पहचानकर्ता है
+is lower => निचे है
+is numeric => संख्यात्मक है
+is printable => प्रिंट करने योग्य है
+is space => रिक्त है
+is title => शीर्षक है
+is uppercase => ऊपरी केस है
+join => जोड़ें
+, right strip
+
+Left justify => बाएँ तय करें
+Lower => निचे
+Left strip => बाएँ छोड़ें
+Make translation => अनुवाद बनाएं
+Partition => विभाजन
+Replace => बदलें
+Reverse find => उल्टी ढूंढें
+Reverse index => उल्टी अनुक्रमणिका
+Right justify => दाएँ तय करें
+Right partition => दाएँ विभाजन
+Right strip => दाएँ छोड़ें
+
+
+right split => सही विभाजन
+right strip => सही छान
+split => विभाजन
+split lines => लाइनों का विभाजन
+starts with => से शुरू होता है
+strip => छान
+swap case => केस बदलें
+title => शीर्षक
+translate => अनुवाद
+uppercase => अपरकेस
+.
+
+Zero Fill => शून्य भरें
+Append => जोड़ें
+Clear => साफ करें
+Copy => प्रतिलिपि
+Extend => विस्तार करें
+Insert => डालें
+Pop => पॉप
+Remove => हटाएँ
+Reverse => उलटें
+Sort => क्रमबद्ध करें
+
+
+from keys => कुंजी से
+get => प्राप्त 
+items => आइटम
+keys => कुंजी
+pop item => आइटम को हटाएं
+set default => डिफ़ॉल्ट सेट करें
+update => अपडेट
+values => मान
+add => जोड़ें
+difference => अंतर
+.
+
+difference update => अंतर अद्यतन
+discard => त्याग
+intersection => आंशिक मिलाप
+intersection update => आंशिक मिलाप अद्यतन
+is disjoint => असंगत है
+is subset => उपसमुह है
+is superset => मुख्य समुह है
+symmetric difference => समक्ष भिन्नता
+symmetric difference update => समक्ष भिन्नता अद्यतन
+union => संयुक्त
+, truncate
+
+close => बंद करें
+detach => अलग करें
+file number => फ़ाइल संख्या
+flush => धुल दें
+is interactive => सक्रिय है
+read => पढ़ें
+readable => पढ़ने योग्य
+read line => पंक्ति पढ़ें
+read lines => पंक्तियाँ पढ़ें
+seek => ढूंढें
+truncate => कम करें
+.
+
+seekable => खोजने योग्य
+tell => बताना
+truncate => कम करना
+writable => लिखने योग्य
+write => लिखना
+write lines => लाइनों को लिखना
+and => और
+as => जैसे
+assert => दावा करना
+break => तोड़ना
+, if, import, in, is, lambda, not, or, pass, raise, return, True.
+
+Class => वर्ग
+Continue => जारी रखें
+Define => परिभाषित
+Delete => हटाएं
+Else if => अन्यथा अगर
+Else => अन्यथा
+Except => छोड़ें
+False => ग़लत
+Finally => अंत में
+For => के लिए
+If => अगर
+Import => आयात
+In => में
+Is => है
+Lambda => लैम्ब्डा
+Not => नहीं
+Or => या
+Pass => पास
+Raise => उठाएँ
+Return => वापसी
+True => सच
+, or, pass, print, raise, return, try
+
+From: से
+Global: वैश्विक
+If: अगर
+Import: आयात
+In: में
+Is: है
+Lambda: लम्ब्डा
+None: कोई नहीं
+Non-Local: गैर-स्थानिक
+Not: नहीं 
+Or: या
+Pass: पास
+Print: प्रिंट
+Raise: उठाना
+Return: वापसी 
+Try: प्रयास करें
+
+
+Or => या
+Pass => पास
+Raise Exception => अपवाद उठाएँ
+Return => वापस लौटें
+True => सच
+Try => प्रयास करें
+While => जबतक
+With => के साथ
+Yield => उत्पादन
+Arithmetic Error => गणितीय त्रुटि
+, Name Error, Syntax Error
+
+Assertion Error => असर्ट्सन त्रुटि
+Attribute Error => विशेषता त्रुटि
+Exception => अपवाद
+End Of File Error => फ़ाइल अंत त्रुटि
+Floating Point Error => फ्लोटिंग पॉइंट त्रुटि
+Generator Exit => जनरेटर निकास
+Import Error => आयात त्रुटि
+Indentation Error => इन्डेंटेशन त्रुटि
+Index Error => सूचकांक त्रुटि
+Key Error => कुंजी त्रुटि
+Name Error => नाम त्रुटि
+Syntax Error => वाक्यविन्यास त्रुटि
+, Syntax Error, Type Error, Value Error
+
+Keyboard Interrupt => कीबोर्ड निरस्त
+Lookup Error => लुकअप त्रुटि
+Memory Error => मेमोरी त्रुटि
+Name Error => नाम त्रुटि
+Not Implemented Error => कार्य नहीं किया गया त्रुटि
+OS Error => OS त्रुटि
+Overflow Error => ओवरफ्लो त्रुटि
+Reference Error => संदर्भ त्रुटि
+Runtime Error => रनटाईम त्रुटि
+Stop Iteration => आईटरेशन रोकें
+Syntax Error => सिंटैक्स त्रुटि
+Type Error => प्रकार त्रुटि
+Value Error => मान त्रुटि
+
+
+Syntax Error => वाक्य गलती
+Tab Error => टैब त्रुटि
+System Error => सिस्टम त्रुटि
+System Exit => सिस्टम बाहर निकलें
+Type Error => प्रकार त्रुटि
+Unbound Local Error => असंबद्ध स्थानीय त्रुटि
+Unicode Error => यूनीकोड त्रुटि
+Unicode Encode Error => यूनीकोड एनकोड त्रुटि
+Unicode Decode Error => यूनीकोड डीकोड त्रुटि
+Unicode Translate Error => यूनीकोड अनुवाद त्रुटि
+
+
+Value Error: मान त्रुटि
+Zero Division Error: शून्य विभाजन त्रुटि

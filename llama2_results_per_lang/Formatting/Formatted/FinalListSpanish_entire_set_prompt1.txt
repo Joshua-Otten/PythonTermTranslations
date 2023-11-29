@@ -1,0 +1,50 @@
+valor absoluto
+todos
+cualquier
+ASCII
+binario
+booleano
+tabla de bytes
+bytes
+llamable
+carácter
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+dividir módulo
+enumerar
+evaluar
+ejecutar
+filtro
+punto flotante
+formato
+conjunto congelado
+obtener atributo
+globales
+tiene atributo
+hash
+ayuda
+hexadecimal
+identidad
+entrada
+entero
+es una instancia
+es una subclase
+iteración
+longitud
+lista
+locales
+mapa
+máximo
+vista de memoria
+mínimo
+siguiente
+objeto
+octal
+abierto
+ordinal
+poder
+imprimir

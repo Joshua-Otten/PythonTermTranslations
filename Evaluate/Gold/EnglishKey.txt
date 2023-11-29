@@ -1,0 +1,222 @@
+absolute value
+all
+any
+ascii
+binary
+boolean
+byte array
+bytes
+callable
+character
+class method
+compile
+complex
+delete attribute
+dictionary
+directory
+divide modulus
+enumerate
+evaluate
+execute
+filter
+floating point
+format
+frozen set
+get attribute
+globals
+has attribute
+hash
+help
+hexadecimal
+identity
+input
+integer
+is instance
+is subclass
+iterator
+length
+list
+locals
+map
+maximum
+memory view
+minimum
+next
+object
+octal
+open
+ordinal
+power
+print
+property
+range
+represent
+reversed
+round
+set
+set attribute
+slice
+sorted
+static method
+string
+summation
+superset
+tuple
+type
+variables
+zip
+capitalize
+case fold
+center
+count
+encode
+ends with
+expand tabs
+find
+format map
+index
+is alphanumeric
+is alphabetic
+is ascii
+is decimal
+is digit
+is identifier
+is lower
+is numeric
+is printable
+is space
+is title
+is uppercase
+join
+left justify
+lower
+left strip
+make translation
+partition
+replace
+reverse find
+reverse index
+right justify
+right partition
+right split
+right strip
+split
+split lines
+starts with
+strip
+swap case
+title
+translate
+uppercase
+zero fill
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+sort
+from keys
+get
+items
+keys
+pop item
+set default
+update
+values
+add
+difference
+difference update
+discard
+intersection
+intersection update
+is disjoint
+is subset
+is superset
+symmetric difference
+symmetric difference update
+union
+close
+detach
+file number
+flush
+is interactive
+read
+readable
+read line
+read lines
+seek
+seekable
+tell
+truncate
+writable
+write
+write lines
+and
+as
+assert
+break
+class
+continue
+define
+delete
+else if
+else
+except
+False 
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+None
+non-local
+not
+or
+pass
+raise exception
+return
+True 
+try
+while
+with
+yield
+Arithmetic Error
+Assertion Error
+Attribute Error
+Exception
+End Of File Error
+Floating Point Error
+Generator Exit
+Import Error
+Indentation Error
+Index Error
+Key Error
+Keyboard Interrupt
+Lookup Error
+Memory Error
+Name Error
+Not Implemented Error
+OS Error
+Overflow Error
+Reference Error
+Runtime Error
+Stop Iteration
+Syntax Error
+Tab Error
+System Error
+System Exit
+Type Error
+Unbound Local Error
+Unicode Error
+Unicode Encode Error
+Unicode Decode Error
+Unicode Translate Error
+Value Error
+Zero Division Error

@@ -1,0 +1,222 @@
+valeur absolue
+tous
+algunos
+ASCII
+binaire
+booléen
+tableau de bytes
+octets
+appelable
+caractère
+méthode de classe
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser par modulo
+énumérer
+évaluer
+exécuter
+filtre
+nombre à virgule flottante
+formatage
+ensemble figé
+obtenir attribut
+variables globales
+a attribut
+hachage
+aide
+hexadécimal
+identité
+entrée
+entier
+est une instance
+est une sous-classe
+itérateur
+longueur
+liste
+variables locales
+carte
+maximum
+vision de mémoire
+minimum
+prochain
+objet
+octal
+ouvert
+ordinal
+puissance
+impression
+propriété
+plage
+représenter
+inverse
+arrondir
+ensemble
+attribut d'ensemble
+tranches
+trier
+méthode statique
+chaîne de caractères
+somme
+ensemble contenant tous les éléments d'un autre ensemble
+tupla
+type
+variables
+zipper
+mettre en majuscules
+rabattre en minuscule
+centrer
+compter
+encoder
+se termine par
+élargir les onglets
+trouver
+carte de formatage
+indice
+est-alphanumérique
+est-alphabetique
+est-ASCII
+est décimal
+est un chiffre
+est un identificateur
+est en bas
+est numérique
+est imprimable
+est une espace
+est un titre
+est en majuscule
+fusionner
+justifier à gauche
+inférieur
+retirer à gauche
+faire une traduction
+partitionner
+remplacer
+trouver en sens inverse
+index inversé
+justifier à droite
+partager à droite
+splitage à droite
+suppression à droite
+splitter
+diviser en lignes
+commence par
+supprimer
+échanger les cases
+titre
+traduire
+majuscule
+fill with zeros
+Ajouter (to add)
+Effacer (to erase)
+Copier (to copy)
+Prolonger (to prolong)
+Insérer (to insert)
+Retirer (to withdraw)
+Enlever (to remove)
+Inverser (to invert)
+Tri (to sort)
+de
+cles
+obtenir
+éléments
+retirer un élément
+définir par défaut
+mettre à jour
+valeurs
+ajouter
+différence
+Mise à jour de la différence
+Éliminer
+Intersection
+Mise à jour de l'intersection
+Est disjoint
+Est un sous-ensemble
+Est un ensemble contenant
+Différence symétrique
+Mise à jour de la différence symétrique
+Union
+fermer
+déconnecter
+numéro de fichier
+effacer
+est-ce qu'il est interactif?
+lire
+lisible
+lecture de la ligne
+lecture des lignes
+chercher
+accessible
+raconter
+tronquer
+writable
+écrire
+écrire des lignes
+et
+-
+affirmer
+briser
+Classe
+Continuer
+Définir
+Supprimer
+Si...sinon
+Sinon
+Sauf
+Faux
+Enfin
+Pour
+de
+mondial
+si
+importer
+dans
+est
+lambda
+aucun
+non-lokal
+ne... pas
+ou
+passe
+lever une exception
+renvoyer
+vrai
+essayer
+pendant
+avec
+rendre
+Erreur arithmétique
+Erreur d'assertion
+Erreur d'attribut
+Exception
+Erreur de fin de fichier
+Erreur de point flottant
+Fin de générateur
+Erreur d'importation
+Erreur de mise en forme
+Erreur d'indexation
+Erreur de clé
+Interruption de clavier
+Erreur de recherche
+Erreur de mémoire
+Erreur de nom
+Erreur non implémentée
+Erreur système
+Erreur de débordement
+Erreur de référence
+Erreur runtime
+Arrêt de l'itération
+Erreur de syntaxe
+Erreur de tabulation
+Erreur système
+Sortie du système
+Erreur de type
+Erreur de variable locale non liée
+Erreur Unicode
+Erreur d'encodage Unicode
+Erreur de décodage Unicode
+Erreur de traduction Unicode
+Erreur de valeur
+Erreur de division par zéro

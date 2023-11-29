@@ -1,0 +1,110 @@
+.
+
+Absolute value => απόλυτη τιμή
+All => όλα
+Any => οποιαδήποτε
+ASCII => ASCII
+Binary => δυαδικό
+Boolean => Μπουλέαν
+Byte array => πίνακας byte
+Bytes => bytes
+Callable => κλήσιμο
+Character => χαρακτήρας
+.
+
+Class Method => μέθοδος κλάσης, Compile => κατακερματίστε, Complex => σύνθετο, Delete Attribute => διαγράψτε το χαρακτηριστικό, Dictionary => λεξικό, Directory => κατάλογος, Divide Modulus => διαιρέστε το μόδουλο, Enumerate => αρίθμηση, Evaluate => αξιολόγηση, Execute => εκτέλεση.
+.
+
+Filter => Φίλτρο, Floating Point => Πλευρικής Τιμής, Format => Μορφοποίηση, Frozen Set => Παγωμένο Σύνολο, Get Attribute => Πάρε Χαρακτηριστικό, Globals => Καθολικά, Has Attribute => Έχει Χαρακτηριστικό, Hash => Κατακερματισμός, Help => Βοήθεια, Hexadecimal => Εξαδική.
+.
+
+Identity => ταυτότητα, Input => είσοδος, Integer => ακέραιος, Is Instance => είναι στιγμιότυπο, Is Subclass => είναι υποκλάση, Iterator => επαναληπτής, Length => μήκος, List => λίστα, Locals => τοπικοί, Map => χάρτης.
+, range, round, set, slice, string.
+
+Maximum => μέγιστο, Memory View => Προβολή μνήμης, Minimum => ελάχιστο, Next => επόμενο, Object => αντικείμενο, Octal => οκταδικό, Open => ανοιξε, Ordinal => διάταξης, Power => δύναμη, Print => τύπωσε, Range => εύρος, Round => στρογγυλή, Set => ορισμός, Slice => φέτα, String => συμβολοσειρά.
+.
+
+Property => Ιδιότητα, Range => Εύρος, Represent => Αναπαράσταση, Reversed => Ανεστραμμένο, Round => Στρογγυλοποίηση, Set => Σύνολο, Set Attribute => Ορισμός Ιδιότητας, Slice => Κομμάτι, Sorted => Ταξινομημένο, Static Method => Στατική Μέθοδος.
+
+
+String => Συμβολοσειρά, Summation => Άθροιση, Superset => Υπερσύνολο, Tuple => Συμβολοσειρά διαστάσεων, Type => Τύπος, Variables => Μεταβλητές, Zip => Συμπίεση, Capitalize => Κεφαλαία, Case Fold => Συμπίεση Πεζών, Center => Κεντράρισμα.
+, is digit, is identifier, is lower, is numeric, is space, is title, is upper.
+
+count => μετρήσεις, encode => κωδικοποίηση, ends with => τελειώνει με, expand tabs => επεκτείνετε τα tabs, find => βρείτε, format map => χάρτης μορφοποίησης, index => δείκτης, is alphanumeric => είναι αλφαριθμητικό, is alphabetic => είναι αλφαβητικό, is ascii => είναι ASCII, is digit => είναι ψηφίο, is identifier => είναι αναγνωριστικό, is lower => είναι χαμηλό, is numeric => είναι αριθμητικό, is space => είναι διάστημα, is title => είναι τίτλος, is upper => είναι άνω.
+.
+
+is decimal => είναι δεκαδικό
+is digit => είναι ψηφίο
+is identifier => είναι αναγνωριστικό
+is lower => είναι μικρό
+is numeric => είναι αριθμητικό
+is printable => είναι εκτυπώσιμο
+is space => είναι κενό
+is title => είναι τίτλος
+is uppercase => είναι κεφαλαία
+join => συνδέσου
+.
+
+Left justify => Αριστερή ισορροπία, Lower => Μείωση, Left strip => Αριστερή στήλη, Make translation => Δημιουργία μετάφρασης, Partition => Διαίρεση, Replace => Αντικατάσταση, Reverse find => Αντίστροφη εύρεση, Reverse index => Αντίστροφος δείκτης, Right justify => Δεξιά ισορροπία, Right partition => Δεξιά διαίρεση.
+.
+
+right split => διαίρεση δεξιά, right strip => απομάκρυνση δεξιά, split => διαίρεση, split lines => διαίρεση γραμμών, starts with => ξεκινά με, strip => απομάκρυνση, swap case => αντιστροφή κεφαλαίων, title => τίτλος, translate => μεταφράστε, uppercase => κεφαλαία.
+
+
+Zero fill => μηδενισμός, Append => Προσάρτηση, Clear => Καθαρισμός, Copy => Αντιγραφή, Extend => Επέκταση, Insert => Εισαγωγή, Pop => Αναστολή, Remove => Αφαίρεση, Reverse => Αναστροφή, Sort => Ταξινόμηση.
+.
+
+From: από
+Get: αποκτήστε
+Items: στοιχεία
+Keys: κλειδιά
+Pop Item: ανακτήστε το στοιχείο
+Set Default: ορίστε το προεπιλεγμένο
+Update: ενημέρωση
+Values: τιμές
+Add: προσθήκη
+Difference: διαφορά
+.
+
+Διαφορά ενημέρωσης, απορρίπτω, τομή, ενημέρωση τομής, είναι ασύνδετο, είναι υπομονάδα, είναι υπερμονάδα, ισοσκελής διαφορά, ενημέρωση ισοσκελούς διαφοράς, ένωση.
+, write, writable.
+
+close => κλείσιμο, detach => αποσυνδέση, file number => αριθμός αρχείου, flush => ξεπλήρωση, is interactive => είναι διαδραστικό, read => ανάγνωση, readable => αναγνώσιμο, read line => ανάγνωση γραμμής, read lines => ανάγνωση γραμμών, seek => αναζήτηση, write => γράψιμο, writable => εγγράψιμο.
+.
+
+Seekable => Αναζητήσιμο, Tell => Πείτε, Truncate => Στραγγίζω, Writable => Εγγράψιμο, Write => Γράψτε, Write Lines => Γράψτε γραμμές, And => Και, As => Ως, Assert => Πιστεύω, Break => Παρακαλώ.
+, from, global, if, import, in, is, lambda, None, pass, raise, return, True.
+
+Class => Κλάση, Continue => Συνέχισε, Define => Ορίστε, Delete => Διαγράψτε, Else if => Αλλιώς Αν, Else => Αλλιώς, Except => Εκτός, False => Ψευδές, Finally => Τέλος, For => Για, From => Από, Global => Καθολικό, If => Αν, Import => Εισαγωγή, In => Σε, Is => Είναι, Lambda => Λάμδα, None => Κανένα, Pass => Περάστε, Raise => Αναγκάστε, Return => Επιστροφή, True => Αληθές.
+, or, pass, raise, return, try.
+
+From: από
+Global: καθολικό
+If: αν
+Import: εισαγωγή
+In: μέσα
+Is: είναι
+Lambda: λάμδα
+None: κανένα
+Non-local: μη-τοπικό
+Not: μη
+Or: ή
+Pass: περάσει
+Raise: αναγέννηση
+Return: επιστροφή
+Try: δοκιμάστε
+.
+
+or => ή, pass => παρέλαβε, raise exception => αναγκάστε εξαίρεση, return => επιστροφή, True => Αληθής, try => προσπαθήστε, while => ενώ, with => με, yield => δώσε, Arithmetic Error => Αριθμητικό Λάθος.
+, Name Error, Recursion Error, Runtime Error, Stop Iteration Error.
+
+Assertion Error => Λάθος Απόλυσης, Attribute Error => Λάθος Χαρακτηριστικού, Exception => Εξαίρεση, End Of File Error => Λάθος Τέλους Αρχείου, Floating Point Error => Λάθος Πλειάδας Πόντων, Generator Exit => Έξοδος Γεννήτριας, Import Error => Λάθος Εισαγωγής, Indentation Error => Λάθος Εσοχής, Index Error => Λάθος Ευρετηρίου, Key Error => Λάθος Κλειδιού, Name Error => Λάθος Ονόματος, Recursion Error => Λάθος Αναδρομής, Runtime Error => Λάθος Εκτέλεσης, Stop Iteration Error => Λάθος Παύσης Επανάληψης.
+, Syntax Warning.
+
+Διακοπή Πληκτρολογίου, Σφάλμα Αναζήτησης, Σφάλμα Μνήμης, Σφάλμα Ονόματος, Σφάλμα Μη Υλοποιημένο, Σφάλμα Λειτουργικού Συστήματος, Υπερχείλιση Σφάλματος, Σφάλμα Αναφοράς, Σφάλμα Εκτέλεσης, Σταμάτημα Επανάληψης, Προειδοποίηση Σύνταξης.
+.
+
+Συντακτικό λάθος, Λάθος Καρτέλας, Σφάλμα Συστήματος, Έξοδος Συστήματος, Λάθος Τύπου, Λάθος μη Συνδεδεμένου Τοπικού, Λάθος Unicode, Λάθος Κωδικοποίησης Unicode, Λάθος Αποκωδικοποίησης Unicode, Λάθος Μετάφρασης Unicode.
+, Iterator
+
+Value Error => Λάθος Τιμής, Zero Division Error => Λάθος Μηδενικού Διαίρεσης, Iterator => Επαναληπτής

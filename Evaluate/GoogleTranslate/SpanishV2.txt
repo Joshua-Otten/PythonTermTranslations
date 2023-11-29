@@ -1,0 +1,222 @@
+valor absoluto
+todos
+cualquiera
+ascii
+binario
+booleano
+matriz de bytes
+bytes
+llamable
+carácter
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+divide el módulo
+enumerado
+evaluar
+ejecutar
+filtro
+punto flotante
+formato
+conjunto congelado
+get attribute
+globals
+tiene atributo
+hash
+ayuda
+hexadecimal
+identidad
+entrada
+entero
+es instancia
+es subclase
+iterador
+longitud
+lista
+locals
+mapa
+máximo
+vista de memoria
+mínimo
+siguiente
+objeto
+octal
+abrir
+ordinal
+potencia
+imprimir
+propiedad
+rango
+representar
+invertido
+ronda
+establecer
+establecer atributo
+slice
+ordenado
+método estático
+cadena
+suma
+superset
+tuple
+tipo
+variables
+zip
+capitalizar
+doble de casos
+centro
+recuento
+codificar
+termina con
+expandir pestañas
+buscar
+mapa de formato
+índice
+es alfanumérico
+es alfabético
+es ascii
+es decimal
+es dígito
+es identificador
+es más bajo
+es numérico
+es imprimible
+es espacio
+es título
+es mayúscula
+únete
+left justify
+inferior
+fuera izquierda
+hacer traducción
+partición
+reemplazar
+reverse buscar
+índice inverso
+justificar correcto
+partition correcta
+división derecha
+dirección derecha
+división
+líneas divididas
+comienza con
+strip
+caso de intercambio
+título
+traducir
+mayúsculas
+cero relleno
+agregar
+borrar
+copia
+extender
+insertar
+pop
+eliminar
+reverso
+ordenar
+desde las claves
+get
+elementos
+keys
+elemento pop
+establecer predeterminado
+actualización
+valores
+agregar
+diferencia
+actualización de diferencia
+descartar
+intersección
+actualización de intersección
+es disjunto
+es subconjunto
+es superset
+diferencia simétrica
+actualización de diferencia simétrica
+unión
+cerrar
+separar
+número de archivo
+flush
+es interactivo
+leer
+legable
+leer línea
+leer líneas
+buscar
+solicitable
+decir
+truncar
+writity
+escribir
+escribir líneas
+y
+as
+afirmar
+break
+clase
+continuar
+definir
+eliminar
+más si
+más
+excepto
+falso
+finalmente
+para
+de
+global
+si
+importar
+en
+es
+lambda
+ninguno
+no local
+no
+o
+pase
+aumentar la excepción
+regreso
+verdadero
+prueba
+mientras
+con
+rendimiento
+error aritmético
+error de afirmación
+error de atributo
+excepción
+error de finalización del archivo
+error de punto flotante
+salida del generador
+error de importación
+error de sangría
+error de índice
+error de clave
+interrupción del teclado
+error de búsqueda
+error de memoria
+error de nombre
+error no implementado
+error del sistema operativo
+error de desbordamiento
+error de referencia
+error de tiempo de ejecución
+stop iteración
+error de sintaxis
+error de pestaña
+error del sistema
+salida del sistema
+error de tipo
+error local no unido
+error unicode
+error de codificación de unicode
+error de decodificación de unicode
+unicode traducir error
+error de valor
+error de división cero

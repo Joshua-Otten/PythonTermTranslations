@@ -1,0 +1,85 @@
+.
+
+निरपेक्ष मान, सभी, कोई भी, अस्की, बाइनरी, बूलियन, बाइट अरे, बाइट्स, कॉलेबल, वर्ण.
+, float.
+
+Class Method => वर्ग विधि, Compile => संकल्पना, Complex => जटिल, Delete Attribute => गुण हटाएँ, Dictionary => शब्दकोश, Directory => निर्देशिका, Divide Modulus => भागना अंश, Enumerate => सांख्यिकीय करें, Evaluate => मूल्यांकन करें, Execute => निष्पादित करें, Float => फ्लोट.
+.
+
+Filter => फिल्टर, Floating Point => फ्लोटिंग पॉइंट, Format => स्वरूप, Frozen Set => फ्रोजन सेट, Get Attribute => गेट एट्रिब्यूट, Globals => वैश्विक, Has Attribute => हैस एट्रिब्यूट, Hash => हैश, Help => सहायता, Hexadecimal => षड्यंत्रीक.
+.
+
+Identity => पहचान, Input => इनपुट, Integer => पूर्णांक, Is Instance => इस उदाहरण है, Is Subclass => इस उपक्रम है, Iterator => इंटरेटर, Length => लंबाई, List => सूची, Locals => स्थानीय, Map => नक्शा.
+
+
+Maximum => अधिकतम, Memory View => स्मृति_दर्शन, Minimum => न्यूनतम, Next => अगला, Object => वस्तु, Octal => अष्टिकी, Open => खोलें, Ordinal => क्रमांकीय, Power => घात, Print => प्रिंट
+.
+
+लेखन, सीमा, प्रतिनिधित्व करना, उलटा हुआ, गुणक, विशेषता सेट करना, कटाव, क्रमित, स्थायी विधि.
+, count.
+
+स्ट्रिंग, योग, सुपरसेट, ट्यूपल, प्रकार, चर, ज़िप, कैपिटलाइज, केस फोल्ड, सेंटर, गिनती
+
+
+, is digit
+
+count => गणना, encode => एन्कोड, ends with => के साथ समाप्त, expand tabs => टैब्स विस्तार, find => ढूंढें, format map => फॉर्मेट मैप, index => अनुक्रम, is alphanumeric => अक्षरांकीय है, is alphabetic => वर्णमाला है, is ascii => एसकीआई है, is digit => अंक है.
+.
+
+is decimal => है दशमलव, is digit => है अंक, is identifier => है पहचानकर्ता, is lower => है निचे, is numeric => है संख्यात्मक, is printable => है मुद्रित करने योग्य, is space => है रिक्त स्थान, is title => है शीर्षक, is uppercase => है ऊपरी, join => जोड़ना
+.
+
+Left Justify => बायें समझाएं, Lower => नीचे, Left Strip => बायें छिन्न करें, Make Translation => अनुवाद बनाएं, Partition => विभाजन, Replace => बदलें, Reverse Find => उल्टा खोजें, Reverse Index => उल्टी सूचकांक, Right Justify => दायें समझाएं, Right Partition => दायें विभाजन.
+.
+
+right split => दायीं विभाजित, right strip => दायीं निकालें, split => विभाजित, split lines => पंक्तियाँ विभाजित, starts with => से शुरू होता है, strip => निकालें, swap case => केस बदलें, title => शीर्षक, translate => अनुवाद करें, uppercase => अपरकेस.
+
+
+Zero fill => शून्य भरना, Append => जोड़ना, Clear => साफ करना, Copy => प्रतिलिपि बनाना, Extend => विस्तार करना, Insert => डालना, Pop => हटाना, Remove => निकालना, Reverse => उलटना, Sort => छंटना.
+.
+
+From Keys => कुंजीयों से, Get => प्राप्त करें, Items => आइटम्स, Keys => कुंजीयाँ, Pop Item => आइटम हटाएँ, Set Default => डिफ़ॉल्ट सेट करें, Update => अपडेट करें, Values => मान, Add => जोड़ें, Difference => अंतर.
+.
+
+difference update => भिन्नता_अपडेट, discard => त्याग, intersection => आंशिक_मिलाप, intersection update => आंशिक_मिलाप_अपडेट, is disjoint => अलग_है, is subset => उपसमुच्च_है, is superset => उपरमुच्च_है, symmetric difference => समक्ष_भिन्नता, symmetric difference update => समक्ष_भिन्नता_अपडेट, union => संयुक्त.
+, write, writable.
+
+close => बंद करें, detach => अलग करें, file number => फ़ाइल नंबर, flush => फ्लश करें, is interactive => अनुकूलनीय है, read => पढ़ें, readable => पढ़ने योग्य, read line => पंक्ति पढ़ें, read lines => पंक्तियाँ पढ़ें, seek => ढूँढें, write => लिखें, writable => लिखने योग्य.
+.
+
+seekable => खोजने योग्य, tell => बताओ, truncate => कटाओ, writable => लिखने योग्य, write => लिखो, write lines => पंक्तियाँ लिखो, and => और, as => जैसा, assert => दावा करो, break => तोड़ो.
+.
+
+class => वर्ग, continue => जारी रखें, define => परिभाषित करें, delete => हटाएँ, else if => अन्यथा यदि, else => अन्यथा, except => छोड़कर, False => गलत, finally => अंत में, for => लिए.
+, or, pass, raise, return, True.
+
+From: से
+Global: वैश्विक
+If: अगर
+Import: आयात
+In: में
+Is: है
+Lambda: लाम्ब्डा
+None: कोई नहीं
+Non-local: अल्पस्थानीय
+Not: नहीं
+Or: या
+Pass: पास
+Raise: उठाना
+Return: लौटना
+True: सही
+
+
+या, पास, अपवाद उठाना, लौटना, सच, कोशिश करना, जबतक, साथ, उपजाऊं, गणित त्रुटि,
+.
+
+Assertion Error => आशय_त्रुटि, Attribute Error => विशेषता_त्रुटि, Exception => अपवाद, End Of File Error => फाइल_समाप्ति_त्रुटि, Floating Point Error => फ्लोटिंग_पॉइंट_त्रुटि, Generator Exit => जनरेटर_निकास, Import Error => आयात_त्रुटि, Indentation Error => इंडेंटेशन_त्रुटि, Index Error => सूचकांक_त्रुटि, Key Error => कुंजी_त्रुटि.
+, Syntax Warning.
+
+कुंजीपटल निरस्त्रीकरण, खोज त्रुटि, स्मृति त्रुटि, नाम त्रुटि, नहीं लागू त्रुटि, ऑपरेटिंग सिस्टम त्रुटि, अधिलंबन त्रुटि, संदर्भ त्रुटि, रनटाइम त्रुटि, रुकावट आइटरेशन, वाक्यविन्यास चेतावनी.
+.
+
+Syntax Error => वाक्यविन्यास त्रुटि, Tab Error => टैब त्रुटि, System Error => सिस्टम त्रुटि, System Exit => सिस्टम बाहर निकलें, Type Error => प्रकार त्रुटि, Unbound Local Error => असंबद्ध स्थानीय त्रुटि, Unicode Error => यूनिकोड त्रुटि, Unicode Encode Error => यूनिकोड एन्कोड त्रुटि, Unicode Decode Error => यूनिकोड डिकोड त्रुटि, Unicode Translate Error => यूनिकोड अनुवाद त्रुटि.
+, Mutable, Immutable.
+
+Value Error => मान त्रुटि, Zero Division Error => शून्य विभाजन त्रुटि

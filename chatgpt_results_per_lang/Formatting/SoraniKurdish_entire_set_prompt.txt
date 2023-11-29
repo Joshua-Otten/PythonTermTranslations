@@ -1,0 +1,307 @@
+, class method, compile, complex, delete attribute, dictionary, directory, divide modulus, enumerate, evaluate, execute, filter, floating point, format, frozen set, get attribute, globals, has attribute, hash, help, hexadecimal, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip
+
+Absolute value => کری گرانی, All => همه, Any => هیچ, ASCII => ASCII, Binary => دوهزاری, Boolean => بولین, Byte array => آرایه‌ی بایت, Bytes => بایت‌ها, Callable => قابل فراخوانی, Character => حرف, Class method => شیوه‌ی کلاس, Compile => کامپایل کردن, Complex => پیچیده, Delete attribute => ویژگی حذف کردن, Dictionary => واژه‌نامه, Directory => پوشه, Divide modulus => باقی‌مانده‌ی تقسیم, Enumerate => شمارش کردن, Evaluate => ارزیابی کردن, Execute => اجرا کردن, Filter => فیلتر کردن, Floating point => نقطه‌ی شناور, Format => فرمت, Frozen set => مجموعه‌ی بسته‌شده, Get attribute => ویژگی دریافت کردن, Globals => جهانی‌ها, Has attribute => دارای ویژگی, Hash => هش, Help => کمک, Hexadecimal => شانزده‌بنی, Identity => هویت, Input => ورودی, Integer => عدد صحیح, Is instance => یک نمونه است, Is subclass => یک زیرکلاس است, Iterator => تکرارکننده, Length => طول, List => فهرست, Locals => محلی‌ها, Map => نقشه, Maximum => حداکثر, Memory view => نمایش حافظه, Minimum => حداقل, Next => بعدی, Object => شی, Octal => هشت‌بایتی, Open => باز, Ordinal => اولویت, Power => قدرت, Print => چاپ کردن, Property => ویژگی, Range => بازه, Represent => نشان دادن, Reversed => معکوس, Round => گرد کردن, Set => مجموعه, Set attribute => ویژگی تنظیم کردن, Slice => برش, Sorted => مرتب شده, Staticzmethod => شیوه‌ی استاتیک, String => رشته, Summation =>
+, filter, floating point, format, frozen set, get attribute, globals, has attribute, hash, help, hexadecimal, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Class Method => Métodê Kelasê, Compile => Kompîl, Complex => Komplîks, Delete Attribute => Atributê Jêbirin, Dictionary => Ferheng, Directory => Dîrêktore, Divide Modulus => Modulê Bûna, Enumerate => Numre bikin, Evaluate => Bicîh bikin, Execute => Bikar bînin, Filter => Fîltre, Floating Point => Nîvê Flotî, Format => Formate, Frozen Set => Seta Jêkirinê, Get Attribute => Atributê Bikirin, Globals => Global, Has Attribute => Atributa Heye, Hash => Hash, Help => Alîkarî, Hexadecimal => Heksadecîmal, Identity => Identîte, Input => Input, Integer => Integer, Is Instance => Instance e?, Is Subclass => Subclass e?, Iterator => Iterator, Length => Dirêjî, List => Lîste, Locals => Lokal, Map => Map, Maximum => Maksîmum, Memory View => Dîtina Zîhnê, Minimum => Mînîmum, Next => Pêşîn, Object => Objek, Octal => Octal, Open => Veke, Ordinal => Ordînal, Power => Pûan, Print => Çap bikin, Property => Xasîete, Range => Range, Represent => Reprezant, Reversed => Berê, Round => Rûnd, Set => Set, Set Attribute => Atributê Dîtin, Slice => Slîs, Sorted => Sot, Static Method => Métoda Statîk, String => String, Summation => Hemûbûn, Superset => Superset, Tuple => Tuple, Type => Cûre, Variables => Vêriables, Zip => Zip, Capitalize => Bikarhênerê, Case Fold => Kase Fold, Center => Navend, Count => Hejmara, Encode => Kodekirin, Ends With => Biqedîne, Expand Tabs
+, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Filter => فیلتر, Floating Point => نقطہ لرزون, Format => فارمات, Frozen Set => سیٹ جمع, Get Attribute => صفات کو لے لو, Globals => گلوبلز, Has Attribute => صفات کے ہونے, Hash => ہیش, Help => مدد, Hexadecimal => شیکسادشنال, Identity => شناخت, Input => داخلہ, Integer => انٹیجر, Is Instance => ایک نمونہ ہے, Is Subclass => ذیلی کلاس ہے, Iterator => ایٹریٹر, Length => لمبائی, List => فہرست, Locals => مقامی, Map => نقشہ, Maximum => زیادہ سے زیادہ, Memory View => ذخیرہ دیکھیں, Minimum => کم سے کم, Next => اگلا, Object => شے, Octal => اوکٹل, Open => کھولیں, Ordinal => ترتیبی, Power => قوت, Print => پرنٹ کریں, Property => جائزہ, Range => حدود, Represent => کیا نشان دے, Reversed => برعکس, Round => گرد, Set => سیٹ, Set Attribute => صفات 
+, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Identity => هەستی, Input => وردەکاری, Integer => ژمارەیی, Is Instance => هەیە کۆکراوە, Is Subclass => هەیە زیادکاری, Iterator => فراوانکار, Length => درێژی, List => لیست, Locals => مۆڵەتیان, Map => ناوبەری, Maximum => کەمترین, Memory View => دیدەی بەشداری, Minimum => کەمترین, Next => دواتر, Object => بەرکار, Octal => سەدانی, Open => کردنەوە, Ordinal => داواکاری, Power => قووڵتی, Print => چاپکردن, Property => خاسیەت, Range => بۆشایی, Represent => نیشاندەدات, Reversed => بگەڕدراوە, Round => گرۆک, Set => دانان, Set Attribute => دانانی خاسیەت, Slice => بۆشایی, Sorted => دەستنیشان کراو, Static Method => شێوازی یانجامدان, String => دەق, Summation => جێگرەوە, Superset => بۆشایی زیاتر, Tuple => تووپێ
+, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Maximum => زۆرترین
+Memory View => دیدەی حەیا
+Minimum => زۆرترین
+Next => دواتر
+Object => ئاسایش
+Octal => ئۆکتال
+Open => بکەوە
+Ordinal => سەرجەمی
+Power => قووت
+Print => چاپ
+Property => خاسیەت
+Range => دێڕ
+Represent => نیشاندان
+Reversed => پێچاو
+Round => نێوان
+Set => دابنێ
+Set Attribute => خاسیەتی دابنێ
+Slice => بچووک
+Sorted => دەستنیشانکراو
+StaticxMethod => شێوازی جیاواز
+String => دەق
+Summation => جێگیر
+Superset => سوپەرسێت
+Tuple => تووپل
+Type => جۆر
+Variables => گشتییەکان
+Zip => زیپ
+Capitalize => نووسینی بچووک
+Case Fold => کەس فۆڵد
+Center => ناوەڕاست
+Count => دانراو
+Encode => نووسین
+Ends With => دەنێوە بە
+Expand Tabs => تابەکان گەڕاندنەوە
+Find => گەڕان
+Format Map => ناوەڕۆکی ناوبەش
+Index => شوێن
+Is Alphanumeric => ئەوەی ل
+, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield.
+
+Property => خاسیت, Range => دۆزه‌ره‌وه‌, Represent => نیشاندان, Reversed => پێچوون, Round => گۆران, Set => دانان, Set Attribute => دانانی خاسیت, Slice => بڕین, Sorted => دەستهێڵ, StaticyMethod => شێوازی ئاسایی, String => ده‌ستكاری, Summation => جۆرجێکردن, Superset => سوپەرسێت, Tuple => دووجۆر, Type => جۆر, Variables => گۆڕاوه‌كان, Zip => زیپ, Capitalize => ناوی نیشاندان, Case Fold => پێچوونی نیشاندان, Center => ناوهێڵ, Count => داشکاندن, Encode => له‌به‌سته‌ردان, Ends With => ده‌هاتووه‌, Expand Tabs => پێچوونی پێچه‌وه‌, Find => ده‌یاندن, Format Map => شێوازی ناوه‌ڕۆك, Index => نمایش, Is Alphanumeric => نووسه‌ری نه‌شانه‌دان, Is Alphabetic => ئه‌لفابیتیک, Is Ascii => یه‌سسی, Is Decimal => ده‌سه‌می, Is Digit => بۆرد, Is Identifier => ناسنامه‌کار, Is Lower => کۆمه‌ڵ, Is Numeric => ژماره‌یی, Is Printable => پێشکه‌وتنی, Is Space => فاصله‌, Is Title => سه‌ردێڕ, Is Uppercase => له‌به‌ش, Join => جووه‌ن, Left Justify => دۆزینه‌وه‌ی چه‌
+, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+String => نووسە
+Summation => بەشداری
+Superset => سوپەرسێت
+Tuple => تووپل
+Type => جۆر
+Variables => گۆڕانکاری
+Zip => ژیپ
+Capitalize => ناوی گه‌وڕێنە
+Case fold => ناوی کۆمەڵ
+Center => ناوخۆ
+Count => بەشداری
+Encode => کۆدکردن
+Ends with => ده‌هێزده‌وه‌
+Expand tabs => هاوتای په‌ڕگه‌کان پڕبکه‌وه‌
+Find => گه‌ڕان
+Format map => ناوچه‌ی فۆرمات
+Index => نمایش
+Is alphanumeric => ئه‌لفانومێریکیه‌؟
+Is alphabetic => ئه‌لفابێتیه‌؟
+Is ascii => ASCIIه‌؟
+Is decimal => ژمارەیه‌؟
+Is digit => ئاماژۆیه‌؟
+Is identifier => ناسنامه‌کاریه‌؟
+Is lower => ناوەکی بچووكه‌؟
+Is numeric => ژماره‌یه‌؟
+Is printable => چاپکراوه‌؟
+Is space => فاصله‌؟
+Is title => سه‌ردێڕه‌؟
+Is uppercase => ناوەکی بژووره‌؟
+Join => جوون
+, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Count => شمارش, Encode => راستنووسی, Ends With => با پایان دهە, Expand Tabs => پێکهاتەکان گەورەکردن, Find => گەڕان, Format Map => ناوبری فۆرمات, Index => بنچینە, Is Alphanumeric => الفانومریکە, Is Alphabetic => ئەلفابیتیکە, Is Ascii => ئەسسی, Is Decimal => دیسیمالی, Is Digit => دۆزەرەوە, Is Identifier => دیاریکراوە, Is Lower => کەمە, Is Numeric => ژمارە, Is Printable => پیشاندراوە, Is Space => فضا, Is Title => سەردێڕ, Is Uppercase => گەورە, Join => بەشداریکردن, Left Justify => چەپکردنی چەپ, Lower => کەم, Left Strip => لابردنی چەپ, Make Translation => دەربڕین, Partition => پارتەکردن, Replace => لەبریدانان, Reverse Find => گەڕانی بەرز, Reverse Index => بنچینەی بەرز, Right Justify => چەپکردنی ڕاست, Right Partition => پارتەکردنی ڕاست, Right Split => بەشکردنی ڕاست, Right Strip => لابردنی ڕاست, Split => بەشکردن, Split Lines => بەشکردنی خطوط, Starts With => بەشێو
+, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+is decimal => کۆدی دێکێمالی, is digit => کۆدێک نرخی, is identifier => هەژمارێکی ناساندن, is lower => نووسینی بچووک, is numeric => نرخی, is printable => پێشکەوتنی, is space => فاصلە, is title => سەردێڕ, is uppercase => نووسینی گەورە, join => چوون, left justify => چەپ پێداچوونەوە, lower => نووسینی بچووک, left strip => سترۆڵی چەپ, make translation => دەستکارییەکی دەقی بکەوە, partition => پارتیشن, replace => چاکسازی, reverse find => گەڕانی بۆ دواوە, reverse index => شاخصی دواوە, right justify => ڕاست پێداچوونەوە, right partition => پارتیشنی ڕاست, right split => شکیلی ڕاست, right strip => سترۆڵی ڕاست, split => شکیل, split lines => شکیلی ڕێکخستنەکان, starts with => دەستپێکردن بە, strip => سترۆڵ, swap case => بەرگرینی نووسە, title => سەردێڕ, translate => دەستکاریی دەق, uppercase => نووسینی گەورە, zero fill => بەشداریی نییە, append => زیادکردن, clear => پا
+, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield
+
+Left justify => ستوونشتی کردن چپ, Lower => لوور, Left strip => لێدانی چپ, Make translation => دروستکردنی وەرگێڕان, Partition => پارتیشن, Replace => گواستنەوە, Reverse find => گەڕانی بگەڕش, Reverse index => نمایشگری بگەڕش, Right justify => ستوونشتی کردن ڕاست, Right partition => پارتیشنی ڕاست, Right split => بکەوەی ڕاست, Right strip => لێدانی ڕاست, Split => بکەوە, Split lines => بکەوەی لینەکان, Starts with => دەستپێکی بکەوە, Strip => لێدانی, Swap case => گواستنەوەی نیشان, Title => تێتیل, Translate => وەرگێڕان, Uppercase => بچووك, Zero fill => کردنەوەی نۆ, Append => زیادکردن, Clear => پاککردن, Copy => کاتژمێریکردن, Extend => گەورەکردن, Insert => دابنێنەوە, Pop => بەردەوامبوون, Remove => لابردن, Reverse => بگەڕش, Sort => ڕیزکردن, From keys => لە کلیلەکان, Get => دابینکردن, Items => بەرکارەکان, Keys => کلیلەکان, Pop item => بەردەوامبوونی بەرکار, Set default => دانانی پێشکەوتوو, Update => نوێکردنەوە, Values => نرخەکان, Add => زیادکردن, Difference => جیاوازی, Difference update => نوێکردنەوەی جیاوازی, Discard => نابێتەوە, Intersection => ناوچه‌کردن, Intersection update
+, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+right split => ده‌یانه‌وه‌ی ڕاست
+right strip => سڕینه‌وه‌ی ڕاست
+split => ده‌یانکردن
+split lines => ده‌یانه‌وه‌ی لێده‌ره‌كان
+starts with => ده‌ستپێکردن به‌
+strip => سڕینه‌وه‌
+swap case => دووجار بگوازه‌وه‌ی كات
+title => سه‌ردێڕ
+translate => به‌شداری
+uppercase => به‌شی بچووك
+zero fill => ده‌رچوون به‌شێوه‌ی صفر
+append => زیادکردن
+clear => پاککردن
+copy => کۆپی
+extend => ڕوونووسکردن
+insert => دابنێن
+pop => دابه‌خه‌ن
+remove => لابردن
+reverse => هێڵبکه‌وه‌
+sort => ده‌ستهێڵکردن
+from keys => له‌لایه‌ن تێکه‌ڵه‌كان
+get => له‌به‌ره‌وه‌
+items => تایبه‌ته‌كان
+keys => تێکه‌ڵه‌كان
+pop item => تایبه‌تی دابه‌خه‌ن
+set default => دانانی پێشكه‌وتوو
+update => نوێکردنه‌وه‌
+values => نرخه‌كان
+add => زیادکردن
+difference => جیاوازی
+difference update => نوێکردنه‌وه‌ی جیاوازی
+discard => نابێتی بێت
+intersection => به‌شداری
+intersection update => نوێکردنه‌وه‌ی
+, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Zero Fill => شمەختی نێوانەشە
+Append => زیادکردن
+Clear => پاککردن
+Copy => کۆپیکردنەوە
+Extend => گەورەکردن
+Insert => داخستن
+Pop => نەشرکردن
+Remove => لابردن
+Reverse => پێڕستکردن
+Sort => هێنان
+From Keys => لە کلیلەکاندا
+Get => داشتن
+Items => توخمەکان
+Keys => کلیلەکان
+Pop Item => توخمەی نەشرکردن
+Set Default => نیشاندانی پێشکەوتوو
+Update => نوێکردنەوە
+Values => نرخەکان
+Add => زیادکردن
+Difference => وەرگرتن
+Difference Update => نوێکردنەوەی وەرگرتن
+Discard => دابخە
+Intersection => گواستنەوە
+Intersection Update => نوێکردنەوەی گواستنەوە
+Is Disjoint => ناکراوە؟
+Is Subset => زیادە؟
+Is Superset => کەمە؟
+Symmetric Difference => وەرگرتنی ڕاستکار؟
+Symmetric Difference Update => نوێکردنەوەی وەرگرتنی ڕاستکار؟
+Union => بەشداری
+Close => داخستن
+Detach => جیاکردنەوە
+File Number => ژمارەی پەڕگە
+Flush => بەرزکردن
+Is Interactive => لەوانەیە گفتاری؟
+Read => خو
+, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+from keys => د كلیدونه، get => لیدنه، items => توکی، keys => كلیدونه، pop item => توکی بریدنه، set default => د پیش فرض نشون دادنه، update => اوسمهالول، values => ارزشونه، add => زیاتول، difference => فرق، difference update => اوسمهالولی فرق، discard => سپارل، intersection => داسیش، intersection update => اوسمهالولی داسیش، is disjoint => بی اندرزه، is subset => زیر مجموعه، is superset => بالاتر مجموعه، symmetric difference => فرق سیممتری، symmetric difference update => اوسمهالولی فرق سیممتری، union => اتحاد، close => بند کردنه، detach => جدا کردنه، file number => شمیره فایل، flush => فلش کردنه، is interactive => انتقالیه، read => پڑتل، readable => پڑتل بیئت، read line => پڑتلی خط، read lines => پڑتلی خطونه، seek => گردونه، seekable => گردونه بیئت، tell => بیان بزونه، truncate => کوتاه کردنه، writable => نوشتنی، write => نوشتنه، write lines => نوشتنی خطونه، and => و، as => په، assert => اعتراض کردنه، break => پر کردنه، class => کلاس، continue => چرخول، define => تعریف کردنه، delete => کشتنه، else if => هنیئ در غیر، else => هنیئ، except => جزئی، False => نادرست، finally => په نها
+
+
+Difference Update => نوسینی بدلش کردن
+Discard => ناخواسته بوون
+Intersection => نزدیکی
+Intersection Update => نزدیکی بدلش کردن
+Is Disjoint => نابەشکراوە
+Is Subset => زۆرکەی
+Is Superset => زۆرکەی زۆرتر
+Symmetric Difference => نوسینی نیشانە
+Symmetric Difference Update => نوسینی نیشانە بدلش کردن
+Union => یەکگرتن
+, seekable, tell, truncate, writable, write, write lines
+
+بند کردن، جدا کردن، نمبری په فایل، پاک کردن، چی کاری؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟؟، خوندن، قابل خوندن، خوندنی لین، خوندنیان لین، پیدا کردن، قابل پیدا کردن، بگیرن، ترک کردن، نوسین، قابل نوشتن، نوشتن، نوشتنیان لین
+, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+seekable => پێکدەخۆشێت
+tell => بنێ
+truncate => کورتکردنەوە
+writable => نووسینەوە
+write => نووسین
+write lines => نووسینی ڕێکخستنەکان
+and => و
+as => كە
+assert => داواكردن
+break => پارێزگەشتن
+class => كلاس
+continue => ئەوەی پێشەوە
+define => بەرزبنە
+delete => لابردن
+else if => ئەگەر نەخێر
+else => ئەگەر نەخێر
+except => بەنێوان
+False => نەخێر
+finally => ئەخێرا
+for => بۆ
+from => لە
+global => دەوروبەری
+if => گەر
+import => گەڕاندنەوە
+in => لە
+is => یە
+lambda => لامدا
+None => هیچ
+non-local => ناوخۆیی
+not => نەخێر
+or => یان
+pass => بڕۆ
+raise exception => ئەگەری بێجارە
+return => گەڕاندنەوە
+True => تەواو
+try => تاقیكردن
+while => داهاتووە
+with => بەهۆی
+yield => ئەنجامدان
+Arithmetic Error => هەڵەی ئاریتمەتیک
+Assertion Error => هەڵەی داواكردن
+Attribute Error => هەڵەی وەکو خاسیەت
+Exception => ئەگەری
+End Of File Error => هەڵەی نەهەشتنی پەڕگە
+Floating Point Error => هەڵەی ناوەڕاستی ناوەرۆکی
+Generator Exit => دەرچوونی گەنجاندن
+, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield
+
+جوړونه، چاره ورکول، تعریفول، ړنګول، دغه وخت، دغه که، بیش له، ناسم، نه، په نه، نه ورکول، بازګرګول، ورکړل، له، لیکل، لاندا، نه، نون لوړ، نه، یا، ورکول، کیندول، حالت راواردول، ورکړل، سم، نه، تل، باوری، کل، دا کړل، باندی، د غوښتنې، نورول، لوی، کول، باوری، سره، باندی
+, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+from => له‌, global => گونجاو, if => گه‌ر, import => وارده‌کردن, in => له‌, is => هه‌یه‌, lambda => له‌مبا, None => هیچ, non-local => نه‌گونجاو, not => نه‌, or => يا, pass => بڕۆ, raise exception => شێوازی بۆ بریتن, return => وه‌ڵوه‌شاندن, True => درووست, try => تاقیکردنه‌وه‌, while => ئه‌گه‌ر, with => بە, yield => به‌یارمه‌تیدانی, Arithmetic Error => هه‌ڵه‌ی نه‌روو, Assertion Error => هه‌ڵه‌ی پشتگه‌وانی, Attribute Error => هه‌ڵه‌ی وه‌ڵگه‌ری, Exception => ناوه‌ڕۆک, End Of File Error => هه‌ڵه‌ی پایانی فایل, Floating Point Error => هه‌ڵه‌ی ناوه‌زانی ناوه‌شاندن, Generator Exit => نه‌خستنی ده‌که‌ڵکردن, Import Error => هه‌ڵه‌ی وارده‌کردن, Indentation Error => هه‌ڵه‌ی به‌شداری, Index Error => هه‌ڵه‌ی شاخه‌, Key Error => هه‌ڵه‌ی کلیل, Keyboard Interrupt => ناچاڵاکی کۆمپیوته‌ر, Lookup Error => هه‌ڵه‌ی گه‌ڕان, Memory Error => هه‌ڵه‌ی بیرگه‌, Name Error => هه‌ڵه‌ی ناو, Not Implemented Error => هه‌ڵه‌ی نه‌نوسراو, OS Error => هه‌ڵه‌ی سیسته‌می ئه‌شێنه‌ره‌, Overflow Error => هه‌ڵه‌ی به‌رزش, Reference Error => هه‌ڵه‌ی به‌سته‌ر, Runtime Error => هه‌ڵه‌ی کاتی به‌هێز, Stop Iteration => نه‌خستنی به‌شداری, Syntax Error => هه‌ڵه‌ی
+, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+or => یا, pass => پاس, raise exception => بیرون بخشیدنی بێجوون, return => گەڕانەوە, True => درووست, try => تاقی بکە, while => دوواە, with => بەهەمەشی, yield => بەردەوام بکە, Arithmetic Error => هەڵەی ئارێزی, Assertion Error => هەڵەی داواکاری, Attribute Error => هەڵەی وەکو خاسیەت, Exception => بێجوون, End Of File Error => هەڵەی پەیامی پایان, Floating Point Error => هەڵەی ناوەڕاستی نیشاندان, Generator Exit => دەرچوونی بۆ داخستنی ژمارە, Import Error => هەڵەی واردکردن, Indentation Error => هەڵەی بۆشایی, Index Error => هەڵەی نمایش, Key Error => هەڵەی کلیل, Keyboard Interrupt => هەڵگیراوی تێکەڵ, Lookup Error => هەڵەی گەڕان, Memory Error => هەڵەی یادکردن, Name Error => هەڵەی ناو, Not Implemented Error => هەڵەی نەنووسراو, OS Error => هەڵەی سیستەمەکە, Overflow Error => هەڵەی بەبێشکردن, Reference Error => هەڵەی بنچینە, Runtime Error => هەڵەی کاتی بەکارھێنان, Stop Iteration => داخستنی گەشە, Syntax Error => هەڵەی دەق, Tab Error => هەڵەی تاب, System Error => هەڵەی سیستەم, System Exit => دەرچوونی بۆ داخستنی سیستەم, Type Error => هەڵەی جۆر, Unbound Local Error => هەڵەی لوکەلی نەناسراو, Unicode Error => هەڵەی Unicode, Unicode Encode Error => هەڵەی کۆدکردنی Unicode, Unicode Decode Error =>
+, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Error de aserción => خطای نێوانزەیی
+خطای وێنە => خطای وێنە
+ئەنجام => ئەنجام
+خطای پایانی پەڕگە => خطای پایانی پەڕگە
+خطای ناوەڕاستی پیت => خطای ناوەڕاستی پیت
+خروجی ژمارەکار => خروجی ژمارەکار
+خطای لێدان => خطای لێدان
+خطای نێوانزە => خطای نێوانزە
+خطای ناسینە => خطای ناسینە
+خطای سەرچاوە => خطای سەرچاوە
+خطای کلیلی => خطای کلیلی
+خطای لایەند => خطای لایەند
+خطای خۆتاو => خطای خۆتاو
+خطای تێکردن => خطای تێکردن
+خطای وەرگرتن => خطای وەرگرتن
+خطای بەرزکردن => خطای بەرزکردن
+خطای بەرزی => خطای بەرزی
+خطای کۆدکردن => خطای کۆدکردن
+خطای بەشداری => خطای بەشداری
+خطای سیستەم => خطای سیستەم
+خطای سیستەمی خروج => خطای سیستەمی خروج
+خطای جۆر => خطای جۆر
+خطای نەخشەیی نەخشەکراو => خطای نەخشەیی نەخشەکراو
+خطای یونیکۆد => خطا
+, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Interrupción del teclado => ناس نێوانی تێکست
+شکایتی گەڕان => شکایتی گەڕان
+شکایتی بۆشایی => شکایتی بۆشایی
+شکایتی ناو => شکایتی ناو
+ناتوانی داواکراو => ناتوانی داواکراو
+شکایتی سیستەمی ئۆپێراتۆر => شکایتی سیستەمی ئۆپێراتۆر
+شکایتی لەبەرزکردن => شکایتی لەبەرزکردن
+شکایتی پێناسە => شکایتی پێناسە
+شکایتی کۆدان => شکایتی کۆدان
+شکایتی چوونەژوورەوە => شکایتی چوونەژوورەوە
+شکایتی بۆردن => شکایتی بۆردن
+شکایتی بۆردنی ئەندام => شکایتی بۆردنی ئەندام
+شکایتی نووسین => شکایتی نووسین
+شکایتی سیستەم => شکایتی سیستەم
+شکایتی سیستەمی خراپ => شکایتی سیستەمی خراپ
+شکایتی نووسینی یونیکۆد => شکایتی نووسینی یونیکۆد
+شکایتی کۆدکردنی یونیکۆد => شکایتی کۆدکردنی یونیکۆد
+شکایتی کاتژمێری یونیکۆد => شکایتی کاتژمێری یونیکۆد
+شکایتی کۆدکردنی یونیکۆد => شکایتی کۆدکردنی 
+, Value Error, Zero Division Error
+
+Syntax Error => شکستی سینتاکسی
+Tab Error => شکستی تب
+System Error => شکستی سیستم
+System Exit => خروجی سیستم
+Type Error => شکستی جۆر
+Unbound Local Error => شکستی کورتی نەگرتوو
+Unicode Error => شکستی یونیکۆد
+Unicode Encode Error => شکستی کۆدکردنی یونیکۆد
+Unicode Decode Error => شکستی دیکۆدکردنی یونیکۆد
+Unicode Translate Error => شکستی وەرگرتنی یونیکۆد
+
+Value Error => شکستی نرخ
+Zero Division Error => شکستی بەشکردنی بەش

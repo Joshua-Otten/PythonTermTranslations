@@ -1,0 +1,222 @@
+निरपेक्ष मान (Nirpekshe Maan)
+सभी (Sabhi)
+कोभी (Koi Bhi)
+अस्की चार्ट (Askii Chart)
+दुआलाियर (Duaalivaariyver)
+बुलैट संख्या (Bullet Sankhyaa)
+बा आरे (Byte Aare)
+बा (Bytes)
+ग्रहण संभव (Grahan Sambhav)
+चरैक्टर (Charaktar)
+क्लास का संविधान (Klaas ka samvidhaan)
+संपात करना (Sampaatit karnaa)
+जटिल (Jatial)
+आтриビュー मिटाना (Atribeu mitana)
+शब्दकोश (Shabdkosh)
+अड़चीन (Adhchhin)
+विभाजन Modulus (Vibhaajan Modulus)
+सूची बनाना (Soochi banaana)
+मूल्यांकन करना (Moolyaankan karnaa)
+कार्य करना (Kaary karnaa)
+िल्टर (philtr)
+मावदाबिंदु (ghumāvadā̃ bindu)
+संरचना (saṃracanā)
+मोज़zed समूह (mōj়ed samūh)
+क्या अत्र (kyā atra)
+वैश्विक (vaiśvik)
+क्या है (kyā hai)
+हेश (heś)
+सहायता (sahāyatā)
+हेक्साडीमल (heksādīmal)
+संविधान (svadhāna)
+पुट (input)
+संख्या (saṃkhyā)
+ ाहरण है (ek udāharan hai)
+ ्च श्रेणी है (ek uchch shrēnī hai)
+ र (ek otar)
+लमबा(lambā'ī)
+सूची (sūcī)
+स्थानीय (sthānīya)
+नक़्शा (nakśhā)
+सबसे अधिक
+मेमोरी व्यू
+सबसे निम्न
+आगामी
+्यां
+अटकल
+खुला
+संशेखार
+ताकत
+प्रिंट
+संविधान (samvidhaan)
+सीमा (seema)
+प्रतिनिधि (pratinnidhi)
+पलटा हुआ (palta hua)
+uin (ghaqun)
+समूह (samuuh)
+समूह का गुण (samuuh ka gun)
+ट (chhot)
+सज्जिल (sajjil)
+स्थायी संjnaan (sthaayi sannyaan)
+स्ट्रिंग (striṃg)
+समाहार (samāhār)
+अधikaari सुब्जेक्ट (adhikārī subjekṭ)
+तुपल (tupal)
+प्रकार (prakār)
+विesh (viparīt)
+ (chap)
+मानों की संख्या करना (mānō̃ kī saṅkhya karanā)
+मानों का ोल्ड (mānō̃ kā phōlḍ)
+सेंटर (sentara)
+संख्या
+अनुकódigo
+से अंत में
+टैब खींचना
+ं
+माप को आकार देना
+ Sloka के संभावित संशोधन का आसंह संह करना
+अल्बेत संख्या
+अल्बेत संख्या
+ASCII संख्या
+ संख्यात्मक (saṃkhyātmak)
+ ादान (upādān)
+ चinta (cintā)
+ ल (lauṭ)
+ संख्या (saṃkhyā)
+ ai (chapAI)
+ अंतर (antar)
+ शीル्ड (śīrd)
+ ्च (ucch)
+ जुड़ (juraD)
+बायी संश्रुति (bā'ī saṃshruti)
+नиз  (niz)
+बायी ़ (bā'ī chhadd)
+अनुवाद करना (anuvād karne)
+भाग (bhāg)
+स्थिति संश्रुति (sthiti saṃshruti)
+पिा ं(piślā dhūnd)
+पिा आड़ (piślā ā̃kad)
+दायी संश्रुति (dā'ī saṃshruti)
+दायी भाग (dā'ī bhāg)
+दायें स्पलिट (Dayaen Split)
+दायें स्ट्रीप (Dayaen Strip)
+स्पリत (Split)
+स्प्ला ला्स (Spline Lainas)
+से शुरू होता है (Se Shurua Hota Hai)
+स्ट्रीप (Strip)
+स्वाप केस (Swaap Kes)
+शीर्ष (Shirsh)
+अनुवाद करना (Anuvad Karna)
+र केस (Upar Case)
+शूनkya ील्ड (Shunya phield)
+संग्रह जोड़ना (Sangraha jodhna)
+सा करवा देना (Saaf karva daenah)
+की करवा देना (Koepi karva daenah)
+विस्तार करवा देना (Vistar karva daenah)
+संग्रह में सetu जोड़ना (Sangraha mein setu jodhna)
+बाहर निकालना (Bahar nikkalna)
+हटा देना (Hata dena)
+पलट करवा देना (Palat karva daenah)
+सorted करवा देना (Sorted karva daenah)
+से
+कीस
+प्राप्त करें
+वस्तु
+ आम निकालो
+डि्ट सेट करें
+अपदेश करें
+मान्यता
+समेत करें
+अंतर
+अंतर अपडेट (Antera Apdate)
+ड़ना (Chhorna)
+संयोजन (Samyojan)
+संयोजन अपडेट (Samyojan Apdate)
+अलग-अलग है (Alag-Alag Hai)
+सबसे तुच्है (Sabse Tuchchh Hai)
+सबसे बड़ा है (Sabse Bada Hai)
+समानुपात्र अंतर (Samanuptra Antera)
+समानुपात्र अंतर अपडेट (Samanuptra Antera Apdate)
+संयोजन (Samyojan)
+संबंधित करें
+अलग करें
+ा संख्या
+ट करें
+सं्ष आहै
+पें
+सुज़ाव दिया गaya
+ला पें
+लाों को पें
+खोज करें
+संगrahit होना (saṃgṛahit honā)
+बता(batāo)
+चotti करना (chotti karanā)
+लिखने योग्य होना (likhne yōgya honā)
+लिखना (likhanā)
+लिखित लाें (likhit lāinēn)
+ Aur (aur)
+जैसे (jaise)
+सुनिश्चित करना (sunishcit karanā)
+टूटना (ṭūṭnā)
+क्लास (Klaas)
+संत्रे (Santre)
+डी (Deefain)
+डिलीट (Dilite)
+अगर नहीं (Aghar Nahin)
+आगे (Aage)
+रोक्त (Uparokht)
+्जन (Ghurjan)
+नचिकET (Nachiket)
+कभी (Kabhi)
+से
+वैश्विक
+यदि
+आयात
+में
+होता है
+लाMBDA (lambda is already a Greek letter, so it doesn't have a direct Hindi equivalent)
+कोनहीं
+अधिस्थिय (this is a bit of a mouthful, but it roughly means "not local")
+नहीं
+या
+संपात
+अज्त बी نा
+वapis दिना
+सच
+सच करना
+जब तक
+साथ में
+आपूर्ति
+आरिEntic गalti
+संभावित र (Sambhavit Erar)
+आत्रिबЮट र (Atribut Erar)
+्सेप्शन (Eksepshan)
+ा का अंत र (Phail Ka Ant Erar)
+लोटिंग पट र (Floating Point Erar)
+जीनेरेटर ्सिट (Jinereator Ekshit)
+आयात र (Ayat Erar)
+अंदर त्रुटि र (Andar Truuti Erar)
+आ्डेक스 र (Aindex Erar)
+कीय र (Kiya Erar)
+कीबोर्ड अवanastha (pronounced "kibord avghatanastha")
+लुकअप अशुद्धता (pronounced "lookap ashuddhata")
+स्मरण अशुद्धता (pronounced "smaran ashuddhata")
+नाम अशुद्धता (pronounced "naam ashuddhata")
+नहीं लागू किया गaya (pronounced "nahin laagu kiya gaya")
+ अशुद्धता (pronounced "os ashuddhata")
+र अशुद्धता (pronounced "phir ashuddhata")
+ज़िन्दgi अशुद्धता (pronounced "zindgi ashuddhata")
+समय अशुद्धता (pronounced "samay ashuddhata")
+स्ट रेशन (pronounced "stop itareshan")
+संवैधानिक त्रुटि (Samdhanik Truuti)
+टैब त्रुटि (Tab Truuti)
+सिस्टम त्रुटि (Sisitem Truuti)
+सिस्टम  Zhix (Sisitem Egi Zhex)
+प्रकार त्रुटि (Prakar Truuti)
+असंबद्ध लोकल त्रुटि (Asambaddh Lokl Truuti)
+यूनीकोड त्रुटि (Yuunikood Truuti)
+यूनीकोड अन्कित त्रुटि (Yuunikood Ankiti Truuti)
+यूनीकोड अन्तर त्रुटि (Yuunikood Antar Truuti)
+यूनीकोड आशा त्रुटि (Yuunikood Asha Truuti)
+मान विलंबhit (pronounced maan vilambhit)
+शु Schul संख्या त्रुटि (pronounced shu skhya truti)

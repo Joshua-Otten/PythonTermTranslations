@@ -1,0 +1,222 @@
+valor absoluto
+todos
+cualquier
+ASCII
+binario
+booleano
+tabla de bytes
+bytes
+llamable
+carácter
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+dividir módulo
+enumerar
+evaluar
+ejecutar
+filtro
+punto flotante
+formato
+conjunto congelado
+obtener atributo
+globales
+tiene atributo
+hash
+ayuda
+hexadecimal
+identidad
+entrada
+entero
+es una instancia
+es una subclase
+iteración
+longitud
+lista
+locales
+mapa
+máximo
+vista de memoria
+mínimo
+siguiente
+objeto
+octal
+abierto
+ordinal
+poder
+imprimir
+Propiedad
+Rango
+Representar
+Invertido
+Redondo
+Conjunto
+Atributo del conjunto
+Trozo
+Ordenado
+Método estático
+cadena
+suma
+conjunto mayor
+tupla
+tipo
+variables
+archivo comprimido
+capitalizar
+plegado de caso
+centro
+conteo
+codificar
+termina con
+desarrollar pestañas
+encontrar
+mapa de formato
+índice
+es alfanumérico
+es alfabético
+es ASCII
+es decimal
+es un dígito
+es un identificador
+es menor
+es numérico
+es imprimible
+es un espacio
+es un título
+es mayúsculo
+unir
+Justificar a la izquierda
+Mas bajo
+Descarga de la izquierda
+Hacer una traducción
+Partición
+Reemplazar
+Buscar en reversa
+Índice inverso
+Justificar a la derecha
+Partición derecha
+splits derechos
+tira derecha
+dividir
+dividir líneas
+comienza con
+despojar
+cambiar caso
+título
+traducir
+mayúscula
+relleno cero (or rellenar con ceros)
+añadir
+clarificar
+copiar
+ampliar
+insertar
+eliminar
+remover
+invertir
+ordenar
+Desde claves
+Obtener
+Elementos
+Claves
+Eliminar elemento
+Establecer por defecto
+Actualizar
+Valores
+Agregar
+Diferencia
+actualización de la diferencia
+descartar
+intersección
+actualización de la intersección
+es disjunto
+es un subconjunto
+es un superconjunto
+diferencia simétrica
+actualización de la diferencia simétrica
+unión
+Cerrar
+Desconectar
+Número de archivo
+Vaciar
+Es interactivo
+Leer
+Legible
+Leer línea
+Leer líneas
+Buscar
+busquible
+contar
+truncar
+escriturable
+escribir
+escribir líneas
+y
+como
+afirmar
+interrumpir
+Clase
+Continuar
+Definir
+Eliminar
+Si no
+Otro
+Excepción
+Falso
+Finalmente
+Para
+ desde
+ global
+ si
+ importar
+ en
+ es
+ lambda
+ Ninguno
+ocal -> no local
+ no
+o
+pasar
+levant una excepción
+regresar
+verdadero
+intentar
+mientras
+con
+rendir
+Error aritmético
+Error de aserción
+Error de atributo
+Excepción
+Error de final de archivo
+Error de punto flotante
+Salida del generador
+Error de importación
+Error de identación
+Error de índice
+Error de clave
+Interrupción de teclado
+Error de búsqueda
+Error de memoria
+Error de nombre
+Error no implementado
+Error del sistema operativo
+Error de desbordamiento
+Error de referencia
+Error de ejecución
+Detener la iteración
+Error de sintaxis
+Error de pestañas
+Error del sistema
+Salida del sistema
+Error de tipo
+Error local no ligado
+Error Unicode
+Error de codificación Unicode
+Error de decodificación Unicode
+Error de traducción Unicode
+Error de valor
+Error de división cero

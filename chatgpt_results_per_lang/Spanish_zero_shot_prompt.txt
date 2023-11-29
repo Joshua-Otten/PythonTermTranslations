@@ -1,0 +1,87 @@
+
+
+Absoluto, todo, cualquiera, ASCII, binario, booleano, matriz de bytes, bytes, llamable, carácter.
+
+
+Clase método, compilar, complejo, eliminar atributo, diccionario, directorio, dividir módulo, enumerar, evaluar, ejecutar.
+
+
+Filtro, punto flotante, formato, conjunto congelado, obtener atributo, globales, tiene atributo, hash, ayuda, hexadecimal.
+
+
+identidad, entrada, entero, es instancia, es subclase, iterador, longitud, lista, locales, mapa
+
+
+Máximo, vista de memoria, mínimo, siguiente, objeto, octal, abierto, ordinal, potencia, imprimir
+
+
+Propiedad, rango, representar, invertido, redondo, conjunto, establecer atributo, rebanada, ordenado, método estático
+
+
+string - cadena
+summation - suma
+superset - superconjunto
+tuple - tupla
+type - tipo
+variables - variables
+zip - comprimir
+capitalize - capitalizar
+case fold - convertir a minúsculas
+center - centrar
+
+
+Contar, codificar, termina con, expandir tabulaciones, encontrar, formato de mapa, índice, es alfanumérico, es alfabético, es ascii
+
+
+Es decimal, es dígito, es identificador, es minúscula, es numérico, es imprimible, es espacio, es título, es mayúscula, unir
+
+
+Justificar a la izquierda, inferior, eliminar a la izquierda, hacer traducción, partición, reemplazar, buscar inversa, índice inverso, justificar a la derecha, partición derecha.
+
+
+Derecha dividir, derecha tira, dividir, dividir líneas, comienza con, tira, intercambiar casos, título, traducir, mayúsculas
+
+
+Cero relleno, anexar, borrar, copiar, extender, insertar, sacar, quitar, invertir, ordenar
+
+
+Claves, obtener, elementos, claves, elemento de extracción, establecer predeterminado, actualizar, valores, agregar, diferencia
+
+
+diferencia actualizar, descartar, intersección, intersección actualizar, está desunido, es subconjunto, es superconjunto, diferencia simétrica, diferencia simétrica actualizar, unión
+
+
+Cerrar, desconectar, número de archivo, descargar, es interactivo, leer, legible, leer línea, leer líneas, buscar.
+
+
+buscar, decir, truncar, escribible, escribir, escribir líneas, y, como, afirmar, romper
+
+
+Clase, continuar, definir, eliminar, si no, sino, excepto, Falso, finalmente, para
+
+
+De, global, si, importar, en, es, lambda, ninguno, no local, no
+
+
+or - o
+pass - pasar
+raise exception - levantar excepción
+return - devolver
+True - Verdadero
+try - intentar
+while - mientras
+with - con
+yield - rendir
+Arithmetic Error - Error aritmético
+
+
+Error de afirmación, Error de atributo, Excepción, Error de fin de archivo, Error de punto flotante, Salida de generador, Error de importación, Error de indentación, Error de índice, Error de clave
+
+
+Interrupción de teclado, Error de búsqueda, Error de memoria, Error de nombre, Error no implementado, Error de sistema operativo, Error de desbordamiento, Error de referencia, Error de tiempo de ejecución, Detener iteración.
+
+
+Error de sintaxis, Error de tabulación, Error del sistema, Salida del sistema, Error de tipo, Error de variable local no definida, Error de Unicode, Error de codificación Unicode, Error de decodificación Unicode, Error de traducción Unicode.
+
+
+Error de Valor, Error de División por Cero

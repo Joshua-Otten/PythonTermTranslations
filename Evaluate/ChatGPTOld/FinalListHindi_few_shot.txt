@@ -1,0 +1,222 @@
+निरपेक्ष मान
+सभी
+कोई भी
+अस्की
+बाइनरी
+बूलियन
+बाइट अरे
+बाइट्स
+कॉलेबल
+वर्ण
+class method => वर्ग विधि
+compile => संकल्पना
+complex => जटिल
+delete attribute => गुण हटाएँ
+dictionary => शब्दकोश
+directory => निर्देशिका
+divide modulus => भागना अंश
+enumerate => सांख्यिकीय करें
+evaluate => मूल्यांकन करें
+execute => निष्पादित करें
+filter => फिल्टर
+floating point => फ्लोटिंग पॉइंट
+format => स्वरूप
+frozen set => फ्रोजन सेट
+get attribute => गेट एट्रिब्यूट
+globals => वैश्विक
+has attribute => हैस एट्रिब्यूट
+hash => हैश
+help => सहायता
+hexadecimal => षड्यंत्रीक
+identity => पहचान
+input => इनपुट
+integer => पूर्णांक
+is instance => इस उदाहरण है
+is subclass => इस उपक्रम है
+iterator => इंटरेटर
+length => लंबाई
+list => सूची
+locals => स्थानीय
+map => नक्शा
+maximum => अधिकतम
+memory view => स्मृति_दर्शन
+minimum => न्यूनतम
+next => अगला
+object => वस्तु
+octal => अष्टिकी
+open => खोलें
+ordinal => क्रमांकीय
+power => घात
+print => प्रिंट
+लेखन
+सीमा
+प्रतिनिधित्व करना
+उलटा हुआ
+गुणक
+सेट करना
+विशेषता सेट करना
+कटाव
+क्रमित
+स्थायी विधि
+स्ट्रिंग
+योग
+सुपरसेट
+ट्यूपल
+प्रकार
+चर
+ज़िप
+कैपिटलाइज
+केस फोल्ड
+सेंटर
+count => गणना
+encode => एन्कोड
+ends with => के साथ समाप्त
+expand tabs => टैब्स विस्तार
+find => ढूंढें
+format map => फॉर्मेट मैप
+index => अनुक्रम
+is alphanumeric => अक्षरांकीय है
+is alphabetic => वर्णमाला है
+is ascii => एसकीआई है
+is decimal => है दशमलव
+is digit => है अंक
+is identifier => है पहचानकर्ता
+is lower => है निचे
+is numeric => है संख्यात्मक
+is printable => है मुद्रित करने योग्य
+is space => है रिक्त स्थान
+is title => है शीर्षक
+is uppercase => है ऊपरी
+join => जोड़ना
+left justify => बायें समझाएं
+lower => नीचे
+left strip => बायें छिन्न करें
+make translation => अनुवाद बनाएं
+partition => विभाजन
+replace => बदलें
+reverse find => उल्टा खोजें
+reverse index => उल्टी सूचकांक
+right justify => दायें समझाएं
+right partition => दायें विभाजन
+right split => दायीं विभाजित
+right strip => दायीं निकालें
+split => विभाजित
+split lines => पंक्तियाँ विभाजित
+starts with => से शुरू होता है
+strip => निकालें
+swap case => केस बदलें
+title => शीर्षक
+translate => अनुवाद करें
+uppercase => अपरकेस
+zero fill => शून्य भरना
+append => जोड़ना
+clear => साफ करना
+copy => प्रतिलिपि बनाना
+extend => विस्तार करना
+insert => डालना
+pop => हटाना
+remove => निकालना
+reverse => उलटना
+sort => छंटना
+from keys => कुंजीयों से
+get => प्राप्त करें
+items => आइटम्स
+keys => कुंजीयाँ
+pop item => आइटम हटाएँ
+set default => डिफ़ॉल्ट सेट करें
+update => अपडेट करें
+values => मान
+add => जोड़ें
+difference => अंतर
+difference update => भिन्नता_अपडेट
+discard => त्याग
+intersection => आंशिक_मिलाप
+intersection update => आंशिक_मिलाप_अपडेट
+is disjoint => अलग_है
+is subset => उपसमुच्च_है
+is superset => उपरमुच्च_है
+symmetric difference => समक्ष_भिन्नता
+symmetric difference update => समक्ष_भिन्नता_अपडेट
+union => संयुक्त
+close => बंद करें
+detach => अलग करें
+file number => फ़ाइल नंबर
+flush => फ्लश करें
+is interactive => अनुकूलनीय है
+read => पढ़ें
+readable => पढ़ने योग्य
+read line => पंक्ति पढ़ें
+read lines => पंक्तियाँ पढ़ें
+seek => ढूँढें
+seekable => खोजने योग्य
+tell => बताओ
+truncate => कटाओ
+writable => लिखने योग्य
+write => लिखो
+write lines => पंक्तियाँ लिखो
+and => और
+as => जैसा
+assert => दावा करो
+break => तोड़ो
+class => वर्ग
+continue => जारी रखें
+define => परिभाषित करें
+delete => हटाएँ
+else if => अन्यथा यदि
+else => अन्यथा
+except => छोड़कर
+false => गलत
+finally => अंत में
+for => लिए
+से
+वैश्विक
+अगर
+आयात
+में
+है
+लाम्ब्डा
+कोई नहीं
+अल्पस्थानीय
+नहीं
+या
+पास
+अपवाद उठाना
+लौटना
+सच
+कोशिश करना
+जबतक
+साथ
+उपजाऊं
+गणित त्रुटि,
+assertion error => आशय_त्रुटि
+attribute error => विशेषता_त्रुटि
+exception => अपवाद
+end of file error => फाइल_समाप्ति_त्रुटि
+floating point error => फ्लोटिंग_पॉइंट_त्रुटि
+generator exit => जनरेटर_निकास
+import error => आयात_त्रुटि
+indentation error => इंडेंटेशन_त्रुटि
+index error => सूचकांक_त्रुटि
+key error => कुंजी_त्रुटि
+कुंजीपटल निरस्त्रीकरण
+खोज त्रुटि
+स्मृति त्रुटि
+नाम त्रुटि
+नहीं लागू त्रुटि
+ऑपरेटिंग सिस्टम त्रुटि
+अधिलंबन त्रुटि
+संदर्भ त्रुटि
+रनटाइम त्रुटि
+रुकावट आइटरेशन
+syntax error => वाक्यविन्यास त्रुटि
+tab error => टैब त्रुटि
+system error => सिस्टम त्रुटि
+system exit => सिस्टम बाहर निकलें
+type error => प्रकार त्रुटि
+unbound local error => असंबद्ध स्थानीय त्रुटि
+unicode error => यूनिकोड त्रुटि
+unicode encode error => यूनिकोड एन्कोड त्रुटि
+unicode decode error => यूनिकोड डिकोड त्रुटि
+unicode translate error => यूनिकोड अनुवाद त्रुटि
+value error => मान त्रुटि
+zero division error => शून्य विभाजन त्रुटि

@@ -1,0 +1,277 @@
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Absolute value -  (jue qi yu)
+2. All - 所有的 (suo yao de)
+3. Any - 任何 (ren he)
+4. ASCII - ASCII 编码 (ASCII bian ma)
+5. Binary - 二进制 (er jin shen)
+6. Boolean - 布尔值 (buler zhi)
+7. Byte array - 字节数组 (zi xie dan pin)
+8. Bytes - 字节 (zi xie)
+9. Callable - 可调用的 (ke kou yu de)
+10. Character - 字符 (zhu fu)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Class method: 类方法 (lèi fāng fù)
+2. Compile: 编(piān shū)
+3. Complex: 复 (fù jì de)
+4. Delete attribute: 删除属性 (shū shú zhī yǒu)
+5. Dictionary: 字典 (zì diǎn)
+6. Directory: 目录 (mù lù)
+7. Divide modulus: 分解模数 (fēn jiě mó shù)
+8. Enumerate: 列(liè xiǎng)
+9. Evaluate: (píng jì)
+10. Execute:  (zhí xíng)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Filter (过)
+2. Floating Point (数)
+3. Format (格式)
+4. Frozen Set (集合)
+5. Get Attribute (获取属性)
+6. Globals (全局变量)
+7. Has Attribute (存在属性)
+8. Hash (函数)
+9. Help ()
+10. Hexadecimal (十六进制)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Identity - 身(shēng yuān)
+2. Input - 输入 (shū rù yìn)
+3. Integer -  (zhě shù)
+4. Is instance - 是实例 (shì shí liàn)
+5. Is subclass - 是子类 (shì zǐ lèi)
+6. Iterator - 器 (dài dài qǐ)
+7. Length - 长度 (cháng duò)
+8. List - 列表 (liè bian)
+9. Locals - 本地 (běn dì)
+10. Map - 图像 (tiě xiǎng)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Maximum - 最大 (zuì dà)
+2. Memory View - 内存视图 (nèi yán shì tú)
+3. Minimum - 最小 (zuì xiǎo)
+4. Next - 下一个 (xià yī gè)
+5. Object - 对象 (duì xiāng)
+6. Octal - 八进制 (bā jìn shì)
+7. Open - 打开 (dǎ kāi)
+8. Ordinal - 序数 (xù shù)
+9. Power - 能量 (néng lì)
+10. Print - 打(dǎ yìn)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Property - 属性 (shèng xìng)
+2. Range - (fàn yù)
+3. Represent - 代表 (dài biǎo)
+4. Reversed - 反转 (fān zhù)
+5. Round -  (yuán xíng)
+6. Set - 集合 (jí hé)
+7. Set attribute - 设置属性 (shèng qǐ suǒ yì shèng xìng)
+8. Slice - 分(fēn kuò)
+9. Sorted -  (purging)
+10. Static method - 方法 (jìng tàt i fāng fù)
+ Sure, I'd be happy to help! Here are the translations for the given terms in Mandarin:
+
+* String: 字符串 (zhǐ yǔ jiàng)
+* Summation: 和 (hěn)
+* Superset: 超集 (chāo jí)
+* Tuple: 元(yuán zhī)
+* Type: 类型 (lèi xíng)
+* Variables: 变量 (biàn yòu)
+* Zip: (yā shū)
+* Capitalize: 首字母大写 (shǒu zhì mǔ dà xiǎng)
+* Case fold: 小写 (xiǎo xiǎng)
+* Center: 中心 (zhōng xīn)
+
+I hope this helps! Let me know if you have any further questions.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Count (计数)
+2. Encode (编码)
+3. Ends with (结)
+4. Expand tabs (展开 Tab)
+5. Find (查
+6. Format map (格式化地图)
+7. Index (索引)
+8. Is alphanumeric (是字母数字)
+9. Is alphabetic (是字母)
+10. Is ASCII (是ASCII)
+
+Note: Some of the translations may have multiple acceptable ways to express them in Mandarin, depending on the context and specific requirements.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. "is decimal" - 是十进制 (shì shí jīn zhì)
+2. "is digit" - 是数字 (shì xiù zhǐ)
+3. "is identifier" - 是标 (shì biāo dòng fú)
+4. "is lower" - 是小写 (shì xiǎo xiě)
+5. "is numeric" - 是数字 (shì xiù zhǐ)
+6. "is printable" - 可以打(kě yǐ dǎ yìn)
+7. "is space" - 是空格 (shì kōng gòu)
+8. "is title" - 是标题 (shì biāo tí)
+9. "is uppercase" - 是大写 (shì dà xiě)
+10. "join" - 加入 (jiā rù)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Left justify: 左对(zuǒ duì qiáng)
+2. Lower: 下面 (xià mian)
+3. Left strip: 左(zuǒ bāo)
+4. Make translation: (fān yì)
+5. Partition: 分区 (fēn qū)
+6. Replace:  (dì huan)
+7. Reverse find: 反向查(fǎn xiàng zhāo jīn)
+8. Reverse index: 反向索引 (fǎn xiàng suǒ yǐn)
+9. Right justify: 右对(yòu duì qiáng)
+10. Right partition: 右分区 (yòu fēn qū)
+ Sure, I'd be happy to help you with that! Here are the translations of the terms you provided into Mandarin:
+
+* Right split (右 Split): 右分
+* Right strip (Right Strip): 正则
+* Split (Split): 分
+* Split lines (Split Lines): 分
+* Starts with (Starts With): 以开头
+* Strip (Strip): 
+* Swap case (Swap Case): 交换大小写
+* Title (Title): 标题
+* Translate (Translate): 
+* Uppercase (Uppercase): 大写
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Zero fill: zhòng chōng）
+2. Append: （fù jīa）
+3. Clear: 清空（qīng kōng）
+4. Copy: 复制（fù zhì）
+5. Extend: （yán cháng）
+6. Insert: （pū rù）
+7. Pop: 出现（chū xiàn）
+8. Remove: 移除（yí qú）
+9. Reverse: 反向（fǎn xiàng）
+10. Sort: （purging）
+ Sure, I'd be happy to help you with that! Here are the translations of the terms you provided into Mandarin:
+
+1. "keys" - (jiàn)
+2. "get" - 获取 (gēn qǔ)
+3. "items" - 项目 (xiè mù)
+4. "keys" - (jiàn) (again, because "keys" is used twice in the original list)
+5. "pop item" - 移除项目 (yí wán xiè mù)
+6. "set default" - 设置默认 (shèng qǐ mò shì)
+7. "update" - 更新 (gèng xīn)
+8. "values" - 值 (zhí yì)
+9. "add" - 添加 (tiān jīa)
+10. "difference" - (chà yì)
+
+I hope this helps! Let me know if you have any further questions or if there's anything else I can assist you with.
+ Sure, here are the translations of the terms you provided into Mandarin:
+
+1. Difference update: 新 (chāng tiān xiǎng)
+2. Discard: (fēi qì)
+3. Intersection: 交集 (jiāo jí)
+4. Intersection update: 交集更新 (jiāo jí chāng tiān)
+5. Is disjoint: 不相交 (bù xiāng jiōng)
+6. Is subset: 是子集 (shì zǐ jiāo)
+7. Is superset: 是超集 (shì chāo jiāo)
+8. Symmetric difference: 对称(duì chéng chāng)
+9. Symmetric difference update: 对称新 (duì chéng chāng chāng tiān)
+10. Union: 合并 (hé bìng)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Close - (guān)
+2. Detach - 分(fēn lí)
+3. File number - (dàng àng hù mnemonic code)
+4. Flush -  (chuán sòng)
+5. Is interactive - 是的 (shì huī dòng de)
+6. Read - (yú dú)
+7. Readable - 可(kě yú)
+8. Read line - 一行 (yú qǔ yī hén)
+9. Read lines - 多行 (yú qǔ duō hén)
+10. Seek - (jīn jīn)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Seekable (可) - 可以被查的。
+2. Tell (告 - 通知、、或信息。
+3. Truncate () - 串部分。
+4. Writable (可的) - 可以或修改的。
+5. Write ( - 、記或
+6. Write lines (書道) - 書
+7. And ( - 和、也、或者。
+8. As (作 - 作 behave as, 或 act as.
+9. Assert () - 、保或。
+10. Break (中 - 中打断、或。
+
+Note: Please note that these translations are in Simplified Chinese characters, which are used in mainland China. If you need Traditional Chinese characters, please let me know and I can provide them for you.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Class - (bān jí)
+2. Continue - (jì xù)
+3. Define - 定义 (dìng yì)
+4. Delete - 删除 (shū shú)
+5. Else if - 否则如果 (pán zhè rú guī huan)
+6. Else - 其他 (qí tā)
+7. Except - 例外 (l wài)
+8. False - 错 (wò shuō de)
+9. Finally - 最后 (zuì hòu)
+10. For - 为 (wèi)
+ Sure, here are the translations of the given terms into Mandarin:
+
+* from: 来自 (lái zì)
+* global: 全球 (quán jí)
+* if: 如果 (rú guī)
+* import: 导入 (dào rù)
+* in: 在 (zài)
+* is: 是 (shì)
+* lambda: λ (lambda)
+* None: 无 (wú)
+* non-local: 非本地 (fēi běn dì)
+* not: 不 (bù)
+ Here are the translations of the given terms into Mandarin:
+
+1. Or: 或 (hěn)
+2. Pass: 通过 (tōng guò)
+3. Raise exception: 引起 (yǐ qǐ gì zhuān glitch)
+4. Return: 返回 (fǎn huí)
+5. True: 真的 (zhēn de)
+6. Try:  (mào shì)
+7. While: 在那里 (zài nà lǐ)
+8. With: 与 (yǔ)
+9. Yield:  (chǎng shēng)
+10. Arithmetic Error: 算数错(suàn shù gòu wùi)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Assertion Error - 断言错(pànshì zhèngwù)
+2. Attribute Error - 属性错(shǔxì zhèngwù)
+3. Exception -  (yìcháng)
+4. End Of File Error - 文件结(wénjiān jiéguī zhèngwù)
+5. Floating Point Error - 数据错(fūdiǎn shùjù zhèngwù)
+6. Generator Exit - 生成器 (shēngchéng qúshí)
+7. Import Error - 导入错(dàoér zhèngwù)
+8. Indentation Error - 错(suōjìn zhèngwù)
+9. Index Error - 索引错(suǒyǐn zhèngwù)
+10. Key Error - 错(jiànzhí zhèngwù)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Keyboard Interrupt - 断 (jiàn bàn zhōng duàn)
+2. Lookup Error - 查(zhāo fín kuò wù)
+3. Memory Error - 内存错(nèi yì kuò wù)
+4. Name Error - 名称错(míng chēng kuò wù)
+5. Not Implemented Error - 未实现错(wèi shí jīn kuò wù)
+6. OS Error - 操作系统错(còu zuò xì tǒng kuò wù)
+7. Overflow Error - 数据错(xù suō chū kuò wù)
+8. Reference Error - 引用错(yǐn yòu kuò wù)
+9. Runtime Error - 运行时错(chēng běn shí kuò wù)
+10. Stop Iteration -  (tíng zhì tuī dài)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Syntax Error (语法错
+2. Tab Error (制表错
+3. System Error (系统错
+4. System Exit (系统)
+5. Type Error (类型错
+6. Unbound Local Error (非的本地错
+7. Unicode Error (字符编码错
+8. Unicode Encode Error (字符编码encode错
+9. Unicode Decode Error (字符编码解码错
+10. Unicode Translate Error (字符编码
+
+Value Error: 值错(zhí jiàn yì si)
+Zero Division Error: 错(ling jian yì si)
+
+I hope this helps! Let me know if you have any other questions.

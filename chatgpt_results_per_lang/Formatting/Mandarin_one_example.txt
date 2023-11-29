@@ -1,0 +1,229 @@
+, class
+
+绝对值, 全部, 任何, ASCII, 二进制, 布尔, 字节数组, 字节, 可调用, 字符, 类
+
+
+Class Method => 类方法
+Compile => 编译
+Complex => 复杂
+Delete Attribute => 删除属性
+Dictionary => 字典
+Directory => 目录
+Divide Modulus => 除模
+Enumerate => 枚举
+Evaluate => 评估
+Execute => 执行
+.
+
+Filter: 过滤
+Floating Point: 浮点
+Format: 格式
+Frozen Set: 不变集合
+Get Attribute: 获取属性
+Globals: 全局变量
+Has Attribute: 有属性
+Hash: 哈希
+Help: 帮助
+Hexadecimal: 十六进制
+
+
+Identity: 身份
+Input: 输入
+Integer: 整数
+Is Instance: 是实例
+Is Subclass: 是子类
+Iterator: 迭代器
+Length: 长度
+List: 列表
+Locals: 局部变量
+Map: 映射
+
+
+Maximum: 最大值
+Memory View: 内存视图
+Minimum: 最小值
+Next: 下一个
+Object: 对象
+Octal: 八进制
+Open: 打开
+Ordinal: 序数
+Power: 权力
+Print: 打印
+
+
+property => 属性
+range => 范围
+represent => 表示
+reversed => 反转
+round => 四舍五入
+set => 集合
+set attribute => 设置属性
+slice => 切片
+sorted => 排序
+static method => 静态方法
+.
+
+字符串, 求和, 超集, 元组, 类型, 变量, 压缩, 首字母大写, 全部转换为小写, 居中
+, is digit, is lower, is numeric, is title, is upper.
+
+计数, 编码, 以...结尾, 展开制表符, 查找, 格式映射, 索引, 是字母数字, 是字母, 是ASCII, 是数字, 是小写, 是数值, 是标题, 是大写.
+
+
+is decimal: 是小数
+is digit: 是数字
+is identifier: 是标识符
+is lower: 是小写
+is numeric: 是数值
+is printable: 是可打印的
+is space: 是空格
+is title: 是标题
+is uppercase: 是大写
+join: 连接
+, upper
+
+left justify => 左对齐
+lower => 小写
+left strip => 左边去空格
+make translation => 做翻译
+partition => 分割
+replace => 替换
+reverse find => 反向查找
+reverse index => 反向索引
+right justify => 右对齐
+right partition => 右边分割
+upper => 大写
+, lowercase
+
+right split => 右分裂
+right strip => 右剥离
+split => 分裂
+split lines => 分割线
+starts with => 开头
+strip => 剥离
+swap case => 交换大小写
+title => 标题
+translate => 翻译
+uppercase => 大写
+lowercase => 小写
+.
+
+零填充，追加，清除，复制，延长，插入，弹出，删除，反转，排序
+.
+
+from: 从
+keys: 键
+get: 获取
+items: 项
+pop item: 弹出项
+set default: 设置默认
+update: 更新
+values: 值
+add: 添加
+difference: 差异
+
+
+Difference Update => 差异更新
+Discard => 丢弃
+Intersection => 交集
+Intersection Update => 交集更新
+Is Disjoint => 是否不相交
+Is Subset => 是否子集
+Is Superset => 是否超集
+Symmetric Difference => 对称差
+Symmetric Difference Update => 对称差更新
+Union => 并集
+, tell, truncate, write.
+
+关闭，分离，文件号，刷新，是交互式的，读取，可读的，读取一行，读取多行，定位，告知，截断，写入
+
+
+seekable: 可搜寻的
+tell: 告诉
+truncate: 截断
+writable: 可写的
+write: 写
+write lines: 写行
+and: 和
+as: 作为
+assert: 断言
+break: 断开
+, from, function, if, import, in, is, lambda, None, pass, raise, return, True
+
+Class: 类
+Continue: 继续
+Define: 定义
+Delete: 删除
+Else if: 否则如果
+Else: 否则
+Except: 除外
+False: 假
+Finally: 最后
+For: 对于
+From: 从
+Function: 函数
+If: 如果
+Import: 导入
+In: 在
+Is: 是
+Lambda: λ
+None: 无
+Pass: 通过
+Raise: 提升
+Return: 返回
+True: 真
+, or.
+
+from: 从
+global: 全局
+if: 如果
+import: 导入
+in: 在
+is: 是
+lambda: 匿名函数
+None: 空
+non-local: 非本地
+not: 不
+or: 或
+
+
+Or: 或者
+Pass: 通过
+Raise Exception: 抛出异常
+Return: 返回
+True: 真
+Try: 尝试
+While: 当
+With: 使用
+Yield: 产出
+Arithmetic Error: 算术错误
+, Name Error, Syntax Error.
+
+断言错误，属性错误，异常，文件结束错误，浮点错误，生成器退出，导入错误，缩进错误，索引错误，键错误，名称错误，语法错误。
+.
+
+键盘中断 => Keyboard Interrupt 
+查找错误 => Lookup Error 
+内存错误 => Memory Error 
+名称错误 => Name Error 
+未实现错误 => Not Implemented Error 
+操作系统错误 => OS Error 
+溢出错误 => Overflow Error 
+引用错误 => Reference Error 
+运行时错误 => Runtime Error 
+停止迭代 => Stop Iteration
+
+
+Syntax Error => 语法错误
+Tab Error => 制表符错误
+System Error => 系统错误
+System Exit => 系统退出
+Type Error => 类型错误
+Unbound Local Error => 未绑定局部变量错误
+Unicode Error => Unicode 错误
+Unicode Encode Error => Unicode 编码错误
+Unicode Decode Error => Unicode 解码错误
+Unicode Translate Error => Unicode 转换错误
+
+
+Value Error: 值错误
+Zero Division Error: 除零错误

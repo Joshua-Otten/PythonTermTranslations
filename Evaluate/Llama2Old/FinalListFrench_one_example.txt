@@ -1,0 +1,222 @@
+valeur absolue (already translated)
+tous
+quelques
+ASCII
+binaire
+booléen
+tableau de bytes
+octets
+appelable
+caractère
+méthode de classe
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser modulo
+énumérer
+évaluer
+exécuter
+filtre
+nombre à virgule flottante
+formatage
+ensemble gelé
+attribut get
+données globales
+a une propriété
+hachage
+aide
+binaire
+identité
+entrée
+entier
+est-ce qu'un exemple
+sous-classe
+itérateur
+longueur
+liste
+variables locales
+carte
+maximum
+vue mémoire
+minimum
+prochain
+objet
+octal
+ouvert
+ordinal
+puissance
+imprimer
+propriété
+plage
+représentation
+inverse
+arrondi
+ensemble
+attribut de l'ensemble
+coupure
+trié
+méthode statique
+chaîne de caractères
+somme
+ensemble contenant
+tuple
+type
+variables
+zipper
+mettre en majuscule
+rabattre en minuscule
+centrer
+Compter
+Coder
+Se termine par
+Élargir les onglets
+Trouver
+Carte de formatage
+Indice
+Est-alphanumérique
+Est-alphabetique
+Est-ASCII
+est décimal
+est un chiffre
+est un identificateur
+est en basse case
+est numérique
+est imprimable
+est un espace
+est un titre
+est en majuscule
+fusionner
+Justifier à gauche
+Inférieur
+Supprimer à gauche
+Traduire
+Partitionner
+Remplacer
+Rechercher en sens inverse
+Index inverse
+Justifier à droite
+Partitionner à droite
+splits de droite
+strip de droite
+separation
+lignes de séparation
+commence par
+suppression
+échange de cas
+titre
+traduit
+majuscule
+remplir avec zéros (fill with zeros)
+ajouter (add)
+effacer (clear)
+copier (copy)
+étendre (extend)
+insérer (insert)
+retirer (pop)
+enlever (remove)
+inverser (reverse)
+trier (sort)
+de
+clés
+obtenir
+éléments
+retirer un élément
+définir par défaut
+mettre à jour
+valeurs
+ajouter
+différence
+mise à jour de la différence
+éliminer
+intersection
+mise à jour de l'intersection
+est disjointe
+est un sous-ensemble
+est un ensemble contenant
+différence symétrique
+mise à jour de la différence symétrique
+union
+fermer
+déconnecter
+numéro de fichier
+effacer
+est-il interactif?
+lire
+lecture
+ligne de lecture
+lignes de lecture
+chercher
+accessible
+raconter
+tronquer
+scribable
+écrire
+écrire des lignes
+et
+comme
+affirmer
+briser
+Classe
+Continuer
+Définir
+Supprimer
+Sinon si
+Sinon
+Sauf
+Faux
+Enfin
+Pour
+de
+global
+si
+importer
+dans
+est
+this is a Greek letter, so it's already translated)
+none
+ocal -> non local
+ne... pas
+ou
+passe
+lever une exception
+retourner
+vrai
+essayer
+tout en gardant
+avec
+rendre
+Erreur arithmétique
+Erreur d'assertion
+Erreur d'attribut
+Exception
+Erreur de fin de fichier
+Erreur de point flottant
+Sortie du générateur
+Erreur d'importation
+Erreur de mise en page
+Erreur d'indexation
+Erreur de clé
+keyboard interruption
+lookup error
+memory error
+name error
+not implemented error
+operating system error
+overflow error
+reference error
+runtime error
+stop iteration
+Erreur de syntaxe
+Erreur de tabulation
+Erreur système
+Sortie système
+Erreur de type
+Erreur de variable locale non liée
+Erreur Unicode
+Erreur d'encodage Unicode
+Erreur de décodage Unicode
+Erreur de traduction Unicode
+erreur de valeur
+erreur de division par zéro

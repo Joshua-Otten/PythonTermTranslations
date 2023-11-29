@@ -1,0 +1,298 @@
+
+
+Absolute Value: απόλυτη τιμή 
+All: όλα 
+Any: οποιοδήποτε 
+ASCII: ASCII 
+Binary: δυαδικό 
+Boolean: Boolean 
+Byte Array: πίνακας byte 
+Bytes: bytes 
+Callable: κλήσιμο 
+Character: χαρακτήρας
+
+
+Class Method => μέθοδος κλάσης
+Compile => κώδικα
+Complex => πολύπλοκο
+Delete Attribute => διαγραφή ιδιοτήτων
+Dictionary => λεξικό
+Directory => κατάλογος
+Divide Modulus => διαίρεση μονοδιάστατου
+Enumerate => αρίθμηση
+Evaluate => αξιολόγηση
+Execute => εκτέλεση
+
+
+Filter => Φίλτρο
+Floating Point => Πληροφορία Κινούμενης Τελικής Τιμής
+Format => Μορφή
+Frozen Set => Κατεγεγραμμένο Σύνολο
+Get Attribute => Αποκτήστε Χαρακτηριστικό
+Globals => Καθολικά
+Has Attribute => Έχει Χαρακτηριστικό
+Hash => Hash
+Help => Βοήθεια
+Hexadecimal => Δεκαεξαδικό
+.
+
+Identity: ταυτότητα
+Input: είσοδος
+Integer: ακέραιος
+Is instance: είναι παράδειγμα
+Is subclass: είναι υποκλάση
+Iterator: επαναληπτής
+Length: μήκος
+List: λίστα
+Locals: τοπικοί
+Map: χάρτης
+
+
+Maximum => μέγιστο
+Memory View => Προβολή Μνήμης
+Minimum => Ελάχιστο
+Next => Επόμενο
+Object => Αντικείμενο
+Octal => Οκταδικό
+Open => Άνοιγμα
+Ordinal => Καθεστωτικό
+Power => Δύναμη
+Print => Εκτύπωση
+
+
+Property: ιδιότητα
+Range: εύρος
+Represent: αντιπροσωπεύω
+Reversed: αντίστροφο
+Round: στρογγυλο
+Set: σύνολο
+Set Attribute: ορισμός ιδιοτήτων
+Slice: φέτα
+Sorted: ταξινομημένο
+Static Method: στατική μέθοδος
+
+
+String: συμβολοσειρά
+Summation: σύνολο
+Superset: υπερμέτρο
+Tuple: ζεύγος
+Type: τύπος
+Variables: μεταβλητές
+Zip: ζίπ
+Capitalize: Κεφαλαία
+Case fold: Πτυχωτή Φάση
+Center: Κέντρο
+
+
+count => μέτρηση
+encode => κωδικοποίηση
+ends with => τελειώνει με
+expand tabs => επέκταση καρτελών
+find => βρείτε
+format map => χάρτης μορφοποίησης
+index => δείκτης
+is alphanumeric => είναι αλφαριθμητικό
+is alphabetic => είναι αλφαβητικό
+is ascii => είναι ASCII
+
+
+is decimal: είναι δεκαδικό
+is digit: είναι ψηφίο
+is identifier: είναι διακριτικό
+is lower: είναι πεζό
+is numeric: είναι αριθμητικό
+is printable: είναι εκτυπώσιμο
+is space: είναι διάστημα
+is title: είναι τίτλος
+is uppercase: είναι κεφαλαία
+join: συνδέστε
+, right strip, split, startswith, strip
+
+Left Justify => αριστερή διατήρηση
+Lower => χαμηλότερο
+Left Strip => αριστερή αποσπασματισμός
+Make Translation => δημιουργία μετάφρασης
+Partition => διαίρεση
+Replace => αντικατάσταση
+Reverse Find => αντίστροφη εύρεση
+Reverse Index => αντίστροφος δείκτης
+Right Justify => δεξιά διατήρηση
+Right Partition => δεξιά διαίρεση
+Right Strip => δεξιά αποσπασματισμός
+Split => διαίρεση
+Startswith => ξεκινάει με
+Strip => αποσπασματισμός
+
+
+right split: διαχωρισμός δεξιά
+right strip: απομάκρυνση δεξιά
+split: διαχωρισμός
+split lines: διαχωρισμός γραμμών
+starts with: ξεκινάει με
+strip: απομάκρυνση
+swap case: αντιστροφή πεζών/κεφαλαίων
+title: τίτλος
+translate: μετάφραση
+uppercase: κεφαλαία
+
+
+Zero fill => μηδενισμός
+Append => προσάρτηση
+Clear => εκκαθάριση
+Copy => αντιγραφή
+Extend => επέκταση
+Insert => εισαγωγή
+Pop => αφαίρεση
+Remove => αφαίρεση
+Reverse => αντιστροφή
+Sort => ταξινόμηση
+
+
+From Keys: από τα κλειδιά
+Get: λάβετε
+Items: στοιχεία
+Keys: κλειδιά
+Pop Item: ανακύκλωση στοιχείου
+Set Default: ορίστε προεπιλογή
+Update: ενημέρωση
+Values: τιμές
+Add: προσθέστε
+Difference: διαφορά
+
+
+Difference Update => Αλλαγή διαφοράς
+Discard => Απόρριψη
+Intersection => Σύνθεση
+Intersection Update => Αλλαγή σύνθεσης
+Is Disjoint => Είναι ασύνδετο
+Is Subset => Είναι υποσύνολο
+Is Superset => Είναι επισύνολο
+Symmetric Difference => Συμμετρική διαφορά
+Symmetric Difference Update => Αλλαγή συμμετρικής διαφοράς
+Union => Ένωση
+
+
+close: κλείσιμο
+detach: αποσυνδέση
+file number: αριθμός αρχείου
+flush: ανακατέψει
+is interactive: είναι διαδραστικό
+read: ανάγνωση
+readable: διαβάσιμο
+read line: ανάγνωση γραμμής
+read lines: ανάγνωση γραμμών
+seek: αναζήτηση
+
+
+seekable: ενεργοποιητικό
+tell: λέει
+truncate: κοπή
+writable: εγγράψιμο
+write: γράψτε
+write lines: γράψτε γραμμές
+and: και
+as: ως
+assert: ισχύει
+break: διακοπή
+, from, if, import, in, is, lambda, None, not, or, pass, raise, return, True
+
+Class: Κλάση
+Continue: Συνέχιση
+Define: Ορισμός
+Delete: Διαγραφή
+Else if: Αλλιώς Αν
+Else: Αλλιώς
+Except: Εκτός
+False: Ψευδές
+Finally: Τέλος
+For: Για
+From: Από
+If: Αν
+Import: Εισαγωγή
+In: Σε
+Is: Είναι
+Lambda: Λάμδα
+None: Κανένα
+Not: Όχι
+Or: Ή
+Pass: Παρέλαβε
+Raise: Αναγγέλλω
+Return: Επιστροφή
+True: Αληθές
+, or, pass, return
+
+From: από
+Global: Παγκόσμια
+If: Αν
+Import: Εισαγωγή
+In: Σε
+Is: Είναι
+Lambda: Λάμδα
+None: Κανένα
+Non-Local: Μη-Τοπικό
+Not: Όχι
+Or: Ή
+Pass: Παρέλαβε
+Return: Επιστροφή
+
+
+Or: ή 
+Pass: περάστε 
+Raise exception: εξαίρεση ανάγνωσης 
+Return: επιστροφή 
+True: αληθές 
+Try: δοκιμάστε 
+While: ενώ 
+With: με 
+Yield: παραγωγή 
+Arithmetic Error: Αριθμητικό Σφάλμα
+, Name Error, NotImplemented Error, OSError, Recursion Error, Runtime Error, Syntax Error, TabError, Type Error, Value Error
+
+Assertion Error => Σφάλμα Παράτασης
+Attribute Error => Σφάλμα Ιδιότητας
+Exception => Εξαίρεση
+End Of File Error => Σφάλμα Τέλους Αρχείου
+Floating Point Error => Σφάλμα Πλειάδας Σημείων
+Generator Exit => Έξοδος Γεννήτριας
+Import Error => Σφάλμα Εισαγωγής
+Indentation Error => Σφάλμα Διαστήματος
+Index Error => Σφάλμα Ευρετηρίου
+Key Error => Σφάλμα Κλειδιού
+Name Error => Σφάλμα Ονόματος
+NotImplemented Error => Σφάλμα μη Εφαρμογής
+OSError => Σφάλμα Λειτουργικού Συστήματος
+Recursion Error => Σφάλμα Αναδρομής
+Runtime Error => Σφάλμα Εκτέλεσης
+Syntax Error => Σφάλμα Σύνταξης
+TabError => Σφάλμα Καρτέλας
+Type Error => Σφάλμα Τύπου
+Value Error => Σφάλμα Τιμής
+, Syntax Error
+
+Keyboard Interrupt => Ματαιώσεις Πληκτρολογίου
+Lookup Error => Σφάλμα Αναζήτησης
+Memory Error => Σφάλμα Μνήμης
+Name Error => Σφάλμα Ονόματος
+Not Implemented Error => Σφάλμα Μη Υλοποιημένου
+OS Error => Σφάλμα Λειτουργικού Συστήματος
+Overflow Error => Σφάλμα Υπερχείλισης
+Reference Error => Σφάλμα Αναφοράς
+Runtime Error => Σφάλμα Εκτέλεσης
+Stop Iteration => Σταμάτημα Επανάληψης
+Syntax Error => Σφάλμα Σύνταξης
+
+
+Syntax Error: Σφάλμα Συντακτικής
+Tab Error: Σφάλμα Tab
+System Error: Σφάλμα Συστήματος
+System Exit: Έξοδος Συστήματος
+Type Error: Σφάλμα Τύπου
+Unbound Local Error: Σφάλμα Απροσδιόριστης Τοπικής Μεταβλητής
+Unicode Error: Σφάλμα Unicode
+Unicode Encode Error: Σφάλμα Κωδικοποίησης Unicode
+Unicode Decode Error: Σφάλμα Αποκωδικοποίησης Unicode
+Unicode Translate Error: Σφάλμα Μετάφρασης Unicode
+
+
+Value Error: Σφάλμα Τιμής
+Zero Division Error: Σφάλμα Διαίρεσης με Μηδέν

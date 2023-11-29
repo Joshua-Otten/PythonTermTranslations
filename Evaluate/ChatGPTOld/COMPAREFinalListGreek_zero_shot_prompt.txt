@@ -1,0 +1,222 @@
+absolute value : απόλυτη τιμή
+all : όλα
+any : οποιαδήποτε
+ascii : ascii
+binary : δυαδικό
+boolean : μπουλονικό
+byte array : πίνακας byte
+bytes : bytes
+callable : κλήσιμο
+character : χαρακτήρας
+class method : τάξη μέθοδος
+compile : καταγράφω
+complex : σύνθετο
+delete attribute : διαγράφω ιδιότητα
+dictionary : λεξικό
+directory : κατάλογος
+divide modulus : διαίρεση μόδουλος
+enumerate : αποτελείται
+evaluate : αξιολογώ
+execute : εκτελώ
+filter : φίλτρο
+floating point : ποντάρισμα μικροσκοπικής τιμής
+format : μορφή
+frozen set : κατεψυγμένο σύνολο
+get attribute : πάρε το χαρακτηριστικό
+globals : γενικά
+has attribute : έχει χαρακτηριστικό
+hash : κατακερματισμός
+help : βοήθεια
+hexadecimal : εξαδική μορφή
+identity : ταυτότητα
+input : εισαγωγή
+integer : ακέραιος
+is instance : είναι στιγμιότυπο
+is subclass : είναι υποκλάση
+iterator : επαναληπτής
+length : μήκος
+list : λίστα
+locals : τοπικοί
+map : χάρτης
+maximum : μέγιστο
+memory view : προβολή μνήμης
+minimum : ελάχιστο
+next : επόμενο
+object : αντικείμενο
+octal : οκταλικό
+open : ανοιχτό
+ordinal : ταξινομικό
+power : δύναμη
+print : εκτύπωση
+property : ιδιοκτησία
+range : εύρος
+represent : αντιπροσωπεύω
+reversed : ανεστραμμένο
+round : κυκλικό
+set : σετ
+set attribute : ορισμός ιδιοτήτων
+slice : τμήμα
+sorted : ταξινομημένο
+static method : στατική μέθοδος
+string : στήθος
+summation : αθροίσματα
+superset : υπερσύνολο
+tuple : συμπλεκτής
+type : τύπος
+variables : μεταβλητές
+zip : συμπίεση
+capitalize : κεφαλαία
+case fold : φέρετρο υποθέσεων
+center : κέντρο
+count : μετρήστε: καταγράψτε
+encode : τελειώνει με
+ends with : επεκτείνετε τα κουμπιά tab
+expand tabs : βρείτε
+find : μορφοποιήστε τον χάρτη
+format map : ευρετήριο
+index : είναι αλφαριθμητικό
+is alphanumeric : είναι αλφαβητικό
+is alphabetic : είναι ascii
+is ascii : είναι δεκαδικό
+is decimal : είναι ψηφίο
+is digit : είναι αναγνωριστικό
+is identifier : είναι χαμηλό
+is lower : είναι αριθμητικό
+is numeric : είναι εκτυπώσιμο
+is printable : είναι διάστημα
+is space : είναι τίτλος
+is title : είναι κεφαλαία
+is uppercase : συνδέστε
+join : αριστερή διατύπωση
+left justify : κάτω
+lower : αριστερό διαδίκτυο
+left strip : κάντε μετάφραση
+make translation : διαίρεση
+partition : αντικαταστήστε
+replace : αντίστροφη εύρεση
+reverse find : αντίστροφη ευρετηρίου
+reverse index : δεξιά διατύπωση
+right justify : δεξιά διαίρεση
+right partition : δεξιά διαίρεση
+right split : δεξιά επικολλήστρα
+right strip : διαίρεση
+split : διαίρεση γραμμών
+split lines : ξεκινά με
+starts with : επικολλήστρα
+strip : αντιμεταθέτηση κεφαλαίων
+swap case : τίτλος
+title : μετάφραση
+translate : κεφαλαία
+uppercase : μηδέν γέμισμα
+zero fill : προσάρτηση
+append : καθαρισμός
+clear : αντιγραφή
+copy : επέκταση
+extend : εισαγωγή
+insert : αποσπάσματος
+pop : αφαίρεση
+remove : αντιστροφή
+reverse : ταξινόμηση
+sort : κλειδιά
+from keys : να λάβετε
+get : αντικείμενα
+items : κλειδιά
+keys : αντικείμενο pop
+pop item : να ορίσετε προεπιλογή
+set default : να ενημερώσετε
+update : τιμές
+values : να προσθέσετε
+add : διαφορά
+difference : διαφορά ενημέρωσης
+difference update : απόρριψη
+discard : τομή
+intersection : ενημέρωση της τομής
+intersection update : είναι ασύνδετο
+is disjoint : είναι υποσύνολο
+is subset : είναι υπερσύνολο
+is superset : ομοιόμορφη διαφορά
+symmetric difference : ενημέρωση ομοιόμορφης διαφοράς
+symmetric difference update : ένωση
+union : κλείσιμο
+close : αποσπάσετε
+detach : αριθμός αρχείου
+file number : σκοτώσετε
+flush : είναι διαδραστικό
+is interactive : διαβάστε
+read : αναγνώσιμο
+readable : διαβάστε γραμμή
+read line : διαβάστε γραμμές
+read lines : αναζητήστε
+seek : ψάξει: ζητήσει
+seekable : πείτε: λέει
+tell : τεμαχισμός: τεμαχισμός
+truncate : εγγράψιμο: εγγράψιμο
+writable : γράψε: γράψε
+write : γράψτε γραμμές: γράψτε γραμμές
+write lines : και: και
+and : όπως: όπως
+as : προσδιορίστε: προσδιορίστε
+assert : σπάστε: σπάστε
+break : τάξη
+class : συνεχίστε
+continue : ορίστε
+define : διαγράψτε
+delete : διαφορετικά αν
+else if : διαφορετικά
+else : εκτός
+except : ψευδές
+False : τελικά
+finally : για
+for : από
+from : καθολικό
+global : εάν
+if : εισαγωγή
+import : μέσα
+in : είναι
+is : λάμδα
+lambda : κανένα
+None : μη τοπικό
+non-local : δεν
+not : ή
+or : παράλειψη
+pass : να προκαλέσει εξαίρεση
+raise exception : επιστροφή
+return : αληθές
+True : δοκιμάστε
+try : ενώ
+while : με
+with : δώσει
+yield : αριθμητικό σφάλμα
+Arithmetic Error : σφάλμα παραγωγής
+Assertion Error : σφάλμα ιδιότητας
+Attribute Error : εξαίρεση
+Exception : σφάλμα τέλους αρχείου
+End Of File Error : σφάλμα πλειστηριακής τιμής
+Floating Point Error : έξοδος παραγωγής
+Generator Exit : σφάλμα εισαγωγής
+Import Error : σφάλμα εσοχής
+Indentation Error : σφάλμα ευρετηρίου
+Index Error : σφάλμα κλειδιού
+Key Error : διακοπή πληκτρολογίου
+Keyboard Interrupt : σφάλμα αναζήτησης
+Lookup Error : σφάλμα μνήμης
+Memory Error : σφάλμα ονόματος
+Name Error : σφάλμα μη υλοποιημένου
+Not Implemented Error : σφάλμα λειτουργικού συστήματος
+OS Error : υπερχείλιση σφάλματος
+Overflow Error : σφάλμα αναφοράς
+Reference Error : σφάλμα εκτέλεσης
+Runtime Error : σταμάτημα επανάληψης
+Stop Iteration : συντακτικό σφάλμα
+Syntax Error : σφάλμα καρτέλας
+Tab Error : σφάλμα συστήματος
+System Error : έξοδος συστήματος
+System Exit : σφάλμα τύπου
+Type Error : σφάλμα αποκοπής τοπικής μεταβλητής
+Unbound Local Error : σφάλμα unicode
+Unicode Error : σφάλμα κωδικοποίησης unicode
+Unicode Encode Error : σφάλμα αποκωδικοποίησης unicode
+Unicode Decode Error : σφάλμα μετάφρασης unicode
+Unicode Translate Error : σφάλμα αξίας
+Value Error : σφάλμα διαίρεσης με μηδέν
+Zero Division Error : 

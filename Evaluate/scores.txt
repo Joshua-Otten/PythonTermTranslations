@@ -1,0 +1,429 @@
+PROMPT: zero_shot_prompt
+"Spanish"
+ChatGPT
+	Raw: 66.22%
+	CHRF: 70.04%
+Llama2
+	Raw: 66.22%
+	CHRF: 64.65%
+
+"French"
+ChatGPT
+	Raw: 53.60%
+	CHRF: 64.20%
+Llama2
+	Raw: 49.55%
+	CHRF: 59.35%
+
+"Greek"
+ChatGPT
+	Raw: 36.04%
+	CHRF: 48.09%
+Llama2
+	Raw: 12.61%
+	CHRF: 27.94%
+
+"Mandarin"
+ChatGPT
+	Raw: 38.74%
+	CHRF: 23.40%
+Llama2
+	Raw: 27.03%
+	CHRF: 16.36%
+
+"Hindi"
+ChatGPT
+	Raw: 26.13%
+	CHRF: 36.51%
+Llama2
+	Raw: 5.86%
+	CHRF: 12.84%
+
+"Bengali"
+ChatGPT
+	Raw: 7.66%
+	CHRF: 14.60%
+Llama2
+	Raw: 4.95%
+	CHRF: 10.28%
+
+"Arabic"
+ChatGPT
+	Raw: 22.52%
+	CHRF: 36.76%
+Llama2
+	Raw: 12.61%
+	CHRF: 20.58%
+
+"SoraniKurdish"
+ChatGPT
+	Raw: 3.60%
+	CHRF: 12.36%
+Llama2
+	Raw: 1.80%
+	CHRF: 5.92%
+
+PROMPT: zero_shot_motivation
+"Spanish"
+ChatGPT
+	Raw: 64.86%
+	CHRF: 70.39%
+Llama2
+	Raw: 59.01%
+	CHRF: 65.36%
+
+"French"
+ChatGPT
+	Raw: 55.41%
+	CHRF: 64.43%
+Llama2
+	Raw: 49.55%
+	CHRF: 59.83%
+
+"Greek"
+ChatGPT
+	Raw: 36.49%
+	CHRF: 49.33%
+Llama2
+	Raw: 13.51%
+	CHRF: 28.54%
+
+"Mandarin"
+ChatGPT
+	Raw: 45.95%
+	CHRF: 26.52%
+Llama2
+	Raw: 25.23%
+	CHRF: 15.08%
+
+"Hindi"
+ChatGPT
+	Raw: 22.07%
+	CHRF: 31.67%
+Llama2
+	Raw: 6.31%
+	CHRF: 14.16%
+
+"Bengali"
+ChatGPT
+	Raw: 28.38%
+	CHRF: 37.29%
+Llama2
+	Raw: 4.50%
+	CHRF: 9.64%
+
+"Arabic"
+ChatGPT
+	Raw: 22.07%
+	CHRF: 37.23%
+Llama2
+	Raw: 9.46%
+	CHRF: 19.33%
+
+"SoraniKurdish"
+ChatGPT
+	Raw: 8.11%
+	CHRF: 15.52%
+Llama2
+	Raw: 1.80%
+	CHRF: 6.33%
+
+PROMPT: one_example
+"Spanish"
+ChatGPT
+	Raw: 63.96%
+	CHRF: 67.69%
+Llama2
+	Raw: 59.01%
+	CHRF: 65.25%
+
+"French"
+ChatGPT
+	Raw: 58.56%
+	CHRF: 66.33%
+Llama2
+	Raw: 46.40%
+	CHRF: 56.68%
+
+"Greek"
+ChatGPT
+	Raw: 39.64%
+	CHRF: 52.08%
+Llama2
+	Raw: 13.06%
+	CHRF: 27.26%
+
+"Mandarin"
+ChatGPT
+	Raw: 53.60%
+	CHRF: 28.99%
+Llama2
+	Raw: 26.58%
+	CHRF: 16.74%
+
+"Hindi"
+ChatGPT
+	Raw: 27.48%
+	CHRF: 37.56%
+Llama2
+	Raw: 7.21%
+	CHRF: 14.91%
+
+"Bengali"
+ChatGPT
+	Raw: 22.97%
+	CHRF: 33.45%
+Llama2
+	Raw: 4.95%
+	CHRF: 9.65%
+
+"Arabic"
+ChatGPT
+	Raw: 25.23%
+	CHRF: 37.02%
+Llama2
+	Raw: 13.96%
+	CHRF: 20.10%
+
+"SoraniKurdish"
+ChatGPT
+	Raw: 9.91%
+	CHRF: 19.76%
+Llama2
+	Raw: 1.80%
+	CHRF: 6.65%
+
+PROMPT: few_shot
+"Spanish"
+ChatGPT
+	Raw: 68.02%
+	CHRF: 70.72%
+Llama2
+	Raw: 57.21%
+	CHRF: 65.00%
+
+"French"
+ChatGPT
+	Raw: 56.31%
+	CHRF: 64.42%
+Llama2
+	Raw: 48.20%
+	CHRF: 58.82%
+
+"Greek"
+ChatGPT
+	Raw: 35.59%
+	CHRF: 49.76%
+Llama2
+	Raw: 16.22%
+	CHRF: 28.84%
+
+"Mandarin"
+ChatGPT
+	Raw: 47.30%
+	CHRF: 26.52%
+Llama2
+	Raw: 27.93%
+	CHRF: 17.44%
+
+"Hindi"
+ChatGPT
+	Raw: 27.48%
+	CHRF: 36.70%
+Llama2
+	Raw: 10.81%
+	CHRF: 19.65%
+
+"Bengali"
+ChatGPT
+	Raw: 25.68%
+	CHRF: 37.29%
+Llama2
+	Raw: 2.25%
+	CHRF: 8.09%
+
+"Arabic"
+ChatGPT
+	Raw: 24.32%
+	CHRF: 37.37%
+Llama2
+	Raw: 12.16%
+	CHRF: 21.39%
+
+"SoraniKurdish"
+ChatGPT
+	Raw: 13.96%
+	CHRF: 22.98%
+Llama2
+	Raw: 2.70%
+	CHRF: 7.74%
+
+PROMPT: entire_set_prompt
+"Spanish"
+ChatGPT
+	Raw: 65.77%
+	CHRF: 69.72%
+Llama2
+	Raw: 59.01%
+	CHRF: 65.99%
+
+"French"
+ChatGPT
+	Raw: 62.16%
+	CHRF: 68.43%
+Llama2
+	Raw: 50.00%
+	CHRF: 60.96%
+
+"Greek"
+ChatGPT
+	Raw: 35.14%
+	CHRF: 48.91%
+Llama2
+	Raw: 15.32%
+	CHRF: 28.24%
+
+"Mandarin"
+ChatGPT
+	Raw: 50.90%
+	CHRF: 29.21%
+Llama2
+	Raw: 24.32%
+	CHRF: 15.77%
+
+"Hindi"
+ChatGPT
+	Raw: 27.03%
+	CHRF: 36.19%
+Llama2
+	Raw: 6.76%
+	CHRF: 14.00%
+
+"Bengali"
+ChatGPT
+	Raw: 23.87%
+	CHRF: 34.86%
+Llama2
+	Raw: 3.15%
+	CHRF: 7.08%
+
+"Arabic"
+ChatGPT
+	Raw: 22.07%
+	CHRF: 36.01%
+Llama2
+	Raw: 11.26%
+	CHRF: 20.61%
+
+"SoraniKurdish"
+ChatGPT
+	Raw: 5.86%
+	CHRF: 12.64%
+Llama2
+	Raw: 1.80%
+	CHRF: 6.46%
+
+
+
+GOOGLE TRANSLATE SCORES
+
+VERSION: V1
+"Spanish"
+	Raw: 73.42%
+	CHRF: 72.05%
+
+"French"
+	Raw: 84.23%
+	CHRF: 79.49%
+
+"Greek"
+	Raw: 45.50%
+	CHRF: 54.74%
+
+"Mandarin"
+	Raw: 80.63%
+	CHRF: 41.14%
+
+"Hindi"
+	Raw: 39.19%
+	CHRF: 43.72%
+
+"Bengali"
+	Raw: 67.57%
+	CHRF: 68.23%
+
+"Arabic"
+	Raw: 61.26%
+	CHRF: 58.58%
+
+"SoraniKurdish"
+	Raw: 98.20%
+	CHRF: 86.78%
+
+
+VERSION: V2
+"Spanish"
+	Raw: 55.86%
+	CHRF: 62.55%
+
+"French"
+	Raw: 43.24%
+	CHRF: 52.83%
+
+"Greek"
+	Raw: 32.88%
+	CHRF: 39.82%
+
+"Mandarin"
+	Raw: 25.23%
+	CHRF: 16.04%
+
+"Hindi"
+	Raw: 19.37%
+	CHRF: 25.19%
+
+"Bengali"
+	Raw: 18.47%
+	CHRF: 23.93%
+
+"Arabic"
+	Raw: 22.97%
+	CHRF: 38.62%
+
+"SoraniKurdish"
+	Raw: 23.42%
+	CHRF: 23.83%
+
+
+VERSION: V3
+"Spanish"
+	Raw: 0.45%
+	CHRF: 55.99%
+
+"French"
+	Raw: 16.22%
+	CHRF: 31.60%
+
+"Greek"
+	Raw: 27.03%
+	CHRF: 32.36%
+
+"Mandarin"
+	Raw: 1.35%
+	CHRF: 1.99%
+
+"Hindi"
+	Raw: 30.18%
+	CHRF: 36.43%
+
+"Bengali"
+	Raw: 32.43%
+	CHRF: 39.71%
+
+"Arabic"
+	Raw: 23.42%
+	CHRF: 35.37%
+
+"SoraniKurdish"
+	Raw: 23.42%
+	CHRF: 27.99%

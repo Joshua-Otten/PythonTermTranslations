@@ -1,0 +1,222 @@
+بەهای ڕەها
+all
+any
+ascii
+binary
+boolean
+byte array
+bytes
+callable
+character
+class method
+compile
+complex
+delete attribute
+فەرهەنگ
+directory
+divide modulus
+enumerate
+evaluate
+execute
+filter
+خاڵی هەڵدەفڕێت
+فۆرمات
+frozen set
+get attribute
+globals
+has attribute
+hash
+help
+hexadecimal
+identity
+input
+integer
+is instance
+is subclass
+iterator
+length
+list
+locals
+نەخشە
+maximum
+دیمەنی بیرگە
+کەمترین
+next
+object
+octal
+open
+ordinal
+power
+print
+property
+مەودا
+represent
+reversed
+round
+set
+set attribute
+slice
+sorted
+static method
+string
+summation
+superset
+tuple
+type
+گۆڕاوەکان
+zip
+capitalize
+case fold
+center
+count
+encode
+بەم شێوەیە کۆتایی دێت
+expand tabs
+find
+نەخشەی فۆرمات
+index
+is alphanumeric
+is alphabetic
+is ascii
+دەهەمییە
+is digit
+is identifier
+is lower
+is numeric
+is printable
+is space
+is title
+بە پیتی گەورەیە
+join
+left justify
+lower
+left strip
+make translation
+partition
+replace
+reverse find
+reverse index
+right justify
+right partition
+right split
+right strip
+split
+split lines
+بەم شێوەیە دەست پێدەکات
+strip
+swap case
+title
+translate
+uppercase
+zero fill
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+sort
+from keys
+get
+items
+keys
+pop item
+set default
+نوێکردنەوە
+values
+add
+جیاوازی
+نوێکردنەوەی جیاوازی
+discard
+intersection
+نوێکردنەوەی intersection
+is disjoint
+is subset
+is superset
+جیاوازی سیمیتری
+نوێکردنەوەی جیاوازی هاوسەنگ
+union
+close
+detach
+file number
+flush
+is interactive
+read
+readable
+read line
+read lines
+seek
+seekable
+tell
+truncate
+writable
+write
+write lines
+و
+وەک
+assert
+break
+class
+continue
+define
+delete
+else if
+else
+جگە لە
+هەڵە
+لە کۆتاییدا
+for
+لە
+global
+ئەگەر
+import
+لە
+is
+lambda
+هیچ
+non-local
+نەک
+یان
+pass
+raise exception
+return
+ڕاست
+try
+while
+لەگەڵ
+yield
+هەڵەی ژمێریاری
+هەڵەی جەختکردنەوە
+هەڵەی تایبەتمەندی
+ئیستسناء
+هەڵەی کۆتایی پەڕگە
+هەڵەی خاڵی هەڵدەفڕێت
+دەرچوونی مۆلیدە
+هەڵەی هاوردەکردن
+هەڵەی چەقاندن
+هەڵەی ئیندێکس
+هەڵەی کلیل
+پچڕانی کیبۆرد
+هەڵەی گەڕان
+هەڵەی بیرگە
+هەڵەی ناو
+هەڵەی جێبەجێنەکراو
+هەڵەی سیستەمی کارپێکردن
+هەڵەی overflow
+هەڵەی ئاماژە
+هەڵەی کاتی جێبەجێکردن
+stop iteration
+هەڵەی ڕستەسازی
+هەڵەی تاب
+هەڵەی سیستەم
+دەرچوونی سیستەم
+هەڵەی جۆر
+هەڵەی ناوخۆیی نەبەستراو
+هەڵەی یونیکۆد
+هەڵەی کۆدکردنی یونیکۆد
+هەڵەی یونیکۆد دیکۆد
+هەڵەی وەرگێڕانی یونیکۆد
+هەڵەی بەها
+هەڵەی دابەشکردنی سفر

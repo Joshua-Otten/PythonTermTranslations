@@ -1,0 +1,252 @@
+.
+
+قيمة مطلقة، الكل، أي، أسكي، ثنائي، منطقي، صفيحة بايت، بايت، قابل للاستدعاء، حرف.
+, float.
+
+class method => طريقة الفئة
+compile => تجميع
+complex => معقد
+delete attribute => حذف السمة
+dictionary => قاموس
+directory => الدليل
+divide modulus => قسمة المعامل
+enumerate => يعد
+evaluate => تقييم
+execute => ينفذ
+float => عائم
+
+
+Filter => التصفية
+Floating Point => نقطة عائمة
+Format => التنسيق
+Frozen Set => مجموعة مجمدة
+Get Attribute => الحصول على السمة
+Globals => العالميات
+Has Attribute => لديه السمة
+Hash => التجزئة
+Help => المساعدة
+Hexadecimal => السداسي
+.
+
+الهوية، الإدخال، العدد الصحيح، هو نموذج، هو نوع فرعي، المطالع، الطول، القائمة، المحليين، الخريطة.
+.
+
+maximum => الحد الأقصى
+memory view => عرض الذاكرة
+minimum => الحد الأدنى
+next => التالي
+object => كائن
+octal => ثمانية أبعاد
+open => مفتوح
+ordinal => ترتيبي
+power => قوة
+print => طباعة
+, string.
+
+property => خاصية
+range => نطاق
+represent => تمثيل
+reversed => معكوس
+round => دائري
+set => مجموعة
+set attribute => تعيين السمة
+slice => قطعة
+sorted => مرتب
+static method => طريقة ثابتة
+string => سلسلة
+
+
+String => سلسلة
+Summation => الجمع
+Superset => مجموعة رئيسية
+Tuple => مجموعة
+Type => نوع
+Variables => متغيرات
+Zip => ضغط
+Capitalize => تحويل إلى حروف كبيرة
+Case fold => تصغير الحروف
+Center => مركز
+, is digit, is lower, is numeric, is upper
+
+count => عد
+encode => ترميز
+ends with => ينتهي بـ
+expand tabs => توسيع الألسنة
+find => العثور على
+format map => خريطة التنسيق
+index => فهرس
+is alphanumeric => هو أبجدي رقمي
+is alphabetic => هو أبجدي
+is ascii => هو ASCII
+is digit => هو رقم
+is lower => هو منخفض
+is numeric => هو رقمي
+is upper => هو مرتفع
+.
+
+is decimal => هو العشري
+is digit => هو رقم
+is identifier => هو المعرف
+is lower => هو الأصغر
+is numeric => هو رقمي
+is printable => هو قابل للطباعة
+is space => هو المسافة
+is title => هو العنوان
+is uppercase => هو الأكبر
+join => انضم
+, right strip, split, translate.
+
+left justify => ضبط إلى اليسار
+lower => أقل
+left strip => تجريد اليسار
+make translation => عمل الترجمة
+partition => تقسيم
+replace => استبدال
+reverse find => البحث العكسي
+reverse index => الفهرس العكسي
+right justify => ضبط إلى اليمين
+right partition => التقسيم اليمنى
+right strip => تجريد اليمين
+split => فصل
+translate => ترجمة
+.
+
+right split => فصل يمين
+right strip => يزيل يمين
+split => فصل
+split lines => فصل الخطوط
+starts with => يبدأ بـ
+strip => يزيل
+swap case => تبديل الحالة
+title => العنوان
+translate => ترجم
+uppercase => حروف كبيرة
+.
+
+صفر الملأ، إلحاق، واضح، نسخ، امتداد، إدراج، فرق، إزالة، عكس، نوع
+
+
+From: من 
+Keys: مفاتيح 
+Get: الحصول على 
+Items: العناصر 
+Keys: مفاتيح 
+Pop Item: عنصر طرح 
+Set Default: ضبط الافتراضي 
+Update: تحديث 
+Values: قيم 
+Add: إضافة 
+Difference: فرق
+.
+
+difference update => تحديث الفرق
+discard => تجاهل
+intersection => اشتراك
+intersection update => تحديث الاشتراك
+is disjoint => ليس متشابك
+is subset => هو مجموعة فرعية
+is superset => هو مجموعة فرعية كبيرة
+symmetric difference => الفرق المتماثل
+symmetric difference update => تحديث الفرق المتماثل
+union => اتحاد
+, truncate, write, writable
+
+close => إغلاق
+detach => فصل
+file number => رقم الملف
+flush => صفي
+is interactive => هو تفاعلي
+read => قراءة
+readable => قابل للقراءة
+read line => قراءة سطر
+read lines => قراءة الأسطر
+seek => بحث
+truncate => تقصير
+write => كتابة
+writable => قابل للكتابة
+.
+
+seekable: قابل للبحث
+tell: أخبر
+truncate: قص
+writable: قابل للكتابة
+write: كتابة
+write lines: كتابة الأسطر
+and: و
+as: ك
+assert: يؤكد
+break: كسر
+, from, global, if, import, in, is, lambda, None, nonlocal, not, or, pass, return, True, try, while
+
+الطبقة، الاستمرار، تعريف، حذف، وإلا إذا، وإلا، إلا، كاذب، وأخيرا، ل، من، عالمي، إذا، استيراد، في، هو، لامبدا، لا شيء، غير محلي، ليس، أو، تمرير، عودة، صحيح، حاول، بينما
+
+
+from: من
+global: عالمي
+if: إذا
+import: استيراد
+in: في
+is: هو
+lambda: لامبدا
+None: لا شيء
+non-local: غير محلي
+not: ليس
+
+
+or => أو
+pass => تمرير
+raise exception => رفع استثناء
+return => ارجاع
+True => صحيح
+try => حاول
+while => بينما
+with => مع
+yield => توليد
+Arithmetic Error => خطأ حسابي
+, Name Error, NotImplementedError, Syntax Error, Type Error.
+
+Assertion Error: خطأ التأكيد
+Attribute Error: خطأ الخاصية
+Exception: استثناء
+End Of File Error: خطأ نهاية الملف
+Floating Point Error: خطأ نقطة تطفو
+Generator Exit: خروج المولد
+Import Error: خطأ استيراد
+Indentation Error: خطأ المسافة
+Index Error: خطأ الفهرس
+Key Error: خطأ المفتاح
+Name Error: خطأ الاسم
+NotImplementedError: خطأ غير مطبق
+Syntax Error: خطأ نحو
+Type Error: خطأ نوع
+, Syntax Error, Type Error, Unbound Local Error
+
+Keyboard Interrupt => مقاطعة من طرف لوحة المفاتيح
+Lookup Error => خطأ في البحث
+Memory Error => خطأ في الذاكرة
+Name Error => خطأ في الاسم
+Not Implemented Error => خطأ غير منفذ
+OS Error => خطأ في نظام التشغيل
+Overflow Error => خطأ في الحجم
+Reference Error => خطأ في المرجع
+Runtime Error => خطأ في التشغيل
+Stop Iteration => إيقاف التكرار
+Syntax Error => خطأ في التركيب
+Type Error => خطأ في النوع
+Unbound Local Error => خطأ غير مرتبط المحلي
+
+
+Syntax Error: خطأ نحوي
+Tab Error: خطأ علامة التبويب
+System Error: خطأ نظام
+System Exit: خروج النظام
+Type Error: خطأ نوع
+Unbound Local Error: خطأ محلي غير مرتبط
+Unicode Error: خطأ يونيكود
+Unicode Encode Error: خطأ ترميز يونيكود
+Unicode Decode Error: خطأ فك ترميز يونيكود
+Unicode Translate Error: خطأ ترجمة يونيكود
+, and Syntax Error.
+
+Value Error: خطأ قيمة
+Zero Division Error: خطأ تقسيم على صفر

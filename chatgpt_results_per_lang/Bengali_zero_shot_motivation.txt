@@ -1,0 +1,159 @@
+.
+
+Absolute Value: পূর্ণ মান
+All: সব
+Any: যেকোন
+ASCII: এএসসিআই
+Binary: দ্বিতীয়
+Boolean: বুলিয়ান
+Byte Array: বাইট অ্যারে
+Bytes: বাইটস
+Callable: কলেবল
+Character: অক্ষর
+, float, for loop, function, global variable, if statement, integer, list, module, operator, print statement, range, return statement, string, tuple, variable.
+
+ক্লাস মেথড, সংকলন, তত্ত্বাবধান, বিশেষত্ব মুছে দিন, ডিকশনারী, ডিরেক্টরি, ভাগ মডুলাস, তালিকাভুক্ত করা, মূল্যায়ন, সম্পাদন, ফ্লোট, ফর লুপ, ফাংশন, গ্লোবাল ভেরিয়েবল, আইফ স্টেটমেন্ট, পূর্ণসংখ্যা, তালিকা, মডিউল, অপারেটর, প্রিন্ট স্টেটমেন্ট, রেঞ্জ, রিটার্ন স্টেটমেন্ট, স্ট্রিং, টুপল, ভেরিয়েবল।
+.
+
+Filter: ফিল্টার 
+Floating Point: ফ্লোটিং পয়েন্ট 
+Format: ফরম্যাট 
+Frozen Set: ফ্রোজন সেট 
+Get Attribute: এট্রিবিউট পাওয়া 
+Globals: গ্লোবাল 
+Has Attribute: এট্রিবিউট আছে 
+Hash: হ্যাশ 
+Help: সাহায্য 
+Hexadecimal: ষেক্সাদেমিক্যাল
+, max, min
+
+Identity: আত্মবিশ্বাস
+Input: ইনপুট
+Integer: পূর্ণসংখ্যা
+Is Instance: এটি একটি উদাহরণ
+Is Subclass: এটি একটি উপজাতি
+Iterator: অনুচর
+Length: দৈর্ঘ্য
+List: তালিকা
+Locals: স্থানীয়রা
+Map: মানচিত্র
+Max: সর্বোচ্চ
+Min: সর্বনিম্ন
+.
+
+সর্বোচ্চ, মেমরি ভিউ, সর্বনিম্ন, পরবর্তী, অবজেক্ট, অক্টাল, খোলা, অর্ডিনাল, শক্তি, প্রিন্ট।
+, string, tuple
+
+Property: সম্পত্তি
+Range: পরিসীমা
+Represent: প্রতিনিধিত্ব করা
+Reversed: উল্টানো
+Round: গোল
+Set: সেট
+Set Attribute: সেট বৈশিষ্ট্য
+Slice: স্লাইস
+Sorted: সাজানো
+Static Method: স্ট্যাটিক মেথড
+String: স্ট্রিং
+Tuple: টুপল
+
+
+String - স্ট্রিং
+Summation - সমষ্টি
+Superset - সুপারসেট
+Tuple - টুপল
+Type - টাইপ
+Variables - ভ্যারিয়েবল
+Zip - জিপ
+Capitalize - ক্যাপিটালাইজ
+Case fold - কেস ফোল্ড
+Center - সেন্টার
+, is digit, is lower, is numeric, is printable, is space, is title, is upper, join, lower, partition, replace, split, startswith, strip, swapcase, title, translate, upper.
+
+গণনা, এনকোড, শেষ হবে, ট্যাব সম্প্রসারণ, খুঁজুন, ফর্ম্যাট ম্যাপ, সূচক, আল্ফানামারেক্স, আল্ফাবেটিক, এসকিআই, ডিজিট, লোঅর, ন্যুমেরিক, প্রিন্টেবল, স্পেস, টাইটেল, আপার, যোগ করুন, লোঅর, ভাগ্য, প্রতিস্থাপন, বিভাজন, শুরু হবে, স্ট্রিপ, স্বাপকেস, টাইটেল, অনুবাদ, আপার।
+
+
+দশমিক, সংখ্যা, আইডেন্টিফায়ার, নিম্নলিখিত, সংখ্যাসূচক, প্রিন্টেবল, স্পেস, শিরোনাম, উচ্চক্ষর, যোগ করা
+, and split.
+
+Left Justify: বামে স্থানান্তর করুন
+Lower: নিম্নলিখিত
+Left Strip: বাম পটান
+Make Translation: অনুবাদ করুন
+Partition: ভাগ করুন
+Replace: প্রতিস্থাপন করুন
+Reverse Find: উল্টো সন্ধান করুন
+Reverse Index: উল্টো সূচক
+Right Justify: ডানে স্থানান্তর করুন
+Right Partition: ডান ভাগ করুন
+Split: ভাগ করুন
+
+
+Right Split: ডান বিভাজন
+Right Strip: ডান স্ট্রিপ
+Split: বিভাজন
+Split Lines: লাইন বিভাজন
+Starts With: শুরু করে
+Strip: স্ট্রিপ
+Swap Case: কেস স্যাপ
+Title: শিরোনাম
+Translate: অনুবাদ
+Uppercase: উপরের অক্ষর
+.
+
+শূন্য ভরাট, যোগ করা, পরিষ্কার, অনুলিপি, বর্ধিত করা, যোগ করা, পপ, অপসারণ, উলটো, সাজানো।
+, intersection
+
+From থেকে: প্রাপ্ত করুন, আইটেমগুলি, কীগুলি, পপ আইটেম, ডিফল্ট সেট করুন, আপডেট, মান, যোগ করুন, তফসিল, ইন্টারসেকশন.
+, union update
+
+তফাৎ আপডেট, বাতিল, অংশগুলির সমন্বয়, অংশগুলির সমন্বয় আপডেট, পৃথক, উপসমূহ, মোহর সমূহ, সমকোণক্র, সমকোণক্র আপডেট, যুক্তি, যুক্তি আপডেট
+, write, writable
+
+Close: বন্ধ করা
+Detach: অলরে করা
+File Number: ফাইল নম্বর
+Flush: ফ্লাশ
+Is Interactive: আইন্টারঅ্যাকটিভ কি
+Read: পড়ুন
+Readable: পঠনযোগ্য
+Read Line: লাইন পড়ুন
+Read Lines: লাইনগুলি পড়ুন
+Seek: খোঁজা
+Write: লিখুন
+Writable: লেখার যোগ্য
+, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while
+
+সিকেবলে, বলুন, ট্রাঙ্কেট, রাইটেবল, রাইট, রাইট লাইনস, এবং, যেমন, অসার্ট, ব্রেক, ক্লাস, চালিয়ে যান, ডিফন্ট, ডেল, এলিফ, এলস, এক্সপেক্ট, ফাইনালি, ফর, ফ্রম, গ্লোবাল, আইফ, ইম্পোর্ট, ইন, আইস, লাম্বডা, ননলোক্যাল, নট, অথবা, পাস, রিজার্ভ, রিটার্ন, ট্রাই, ওয়াইলে.
+, if, in, is, lambda, None, True.
+
+ক্লাস, চালান, নির্ধারণ, মুছে ফেলুন, অন্যথায় যদি, অন্যথায়, ব্যতীত, মিথ্যা, নির্ধারিতভাবে, জন্য, যদি, মধ্যে, হয়, লাম্বডা, কোনটিই নয়, সত্য
+, or, pass, raise, return, True, try, while.
+
+থ্রাম: থেকে, গ্লোবাল, যদি, আমদানি, মধ্যে, হল, ল্যাম্বডা, কোনটিই নয়, নন-লোকাল, না, অথবা, পাস, উদ্বুদ্ধ করা, রিটার্ন, সত্য, চেষ্টা করা, এবং এখনো হলেও.
+
+
+অথবা, পাস, বার্তা উত্তেজিত করুন, ফেরত, সত্য, চেষ্টা করুন, যখন, সঙ্গে, প্রদান করুন, গণিত ত্রুটি
+, Name Error, NotImplementedError, Overflow Error, Recursion Error, Runtime Error, Syntax Error, Type Error, Value Error
+
+অসার্টন ত্রুটি, অ্যাট্রিবিউট ত্রুটি, বিরতি, ফাইল শেষ ত্রুটি, ফ্লোটিং পয়েন্ট ত্রুটি, জেনারেটর প্রস্থান, ইম্পোর্ট ত্রুটি, ইনডেন্টেশন ত্রুটি, ইনডেক্স ত্রুটি, কী ত্রুটি, নেম ত্রুটি, নতিমপ্লিমেন্টেড ত্রুটি, অভারফ্লো ত্রুটি, রেকার্শন ত্রুটি, রানটাইম ত্রুটি, সিনট্যাক্স ত্রুটি, টাইপ ত্রুটি, ভ্যালু ত্রুটি
+, Syntax Error, Type Error, Value Error
+
+কীবোর্ড ইন্টাররাপ্ট, লুকআপ ত্রুটি, মেমরি ত্রুটি, নাম ত্রুটি, না ইম্প্লিমেন্টেড ত্রুটি, ওএস ত্রুটি, অভারফ্লো ত্রুটি, রেফারেন্স ত্রুটি, রানটাইম ত্রুটি, স্টপ ইটারেশন, সিনট্যাক্স ত্রুটি, টাইপ ত্রুটি, ভ্যালু ত্রুটি
+
+
+Syntax Error: সিন্ট্যাক্স ত্রুটি
+Tab Error: ট্যাব ত্রুটি
+System Error: সিস্টেম ত্রুটি
+System Exit: সিস্টেম বাহির
+Type Error: টাইপ ত্রুটি
+Unbound Local Error: অবাধি স্থানীয় ত্রুটি
+Unicode Error: ইউনিকোড ত্রুটি
+Unicode Encode Error: ইউনিকোড এনকোড ত্রুটি
+Unicode Decode Error: ইউনিকোড ডেকোড ত্রুটি
+Unicode Translate Error: ইউনিকোড অনুবাদ ত্রুটি
+, and Syntax Error.
+
+Value Error: মান ত্রুটি
+Zero Division Error: শূন্য বিভাজন ত্রুটি
+Syntax Error: সিনট্যাক্স ত্রুটি

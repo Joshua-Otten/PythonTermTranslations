@@ -1,0 +1,222 @@
+valeur absolue
+tout
+n'importe quoi
+ascii
+binaire
+booléen
+tableau d'octets
+octets
+appelable
+caractère
+méthode de classe
+compiler
+complexe
+supprimer l'attribut
+dictionnaire
+répertoire
+modulo de division
+énumérer
+évaluer
+exécuter
+filtrer
+point flottant
+formater
+ensemble congelé
+obtenir attribut
+globaux
+a attribut
+hacher
+aide
+hexadécimal
+identity => identité
+input => entrée
+integer => entier
+is instance => est une instance
+is subclass => est une sous-classe
+iterator => itérateur
+length => longueur
+list => liste
+locals => locaux
+map => carte
+maximum => maximum
+memory view => vue mémoire
+minimum => minimum
+next => suivant
+object => objet
+octal => octal
+open => ouvrir
+ordinal => ordinal
+power => puissance
+print => imprimer
+property => propriété
+range => plage
+represent => représenter
+reversed => inversé
+round => arrondir
+set => ensemble
+set attribute => définir l'attribut
+slice => tranche
+sorted => trié
+static method => méthode statique
+string => chaîne
+summation => somme
+superset => ensemble supérieur
+tuple => tuple
+type => type
+variables => variables
+zip => fermeture éclair
+capitalize => capitaliser
+case fold => plier la casse
+center => centrer
+count => compter
+encode => encoder
+ends with => se termine par
+expand tabs => étendre les onglets
+find => trouver
+format map => mappe de format
+index => index
+is alphanumeric => est alphanumérique
+is alphabetic => est alphabétique
+is ascii => est ascii
+is decimal => est décimal
+is digit => est chiffre
+is identifier => est identificateur
+is lower => est inférieur
+is numeric => est numérique
+is printable => est imprimable
+is space => est espace
+is title => est titre
+is uppercase => est majuscule
+join => joindre
+left justify => justifier à gauche
+lower => minuscule
+left strip => retirer à gauche
+make translation => faire la traduction
+partition => partitionner
+replace => remplacer
+reverse find => recherche inverse
+reverse index => index inverse
+right justify => justifier à droite
+right partition => partition à droite
+right split => divisé à droite
+right strip => enlever à droite
+split => diviser
+split lines => diviser les lignes
+starts with => commence par
+strip => enlever
+swap case => échanger la casse
+title => titre
+translate => traduire
+uppercase => majuscule
+zero fill => combler de zéros
+append => ajouter
+clear => effacer
+copy => copier
+extend => étendre
+insert => insérer
+pop => extraire
+remove => supprimer
+reverse => inverser
+sort => trier
+from keys => à partir des clés
+get => obtenir
+items => articles
+keys => clés
+pop item => élément pop
+set default => défaut défini
+update => mettre à jour
+values => valeurs
+add => ajouter
+difference => différence
+difference update => mise à jour de la différence
+discard => rejeter
+intersection => intersection
+intersection update => mise à jour de l'intersection
+is disjoint => est disjoint
+is subset => est sous-ensemble
+is superset => est un ensemble plus grand
+symmetric difference => différence symétrique
+symmetric difference update => mise à jour de la différence symétrique
+union => union
+fermer
+détacher
+numéro de fichier
+vider
+est interactif
+lire
+lisible
+lire la ligne
+lire les lignes
+chercher
+seekable => recherchable
+tell => dire
+truncate => tronquer
+writable => inscriptible
+write => écrire
+write lines => écrire des lignes
+and => et
+as => comme
+assert => affirmer
+break => casser
+classe
+continuer
+définir
+supprimer
+sinon si
+sinon
+sauf
+faux
+finalement
+pour
+de
+global
+si
+importer
+dans
+est
+lambda
+aucun
+non local
+non
+or => ou
+pass => passer
+raise exception => lever une exception
+return => retourner
+true => vrai
+try => essayer
+while => tandis que
+with => avec
+yield => rendement
+arithmetic error => erreur arithmétique
+erreur d'assertion
+erreur d'attribut
+exception
+erreur de fin de fichier
+erreur de point flottant
+sortie du générateur
+erreur d'importation
+erreur d'indentation
+erreur d'index
+erreur de clé
+interruption clavier
+erreur de recherche
+erreur de mémoire
+erreur de nom
+erreur non implémentée
+erreur os
+erreur de débordement
+erreur de référence
+erreur de temps d'exécution
+arrêt de l'itération
+erreur de syntaxe
+erreur de tabulation
+erreur système
+sortie système
+erreur de type
+erreur locale non liée
+erreur unicode
+erreur d'encodage unicode
+erreur de décodage unicode
+erreur de traduction unicode
+Erreur de valeur
+Erreur de division par zéro

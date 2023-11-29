@@ -1,0 +1,235 @@
+valeur absolue : renvoie la valeur absolue d'un nombre
+all : renvoie True si tous les éléments d'un objet itérable sont vrais
+any : renvoie True si un élément d'un objet itérable est vrai
+ascii : renvoie une version lisible d'un objet. Remplace les caractères non ascii par un caractère d'échappement
+binaire : renvoie la version binaire d'un nombre
+booléen : renvoie la valeur booléenne de l'objet spécifié
+tableau d'octets : renvoie un tableau d'octets
+bytes : renvoie un objet bytes
+callable : renvoie True si l'objet spécifié est callable, sinon False
+caractère : renvoie un caractère à partir du code Unicode spécifié.
+méthode de classe : convertit une méthode en méthode de classe
+compile : renvoie la source spécifiée sous la forme d'un objet, prêt à être exécuté
+complexe : renvoie un nombre complexe
+supprimer l'attribut : supprime l'attribut spécifié (propriété ou méthode) de l'objet spécifié
+dictionnaire : renvoie un dictionnaire (tableau)
+répertoire : renvoie une liste des propriétés et des méthodes de l'objet spécifié
+module de division : renvoie le quotient et le reste lorsque l'argument1 est divisé par l'argument2
+enumerate : prend une collection (par exemple, un tuple) et la renvoie sous la forme d'un objet d'énumération
+évaluer : évalue et exécute une expression
+execute : exécute le code (ou l'objet) spécifié
+filtre : utilisez une fonction de filtre pour exclure des éléments d'un objet itérable
+virgule flottante : renvoie un nombre à virgule flottante
+format : formate une valeur spécifiée
+ensemble gelé : renvoie un objet ensemble gelé
+get attribut : renvoie la valeur de l'attribut spécifié (propriété ou méthode)
+globals : renvoie la table de symboles globale actuelle sous forme de dictionnaire
+a un attribut : renvoie True si l'objet spécifié a l'attribut spécifié (propriété/méthode)
+hash : renvoie la valeur de hachage d'un objet spécifié
+help : exécute le système d'aide intégré
+hexadécimal : convertit un nombre en une valeur hexadécimale
+identity : renvoie l'identifiant d'un objet
+entrée : autoriser l'entrée de l'utilisateur
+entier : renvoie un nombre entier
+est une instance : renvoie True si un objet spécifié est une instance d'un objet spécifié
+est une sous-classe : renvoie True si une classe spécifiée est une sous-classe d'un objet spécifié
+iterator : renvoie un objet itérateur
+length : renvoie la longueur d'un objet
+list : renvoie une liste
+locals : renvoie un dictionnaire mis à jour de la table des symboles locaux actuelle
+map : renvoie l'itérateur spécifié avec la fonction spécifiée appliquée à chaque élément
+maximum : renvoie le plus grand élément d'un itérable
+vue mémoire : renvoie un objet de vue mémoire
+minimum : renvoie le plus petit élément d'un itérable
+suivant : renvoie l'élément suivant dans un itérable
+object : renvoie un nouvel objet
+octal : convertit un nombre en octal
+open : ouvre un fichier et renvoie un objet de fichier
+ordinal : convertit un entier représentant l'Unicode du caractère spécifié
+puissance : Renvoie la valeur de x à la puissance y
+print : imprime sur le périphérique de sortie standard
+propriété : obtient, définit, supprime une propriété
+range : renvoie une séquence de nombres, en commençant par 0 et en incrémentant de 1 (par défaut)
+represent : renvoie une version lisible d'un objet
+reversed : renvoie un itérateur inversé
+round : Arrondit un nombre
+set : renvoie un nouvel objet set
+set attribute : définit un attribut (propriété/méthode) d'un objet
+tranche : renvoie un objet tranche
+trié : renvoie une liste triée
+méthode statique : convertit une méthode en méthode statique
+string : renvoie un objet chaîne
+sommation : somme les éléments d'un itérateur
+superset : renvoie un objet qui représente la classe parent
+tuple : renvoie un tuple
+type : renvoie le type d'un objet
+variables : renvoie la propriété __dict__ d'un objet
+zip : renvoie un itérateur, à partir de deux ou plusieurs itérateurs
+capitaliser : convertit le premier caractère en majuscule
+case fold : convertit la chaîne en minuscules
+center : renvoie une chaîne centrée
+count : renvoie le nombre de fois qu'une valeur spécifiée apparaît dans une chaîne
+encode : renvoie une version encodée de la chaîne
+se termine par : renvoie vrai si la chaîne se termine par la valeur spécifiée
+développer les onglets : définit la taille des onglets de la chaîne
+find : recherche dans la chaîne une valeur spécifiée et renvoie la position de l'endroit où elle a été trouvée
+format : formate les valeurs spécifiées dans une chaîne
+carte de format : formate les valeurs spécifiées dans une chaîne
+index : recherche dans la chaîne une valeur spécifiée et renvoie la position de l'endroit où elle a été trouvée
+est alphanumérique : renvoie True si tous les caractères de la chaîne sont alphanumériques
+est alphabétique : renvoie True si tous les caractères de la chaîne sont dans l'alphabet
+is ascii : renvoie True si tous les caractères de la chaîne sont des caractères ascii
+est décimal : renvoie Vrai si tous les caractères de la chaîne sont des décimaux
+est un chiffre : renvoie Vrai si tous les caractères de la chaîne sont des chiffres
+est un identifiant : renvoie True si la chaîne est un identifiant
+is lower : renvoie True si tous les caractères de la chaîne sont en minuscules
+est numérique : renvoie True si tous les caractères de la chaîne sont numériques
+est imprimable : renvoie True si tous les caractères de la chaîne sont imprimables
+est un espace : renvoie True si tous les caractères de la chaîne sont des espaces
+est le titre : renvoie True si la chaîne suit les règles d'un titre
+est en majuscule : renvoie True si tous les caractères de la chaîne sont en majuscule
+join : convertit les éléments d'un itérable en une chaîne
+justification à gauche : renvoie une version justifiée à gauche de la chaîne
+lower : convertit une chaîne en minuscules
+bande de gauche : renvoie une version de la chaîne de caractères à gauche
+make translation : renvoie une table de traduction à utiliser dans les traductions
+partition : renvoie un tuple où la chaîne est divisée en trois parties
+remplacer : renvoie une chaîne dans laquelle une valeur spécifiée est remplacée par la valeur spécifiée
+recherche inversée : recherche dans la chaîne une valeur spécifiée et renvoie la dernière position de l'endroit où elle a été trouvée
+index inversé : recherche dans la chaîne une valeur spécifiée et renvoie la dernière position de l'endroit où elle a été trouvée
+justification à droite : renvoie une version justifiée à droite de la chaîne
+partition droite : renvoie un tuple où la chaîne est divisée en trois parties
+fractionnement à droite : fractionne la chaîne au niveau du séparateur spécifié et renvoie une liste
+bandeau droit : renvoie une version ajustée à droite de la chaîne
+split : divise la chaîne au niveau du séparateur spécifié et renvoie une liste
+diviser les lignes : divise la chaîne au niveau des sauts de ligne et renvoie une liste
+commence par : renvoie vrai si la chaîne commence par la valeur spécifiée
+strip : renvoie une version tronquée de la chaîne
+swap case : permute les casses, les minuscules deviennent des majuscules et vice versa
+title : convertit le premier caractère de chaque mot en majuscule
+translate : renvoie une chaîne traduite
+majuscule : convertit une chaîne en majuscule
+zéro fill : Remplit la chaîne avec un nombre spécifié de valeurs 0 au début
+append : Ajoute un élément à la fin de la liste
+clear : Supprime tous les éléments de la liste
+copie : renvoie une copie de la liste
+count : renvoie le nombre d'éléments avec la valeur spécifiée
+extend : ajoute les éléments d'une liste (ou de tout itérable) à la fin de la liste actuelle
+index : renvoie l'index du premier élément avec la valeur spécifiée
+insert : ajoute un élément à la position spécifiée
+pop : supprime l'élément à la position spécifiée
+remove : supprime le premier élément avec la valeur spécifiée
+reverse : Inverse l'ordre de la liste
+sort : Trie la liste
+clear : supprime tous les éléments du dictionnaire
+copie : renvoie une copie du dictionnaire
+from keys : renvoie un dictionnaire avec les clés et la valeur spécifiées
+get : renvoie la valeur de la clé spécifiée
+items : renvoie une liste contenant un tuple pour chaque paire clé-valeur
+keys : renvoie une liste contenant les clés du dictionnaire
+pop : supprime l'élément avec la clé spécifiée
+élément pop : supprime la dernière paire clé-valeur insérée
+set default : renvoie la valeur de la clé spécifiée. Si la clé n'existe pas : insérez la clé, avec la valeur spécifiée
+update : met à jour le dictionnaire avec les paires clé-valeur spécifiées
+values : renvoie une liste de toutes les valeurs du dictionnaire
+count : renvoie le nombre de fois qu'une valeur spécifiée apparaît dans un tuple
+index : recherche dans le tuple une valeur spécifiée et renvoie la position de l'endroit où il a été trouvé
+add : Ajoute un élément à l'ensemble
+clear : Supprime tous les éléments de l'ensemble
+copy : renvoie une copie de l'ensemble
+différence : renvoie un ensemble contenant la différence entre deux ou plusieurs ensembles
+mise à jour des différences : supprime les éléments de cet ensemble qui sont également inclus dans un autre ensemble spécifié
+jeter : supprimer l'élément spécifié
+intersection : renvoie un ensemble, c'est-à-dire l'intersection de deux ou plusieurs ensembles
+mise à jour d'intersection : supprime les éléments de cet ensemble qui ne sont pas présents dans d'autres ensembles spécifiés
+est disjoint : renvoie si deux ensembles ont une intersection ou non
+est un sous-ensemble : renvoie si un autre ensemble contient ou non cet ensemble
+est un sur-ensemble : renvoie si cet ensemble contient un autre ensemble ou non
+pop : supprime un élément de l'ensemble
+remove : supprime l'élément spécifié
+différence symétrique : renvoie un ensemble avec les différences symétriques de deux ensembles
+mise à jour des différences symétriques : insère les différences symétriques de cet ensemble et d'un autre
+union : renvoie un ensemble contenant l'union d'ensembles
+update : mettre à jour l'ensemble avec un autre ensemble ou tout autre élément itérable
+close : ferme le fichier
+detach : renvoie le flux brut séparé du tampon
+numéro de fichier : renvoie un nombre qui représente le flux, du point de vue du système d'exploitation
+flush : Vide le tampon interne
+est interactif : renvoie si le flux de fichier est interactif ou non
+read : renvoie le contenu du fichier
+lisible : renvoie si le flux de fichier peut être lu ou non
+read line : renvoie une ligne du fichier
+lire les lignes : renvoie une liste de lignes du fichier
+rechercher : modifier la position du fichier
+searchable : renvoie si le fichier nous permet de modifier la position du fichier
+tell : renvoie la position actuelle du fichier
+truncate : redimensionne le fichier à une taille spécifiée
+inscriptible : renvoie si le fichier peut être écrit ou non
+write : écrit la chaîne spécifiée dans le fichier
+écrire des lignes : écrit une liste de chaînes dans le fichier
+et : Un opérateur logique
+as : pour créer un alias
+assert : pour le débogage
+break : sortir d'une boucle
+class : pour définir une classe
+continue : Pour continuer à l'itération suivante d'une boucle
+définir : Pour définir une fonction
+delete : pour supprimer un objet
+else if : utilisé dans les instructions conditionnelles, comme else if
+else : utilisé dans les instructions conditionnelles
+sauf : utilisé avec des exceptions, que faire lorsqu'une exception se produit
+False : valeur booléenne, résultat des opérations de comparaison
+enfin : utilisé avec des exceptions, un bloc de code qui sera exécuté, qu'il y ait ou non une exception
+for : pour créer une boucle for
+de : Pour importer des parties spécifiques d'un module
+global : pour déclarer une variable globale
+si : pour faire une déclaration conditionnelle
+import : pour importer un module
+in : pour vérifier si une valeur est présente dans une liste, un tuple, etc.
+est : Tester si deux variables sont égales
+lambda : pour créer une fonction anonyme
+Aucun : représente une valeur nulle
+non local : pour déclarer une variable non locale
+not : un opérateur logique
+ou : Un opérateur logique
+pass : une instruction nulle, une instruction qui ne fera rien
+lever une exception : pour lever une exception
+return : pour quitter une fonction et renvoyer une valeur
+True : valeur booléenne, résultat des opérations de comparaison
+try : pour faire une instruction try...except
+while : pour créer une boucle while
+avec : utilisé pour simplifier la gestion des exceptions
+rendement : pour terminer une fonction, renvoie un générateur
+Erreur arithmétique : déclenché lorsqu'une erreur se produit dans les calculs numériques
+Erreur d'assertion : déclenchée lorsqu'une instruction assert échoue
+Erreur d'attribut : déclenchée lorsque la référence ou l'affectation d'attribut échoue
+Exception : classe de base pour toutes les exceptions
+Erreur de fin de fichier : déclenchée lorsque la méthode input() atteint une condition de "fin de fichier" (EOF)
+Erreur en virgule flottante : déclenchée lorsque le calcul en virgule flottante échoue
+Sortie du générateur : déclenché lorsqu'un générateur est fermé (avec la méthode close())
+Erreur d'importation : déclenchée lorsqu'un module importé n'existe pas
+Erreur d'indentation : déclenchée lorsque l'indentation n'est pas correcte
+Erreur d'index : déclenchée lorsqu'un index d'une séquence n'existe pas
+Erreur de clé : déclenchée lorsqu'une clé n'existe pas dans un dictionnaire
+Interruption clavier : déclenchée lorsque l'utilisateur appuie sur Ctrl+c, Ctrl+z ou Suppr.
+Erreur de recherche : déclenchée lorsque les erreurs générées sont introuvables
+Erreur de mémoire : déclenchée lorsqu'un programme manque de mémoire
+Erreur de nom : déclenchée lorsqu'une variable n'existe pas
+Erreur non implémentée : déclenchée lorsqu'une méthode abstraite nécessite une classe héritée pour remplacer la méthode
+Erreur du système d'exploitation : déclenchée lorsqu'une opération liée au système provoque une erreur
+Erreur de débordement : déclenchée lorsque le résultat d'un calcul numérique est trop grand
+Erreur de référence : déclenchée lorsqu'un objet de référence faible n'existe pas
+Erreur d'exécution : déclenché lorsqu'une erreur se produit qui n'appartient à aucune exception spécifique
+Arrêter l'itération : déclenché lorsque la méthode next() d'un itérateur n'a pas d'autres valeurs
+Erreur de syntaxe : déclenché lorsqu'une erreur de syntaxe se produit
+Erreur de tabulation : déclenchée lorsque l'indentation se compose de tabulations ou d'espaces
+Erreur système : déclenché lorsqu'une erreur système se produit
+System Exit : déclenché lorsque la fonction sys.exit() est appelée
+Erreur de type : déclenchée lorsque deux types différents sont combinés
+Erreur locale non liée : déclenchée lorsqu'une variable locale est référencée avant l'affectation
+Erreur Unicode : déclenchée lorsqu'un problème Unicode survient
+Erreur d'encodage Unicode : déclenché lorsqu'un problème d'encodage Unicode se produit
+Erreur de décodage Unicode : déclenché lorsqu'un problème de décodage Unicode se produit
+Erreur de traduction Unicode : déclenché lorsqu'un problème de traduction Unicode se produit
+Erreur de valeur : déclenchée lorsqu'il y a une mauvaise valeur dans un type de données spécifié
+Erreur de division zéro : déclenchée lorsque le deuxième opérateur d'une division est zéro

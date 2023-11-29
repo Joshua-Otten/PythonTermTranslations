@@ -1,0 +1,222 @@
+absolute value : absolute value => निर्धारित मूल्य
+all : all => सब
+any : any => कोई
+ascii : ascii => एस्की
+binary : binary => द्वितीय
+boolean : boolean => बूलियन
+byte array : byte array => बाइट अरे
+bytes : bytes => बाइट्स
+callable : callable => कॉलेबल
+character : character => चरित्र
+class method : क्लास मेथड
+compile : कंपाइल
+complex : कॉम्प्लेक्स
+delete attribute : विशेषता हटाएं
+dictionary : डिक्शनरी
+directory : निर्देशिका
+divide modulus : भागन मॉड्यूलस
+enumerate : सूचीबद्ध करें
+evaluate : मूल्यांकन करें
+execute : निष्पादित करें
+filter : फ़िल्टर
+floating point : स्वरूपण बिंदु
+format : स्वरूप
+frozen set : जमीनी सेट
+get attribute : गुण प्राप्त करें
+globals : वैश्विक
+has attribute : गुण है
+hash : हैश
+help : सहायता
+hexadecimal : अष्टिकोडिकल
+identity : पहचान
+input : इनपुट
+integer : पूर्णांक
+is instance : है नमूना
+is subclass : है उप-वर्ग
+iterator : इटरेटर
+length : लंबाई
+list : सूची
+locals : स्थानीय
+map : नक्शा
+maximum : अधिकतम
+memory view : मेमोरी व्यू
+minimum : न्यूनतम
+next : अगला
+object : वस्तु
+octal : अष्टमीक
+open : खुला
+ordinal : क्रमानुसार
+power : शक्ति
+print : प्रिंट
+property : property => गुण
+range : range => सीमा
+represent : represent => प्रतिनिधित्व करें
+reversed : reversed => उलटा
+round : round => गोल
+set : set => सेट
+set attribute : set attribute => गुण सेट करें
+slice : slice => कटाई
+sorted : sorted => क्रमबद्ध
+static method : static method => स्थिर विधि
+string : स्ट्रिंग
+summation : योग
+superset : सुपरसेट
+tuple : ट्यूपल
+type : प्रकार
+variables : चर
+zip : ज़िप
+capitalize : कैपिटलाइज
+case fold : केस फोल्ड
+center : सेंटर
+count : गिनती
+encode : एन्कोड
+ends with : के साथ समाप्त
+expand tabs : टैब्स विस्तार
+find : ढूंढो
+format map : प्रारूप मानचित्र
+index : सूचकांक
+is alphanumeric : अल्फान्यूमेरिक
+is alphabetic : अल्फाबेटिक
+is ascii : अस्की
+is decimal : स्पष्ट है
+is digit : डिजिट
+is identifier : आईडेंटीफायर
+is lower : नीचे
+is numeric : संख्यात्मक
+is printable : छपाई योग्य
+is space : स्थान
+is title : शीर्षक
+is uppercase : अपरकेड
+join : शामिल
+left justify : बाएं जस्टीफाई
+lower : निचला
+left strip : बाएं स्ट्रिप
+make translation : अनुवाद बनाएँ
+partition : विभाजन
+replace : बदलें
+reverse find : उलटी ढूँढें
+reverse index : उलटी सूचकांक
+right justify : दाएं जस्टीफाई
+right partition : दाएं विभाजन
+right split : right split => सही विभाजन
+right strip : right strip => सही छिपाना
+split : split => विभाजित
+split lines : split lines => पंक्तियों को विभाजित करें
+starts with : starts with => से शुरू होता है
+strip : strip => छिपाना
+swap case : swap case => केस बदलें
+title : title => शीर्षक
+translate : translate => अनुवाद करें
+uppercase : uppercase => अपरकेस
+zero fill : zero fill => शून्य भरें
+append : append => जोड़ें
+clear : clear => साफ़ करें
+copy : copy => कॉपी करें
+extend : extend => विस्तार करें
+insert : insert => डालें
+pop : pop => हटाएं
+remove : remove => हटाएं
+reverse : reverse => उलटें
+sort : sort => क्रमबद्ध करें
+from keys : from keys => कुंजिकाओं से
+get : get => प्राप्त करें
+items : items => आइटम्स
+keys : keys => कुंजी
+pop item : pop item => आइटम हटाएं
+set default : set default => डिफ़ॉल्ट सेट करें
+update : update => अपडेट करें
+values : values => मान
+add : add => जोड़ें
+difference : difference => अंतर
+difference update : अंतर अद्यतन करें
+discard : त्याग करें
+intersection : अंतर्गत
+intersection update : अंतर्गत अद्यतन करें
+is disjoint : अलग है
+is subset : उपसमुच्च है
+is superset : सुपरसेट है
+symmetric difference : समानता अंतर
+symmetric difference update : समानता अंतर अद्यतन करें
+union : संयुक्ति,
+close : बंद करें
+detach : अलग करें
+file number : फाइल संख्या
+flush : धुएँ
+is interactive : इंटरैक्टिव है
+read : पढ़ें
+readable : पठनीय
+read line : पंक्ति पढ़ें
+read lines : पंक्तियाँ पढ़ें
+seek : ढूँढें
+seekable : खोजने योग्य
+tell : बताना
+truncate : कटना
+writable : लिखने योग्य
+write : लिखना
+write lines : लाइनों को लिखना
+and : और
+as : जैसा
+assert : दावा
+break : तोड़ना
+class : ocal => गैर-स्थानीय
+continue : नहीं
+define : या
+delete : पास
+else if : घटना उत्पन्न करें
+else : लौटना
+except : सही
+False : कोशिश
+finally : जबकि
+for : के साथ
+from : उत्पाद
+global : वर्ग
+if : जारी रखें
+import : परिभाषित करें
+in : हटाएँ
+is : अन्यथा अगर
+lambda : अन्यथा
+None : छोड़कर
+non-local : झूठा
+not : अंत में
+or : के लिए
+pass : से
+raise exception : वैश्विक
+return : अगर
+True : आयात
+try : में
+while : है
+with : लाम्ब्डा
+yield : कुछ नहीं
+Arithmetic Error : ग्राहक-स्थानीय नहीं
+Assertion Error : नहीं
+Attribute Error : या
+Exception : पास
+End Of File Error : घटना विफल करें
+Floating Point Error : वापसी
+Generator Exit : सच
+Import Error : कोशिश करें
+Indentation Error : जबतक
+Index Error : के साथ
+Key Error : उपहार
+Keyboard Interrupt : गणितीय त्रुटि
+Lookup Error : दावा त्रुटि
+Memory Error : विशेषता त्रुटि
+Name Error : अपवाद
+Not Implemented Error : फ़ाइल के अंत त्रुटि
+OS Error : फ्लोटिंग पॉइंट त्रुटि
+Overflow Error : जनरेटर निकास
+Reference Error : आयात त्रुटि
+Runtime Error : इंडेंटेशन त्रुटि
+Stop Iteration : सूचकांक त्रुटि
+Syntax Error : कुंजी त्रुटि
+Tab Error : कीबोर्ड इंटररप्ट: कीबोर्ड विराम
+System Error : लुकअप त्रुटि: लुकअप त्रुटि
+System Exit : मेमोरी त्रुटि: मेमोरी त्रुटि
+Type Error : नाम त्रुटि: नाम त्रुटि
+Unbound Local Error : नहीं लागू किया गया त्रुटि: नहीं लागू किया गया त्रुटि
+Unicode Error : os त्रुटि: os त्रुटि
+Unicode Encode Error : अधिलेखन त्रुटि: अधिलेखन त्रुटि
+Unicode Decode Error : संदर्भ त्रुटि: संदर्भ त्रुटि
+Unicode Translate Error : रनटाईम त्रुटि: रनटाईम त्रुटि
+Value Error : रूपांतरण रोकें: रूपांतरण रोकें
+Zero Division Error : सिन्टैक्स त्रुटि

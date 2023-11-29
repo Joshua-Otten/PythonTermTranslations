@@ -1,0 +1,222 @@
+absolute value : بەهای ڕەها
+all : هەموو
+any : هەرکام
+ascii : ئەسکی
+binary : دووگانی
+boolean : بوولیان
+byte array : باشتی بۆشتی
+bytes : باشت
+callable : قابلیتی کردن
+character : نووسە
+class method : class method => شێوازی کلاس
+compile : compile => کۆمپایل کردن
+complex : complex => پێکهاتوو
+delete attribute : delete attribute => خاڵی سڕینهوه
+dictionary : dictionary => وێنجی، وێنێکی کلمه و لهجه
+directory : directory => پێڕه
+divide modulus : divide modulus => بهێنه و بهێنان
+enumerate : enumerate => ئهمراوه کردن
+evaluate : evaluate => بهێنان
+execute : execute => چالاک کردن
+filter : فیلتر(filter)
+floating point : ناوەندی بۆشایی(floating point)
+format : فۆرمات(format)
+frozen set : دابەشی بەسەرجێگی(frozen set)
+get attribute : لیستی خاستەرکردن(get attribute)
+globals : گولبالات(globals)
+has attribute : لیستی خاستەرکردن(has attribute)
+hash : هاش(hash)
+help : یارمەتی(help)
+hexadecimal : هەڵدەکسادەکۆد(hexadecimal)
+identity : identity => تیپ
+input : input => وردەکردن
+integer : integer => ژمارە
+is instance : is instance => بەتەواویە
+is subclass : is subclass => نێوەکەوتنی نیشاندان
+iterator : iterator => دەستکاریکەر
+length : length => درێژی
+list : list => لیست
+locals : locals => لۆکالۆس
+map : map => ناوبەری
+maximum : maximum => زۆرترین
+memory view : memory view => دیمەنی بیرگە
+minimum : minimum => کەمترین
+next : next => دواتر
+object : object => بەرکەش
+octal : octal => ئۆکتال
+open : open => کراو
+ordinal : ordinal => ڕێکخستنی
+power : power => هێز
+print : چاپکردن.
+property : property: خاسیەت
+range : range: بۆشایی
+represent : represent: نیشاندان
+reversed : reversed: بە بەرگە
+round : round: دۆزین
+set : set: دابنێن
+set attribute : set attribute: خاسیەتی دابنێن
+slice : slice: کاڵاکردن
+sorted : sorted: دەستنیشانکراو
+static method : static method: شێوەی جێگرتنی ستاتیک
+string : string: نۆکە،
+summation : summation: جێگیرکردن،
+superset : superset: سوپەرسێت،
+tuple : tuple: چەند،
+type : type: جۆر،
+variables : variables: گۆڕاوەکان،
+zip : zip: بەشدارکردن،
+capitalize : capitalize: ناوەکە بکەوە،
+case fold : case fold: دابەشکردن،
+center : center: ناوەکە بگۆڕە،
+count : count => ژماردن
+encode : encode => کۆدکردن
+ends with : ends with => بەسەر خۆی دەکات
+expand tabs : expand tabs => خشتەکان گەورا بکەوە
+find : find => گەڕان
+format map : format map => ناوەڕۆکی فۆرماتەکردن
+index : index => شوێن
+is alphanumeric : is alphanumeric => ئاڵفانومێریکە؟
+is alphabetic : is alphabetic => بۆشاییە؟
+is ascii : is ascii => ئاسسیکیە؟
+is decimal : دیمەلییە؟
+is digit : بەرپەرشییە؟
+is identifier : ئەسمێنەریە؟
+is lower : نازکیە؟
+is numeric : ژمارەیە؟
+is printable : چاپیە؟
+is space : فضایە؟
+is title : سەردێڕیە؟
+is uppercase : نازکی نێوە؟
+join : بەشداری بکەوە
+left justify : left justify => پاشەکەوتکردنی چەپ
+lower : lower => لەجیگەر
+left strip : left strip => لابردنی چەپ
+make translation : make translation => دروستکردنی ترجمە
+partition : partition => کارگێڕدان
+replace : replace => لەبریدنەوە
+reverse find : reverse find => گەڕانی بەگەڕان بۆ گواستنەوە
+reverse index : reverse index => بنچینەی گەڕان
+right justify : right justify => پاشەکەوتکردنی ڕاست
+right partition : right partition => کارگێڕدانی ڕاست
+right split : right split => شارەشی چەپ
+right strip : right strip => سڕینەوەی چەپ
+split : split => شارەشکردن
+split lines : split lines => شارەشکردنی خطوط
+starts with : starts with => دەستپێکردن بە
+strip : strip => سڕینەوە
+swap case : swap case => گۆڕینی حالت
+title : title => سەردێڕ
+translate : translate => تێرجان کردن
+uppercase : uppercase => بەشی بەرز
+zero fill : zero fill => نووسینی نەشێوەشی
+append : append => زیادکردن
+clear : clear => پاککردن
+copy : copy => نێستن
+extend : extend => ڕێکخستن
+insert : insert => دانان
+pop : pop => نیشاندان
+remove : remove => لابردن
+reverse : reverse => پێچاوکردن
+sort : سەرجەمکردن.
+from keys : from keys => له‌کۆی
+get : get => بگەڕێنەوە
+items : items => بەرکارەکان
+keys : keys => کلیلەکان
+pop item : pop item => بەرکارەی دەرەوە
+set default : set default => دانانی پێشکەوتوو
+update : update => نوێکردنەوە
+values : values => نرخەکان
+add : add => زیادکردن
+difference : difference => جیاوازی
+difference update : discard => هەرگیراندن
+discard : intersection => بەرخەشی
+intersection : pop => پاککردن
+intersection update : جیاوازیی سیمێتریک.
+is disjoint : difference update => گۆڕانکاریی ناوخۆش
+is subset : discard => ناکاشتن
+is superset : intersection => ناوخۆش
+symmetric difference : intersection update => گۆڕانکاریی ناوخۆش
+symmetric difference update : is disjoint => کۆنەکراوە
+union : is subset => بۆشاییی تێدایە
+close : is superset => بۆشاییی گەورەیی
+detach : symmetric difference => ناوخۆشی سیمیتیک
+file number : symmetric difference update => گۆڕانکاریی ناوخۆشی سیمیتیک
+flush : union => بەشی گشتی
+is interactive : close: ببنەوە
+read : detach: لابردن
+readable : file number: تەمەنی فایل
+read line : flush: فلاشکردن
+read lines : is interactive: ئەلیکتیوییە؟
+seek : read: خوێندن
+seekable : readable: قابلیتی خوێندن
+tell : read line: خوێندنی خشتە
+truncate : read lines: خوێندنی خشتەکان
+writable : seek: گەڕان
+write : seekable => پێویستی پەردەکردنی
+write lines : tell => نێردراوە
+and : truncate => بەکورتکردن
+as : writable => نووسراوە
+assert : write => نووسین
+break : write lines => نووسینی چێشەکان
+class : and => یان
+continue : as => پێشان
+define : assert => بنەڕەت
+delete : شکستن.
+else if : class => کلاس
+else : continue => چۆنێتیدا
+except : define => دەستپێکردن
+False : delete => سڕینەوە
+finally : else if => ئەگەر دیکە
+for : else => ئەگەر نەبێت
+from : except => جیاواز
+global : false => ناسەخۆش
+if : finally => ئاخەوە
+import : for => بۆ
+in : from: لە
+is : global: گلۆبال
+lambda : if: گەر
+None : import: چوونەژوورەوە
+non-local : in: لە
+not : is: یە
+or : lambda: لامبدا
+pass : none: هیچ
+raise exception : non-local: ناگونجی
+return : not: نە
+True : or: ڕابەزێنە
+try : pass: چوونەدەرەوە
+while : raise exception: ناوەڕۆکی نێوان پێشکەش بکە
+with : return: پاشگەزبوونەوە
+yield : true: دروست
+Arithmetic Error : try: تاقیبکەوە
+Assertion Error : while: لەگەڵ
+Attribute Error : with: بەهێز
+Exception : yield: بەرزبوونەوە
+End Of File Error : arithmetic error: هەڵەی ژمارەیی
+Floating Point Error : هەڵەی پێشکەوتن
+Generator Exit : هەڵەی وەڵامدان
+Import Error : هەڵەی کەوتن
+Indentation Error : هەڵەی پایانی پەڕگە
+Index Error : هەڵەی ناوەخۆی پێشکەوتیی
+Key Error : پایانی درووستکردن
+Keyboard Interrupt : هەڵەی کێشەکردن
+Lookup Error : هەڵەی چوونەژورەوە
+Memory Error : هەڵەی نمایش
+Name Error : هەڵەی پێکەوتن
+Not Implemented Error : keyboard interrupt => ناچالاککردنی کلیدی
+OS Error : lookup error => هەڵەی گەڕان
+Overflow Error : memory error => هەڵەی بەکۆکردن
+Reference Error : name error => هەڵەی ناو
+Runtime Error : not implemented error => هەڵەی نەکراو
+Stop Iteration : os error => هەڵەی نەرمەکاڵا
+Syntax Error : overflow error => هەڵەی بەپشکنەوە
+Tab Error : reference error => هەڵەی بەستەر
+System Error : runtime error => هەڵەی نەرمەکاڵای چالاککردن
+System Exit : stop iteration => دواخستنی چارکردن
+Type Error : هەڵەی ڕستەسازی
+Unbound Local Error : هەڵەی تاب
+Unicode Error : هەڵەی سیستەم
+Unicode Encode Error : دەرچوونی سیستەم
+Unicode Decode Error : هەڵەی جۆر
+Unicode Translate Error : هەڵەی ڕێکخستنی کۆمەڵ
+Value Error : هەڵەی یونیکۆد
+Zero Division Error : هەڵەی کۆدکردنی یونیکۆد

@@ -1,0 +1,313 @@
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Absolute value - ুি (Anucholi)
+2. All - সব (Sab)
+3. Any - কে(Keno)
+4. ASCII - ্কি (Asiki)
+5. Binary - বাারী (Bainary)
+6. Boolean - বোল্যান (Bolyan)
+7. Byte array - বাযারে (Bait Array)
+8. Bytes - বা(Bait)
+9. Callable - কাল্ল্ব্যা (Kallbaja)
+10. Character - র্্(Chareksa)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Class method - শর্তে মে (shorte methosha)
+2. Compile - সীব করা (sanjib kora)
+3. Complex - পরত্স   যোগ (porbhitsa acche ekti abhijnas)
+4. Delete attribute - িহাস ু Hiranya (aitihas onu hiranya)
+5. Dictionary - ক্নারি (dikshnari)
+6. Directory - রেক্ি (direkitori)
+7. Divide modulus -  মে (bhanga metosha)
+8. Enumerate - স Yamuna (anko sangko yamuna)
+9. Evaluate - ুনা করা (anushulonka karaha)
+10. Execute - ুত করা (anushtitha karaha)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* Filter: (chāṛ)
+* Floating Point: জাপিন্কে (bhojāi pinkē)
+* Format: মে(phormet)
+* Frozen Set: স্ত সযা (sthūl shankha)
+* Get Attribute: রিবি(ātriibiush)
+* Globals: ন (adhiin)
+* Has Attribute: রিবি(ātriibiush)
+* Hash: হ্যাশ (hyāsh)
+* Help: সহানুসorn (sahādanusorn)
+* Hexadecimal: দ্রাতা (ṣaṇk daṛātā)
+
+I hope these translations are helpful for your project! If you have any further questions or need any additional assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Identity - ুগতি (Anugati)
+2. Input - পু (Inpura)
+3. Integer - বাা সযা (Bangla Sankhya)
+4. Is instance -  দার যোগ (Ekiti Amader Ovijog)
+5. Is subclass -  acia যোগ (Ekiti Utsavolia Ovijog)
+6. Iterator - যোগ ত (Ovijog Anchito)
+7. Length - দত্ব (Durtibha)
+8. List - তালিকা (Talika)
+9. Locals - স্थানীয় (Sthaniya)
+10. Map -  (Ani)
+
+I hope these translations are helpful for your project! If you have any further questions or need assistance with anything else, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Maximum - সর্বো (Sorbochcha)
+2. Memory View - মেমোরি (Memori Bhu)
+3. Minimum - সমা (Samuhiti)
+4. Next - পর্বে (Pare)
+5. Object - bjekt (Obbjective)
+6. Octal -  (Okatil)
+7. Open - লনা (Khulna)
+8. Ordinal - সমা (Samuhiti)
+9. Power - শক্তি (Shakti)
+10. Print - বাসী (Anthabasis)
+
+I hope this helps you in your effort to translate Python's key terms into Bengali! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Property - সত্তি (Shampatti)
+2. Range - বাকরা (Bachai Korail)
+3. Represent - প্রতিনি করা (Pratinidhi Karail)
+4. Reversed - প্ববর্তী (Purbabarti)
+5. Round -  (Ghosa)
+6. Set - সে(Set)
+7. Set attribute - সেু করা (Set Unnubhaba Karail)
+8. Slice -  (Khoncha)
+9. Sorted - সর্লো করা (Sorilolo Karail)
+10. Static method - স্মেод (SthEEin Meodhod)
+
+I hope this helps you in your project of translating Python terms into Bengali! If you have any further questions or need any more assistance, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* String: স্রি(shtring)
+* Summation: সমাতনা (samadhanana)
+* Superset: রেশী (apareshi)
+* Tuple: পল (tuppel)
+* Type: পরিবেSH (paribesh)
+* Variables: i (bashomi)
+* Zip: জিপ (jip)
+* Capitalize: মেকরা (medhai karar chhobi)
+* Case fold: ক্যাসে л্(kyase fold)
+* Center: সেン্র (sentor)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Count - গা (Gathona)
+2. Encode - সোন (Shankoordhan)
+3. Ends with - সমাপ্তি (Samapti)
+4. Expand tabs - যাবসমে ্(Tabs Samuhay Ortho)
+5. Find -  (Khondoj)
+6. Format map - মাपপরি (Map Paribhasha)
+7. Index - ক্স (Aidex)
+8. Is alphanumeric - ্গী (Alfabhangi)
+9. Is alphabetic - ্বেত (Alfabet)
+10. Is ASCII -  যোগ (Asiki Obyog)
+
+I hope these translations are helpful for your project! If you have any further questions or need assistance with anything else, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* "is decimal" - সমানো(samānōṣṭh)
+* "is digit" - সা (shushona)
+* "is identifier" - িকার নাম (ainikāra nāma)
+* "is lower" - নিতালে (nitāi lekhā)
+* "is numeric" - সंख्यা (saṃkhyā)
+* "is printable" - पা যোগ্য (chāpā yogyo)
+* "is space" - স্পেস (spresas)
+* "is title" - শিরোনামা (shironāmā)
+* "is uppercase" - ্ ব (akṣara baddha)
+* "join" - জোয়া (jō)
+
+I hope these translations are helpful for your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Left justify: বাম ুর(Bam Anubhutirno)
+2. Lower: ক্ত্র (Khetr)
+3. Left strip: বাম  (Bam Aanchha)
+4. Make translation: ুবাদ করা (Anubad Karah)
+5. Partition: সা (Upsaadhe)
+6. Replace: প্রতিস্পন করা (Pratisthapan Karah)
+7. Reverse find:  জা (Ans Hoja)
+8. Reverse index:  ্দেক্স (Ans Indekse)
+9. Right justify: াুর(Dao Anubhutirno)
+10. Right partition: াসা (Dao Upsaadhe)
+
+I hope this helps you in your project of translating Python keywords into Bengali! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Right split - ্তর বিগ (Antar Bhibhaag)
+2. Right strip - ্তর স্রিপ (Antar Strip)
+3. Split - বিগ (Bhibhaag)
+4. Split lines - লােস বিগ (Line-e Bhibhaag)
+5. Starts with - শুরু করে  (Shuru Kore Aache)
+6. Strip - স্রিপ (Strip)
+7. Swap case - ক্যাসে সময় (Kase Samay Oshadh)
+8. Title - শিরোনাম (Shironaam)
+9. Translate - ুবাদ করা (Anubad Karaila)
+10. Uppercase - া্র (Upakatha Okkhor)
+
+I hope these translations help you in your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+1. Zero fill: শুাপরিমান (Shungsaap Pariman)
+2. Append: যোগ্‌ করা (Oyogg Karah)
+3. Clear: সব কে ার করা (Sob Theke Abar Kora)
+4. Copy: কপি করা (Kopi Korah)
+5. Extend: ে ্‌ করা (Aage O Utkarsha Korah)
+6. Insert: সোজন করা (Sangrojona Korah)
+7. Pop: ল যোগ করা (Phul Khai Abhijnas Korah)
+8. Remove:  যোগ করা (Ochhe Abhijnas Korah)
+9. Reverse: াক করা (Alankarita Korah)
+10. Sort: স্র সমিত করা (Suroop Samuhito Korah)
+
+I hope these translations help you in your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+* "from" = ের (one-er)
+* "keys" = কী (kichu)
+* "get" = প্রাপ্ত করা (prāpt kôra)
+* "items" = সমা(samuhai)
+* "pop item" = পোপ ム (pōpa itēma)
+* "set default" = সে (seṭa fāulochhe)
+* "update" = করা (apṛēta karā)
+* "values" = মান (mān)
+* "add" = সোজন করা (saṃyojana karā)
+* "difference" = বিন্ন করা (bibhinna karā)
+
+I hope this helps you with your project! If you have any further questions or need any additional assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+1. Difference update: ্তরালোক (ontar Alok)
+2. Discard: রিজ মাতLAB (khariij maatlab)
+3. Intersection: সোগ (sag)
+4. Intersection update: সোগ ड (sag apotted)
+5. Is disjoint: বিন্ন  (bibhinna acche)
+6. Is subset: ক  (adhik acche)
+7. Is superset: পুর্বে  (purbô acche)
+8. Symmetric difference: সমানোত  (samaanochit phand)
+9. Symmetric difference update: সমানোত  ड (samaanochit phand apotted)
+10. Union: (uitha)
+
+I hope these translations are helpful for your project! If you have any further questions or need assistance with anything else, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+1. Close - বর্ (bordo)
+2. Detach - সার(apasaran)
+3. File number -  নম্বর (file nombor)
+4. Flush - ি(chhadi)
+5. Is interactive - াতো যোগ্য (amar kotha ovijoggya)
+6. Read - প (poda)
+7. Readable - পর ক (poder shoronkkha)
+8. Read line -  লা প (ek lain poda)
+9. Read lines - লাগুলো প (lain golpo poda)
+10. Seek - ez করা (kheiz korra)
+
+I hope these translations help you in your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* Seekable: স্কেকত (skekhobhit)
+* Tell: বলা (bala)
+* Truncate:  (chhota)
+* Writable: লেনো (lekhano)
+* Write: লে (lekhona)
+* Write lines: লে লাের (lekhonair lineler)
+* And: ে (ande)
+* Assert: প্রমাকরা (praman kora)
+* Break: বর্তসা (bartasaa)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* Class: যোগ (abhignyog)
+* Continue: সম্পাদ (sampad)
+* Define: সা (shushona)
+* Delete: মু কা (mukhe thaka)
+* Else if:   (ara iu ashena)
+* Else:  ন (ara emon)
+* Except: ত বা (amta bachai asha)
+* False: ার(osadharan)
+* Finally: শেস্ (shesh avastha)
+* For: জন্য (jonya)
+
+I hope this helps you in your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* From: কে (theke)
+* Global: বিশ্বাসোনা (bishabaasonaa)
+* If: যadin (jadin)
+* Import: দান (amadan)
+* In: ি (oti)
+* Is: হ(hoy)
+* Lambda: লাмбδা (lambda)
+* None:  (chaar)
+* Non-local: ্ত্র (astra)
+* Not: না (na)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+* or: র্ (ārdh)
+* pass: পাস (pās)
+* raise exception: তি রা (apatite uttara)
+* return: প্রান্ত (prānt)
+* True: সত (sat)
+* try:  (cēṣṭā)
+* while: ো (elā)
+* with: সোজন (saṃyojana)
+* yield: ্পাদ (utpāda)
+* Arithmetic Error: uinetic ব (arithmātic ābhāv)
+
+Note that Bengali is written in the Bengali script, which is different from the Latin alphabet used in English. I hope this helps you in your effort to translate Python terms into Bengali!
+ I'm happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+1. Assertion Error: ার্ত্রু ROR (O-sarn truti err-or)
+2. Attribute Error: পরিবেশika ত্রু ROR (Paribeshika truti err-or)
+3. Exception: iko যোগ (Ainako avijog)
+4. End Of File Error:  সমাপ্তি ROR (Fail samapti err-or)
+5. Floating Point Error: লো পয়ান্ত ROR (Flochha pyaanta err-or)
+6. Generator Exit: জেনারে ্সি(Jenarator exit)
+7. Import Error: দানী যোগ (Amadani unnayan)
+8. Indentation Error: ্তর ROR (Antara chhahan err-or)
+9. Index Error: িক ROR (Anchalik chhahan err-or)
+10. Key Error:  ROR (Khadang chhahan err-or)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Bengali:
+
+1. Keyboard Interrupt - "কীবোর্ুন" (Kiborrd Ongshothon)
+2. Lookup Error - "লুক র" (Lukaap Erro)
+3. Memory Error - "মেমরি র" (Memori Erro)
+4. Name Error - "নাম র" (Naam Erro)
+5. Not Implemented Error - "ুসারেন র" (Anusaren Erro)
+6. OS Error - "স র" (Oes Erro)
+7. Overflow Error - "িরিক্ত র" (Atirickt Erro)
+8. Reference Error - "্য র" (Aabhadya Erro)
+9. Runtime Error - "রান타 র" (Rontaim Erro)
+10. Stop Iteration - "ন র" (Aunthon Erro)
+
+I hope these translations are helpful for your project! If you have any further questions or need assistance with anything else, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Bengali:
+
+1. Syntax Error: সা ির(Shushona Atirupan)
+2. Tab Error: যাব ির(Taba Atirupan)
+3. System Error: পরিবেশ ির(Paribesh Atirupan)
+4. System Exit: পরিবেশ  ্ (Paribesh Ashen Utchhale)
+5. Type Error: প্রকার ির(Prakar Atirupan)
+6. Unbound Local Error: ম্বাদি  ির(Osmobadi Bhando Atirupan)
+7. Unicode Error:  ির(Onnodhor Ontho Atirupan)
+8. Unicode Encode Error:  কোির(Onnodhor Ainako Odhikar Atirupan)
+9. Unicode Decode Error:  ির(Onnodhor Doikoho Odhikar Atirupan)
+10. Unicode Translate Error:  ুবাদ ির(Onnodhor Anubad Atirupan)
+
+I hope this helps you with your project! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the two terms you provided into Bengali:
+
+1. Value Error: লু ্ROR (Bhalu error)
+2. Zero Division Error: সের Bianca ্তর (Sera bianca ontore)
+
+I hope this helps! Let me know if you need anything else translated.

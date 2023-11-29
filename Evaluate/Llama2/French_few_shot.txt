@@ -1,0 +1,222 @@
+valeur absolue
+tous
+n'importe quel
+ascii
+binaire
+booléen
+tableau de bytes
+octets
+appelable
+caractère
+méthode de classe
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser modulo
+énumérer
+évaluer
+exécuter
+filtre
+nombre à virgule flottante
+formatage
+ensemble figé
+obtenir attribut
+variablesglobales
+a une propriété
+hachage
+aide
+hexadécimal
+identité
+entrée
+entier
+est-il une instance
+est-il une sous-classe
+itérateur
+longueur
+liste
+variables locales
+carte
+maximum
+mémoire visuelle
+minimum
+prochain
+objet
+octal
+ouvert
+ordinal
+puissance
+imprimer
+propriété
+plage
+représentation
+inverti
+arrondi
+ensemble
+attribut d'ensemble
+coupure
+trié
+méthode statique
+chaîne
+sommation
+ensemble contenant
+tupla
+type
+variables
+ficher
+majuscules
+mettre en majuscule
+centrer
+compter
+encoder
+se termine par
+remplacer les tabulations
+trouver
+carte de formatage
+indice
+est-alphanumérique
+est-alphabétique
+est-ascii
+est décimal
+est un chiffre
+est un identificateur
+est en basse case
+est numérique
+est imprimable
+est une espace
+est un titre
+est en majuscule
+fusionner
+justifier à gauche
+inférieur
+supprimer à gauche
+traduire
+partitionner
+remplacer
+trouver en sens inverse
+index opposé
+justifier à droite
+partitionner à droite
+splitez à droite
+supprimez à droite
+separator
+separation des lignes
+commence avec
+supprimer
+échangez les cases
+titre
+traduit
+majuscule
+remplir avec zéros
+ajouter
+effacer
+copier
+étendre
+insérer
+retirer
+enlever
+inverser
+trier
+clés
+obtenir
+éléments
+clés
+retirer un élément
+définir par défaut
+mettre à jour
+valeurs
+ajouter
+différence
+mise à jour de la différence
+élimination
+intersection
+mise à jour de l'intersection
+est disjoint
+est sous-ensemble
+est supérieur ensemble
+différence symétrique
+mise à jour de la différence symétrique
+union
+fermer
+détacher
+numéro de fichier
+évacuer
+est interactif
+lire
+lecturable
+lire une ligne
+lire des lignes
+rechercher
+accessible
+to tell
+to cut short
+écriturable
+écrire
+writing lines
+et
+comme
+to assert
+to break
+classe
+continuer
+définir
+supprimer
+si...else
+autre cas
+sauf
+faux
+enfin
+pour
+deh
+mohn-dee-ahl
+see
+eh-mpo-ter
+dahns
+eh-st
+lahm-dah
+oh-nehn
+nahn-loh-kall
+neh-pahs
+ou
+passer
+lever une exception
+renvoyer
+vrai
+essayer
+tandis que
+avec
+yield
+erreur arithmétique
+erreur d'assertion
+erreur d'attribut
+exception
+erreur de fin de fichier
+erreur de point flottant
+sortie du générateur
+erreur d'importation
+erreur de mise en page
+erreur de indexation
+erreur de clé
+interruption de clavier
+erreur de lookup
+erreur de mémoire
+erreur de nom
+erreur non implémentée
+erreur système
+erreur de débordement
+erreur de référence
+erreur de temps d'exécution
+arrêt de l'itération
+erreur de syntaxe
+erreur de tabulation
+erreur système
+sortie du système
+erreur de type
+erreur de variable locale non liée
+erreur unicode
+erreur d'encodage unicode
+erreur de décodage unicode
+erreur de traduction unicode
+erreur de valeur
+erreur de division par zéro

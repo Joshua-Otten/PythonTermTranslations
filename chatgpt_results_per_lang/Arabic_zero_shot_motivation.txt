@@ -1,0 +1,155 @@
+, class, complex, del, dictionary, exception, float, for, from, function, global, if, in, is, lambda, list, long, module, none, not, object, or, pass, print, range, return, set, str, tuple, type, while
+
+القيمة المطلقة، الكل، أي، أسكي، ثنائي، بولياني، مصفوفة بايت، بايت، قابل للدعوة، حرف، فئة، معقد، حذف، قاموس، استثناء، عشري، ل، من، وظيفة، عالمي، إذا، في، هو، لامبدا، قائمة، طويل، وحدة، لا شيء، ليس، كائن، أو، تمرير، طباعة، نطاق، ارجاع، مجموعة، ستر، توبل، نوع، بينما.
+, float, function, global, import, input, integer, iterable, list, module, open, print, range, set, slice, string, tuple, variable.
+
+الطبقة طريقة، تجميع، معقد، حذف السمة، القاموس، الدليل، قسمة الباقي، عدّ، تقييم، تنفيذ، طفح، وظيفة، عالمي، استيراد، مدخل، عدد صحيح، قابل للتكرار، قائمة، وحدة، مفتوح، طباعة، نطاق، مجموعة، شريحة، سلسلة، تجمع، متغير.
+, and id.
+
+Filter: مرشح
+Floating Point: نقطة تطايرية
+Format: تنسيق
+Frozen Set: مجموعة مجمدة
+Get Attribute: الحصول على السمة
+Globals: العالمية
+Has Attribute: لديه السمة
+Hash: هاش
+Help: مساعدة
+Hexadecimal: سداسي عشري
+Id: الهوية
+, module, name, object, output, range, set, slice, string, tuple.
+
+الهوية، الإدخال، العدد الصحيح، هو نموذج، هو نسبة، المكرر، الطول، القائمة، المحليون، الخريطة، الوحدة، الاسم، الكائن، الخرج، النطاق، المجموعة، الشريحة، السلسلة، الزوج.
+
+
+الحد الأقصى، عرض الذاكرة، الحد الأدنى، التالي، الكائن، الثماني، مفتوح، الترتيبي، السلطة، طباعة
+, string, and tuple.
+
+Property: خاصية 
+Range: نطاق 
+Represent: تمثيل 
+Reversed: معكوس 
+Round: دوران 
+Set: مجموعة 
+Set Attribute: ضبط السمة 
+Slice: شريحة 
+Sorted: مرتب 
+Static Method: طريقة ثابتة 
+String: سلسلة 
+Tuple: توبل
+, count, endswith, format, index, join, lower, replace, split.
+
+سترينج، جمع، سوبر سيت، توبل، نوع، متغيرات، زيب، تحويل إلى حروف كبيرة، تحويل إلى حروف صغيرة، مركز، حساب، ينتهي بـ، تنسيق، فهرس، تشارك، تخفيض، استبدال، فصل.
+, is decimal, is digit, is lower, is numeric, is printable, is space, is title, is upper, join, lower, replace, split, startswith, strip, upper.
+
+العد، الترميز، ينتهي بـ، يوسع الأزرار المنسدلة، البحث، خريطة التنسيق، الفهرس، هو أبجدي رقمي، هو أبجدي، هو ASCII، هو عدد عشري، هو رقم، هو أصغر، هو رقمي، هو قابل للطباعة، هو فراغ، هو عنوان، هو أكبر، الانضمام، الأصغر، الاستبدال، التقسيم، يبدأ بـ، المسح، الأكبر.
+, and split.
+
+is decimal: هل هو عشري
+is digit: هل هو رقم
+is identifier: هل هو معرف
+is lower: هل هو أصغر
+is numeric: هل هو رقمي
+is printable: هل هو قابل للطباعة
+is space: هل هو فراغ
+is title: هل هو عنوان
+is uppercase: هل هو كبير
+join: انضم
+split: فصل
+, right strip, split, upper.
+
+المحاذاة اليسرى، الأدنى، قص اليسار، جعل الترجمة، الأقسام، استبدال، عكس البحث، عكس الفهرس، المحاذاة اليمين، الأقسام اليمين، قص اليمين، فصل، الكبير
+.
+
+الفصل الأيمن، الفصل الأيمن الخالص، الفصل، فصل الأسطر، يبدأ ب، يشفر، تبديل الحالة، العنوان، ترجمة، حروف كبيرة.
+.
+
+صفر الملأ، إلحاق، واضح، نسخ، امتداد، إدراج، أخرج، إزالة، عكس، نوع.
+, intersection, union.
+
+المصطلحات البايثون: من المفاتيح، الحصول على، العناصر، المفاتيح، العنصر المطروح، ضبط الافتراضي، تحديث، القيم، إضافة، الاختلاف، التقاطع، الاتحاد.
+, union update
+
+أختلاف التحديث، تجاهل، اشتراك، تحديث التقاطع، هو منفصل، هو مجموعة فرعية، هو مجموعة أكبر، فرق متماثل، تحديث الفرق المتماثل، اتحاد، تحديث الاتحاد.
+, write
+
+Close: أغلق
+Detach: فصل
+File number: رقم الملف
+Flush: شطف
+Is interactive: هل هو تفاعلي؟
+Read: قراءة
+Readable: قابل للقراءة
+Read line: قراءة السطر
+Read lines: قراءة الأسطر
+Seek: تطلع
+Write: كتابة
+, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while.
+
+البحث، الحديث، التبادل، القابل للكتابة، الكتابة، الكتابة الخطوط، و، ك، التأكيد، الفصل، الفئة، الاستمرار، التعريف، الحذف، الآخر، إلا، أخيرا، ل، من، عالمي، إذا، استيراد، في، هو، لامبدا، غير محلي، ليس، أو، المرور، الإرتفاع، العودة، حاول، بينما.
+, from, if, import, in, is, lambda, None, pass, print, raise, range, return, True, try, while
+
+Class: فئة 
+Continue: استمر 
+Define: تعريف 
+Delete: حذف 
+Else If: وإلا إذا 
+Else: وإلا 
+Except: باستثناء 
+False: خاطئ 
+Finally: أخيرا 
+For: ل 
+From: من 
+If: إذا 
+Import: استيراد 
+In: في 
+Is: هو 
+Lambda: لامبدا 
+None: لا شيء 
+Pass: تمرير 
+Print: طباعة 
+Raise: رفع 
+Range: نطاق 
+Return: عودة 
+True: صحيح 
+Try: حاول 
+While: بينما
+, or, pass, raise, return, True, try, while.
+
+من، عالمي، لو، استيراد، في، هو، لامبدا، لا شيء، غير محلي، ليس، أو، تمرّر، رفع، إرجاع، صحيح، حاول، بينما.
+
+
+or: أو
+pass: تمرير
+raise exception: رفع استثناء
+return: عودة
+True: صحيح
+try: حاول
+while: بينما
+with: مع
+yield: تقديم
+Arithmetic Error: خطأ حسابي
+, Name Error, Not Implemented Error, Runtime Error, Syntax Error, Type Error, Value Error
+
+التأكيد الخطأ، خطأ السمة، استثناء، خطأ نهاية الملف، خطأ النقطة العائمة، خروج المولد، خطأ استيراد، خطأ الترقيم، خطأ الفهرس، خطأ المفتاح، خطأ الاسم، خطأ غير منفذ، خطأ التشغيل، خطأ الكتابة، خطأ النوع، خطأ القيمة.
+, Syntax Error.
+
+Keyboard Interrupt: مقاطعة المفاتيح
+Lookup Error: خطأ البحث
+Memory Error: خطأ الذاكرة
+Name Error: خطأ الاسم
+Not Implemented Error: خطأ غير منفذ
+OS Error: خطأ النظام
+Overflow Error: خطأ الإخراج
+Reference Error: خطأ المرجع
+Runtime Error: خطأ التشغيل
+Stop Iteration: إيقاف التكرار
+Syntax Error: خطأ نحوي
+.
+
+سنتكس خطأ، خطأ الجدول، خطأ النظام، الخروج من النظام، خطأ النوع، خطأ غير محدد محلي، خطأ اليونيكود، خطأ في ترميز اليونيكود، خطأ في فك ترميز اليونيكود، خطأ في ترجمة اليونيكود.
+, and Syntax Error.
+
+Value Error: خطأ قيمة
+Zero Division Error: خطأ تقسيم صفر
+Syntax Error: خطأ نحوي

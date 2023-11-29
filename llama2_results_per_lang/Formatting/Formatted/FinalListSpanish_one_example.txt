@@ -1,0 +1,222 @@
+valor absoluto (as you mentioned)
+todos
+cualquier
+ASCII
+binario
+booleano
+arreglo de bytes
+bytes
+llamable
+carácter
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+dividir módulo
+enumerar
+evaluar
+ejecutar
+filtro
+punto flotante
+formato
+conjunto congelado
+obtener atributo
+globales
+tiene atributo
+hash
+ayuda
+hexadecimal
+identidad
+entrada
+entero
+es instancia
+es subclase
+iterador
+longitud
+lista
+locales
+mapa
+máximo
+vista de memoria
+mínimo
+siguiente
+objeto
+octal
+abierto
+ordinal
+potencia
+imprimir
+propiedad
+rango
+representa
+invertido
+redondo
+conjunto
+atributo de conjunto
+rebanada
+ordenado
+método estático
+string
+suma de elementos
+conjunto que incluye
+tupla (Note that "tupla" is the standard term in Spanish, but you may occasionally see "par" or "pareja" used as well)
+ category
+parámetros
+compresión de archivos
+mayusculizar
+cambio de caso
+centro
+contar
+codificar
+termina con
+expandir pestañas
+encontrar
+mapa de formato
+índice
+es alfanumérico
+es alfabético
+es ASCII
+es decimal
+es dígito
+es identificador
+es menor
+es numérico
+es imprimible
+es espacio
+es título
+es mayúsculo
+unir
+justify to the left
+Menor (This term can be used to refer to the lowercase letters in a string)
+shift towards the left
+Traducción (This term is already available in Spanish, so there's no need to translate it)
+Partición (This term can refer to dividing a string or list into multiple parts)
+Reemplazar (This term is already available in Spanish, so there's no need to translate it)
+find in reverse
+inverse index
+justify to the right
+partition towards the right
+right
+strip derecho
+divide
+líneas divididas
+comienza con
+despojar
+cambiar caso
+título
+traducir
+mayúscula
+reemplazo de ceros
+agregar
+limpiar
+copiar
+ampliar
+insertar
+eliminar
+eliminar (this one is a bit tricky, as "remover" in Spanish means "to remove," but in the context of a list, it would be better translated as "eliminar")
+invertir
+ordenar
+desde
+claves
+obtener
+elementos
+eliminar elemento
+establecer como predeterminado
+actualizar
+valores
+agregar
+diferencia
+actualización de la diferencia
+descartar
+intersección
+actualización de la intersección
+es disjunto
+es un subconjunto
+es un superconjunto
+diferencia simétrica
+actualización de la diferencia simétrica
+unión
+cerrar
+separar
+número de archivo
+vaciar
+es interactivo
+leer
+legible
+leer línea
+leer líneas
+buscar
+buscable
+decir
+truncar
+escriturable
+escribir
+escribir líneas
+y
+-
+afirmar
+romper
+Clase
+Continuar
+Definir
+Eliminar
+Si noelse
+En caso de que
+Excepcionalmente
+Falso
+Finalmente
+Para
+desde
+global
+si
+importar
+en
+es
+lambda
+ninguno
+ocal -> no local
+no
+o
+pasar
+lanzar excepción
+devolver
+verdadero
+intentar
+mientras
+con
+ceder
+error aritmético
+Error de aserción
+Error de atributo
+Excepción
+Error de fin de archivo
+Error de punto flotante
+Salida del generador
+Error de importación
+Error de identación
+Error de índice
+Error de clave
+Interrupción de teclado
+Error de búsqueda
+Error de memoria
+Error de nombre
+Error no implementado
+Error de sistema operativo
+Error de desbordamiento
+Error de referencia
+Error en tiempo de ejecución
+Fin de iteración
+Error de sintaxis
+Error de pestañas (or Error de tabulación)
+Error de sistema
+Salida del sistema
+Error de tipo
+Error de variable local no vinculada
+Error de Unicode
+Error de codificación de Unicode
+Error de decodificación de Unicode
+Error de traducción de Unicode
+error de valor
+error de división cero

@@ -1,0 +1,222 @@
+valor absoluto.
+todo.
+cualquiera.
+ASCII.
+binario.
+boolean.
+matriz de bytes.
+bytes.
+Callable.
+carácter.
+Class.
+compilar.
+complejo.
+Eliminar atributo.
+diccionario.
+Directory.
+divide el módulo.
+enumerado.
+evalúe.
+ejecutar.
+Filtro.
+punto flotante.
+formato.
+conjunto congelado.
+obtenga el atributo.
+globals.
+tiene atributo.
+hash.
+ayuda.
+hexadecimal.
+identidad.
+entrada.
+Integer.
+IS Instance.
+es subclase.
+Iterator.
+longitud.
+lista.
+locales.
+mapa.
+máximo.
+Vista de memoria.
+mínimo.
+Siguiente.
+objeto.
+octal.
+Abrir.
+ordinal.
+potencia.
+imprima.
+propiedad.
+Range.
+Representar.
+invertido.
+Ronda.
+SET.
+establecer atributo.
+Slice.
+Sorted.
+método estático.
+cadena.
+suma.
+SuperSet.
+tuple.
+Tipo.
+variables.
+zip.
+capitalizar.
+pliegue de casos ".
+Center.
+Count.
+Code.
+termina con.
+expandir las pestañas.
+Buscar.
+formato mapa.
+índice.
+es alfanumérico.
+es alfabético.
+es ASCII.
+es decimal.
+es dígito.
+es identificador.
+es más bajo.
+es numérico.
+es imprimible.
+es espacio.
+es título.
+es un mayúscula.
+unirse.
+Left Justify.
+más bajo.
+tira izquierda.
+hacer traducción.
+partición.
+reemplazar.
+Reverse Find.
+índice inverso.
+justificar correcto.
+partición correcta.
+división derecha.
+Strip derecho.
+Split.
+líneas divididas.
+comienza con.
+Strip.
+Caso de intercambio.
+Título.
+"Traducir"
+"Epágramas"
+cero relleno.
+Append.
+Borrar.
+copia.
+extender.
+Insertar.
+Pop.
+Eliminar.
+reverso.
+Sort.
+desde las claves.
+get.
+elementos.
+claves.
+elemento POP.
+establecer predeterminado.
+actualizar.
+Valores
+Agregar.
+diferencia.
+Difering Update.
+Descarte.
+intersección.
+Intersection Actualy.
+es disjunto.
+es subconjunto.
+es superset.
+diferencia simétrica.
+actualización de diferencia simétrica.
+unión.
+Cerrar.
+separar.
+número de archivo.
+Flush.
+es interactiva.
+Leer.
+Legable.
+Leer Line.
+leer líneas.
+buscar.
+Seeable.
+Tell.
+truncate.
+Writable.
+Write.
+escribir líneas.
+y.
+como.
+Afirmar.
+Break.
+clase.
+Continuar.
+Define.
+Eliminar.
+else si.
+else.
+excepto.
+falso.
+Finalmente.
+para.
+desde.
+global.
+IF.
+import.
+en.
+IS.
+lambda.
+ninguno.
+no local.
+no.
+o.
+pase.
+aumente la excepción.
+return.
+Verdadero.
+intente.
+mientras.
+con.
+rendimiento.
+error aritmético.
+error de afirmación.
+error de atributo.
+Excepción.
+Error de finalización del archivo.
+error de punto flotante.
+salida del generador.
+Error de importación.
+error de sangría.
+error de índice.
+error de clave.
+interrupción del teclado.
+error de búsqueda.
+error de memoria.
+error de nombre.
+no implementado error.
+error del sistema operativo.
+error de desbordamiento.
+error de referencia.
+error de tiempo de ejecución.
+Detener iteración.
+error de sintaxis.
+error de pestaña.
+error del sistema.
+salida del sistema.
+error de tipo.
+error local no unido.
+error unicode.
+unicode codifica error.
+error de decodificación unicode.
+unicode traducir error.
+error de valor.
+error de división cero.

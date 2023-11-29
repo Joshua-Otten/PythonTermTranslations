@@ -1,0 +1,222 @@
+valor absoluto
+todo
+cualquier
+ascii
+binario
+booleano
+arreglo de bytes
+bytes
+llamable
+caracter
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+división módulo
+enumerar
+evaluar
+ejecutar
+filter => filtro
+floating point => punto flotante
+format => formato
+frozen set => conjunto congelado
+get attribute => obtener atributo
+globals => globales
+has attribute => tiene atributo
+hash => hash
+help => ayuda
+hexadecimal => hexadecimal
+identity => identidad
+input => entrada
+integer => entero
+is instance => es instancia
+is subclass => es subclase
+iterator => iterador
+length => longitud
+list => lista
+locals => locales
+map => mapear
+maximum => máximo
+memory view => vista de la memoria
+minimum => mínimo
+next => siguiente
+object => objeto
+octal => octal
+open => abierto
+ordinal => ordinal
+power => elevar
+print => imprimir
+propiedad
+rango
+representar
+invertido
+redondear
+conjunto
+establecer atributo
+rebanada
+ordenado
+método estático
+string => cadena
+summation => sumatoria
+superset => superconjunto
+tuple => tupla
+type => tipo
+variables => variables
+zip => comprimir
+capitalize => capitalizar
+case fold => doblar el caso
+center => centrar
+count => contar
+encode => codificar
+ends with => termina con
+expand tabs => expandir tabulaciones
+find => encontrar
+format map => mapeo de formato
+index => índice
+is alphanumeric => es alfanumérico
+is alphabetic => es alfabético
+is ascii => es ascii
+is decimal => es decimal
+is digit => es dígito
+is identifier => es identificador
+is lower => es minúscula
+is numeric => es numérico
+is printable => es imprimible
+is space => es espacio
+is title => es título
+is uppercase => es mayúscula
+join => unir
+left justify => justificar a la izquierda
+lower => minúsculas
+left strip => recortar a la izquierda
+make translation => hacer traducción
+partition => partición
+replace => reemplazar
+reverse find => buscar inverso
+reverse index => índice inverso
+right justify => justificar a la derecha
+right partition => partición a la derecha
+right split => dividir a la derecha
+right strip => recortar a la derecha
+split => dividir
+split lines => dividir líneas
+starts with => comienza con
+strip => recortar
+swap case => intercambiar mayúsculas y minúsculas
+title => título
+translate => traducir
+uppercase => mayúsculas
+zero fill => relleno de ceros
+append => añadir
+clear => limpiar
+copy => copiar
+extend => extender
+insert => insertar
+pop => extraer
+remove => quitar
+reverse => invertir
+sort => ordenar
+de claves
+obtener
+elementos
+claves
+elemento de extracción
+establecer por defecto
+actualizar
+valores
+añadir
+diferencia
+difference update => actualización de la diferencia
+discard => descartar
+intersección => intersección
+intersection update => actualización de la intersección
+is disjoint => está separado
+is subset => es subconjunto
+is superset => es superconjunto
+symmetric difference => diferencia simétrica
+symmetric difference update => actualización de la diferencia simétrica
+union => unión
+cerrar
+desconectar
+número de archivo
+vaciar
+es interactivo
+leer
+legible
+leer línea
+leer líneas
+buscar
+seekable => buscable
+tell => decir
+truncate => truncar
+writable => escribible
+write => escribir
+write lines => escribir líneas
+and => y
+as => como
+assert => afirmar
+break => romper
+clase
+continuar
+definir
+eliminar
+sino si
+sino
+excepto
+falso
+finalmente
+para
+desde
+global
+si
+importar
+en
+es
+lambda
+ninguno
+ocal - no local
+no
+o
+pasar
+levantar excepción
+devolver
+verdadero
+intentar
+mientras
+con
+rendimiento
+error aritmético
+assertion error => error de afirmación
+attribute error => error de atributo
+exception => excepción
+end of file error => error de fin de archivo
+floating point error => error de punto flotante
+generator exit => salida del generador
+import error => error de importación
+indentation error => error de sangría
+index error => error de índice
+key error => error de clave
+keyboard interrupt => interrupción desde el teclado
+lookup error => error de búsqueda
+memory error => error de memoria
+name error => error de nombre
+not implemented error => error no implementado
+os error => error del sistema operativo
+overflow error => error de desbordamiento
+reference error => error de referencia
+runtime error => error en tiempo de ejecución
+stop iteration => detener iteración
+error de sintaxis
+error de tabulación
+error del sistema
+salida del sistema
+error de tipo
+error local no vinculado
+error unicode
+error de codificación unicode
+error de decodificación unicode
+error de traducción unicode
+value error => error de valor
+zero division error => error de división por cero

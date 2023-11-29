@@ -1,0 +1,96 @@
+.
+
+Valeur absolue, tout, n'importe quoi, ASCII, binaire, booléen, tableau d'octets, octets, appelable, caractère.
+, float, for loop.
+
+Classe méthode, compiler, complexe, supprimer attribut, dictionnaire, répertoire, diviser modulo, énumérer, évaluer, exécuter, flottant, boucle for.
+.
+
+Filter => Filtre, Floating Point => Point Flottant, Format => Format, Frozen Set => Ensemble Congelé, Get Attribute => Obtenir Attribut, Globals => Globaux, Has Attribute => A Attribut, Hash => Hachage, Help => Aide, Hexadecimal => Hexadécimal.
+.
+
+Identity => Identité, Input => Entrée, Integer => Entier, Is Instance => Est Instance, Is Subclass => Est Sous-classe, Iterator => Itérateur, Length => Longueur, List => Liste, Locals => Locaux, Map => Carte.
+.
+
+Maximum => Maximum, 
+Mémoire visuelle => Vue mémoire, 
+Minimum => Minimum, 
+Next => Suivant, 
+Objet => Objet, 
+Octal => Octal, 
+Open => Ouvrir, 
+Ordinal => Ordinal, 
+Puissance => Puissance, 
+Imprimer => Imprimer.
+.
+
+Propriété, plage, représenter, inversé, arrondi, ensemble, définir l'attribut, tranche, trié, méthode statique.
+.
+
+String => Chaîne, Summation => Somme, Superset => Ensemble supérieur, Tuple => Tuple, Type => Type, Variables => Variables, Zip => Compresser, Capitalize => Mettre en majuscule, Case Fold => Plier la casse, Center => Centrer.
+, is digit
+
+count => compter, encode => encoder, ends with => se termine par, expand tabs => étendre les tabulations, find => trouver, format map => carte de format, index => indexer, is alphanumeric => est alphanumérique, is alphabetic => est alphabétique, is ascii => est ascii, is digit => est un chiffre
+.
+
+is decimal => est décimal, is digit => est un chiffre, is identifier => est un identifiant, is lower => est en minuscule, is numeric => est numérique, is printable => est imprimable, is space => est un espace, is title => est un titre, is uppercase => est en majuscule, join => rejoindre.
+, right strip, swapcase
+
+Left justify => Justifier à gauche, Lower => Minuscule, Left strip => Retirer à gauche, Make translation => Faire la traduction, Partition => Partitionner, Replace => Remplacer, Reverse find => Trouver inversement, Reverse index => Index inversé, Right justify => Justifier à droite, Right partition => Partitionner à droite, Right strip => Retirer à droite, Swapcase => Inverser les cas.
+.
+
+right split => découpage à droite, right strip => enlever à droite, split => découper, split lines => découper les lignes, starts with => commence par, strip => enlever, swap case => inverser la casse, title => titre, translate => traduire, uppercase => majuscule.
+.
+
+Zero fill => Remplissage à zéro, Append => Ajouter, Clear => Effacer, Copy => Copier, Extend => Étendre, Insert => Insérer, Pop => Extraire, Remove => Supprimer, Reverse => Inverser, Sort => Trier.
+, discard, intersection, remove.
+
+From: clé, obtenir, articles, clés, élément pop, défaut de l'ensemble, mettre à jour, valeurs, ajouter, différence, écarter, intersection, retirer.
+.
+
+Différence mise à jour, jeter, intersection, intersection mise à jour, est disjoint, est sous-ensemble, est super-ensemble, différence symétrique, différence symétrique mise à jour, union.
+, truncate.
+
+close => fermer, detach => détacher, file number => numéro de fichier, flush => vider, is interactive => est interactif, read => lire, readable => lisible, read line => lire la ligne, read lines => lire les lignes, seek => chercher, truncate => tronquer.
+.
+
+Seekable => Accessible, Tell => Dire, Truncate => Tronquer, Writable => Ecrivable, Write => Ecrire, Write Lines => Ecrire des lignes, And => Et, As => Comme, Assert => Assertion, Break => Casser.
+, if, import, in, is, lambda, None, pass, raise, return, True.
+
+Classe, continuer, définir, supprimer, sinon si, sinon, sauf, Faux, finalement, pour, si, importer, dans, est, lambda, Aucun, passer, soulever, retourner, Vrai.
+, or, pass, raise, return, try, while.
+
+from => de, global => global, if => si, import => importer, in => dans, is => est, lambda => lambda, None => Aucun, non-local => non-local, not => non, or => ou, pass => passer, raise => lever, return => retourner, try => essayer, while => tandis que.
+
+
+Or => Ou 
+Pass => Passer
+Raise Exception => Lever une Exception
+Return => Retourner
+True => Vrai
+Try => Essayer
+While => Pendant
+With => Avec
+Yield => Rendre
+Arithmetic Error => Erreur Arithmétique
+
+
+Assertion Error => Erreur d'assertion
+Attribute Error => Erreur d'attribut
+Exception => Exception
+End Of File Error => Erreur de fin de fichier
+Floating Point Error => Erreur de point flottant
+Generator Exit => Sortie du générateur
+Import Error => Erreur d'importation
+Indentation Error => Erreur d'indentation
+Index Error => Erreur d'index
+Key Error => Erreur de clé
+, Syntax Warning.
+
+Clavier Interrompu, Recherche Erreur, Erreur Mémoire, Erreur Nom, Non Implémenté Erreur, Erreur OS, Erreur Débordement, Erreur Référence, Erreur Exécution, Arrêter Itération, Avertissement de Syntaxe.
+
+
+Erreur de syntaxe, Erreur de tabulation, Erreur système, Sortie système, Erreur de type, Erreur locale non liée, Erreur Unicode, Erreur d'encodage Unicode, Erreur de décodage Unicode, Erreur de traduction Unicode.
+, Boolean, and String.
+
+Value Error => Erreur de valeur, Zero Division Error => Erreur de division par zéro

@@ -1,0 +1,179 @@
+, class.
+
+Absoluto valor, todos, cualquiera, ASCII, binario, booleano, matriz de bytes, bytes, llamable, carácter, clase.
+.
+
+Clase método, compilar, complejo, eliminar atributo, diccionario, directorio, dividir módulo, enumerar, evaluar, ejecutar.
+, id.
+
+Filtro, punto flotante, formato, conjunto congelado, obtener atributo, globales, tiene atributo, hash, ayuda, hexadecimal, id.
+.
+
+identidad, entrada, entero, es instancia, es subtipo, iterador, longitud, lista, locales, mapear.
+.
+
+Máximo, vista de memoria, mínimo, siguiente, objeto, octal, abierto, ordinal, potencia, imprimir.
+, str, tuple
+
+Propiedad, rango, representar, invertido, redondeado, conjunto, establecer atributo, rebanada, ordenado, método estático, str, tupla
+, count, endswith, expandtabs, find, format, index, isalnum, join, lower, replace, split, startswith, strip, upper
+
+String: Cadena
+Summation: Sumatoria
+Superset: Superconjunto
+Tuple: Tupla
+Type: Tipo
+Variables: Variables
+Zip: Comprimir
+Capitalize: Capitalizar
+Case fold: Minúsculas
+Center: Centrar
+Count: Contar
+Endswith: Termina con
+Expandtabs: Expandir tabulaciones
+Find: Encontrar
+Format: Formato
+Index: Índice
+Isalnum: Es alfanumérico
+Join: Unir
+Lower: Minúsculas
+Replace: Reemplazar
+Split: Dividir
+Startswith: Comienza con
+Strip: Quitar
+Upper: Mayúsculas
+, is digit, join, lower, replace, split, strip, upper.
+
+Contar, codificar, terminar con, expandir tabulaciones, encontrar, formato de mapa, índice, es alfanumérico, es alfabético, es ASCII, es dígito, unir, bajar, reemplazar, dividir, desvestir, subir.
+.
+
+is decimal - es decimal
+is digit - es dígito
+is identifier - es identificador
+is lower - es minúscula
+is numeric - es numérico
+is printable - es imprimible
+is space - es espacio
+is title - es título
+is uppercase - es mayúscula
+join - unir
+, rstrip, split, splitlines, startswith, strip, swapcase, title, translate, upper
+
+Left Justify - Justificar a la izquierda
+Lower - Minúscula
+Left Strip - Desprender a la izquierda
+Make Translation - Hacer traducción
+Partition - Partición
+Replace - Reemplazar
+Reverse Find - Buscar inversamente
+Reverse Index - Índice inverso
+Right Justify - Justificar a la derecha
+Right Partition - Partición a la derecha
+Rstrip - Desprender a la derecha
+Split - Dividir
+Splitlines - Dividir líneas
+Startswith - Empieza con
+Strip - Desprender
+Swapcase - Intercambiar mayúsculas y minúsculas
+Title - Título
+Translate - Traducir
+Upper - Mayúscula
+
+
+right split: dividir a la derecha
+right strip: recortar a la derecha
+split: dividir
+split lines: dividir líneas
+starts with: comienza con
+strip: recortar
+swap case: cambiar mayúsculas y minúsculas
+title: título
+translate: traducir
+uppercase: mayúsculas
+.
+
+Cero relleno, agregar, limpiar, copiar, extender, insertar, extraer, eliminar, invertir, ordenar.
+
+
+From: desde, 
+Get: obtener, 
+Items: elementos, 
+Keys: claves, 
+Pop item: elemento eliminado, 
+Set default: establecer valor predeterminado, 
+Update: actualizar, 
+Values: valores, 
+Add: agregar, 
+Difference: diferencia.
+.
+
+Diferencia actualizar, descartar, intersección, intersección actualizar, es disjunto, es subconjunto, es superconjunto, diferencia simétrica, diferencia simétrica actualizar, unión.
+, write
+
+Close: Cerrar
+Detach: Desconectar
+File Number: Número de archivo
+Flush: Limpiar
+Is Interactive: ¿Es interactivo?
+Read: Leer
+Readable: Legible
+Read Line: Leer línea
+Read Lines: Leer líneas
+Seek: Buscar
+Write: Escribir
+, class, continue, def, del
+
+seekable: buscable
+tell: decir
+truncate: truncar
+writable: escribible
+write: escribir
+write lines: escribir líneas
+and: y
+as: como
+assert: afirmar
+break: romper
+class: clase
+continue: continuar
+def: definir
+del: borrar
+.
+
+Clase, continuar, definir, eliminar, si no, sino, excepto, Falso, finalmente, para.
+, or, pass, and yield.
+
+De, global, si, importar, en, es, lambda, ninguno, no local, no, o, pasar, y rendir.
+
+
+or - o
+pass - pasar
+raise exception - levantar excepción
+return - devolver
+True - Verdadero
+try - intentar
+while - mientras
+with - con
+yield - rendimiento
+Arithmetic Error - Error aritmético
+, Name Error.
+
+Assertion Error: Error de aserción
+Attribute Error: Error de atributo
+Exception: Excepción
+End Of File Error: Error de Fin de Archivo
+Floating Point Error: Error de Punto Flotante
+Generator Exit: Salida del Generador
+Import Error: Error de Importación
+Indentation Error: Error de Indentación
+Index Error: Error de Índice
+Key Error: Error de Clave
+Name Error: Error de Nombre
+, Syntax Error, Type Error, Value Error
+
+Interrupción de teclado, Error de búsqueda, Error de memoria, Error de nombre, Error no implementado, Error de sistema operativo, Error de desbordamiento, Error de referencia, Error de tiempo de ejecución, Detener la iteración, Error de sintaxis, Error de tipo, Error de valor.
+, Value Error.
+
+Error de sintaxis, Error de tabulación, Error de sistema, Salida del sistema, Error de tipo, Error local no vinculado, Error de Unicode, Error de codificación Unicode, Error de decodificación Unicode, Error de traducción de Unicode, Error de valor.
+, and Syntax Error.
+
+Valor Error, Error de División Cero, Error de Sintaxis.

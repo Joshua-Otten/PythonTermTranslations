@@ -1,0 +1,211 @@
+, class, code, comment, complex, comprehension, condition, data, dictionary.
+
+Absolu valeur, tout, n'importe quoi, ASCII, binaire, booléen, tableau de bytes, bytes, appelable, caractère, classe, code, commentaire, complexe, compréhension, condition, données, dictionnaire.
+, float, for loop, function, if statement, import, index, iterate, list, module, object, range, set, slice, string, try.
+
+Classe méthode, compiler, complexe, supprimer attribut, dictionnaire, répertoire, diviser modulo, énumérer, évaluer, exécuter, flottant, boucle for, fonction, instruction if, importer, index, itérer, liste, module, objet, intervalle, ensemble, tranche, chaîne, essayer.
+, and id.
+
+Filter: Filtre
+Floating Point: Point flottant
+Format: Format
+Frozen Set: Ensemble gelé
+Get Attribute: Obtenir l'attribut
+Globals: Globaux
+Has Attribute: A l'attribut
+Hash: Hachage
+Help: Aide
+Hexadecimal: Hexadécimal
+ID: Identifiant
+, max, min
+
+Identity: identité
+Input: entrée
+Integer: entier
+Is instance: est une instance
+Is subclass: est une sous-classe
+Iterator: itérateur
+Length: longueur
+List: liste
+Locals: locaux
+Map: carte
+Max: max
+Min: min
+.
+
+Maximum: Maximum
+Mémoire vue: Vue mémoire
+Minimum: Minimum
+Next: Suivant
+Object: Objet
+Octal: Octal
+Open: Ouvrir
+Ordinal: Ordinal
+Power: Puissance
+Print: Imprimer
+, str.
+
+Propriété, gamme, représenter, inversé, arrondi, ensemble, définir l'attribut, tranche, trié, méthode statique, str.
+
+
+String: Chaîne 
+Summation: Somme 
+Superset: Ensemble supérieur 
+Tuple: Tuple 
+Type: Type 
+Variables: Variables 
+Zip: Compresser 
+Capitalize: Majuscule 
+Case fold: Pliage de cas 
+Center: Centrer
+, is decimal, is digit, is lower, is numeric, is printable, is space, is title, is upper, join, replace, rfind, rindex, split, startswith, strip, title, upper.
+
+Compte, encoder, se termine par, étendre les onglets, trouver, carte de format, index, est alphanumérique, est alphabétique, est ascii, est décimal, est chiffre, est inférieur, est numérique, est imprimable, est espace, est titre, est supérieur, joindre, remplacer, rfind, rindex, diviser, commence par, bande, titre, supérieur.
+
+
+is decimal: est décimal
+is digit: est un chiffre
+is identifier: est un identifiant
+is lower: est en minuscule
+is numeric: est numérique
+is printable: est imprimable
+is space: est un espace
+is title: est titre
+is uppercase: est en majuscule
+join: joindre
+, right strip.
+
+Gauche justifié, inférieur, gauche bande, faire la traduction, partition, remplacer, recherche inverse, index inverse, justifié à droite, partition droite, bande droite.
+
+
+right split: division à droite
+right strip: nettoyage à droite
+split: diviser
+split lines: diviser les lignes
+starts with: commence par
+strip: nettoyer
+swap case: inverser la casse
+title: titre
+translate: traduire
+uppercase: majuscule
+.
+
+Zero fill: Remplissage zéro
+Append: Ajouter
+Clear: Effacer
+Copy: Copier
+Extend: Étendre
+Insert: Insérer
+Pop: Éjecter
+Remove: Supprimer
+Reverse: Inverser
+Sort: Trier
+.
+
+From: De
+Get: Obtenir
+Items: Articles
+Keys: Clés
+Pop Item: Élément Pop
+Set Default: Définir Par Défaut
+Update: Mettre à Jour
+Values: Valeurs
+Add: Ajouter
+Difference: Différence
+, union update
+
+Différence mise à jour, écarter, intersection, intersection mise à jour, est disjoint, est sous-ensemble, est sur-ensemble, différence symétrique, différence symétrique mise à jour, union, union mise à jour
+, truncate, write, and writable.
+
+Fermer, détacher, numéro de fichier, vider, est interactif, lire, lisible, lire une ligne, lire des lignes, rechercher, tronquer, écrire, et écrivable.
+, class, continue, def, del, elif, else, except, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while.
+
+Seekable: recherchable
+Tell: dire
+Truncate: tronquer
+Writable: inscriptible
+Write: écrire
+Write lines: écrire des lignes
+And: et
+As: comme
+Assert: affirmer
+Break: casser
+Class: classe
+Continue: continuer
+Def: définir
+Del: supprimer
+Elif: sinon si
+Else: sinon
+Except: sauf
+For: pour
+From: à partir de
+Global: global
+If: si
+Import: importer
+In: dans
+Is: est
+Lambda: lambda
+Nonlocal: non local
+Not: pas
+Or: ou
+Pass: passer
+Raise: lever
+Return: retourner
+Try: essayer
+While: tandis que
+, from, global, if, import, in, is, lambda, None, nonlocal, not, or, pass, raise, return, True, try, while
+
+Class - Classe
+Continue - Continuer
+Define - Définir
+Delete - Supprimer
+Else if - Sinon si
+Else - Sinon
+Except - Sauf
+False - Faux
+Finally - Enfin
+For - Pour
+From - De
+Global - Global
+If - Si
+Import - Importer
+In - Dans
+Is - Est
+Lambda - Lambda
+None - Aucun
+Nonlocal - Non local
+Not - Non
+Or - Ou
+Pass - Passer
+Raise - Lever
+Return - Retourner
+True - Vrai
+Try - Essayer
+While - Pendant
+, or, pass, print, raise, return, try, while
+
+- De, global, si, importer, dans, est, lambda, aucun, non-local, pas, ou, passer, imprimer, lever, retourner, essayer, tandis que
+
+
+or - ou
+pass - passer
+raise exception - lever une exception
+return - retourner
+True - Vrai
+try - essayer
+while - pendant
+with - avec
+yield - produire
+Arithmetic Error - Erreur Arithmétique
+
+
+Assertion Erreur, Attribut Erreur, Exception, Erreur de fin de fichier, Erreur de point flottant, Sortie de générateur, Erreur d'importation, Erreur d'indentation, Erreur d'index, Erreur de clé
+, Syntax Error, System Error, Type Error, Value Error.
+
+Interruption clavier, Erreur de recherche, Erreur de mémoire, Erreur de nom, Erreur non implémentée, Erreur OS, Erreur de débordement, Erreur de référence, Erreur de runtime, Arrêt de l'itération, Erreur de syntaxe, Erreur système, Erreur de type, Erreur de valeur.
+
+
+Erreur de syntaxe, Erreur de tabulation, Erreur système, Sortie système, Erreur de type, Erreur locale non liée, Erreur Unicode, Erreur de codage Unicode, Erreur de décodage Unicode, Erreur de traduction Unicode
+, and Syntax Error.
+
+Erreur de valeur, Erreur de division par zéro, Erreur de syntaxe.

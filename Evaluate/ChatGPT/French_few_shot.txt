@@ -1,0 +1,222 @@
+valeur absolue
+tout
+n'importe quoi
+ascii
+binaire
+booléen
+tableau d'octets
+octets
+appelable
+caractère
+classe méthode
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser modulo
+énumérer
+évaluer
+exécuter
+filtre
+point flottant
+format
+ensemble congelé
+obtenir attribut
+globaux
+a attribut
+hachage
+aide
+hexadécimal
+identité
+entrée
+entier
+est instance
+est sous-classe
+itérateur
+longueur
+liste
+locaux
+carte
+maximum
+vue mémoire
+minimum
+suivant
+objet
+octal
+ouvrir
+ordinal
+puissance
+imprimer
+propriété
+plage
+représenter
+inversé
+arrondi
+ensemble
+définir l'attribut
+tranche
+trié
+méthode statique
+chaîne
+somme
+ensemble supérieur
+tuple
+type
+variables
+compresser
+mettre en majuscule
+plier la casse
+centrer
+compter
+encoder
+se termine par
+étendre les tabulations
+trouver
+carte de format
+indexer
+est alphanumérique
+est alphabétique
+est ascii
+est décimal
+est un chiffre
+est un identifiant
+est en minuscule
+est numérique
+est imprimable
+est un espace
+est un titre
+est en majuscule
+rejoindre
+justifier à gauche
+minuscule
+retirer à gauche
+faire la traduction
+partitionner
+remplacer
+trouver inversement
+index inversé
+justifier à droite
+partitionner à droite
+découpage à droite
+enlever à droite
+découper
+découper les lignes
+commence par
+enlever
+inverser la casse
+titre
+traduire
+majuscule
+remplissage à zéro
+ajouter
+effacer
+copier
+étendre
+insérer
+extraire
+supprimer
+inverser
+trier
+clé
+obtenir
+articles
+clés
+élément pop
+défaut de l'ensemble
+mettre à jour
+valeurs
+ajouter
+différence
+différence mise à jour
+jeter
+intersection
+intersection mise à jour
+est disjoint
+est sous-ensemble
+est super-ensemble
+différence symétrique
+différence symétrique mise à jour
+union
+fermer
+détacher
+numéro de fichier
+vider
+est interactif
+lire
+lisible
+lire la ligne
+lire les lignes
+chercher
+accessible
+dire
+tronquer
+ecrivable
+ecrire
+ecrire des lignes
+et
+comme
+assertion
+casser
+classe
+continuer
+définir
+supprimer
+sinon si
+sinon
+sauf
+faux
+finalement
+pour
+de
+global
+si
+importer
+dans
+est
+lambda
+aucun
+non-local
+non
+ou
+passer
+lever une exception
+retourner
+vrai
+essayer
+pendant
+avec
+rendre
+erreur arithmétique
+erreur d'assertion
+erreur d'attribut
+exception
+erreur de fin de fichier
+erreur de point flottant
+sortie du générateur
+erreur d'importation
+erreur d'indentation
+erreur d'index
+erreur de clé
+clavier interrompu
+recherche erreur
+erreur mémoire
+erreur nom
+non implémenté erreur
+erreur os
+erreur débordement
+erreur référence
+erreur exécution
+arrêter itération
+erreur de syntaxe
+erreur de tabulation
+erreur système
+sortie système
+erreur de type
+erreur locale non liée
+erreur unicode
+erreur d'encodage unicode
+erreur de décodage unicode
+erreur de traduction unicode
+erreur de valeur
+erreur de division par zéro

@@ -1,0 +1,121 @@
+ Sure, I can help you with that! Here are the translations of the Python keywords and terms you provided into Spanish:
+
+* absolute value: valor absoluto
+* all: todos
+* any: cualquier
+* ascii: ASCII
+* binary: binario
+* boolean: booleano
+* byte array: tabla de bytes
+* bytes: bytes
+* callable: llamable
+* character: carácter
+* class method: método de clase
+* compile: compilar
+* complex: complejo
+* delete attribute: eliminar atributo
+* dictionary: diccionario
+* directory: directorio
+* divide modulus: dividir módulo
+* enumerate: enumerar
+* evaluate: evaluar
+* execute: ejecutar
+* filter: filtro
+* floating point: punto flotante
+* format: formato
+* frozen set: conjunto congelado
+* get attribute: obtener atributo
+* globals: globales
+* has attribute: tiene atributo
+* hash: hash
+* help: ayuda
+* hexadecimal: hexadecimal
+* identity: identidad
+* input: entrada
+* integer: entero
+* is instance: es instancia
+* is subclass: es subclase
+* iterator: iteración
+* length: longitud
+* list: lista
+* locals: locales
+* map: mapa
+* maximum: máximo
+* memory view: vista de memoria
+* minimum: mínimo
+* next: siguiente
+* object: objeto
+* octal: octal
+* open: abrir
+* ordinal: ordinal
+* power: potencia
+* print: imprimir
+* property: propiedad
+* range: rango
+* represent: representar
+* reversed: revertido
+* round: redondear
+* set: conjunto
+* set attribute: definir atributo
+* slice: rebanada
+* sorted: ordenado
+* static method: método estático
+* string: cadena
+* summation: suma
+* superset: superconjunto
+* tuple: tupla
+* type: tipo
+* variables: variables
+* zip: zip
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Spanish:
+
+* Class method: método de clase
+* Compile: compilar
+* Complex: complejo
+* Delete attribute: eliminar atributo
+* Dictionary: diccionario
+* Directory: directorio
+* Divide modulus: dividir módulo
+* Enumerate: enumerar
+* Evaluate: evaluar
+* Execute: ejecutar
+ Sure, here are the translations of the given terms into Spanish:
+
+* Filter: filtro
+* Floating Point: punto flotante
+* Format: formato
+* Frozen Set: conjunto congelado
+* Get Attribute: obtener atributo
+* Globals: globales
+* Has Attribute: tiene atributo
+* Hash: hash
+* Help: ayuda
+* Hexadecimal: hexadecimal
+ Sure, here are the translations of the given terms into Spanish:
+
+* Identity: identidad
+* Input: entrada
+* Integer: entero
+* Is instance: es una instancia
+* Is subclass: es una subclase
+* Iterator: iteración
+* Length: longitud
+* List: lista
+* Locals: locales
+* Map: mapa
+
+I hope this helps! Let me know if you need anything else.
+ Sure, here are the translations of the given terms into Spanish:
+
+* maximum: máximo
+* memory view: vista de memoria
+* minimum: mínimo
+* next: siguiente
+* object: objeto
+* octal: octal
+* open: abierto
+* ordinal: ordinal
+* power: poder
+* print: imprimir

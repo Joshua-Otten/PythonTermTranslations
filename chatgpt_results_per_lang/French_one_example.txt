@@ -1,0 +1,204 @@
+, class, compile, complex.
+
+Valeur absolue, tout, n'importe quoi, ASCII, binaire, booléen, tableau d'octets, octets, appelable, caractère, classe, compiler, complexe.
+, float
+
+Class méthode, compiler, complexe, supprimer attribut, dictionnaire, répertoire, diviser modulo, énumérer, évaluer, exécuter, flottant
+.
+
+Filtre, point flottant, format, ensemble figé, obtenir l'attribut, globaux, a l'attribut, hachage, aide, hexadécimal.
+
+
+Identity => Identité
+Input => Entrée
+Integer => Entier
+Is instance => Est une instance
+Is subclass => Est une sous-classe
+Iterator => Itérateur
+Length => Longueur
+List => Liste
+Locals => Locaux
+Map => Carte
+
+
+Maximum => Maximum
+Memory View => Vue mémoire
+Minimum => Minimum
+Next => Suivant
+Object => Objet
+Octal => Octal
+Open => Ouvrir
+Ordinal => Ordinal
+Power => Puissance
+Print => Imprimer
+
+
+Propriété, plage, représenter, inversé, arrondi, ensemble, définir un attribut, tranche, trié, méthode statique
+
+
+Chaîne, somme, sur-ensemble, tuple, type, variables, zip, mettre en majuscules, plier la casse, centrer
+, is decimal, is digit
+
+Compte, encode, se termine avec, étendre les onglets, trouver, carte de format, index, est alphanumérique, est alphabétique, est ascii, est décimal, est chiffre
+
+
+is decimal => est décimal
+is digit => est chiffre
+is identifier => est identificateur
+is lower => est minuscule
+is numeric => est numérique
+is printable => est imprimable
+is space => est espace
+is title => est titre
+is uppercase => est majuscule
+join => joindre
+
+
+Left justify => Justifier à gauche
+Lower => Minuscule
+Left strip => Enlever à gauche
+Make translation => Faire une traduction
+Partition => Partitionner
+Replace => Remplacer
+Reverse find => Trouver inversement
+Reverse index => Index inversé
+Right justify => Justifier à droite
+Right partition => Partitionner à droite
+
+
+right split => découper à droite 
+right strip => enlever à droite 
+split => découper 
+split lines => découper les lignes 
+starts with => commence avec 
+strip => enlever 
+swap case => inverser la casse 
+title => titre 
+translate => traduire 
+uppercase => majuscule
+.
+
+Zero fill => Remplissage à zéro
+Append => Ajouter
+Clear => Effacer
+Copy => Copier
+Extend => Étendre
+Insert => Insérer
+Pop => Extraire
+Remove => Supprimer
+Reverse => Inverser
+Sort => Trier
+, intersection
+
+From: de
+Get: obtenir
+Items: éléments
+Keys: clés
+Pop item: élément supprimé
+Set default: définir par défaut
+Update: mettre à jour
+Values: valeurs
+Add: ajouter
+Difference: différence
+Intersection: intersection
+.
+
+Différence mise à jour, rejeter, intersection, mise à jour de l'intersection, est disjoint, est sous-ensemble, est sur-ensemble, différence symétrique, mise à jour de la différence symétrique, union.
+, truncate, write.
+
+close => fermer
+detach => détacher
+file number => numéro de fichier
+flush => vider
+is interactive => est interactif
+read => lire
+readable => lisible
+read line => lire la ligne
+read lines => lire les lignes
+seek => chercher
+truncate => tronquer
+write => écrire
+
+
+Seekable => Recherchable
+Tell => Dire
+Truncate => Tronquer
+Writable => Ecrivable
+Write => Ecrire
+Write Lines => Ecrire des lignes
+And => Et
+As => Comme
+Assert => Asserter
+Break => Cesser
+, if, in, is, lambda, not, or, pass, raise, return, try, True, while
+
+Classe, continuer, définir, supprimer, sinon si, sinon, excepté, faux, finalement, pour, si, dans, est, lambda, non, ou, passer, lever, retourner, essayer, vrai, tandis que
+, or, pass, raise, return, True, try, while
+
+From => De 
+Global => Global 
+If => Si 
+Import => Importer 
+In => Dans 
+Is => Est 
+Lambda => Lambda 
+None => Aucun 
+Non-local => Non-local 
+Not => Non 
+Or => Ou 
+Pass => Passer 
+Raise => Lever 
+Return => Retourner 
+True => Vrai 
+Try => Essayer 
+While => Pendant
+
+
+Or => Ou
+Pass => Passer
+Raise Exception => Lever une exception
+Return => Retourner
+True => Vrai
+Try => Essayer
+While => Pendant
+With => Avec
+Yield => Rendre
+Arithmetic Error => Erreur Arithmétique
+, Name Error, Not Implemented Error, Overflow Error, Recursion Error, Runtime Error, Syntax Error, Type Error, Value Error.
+
+Assertion Error => Erreur d'assertion
+Attribute Error => Erreur d'attribut
+Exception => Exception
+End Of File Error => Erreur de fin de fichier
+Floating Point Error => Erreur de point flottant
+Generator Exit => Sortie du générateur
+Import Error => Erreur d'importation
+Indentation Error => Erreur d'indentation
+Index Error => Erreur d'index
+Key Error => Erreur de clé
+Name Error => Erreur de nom
+Not Implemented Error => Erreur non implémentée
+Overflow Error => Erreur de débordement
+Recursion Error => Erreur de récursion
+Runtime Error => Erreur de runtime
+Syntax Error => Erreur de syntaxe
+Type Error => Erreur de type
+Value Error => Erreur de valeur
+, Syntax Error, Type Error.
+
+Interruption clavier, Erreur de recherche, Erreur de mémoire, Erreur de nom, Erreur non implémentée, Erreur système, Erreur de débordement, Erreur de référence, Erreur de temps d'exécution, Arrêt de l'itération, Erreur de syntaxe, Erreur de type.
+.
+
+Syntax Error => Erreur de syntaxe
+Tab Error => Erreur de tabulation
+System Error => Erreur système
+System Exit => Sortie système
+Type Error => Erreur de type
+Unbound Local Error => Erreur locale non liée
+Unicode Error => Erreur Unicode
+Unicode Encode Error => Erreur d'encodage Unicode
+Unicode Decode Error => Erreur de décodage Unicode
+Unicode Translate Error => Erreur de traduction Unicode
+
+
+Erreur de valeur, Erreur de division par zéro

@@ -1,0 +1,60 @@
+απόλυτη τιμή
+όλα
+οποιαδήποτε
+ascii
+δυαδικό
+boolean
+πίνακας byte
+bytes
+κλησιμοποιήσιμο
+χαρακτήρας
+class method: μέθοδος κλάσης
+compile: συντάξει
+complex: πολύπλοκο
+delete attribute: διαγραφή χαρακτηριστικού
+dictionary: λεξικό
+directory: κατάλογος
+divide modulus: διαίρεση modulus
+enumerate: αρίθμηση
+evaluate: αξιολόγηση
+execute: εκτέλεση
+filter: φίλτρο
+floating point: πλευρική δεκαδική
+format: μορφή
+frozen set: παγωμένο σύνολο
+get attribute: λήψη χαρακτηριστικού
+globals: καθολικά
+has attribute: έχει χαρακτηριστικό
+hash: κατακερματισμός
+help: βοήθεια
+hexadecimal: δεκαεξαδικό
+identity: ταυτότητα
+input: είσοδος
+integer: ακέραιος
+is instance: είναι παράδειγμα
+is subclass: είναι υποκλάση
+iterator: επαναληπτής
+length: μήκος
+list: λίστα
+locals: τοπικά
+map: χάρτης
+μέγιστο
+προβολή μνήμης
+ελάχιστο
+επόμενο
+αντικείμενο
+οκταλικό
+ανοιχτό
+ταξινομικό
+δύναμη
+εκτύπωση
+property: ιδιότητα
+range: εύρος
+represent: αναπαρίστανται
+reversed: ανεστραμμένο
+round: γύρος
+set: σετ
+set attribute: ορισμός ιδιότητας
+slice: κομμάτι
+sorted: ταξινομημένα
+static method: στατική μέθοδος

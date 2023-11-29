@@ -1,0 +1,279 @@
+.
+
+Absolute Value => निरपेक्ष मान
+All => সমস্ত
+Any => যেকোন
+ASCII => এএসসিআই
+Binary => দুইমাত্রাগত
+Boolean => বুলিয়ান
+Byte Array => বাইট অ্যারে
+Bytes => বাইট
+Callable => কলেব্ল
+Character => অক্ষর
+.
+
+Class Method: ক্লাস মেথড
+Compile: কম্পাইল করা
+Complex: জটিল
+Delete Attribute: আবর্তন মুছে ফেলুন
+Dictionary: শব্দকোষ
+Directory: ডিরেক্টরি
+Divide Modulus: ভাগ মডিউলাস
+Enumerate: গনিত করা
+Evaluate: মূল্যায়ন করা
+Execute: সম্পাদন করা
+
+
+Filter => ফিল্টার
+Floating Point => ফ্লোটিং পয়েন্ট
+Format => ফর্ম্যাট
+Frozen Set => ফ্রোজন সেট
+Get Attribute => অ্যাট্রিবিউট পেতে
+Globals => গ্লোবালস
+Has Attribute => অ্যাট্রিবিউট আছে
+Hash => হ্যাশ
+Help => সহায়তা
+Hexadecimal => ষেক্সাদেমিক্যাল
+.
+
+Identity => আত্মবিশ্বাস
+Input => ইনপুট
+Integer => পূর্ণসংখ্যা
+Is instance => এটি একটি উদাহরণ
+Is subclass => এটি একটি উপজাতি
+Iterator => আইটারেটর
+Length => দৈর্ঘ্য
+List => তালিকা
+Locals => স্থানীয়জন
+Map => ম্যাপ
+
+
+Maximum => সর্বোচ্চ
+Memory View => মেমোরি ভিউ
+Minimum => সর্বনিম্ন
+Next => পরবর্তী
+Object => অবজেক্ট
+Octal => আটকাল
+Open => খুলতে
+Ordinal => অনুক্রমিক
+Power => শক্তি
+Print => প্রিন্ট
+, str.
+
+Property => গুণ, 
+Range => পরিসীমা, 
+Represent => প্রতিনিধিত্ব করা, 
+Reversed => উল্টানো, 
+Round => গোণাঙ্কিত, 
+Set => সেট, 
+Set Attribute => গুণ নির্ধারণ করা, 
+Slice => কাঁটা, 
+Sorted => ক্রমবদ্ধ, 
+Static Method => স্থির পদ্ধতি, 
+Str => স্ট্রিং.
+
+
+String => স্ট্রিং
+Summation => যোগফল
+Superset => সুপারসেট
+Tuple => টুপল
+Type => ধরণ
+Variables => ভেরিয়েবল
+Zip => জিপ
+Capitalize => ক্যাপিটালাইজ
+Case Fold => কেস ফোল্ড
+Center => কেন্দ্র
+
+
+Count => গণনা করা
+Encode => এনকোড করা
+Ends with => সমাপ্ত হওয়া
+Expand tabs => ট্যাব সম্প্রসারণ করা
+Find => খুঁজুন
+Format map => ফর্ম্যাট ম্যাপ
+Index => সূচক
+Is alphanumeric => আলফানামিক হয়
+Is alphabetic => বর্ণমালায় আছে
+Is ascii => এসকিআই হয়
+.
+
+is decimal => ডেসিমেল
+is digit => ডিজিট
+is identifier => আইডেন্টিফায়ার
+is lower => লোঅার
+is numeric => সংখ্যাজনিত
+is printable => প্রিন্টেবল
+is space => স্পেস
+is title => শিরোনাম
+is uppercase => উপরের
+join => যোগ করুন
+, right strip
+
+Left Justify => বামে সংরক্ষণ করুন
+Lower => নিম্ন
+Left Strip => বাম স্ট্রিপ
+Make Translation => অনুবাদ করুন
+Partition => ভাগ করুন
+Replace => প্রতিস্থাপন করুন
+Reverse Find => উল্টো সন্ধান করুন
+Reverse Index => উল্টো সূচক
+Right Justify => ডানে সংরক্ষণ করুন
+Right Partition => ডান ভাগ করুন
+Right Strip => ডান স্ট্রিপ
+
+
+Right Split => ডান বিভাজন
+Right Strip => ডান স্ট্রিপ
+Split => বিভাজন
+Split Lines => লাইন বিভাজন
+Starts With => শুরু করে
+Strip => স্ট্রিপ
+Swap Case => কেস স্বাভাবিক
+Title => শিরোনাম
+Translate => অনুবাদ করা
+Uppercase => বড় হাতের অক্ষর
+.
+
+Zero Fill => শূন্য ভরাট 
+Append => যোগ করা 
+Clear => মুছে দাও 
+Copy => অনুলিপি 
+Extend => বিস্তার করা 
+Insert => প্রবেশ করা 
+Pop => আউট 
+Remove => অপসারণ 
+Reverse => উল্টো 
+Sort => ক্রমবদ্ধ করা
+
+
+From: হইতে 
+Get: পাওয়া
+Items: আইটেমসমূহ
+Keys: কীসমূহ
+Pop Item: পপ আইটেম
+Set Default: ডিফল্ট সেট করুন
+Update: আপডেট
+Values: মান
+Add: যোগ করুন
+Difference: পার্থক্য
+.
+
+difference update => পার্থক্য আপডেট
+discard => বাতিল করা
+intersection => অংশগুলির মিলন
+intersection update => অংশগুলির মিলন আপডেট
+is disjoint => আলাদা কি
+is subset => উপসেট কি
+is superset => সুপারসেট কি
+symmetric difference => সমতলীয় পার্থক্য
+symmetric difference update => সমতলীয় পার্থক্য আপডেট
+union => যোগফল
+, tell, truncate, write, writable
+
+Close: বন্ধ করা
+Detach: অলঙ্কার করা
+File number: ফাইল নম্বর
+Flush: ফ্লাশ
+Is interactive: ইন্টারঅ্যাক্টিভ কি
+Read: পড়ুন
+Readable: পঠনযোগ্য
+Read line: লাইন পড়ুন
+Read lines: লাইনগুলো পড়ুন
+Seek: অনুসরণ
+Tell: জানান
+Truncate: ক্ষুদ্রকরণ
+Write: লিখুন
+Writable: লিখনযোগ্য
+
+
+Seekable => অনুসন্ধানযোগ্য 
+বলুন, Tell => বলুন
+Truncate => ক্ষুদ্রকরণ 
+Writable => লেখার যোগ্য 
+Write => লেখা 
+Write Lines => লাইন লেখুন
+And => এবং
+As => যেমন 
+Assert => আস্তিকরণ 
+Break => ভঙ্গ
+
+
+Class => শ্রেণী
+Continue => চালিয়ে যান
+Define => নির্ধারণ করা
+Delete => মুছে ফেলা
+Else if => আরেকটি যদি
+Else => আর
+Except => বিশেষ করে
+False => মিথ্যা
+Finally => চূড়ান্ত
+For => জন্য
+, or, pass, raise, return, try
+
+From: থেকে
+Global: গ্লোবাল
+If: যদি
+Import: আমদানি
+In: মধ্যে
+Is: হল
+Lambda: লাম্বডা
+None: কোনটিইনহে
+Non-Local: স্থানীয়হীন
+Not: না
+Or: অথবা
+Pass: পাশ
+Raise: উঠাও
+Return: ফিরেযাও
+Try: চেষ্টা করুন
+
+
+Or: অথবা
+Pass: পাস
+Raise Exception: ব্যতিক্রম উত্পন্ন করুন
+Return: ফেরত
+True: সত্য
+Try: চেষ্টা করুন
+While: যখন
+With: সঙ্গে
+Yield: উত্পাদন
+Arithmetic Error: গণিত ত্রুটি
+.
+
+Assertion Error => আত্মবিশ্বাসী ত্রুটি
+Attribute Error => বৈশিষ্ট্য ত্রুটি
+Exception => বিপদ
+End Of File Error => ফাইল শেষ ত্রুটি
+Floating Point Error => ফ্লোটিং পয়েন্ট ত্রুটি
+Generator Exit => জেনারেটর বন্ধ
+Import Error => আমদানী ত্রুটি
+Indentation Error => ইনডেন্টেশন ত্রুটি
+Index Error => সূচক ত্রুটি
+Key Error => কী ত্রুটি
+
+
+Keyboard Interrupt => কীবোর্ড বারিয়েবার
+লুকআপ ত্রুটি => খোঁজা ত্রুটি
+মেমরি ত্রুটি => মেমরি ত্রুটি
+নাম ত্রুটি => নাম ত্রুটি
+নির্বাচিত নয় ত্রুটি => নির্বাচিত নয় ত্রুটি
+ওএস ত্রুটি => ওএস ত্রুটি
+অতিরিক্ত ত্রুটি => অতিরিক্ত ত্রুটি
+রেফারেন্স ত্রুটি => রেফারেন্স ত্রুটি
+রানটাইম ত্রুটি => রানটাইম ত্রুটি
+স্টপ ইটারেশন => স্টপ ইটারেশন
+.
+
+Syntax Error => सिन्टैक्स त्रुटि
+Tab Error => टैब त्रुटि
+System Error => सिस्टम त्रुटि
+System Exit => सिस्टम बाहर निकले
+Type Error => प्रकार त्रुटि
+Unbound Local Error => असंबद्ध स्थानीय त्रुटि
+Unicode Error => यूनिकोड त्रुटि
+Unicode Encode Error => यूनिकोड एन्कोड त्रुटि
+Unicode Decode Error => यूनिकोड डिकोड त्रुटि
+Unicode Translate Error => यूनिकोड अनुवाद त्रुटि
+
+
+Value Error: মানের ত্রুটি
+শূন্য ভাগশেষ ত্রুটি: শূন্য দ্বারা ভাগ করার ত্রুটি

@@ -1,0 +1,222 @@
+绝对值
+all
+any
+ascii
+二进制
+boolean
+字节数组
+bytes
+callable
+字符
+类方法
+编译
+complex
+delete attribute
+字典
+directory
+divide modulus
+枚举
+evaluate
+execute
+filter
+浮点数
+format
+frozen set
+get attribute
+globals
+has 属性
+hash
+help
+十六进制
+identity
+输入
+integer
+is instance
+是子类
+iterator
+length
+列表
+locals
+map
+maximum
+内存视图
+minimum
+next
+对象
+八进制
+open
+ordinal
+power
+print
+property
+range
+represent
+reversed
+round
+set
+set attribute
+slice
+sorted
+静态方法
+string
+求和
+超集
+元组
+type
+变量
+zip
+capitalize
+case fold
+center
+count
+encode
+结束于
+expand tabs
+find
+format map
+index
+是字母数字
+is alphabetic
+is ascii
+is decimal
+is digit
+是标识符
+is lower
+is numeric
+is printable
+is space
+is title
+is uppercase
+join
+左对齐
+lower
+left strip
+进行翻译
+partition
+replace
+反向查找
+反向索引
+右对齐
+右分区
+right split
+right strip
+split
+split lines
+starts with
+strip
+swap case
+title
+translate
+uppercase
+零填充
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+排序
+from keys
+get
+items
+keys
+pop item
+set default
+update
+values
+add
+差异
+差异更新
+discard
+交集
+intersection update
+is disjoint
+is subset
+is superset
+对称差异
+symmetric difference update
+union
+关闭
+detach
+文件号
+flush
+is interactive
+读取
+readable
+读取行
+读取行
+seek
+seekable
+tell
+truncate
+writable
+write
+write lines
+和
+as
+断言
+break
+class
+continue
+define
+delete
+else if
+else
+except
+false
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+none
+non-local
+not
+或
+pass
+引发异常
+return
+true
+try
+while
+with
+yield
+arithmetic error
+断言错误
+属性错误
+异常
+文件结束错误
+浮点错误
+生成器退出
+导入错误
+缩进错误
+索引错误
+键错误
+键盘中断
+查找错误
+内存错误
+名称错误
+未实现错误
+操作系统错误
+溢出错误
+引用错误
+运行时错误
+停止迭代
+语法错误
+tab 错误
+系统错误
+系统退出
+类型错误
+未绑定局部错误
+unicode 错误
+unicode 编码错误
+unicode 解码错误
+unicode 翻译错误
+值错误
+零除法错误

@@ -1,0 +1,360 @@
+, class, complex, dictionary, exception, float, function, integer, iterable, list, module, None, object, range, sequence, set, string, tuple, type.
+
+Absolute Value: کرنەی کامل
+All: هەموو
+Any: هەرکام
+ASCII: ASCII
+Binary: دوو کۆدی
+Boolean: بوولەن
+Byte Array: ئارەزوومەندی بایتەکان
+Bytes: بایتەکان
+Callable: قابلیتی کردن
+Character: تێکە
+Class: کلاس
+Complex: پێکهاتوو
+Dictionary: لیستە
+Exception: کێشە
+Float: بچووک
+Function: تایبەت
+Integer: تەواوکردنەوە
+Iterable: بەهێزبوون
+List: لیست
+Module: ماژۆڵ
+None: هیچ
+Object: ئەبەکت
+Range: بازه
+Sequence: دوایجاز
+Set: جۆر
+String: دەق
+Tuple: تووپل
+Type: جۆر
+, float, for loop, function, if statement, index, integer, list, module, multiply, operator, parameter, print, range, return, string, tuple, variable.
+
+Class method: کلاسی کاروبار
+Compile: پێکهێشتن
+Complex: پیچیده
+Delete attribute: خاستنی ویژگی
+Dictionary: ویشتێنەر
+Directory: دایرەکتوری
+Divide modulus: بەشداری کردنی مۆدوولۆس
+Enumerate: لیستکردن
+Evaluate: بەردەوامبوون
+Execute: چالاککردن
+Float: چوونەژوور
+For loop: چوونەکردنی چوونە
+Function: کاری
+If statement: دۆخی گۆڕان
+Index: نمایشکردن
+Integer: ژماره
+List: لیست
+Module: ماژۆڵ
+Multiply: چنوون
+Operator: کارگێر
+Parameter: پارامێتیر
+Print: پرینت
+Range: بازه
+Return: پاشگەزبوون
+String: دەق
+Tuple: توپل
+Variable: گۆڕاو
+, and id.
+
+Filter: فیلتر
+Floating Point: نۆونی ناوێنی
+Format: فۆرمات
+Frozen Set: سێتی فرۆز
+Get Attribute: دابینکردنی ویستار
+Globals: گلۆبال
+Has Attribute: ویستر لەداواکراوە
+Hash: شاشە
+Help: یارمەتی
+Hexadecimal: شێستەکۆد
+ID: پێناسە
+, max, min, module, next, object, open, print, range, set, str, tuple, type
+
+Identity: ئیدەنتیتی
+Input: داخستن
+Integer: ئینتجەر
+Is Instance: لەیەکی داواکراوە
+Is Subclass: لەیەکی زیادکراوە
+Iterator: گۆڕان
+Length: درێژی
+List: لیست
+Locals: لۆکالەکان
+Map: ناوخۆ
+Max: زۆرترین
+Min: کەمترین
+Module: مۆدیۆڵ
+Next: دواتر
+Object: ئۆبجێکت
+Open: کردنەوە
+Print: پرینت
+Range: شار
+Set: سێت
+Str: سترینگ
+Tuple: توپل
+Type: جۆر
+.
+
+Maximum: زۆرترین
+Memory view: چشمێکی بەخش
+Minimum: کەمترین
+Next: دواتر
+Object: بەرکار
+Octal: ئۆکتاڵ
+Open: کردنەوە
+Ordinal: نۆمۆڵی
+Power: قوت
+Print: چاپ
+, string, tuple.
+
+Property: خاسیت
+Range: حد
+Represent: نیشانداد
+Reversed: پیچیده
+Round: گرد
+Set: کردن
+Set Attribute: خاسیت کردن
+Slice: بەش
+Sorted: مرتب
+Static Method: روشی ثابت
+String: دەق
+Tuple: دووجۆ
+, count, endswith, expandtabs, find, format, index, isalnum, join, lower, upper.
+
+String - دەق
+Summation - شماردان
+Superset - سەرەکێش
+Tuple - تووپل
+Type - جۆر
+Variables - وێنەکان
+Zip - ناوچەکردن
+Capitalize - ناوەکۆیی
+Case fold - کۆس فۆلد
+Center - ناوخانە
+Count - شماردن
+Endswith - بەسەرچێوە
+Expandtabs - بەڕێوەبەری تاب
+Find - گەڕان
+Format - شێوازکردن
+Index - نیشاندان
+Isalnum - تەنها ژمارە
+Join - چیکان
+Lower - کۆمەڵی
+Upper - نێوانی
+, is decimal, is digit, is lower, is numeric, is printable, is space, is title, is upper, join, lower, partition, replace, split, startswith, strip, swapcase, title, upper.
+
+Count: شماریدن
+Encode: بەکدکردن
+Ends With: دەبێت بەپایەند
+Expand Tabs: درووستکردنی تابکار
+Find: گەڕان
+Format Map: ناوبری فۆرمات
+Index: ناساندن
+Is Alphanumeric: لەناوی کۆدی ڕۆژاوە؟
+Is Alphabetic: لەناوی حروفی؟
+Is Ascii: لەناوی ASCII؟
+Is Decimal: لەناوی دیمالی؟
+Is Digit: لەناوی ژمارە؟
+Is Lower: لەناوی کۆچە؟
+Is Numeric: لەناوی ژمارەیی؟
+Is Printable: لەناوی چاپکردنی؟
+Is Space: لەناوی فاصلە؟
+Is Title: لەناوی سەردێڕ؟
+Is Upper: لەناوی بەرز؟
+Join: بەشداری
+Lower: کۆچ
+Partition: پارتیشن
+Replace: لەبەرگرتنەوە
+Split: جیاکردن
+Startswith: دەستپێکی دەبێت
+Strip: سڕینەوە
+Swapcase: بەکارهێنانی گونجاو
+Title: سەردێڕ
+Upper: بەرز
+, split, and strip.
+
+Is decimal: دیزیمال یە
+Is digit: بەرگە یە
+Is identifier: شێوازی دیاریکردن یە
+Is lower: کۆمەڵ یە
+Is numeric: ژمارە یە
+Is printable: چاپکراو یە
+Is space: فاصلە یە
+Is title: سەردێڕ یە
+Is uppercase: گەورە یە
+Join: بەشداری کردن
+Split: بەشداری کردن
+Strip: مێژووی کردن
+, right strip.
+
+Left justify: باشووری لەسەر کردن
+Lower: کەمتر کردن
+Left strip: لەسەر بیشارکردن
+Make translation: ترجمە کردن
+Partition: بەشکردن
+Replace: لەبەرگرتنەوە
+Reverse find: گەڕانی بەرزکردن
+Reverse index: ئایندکسی بەرزکردن
+Right justify: باشووری لەگەڵ سەرەوە کردن
+Right partition: بەشکردنی لەسەری راست
+Right strip: راست بیشارکردن
+.
+
+Right Split: چاپلوسی راست
+Right Strip: چاپلوسی راست لهستی
+Split: چاپلوس
+Split Lines: چاپلوسی لینکان
+Starts With: به‌شێوه‌ی
+Strip: چاپلوس
+Swap Case: کاتێکی بگوازەوه‌
+Title: ناونیشان
+Translate: وەرگێڕان
+Uppercase: بەشێوه‌ی سەرەوه‌
+.
+
+Zero fill: بەشداری نەکراو
+Append: گواستن
+Clear: پاککردن
+Copy: نۆسخەکردن
+Extend: گەشناوە
+Insert: دابنێن
+Pop: نەخشکردن
+Remove: سڕینەوە
+Reverse: پێچاوبکەوە
+Sort: بڕوانەوە
+, discard, intersection, remove, symmetric difference.
+
+From Keys: لە کلیلەکان
+Get: بگەڕێ
+Items: ئەکە
+Keys: کلیلەکان
+Pop Item: بەشێوەی بکەوە
+Set Default: دابنێ بۆ پێشکەوتوو
+Update: نوێکردنەوە
+Values: نرخەکان
+Add: زۆرکردن
+Difference: جیاوازی
+Discard: داخستن
+Intersection: گوێز
+Remove: لابردن
+Symmetric Difference: جیاوازی سیمیتریک
+, union update.
+
+Difference Update:  گۆڕانی ناوخۆش
+Discard: پاشگەزبوونەوە
+Intersection: ناوەکی
+Intersection Update: گۆڕانی ناوەکی
+Is Disjoint: بەشی ناوخۆشە
+Is Subset: زیادکراوی خوارەوە
+Is Superset: ناوزیادکراوی خوارەوە
+Symmetric Difference: ناوخۆشی نیشاندان
+Symmetric Difference Update: گۆڕانی ناوخۆشی نیشاندان
+Union: ناودان
+Union Update: گۆڕانی ناودان
+, truncate, write.
+
+Close: بشكله
+Detach: جلك
+File number: نمبري فايل
+Flush: فلاش
+Is interactive: هەڵبژاردنی
+Read: پڕۆکە
+Readable: پڕۆکەکراو
+Read line: ڕێکەوتنی چاو
+Read lines: ڕێکەوتنی چاوەکان
+Seek: بڵێن
+Truncate: بەستەرکردن
+Write: نووسین
+, class, continue, def.
+
+Seekable: پێدراو
+Tell: بێزانە
+Truncate: بەشدارکردن
+Writable: نووسینی
+Write: نووسین
+Write Lines: نووسینی ڕێکخستنەکان
+And: یان
+As: پێشوو
+Assert: داواکردن
+Break: شکستن
+Class: کلاس
+Continue: چاوەڕواندن
+Def: داواکردن
+, from, if, import, in, is, lambda, None, not, or, pass, print, raise, return, True, try, while.
+
+زۆرت، چوونه‌وه‌، ده‌ستنامه‌، سڕینه‌وه‌، ئه‌وه‌ی دیکه‌، ئه‌وه‌، به‌سه‌رجێگری، نه‌خێر، نه‌هه‌شت، له‌سه‌ر، له‌جۆری، گه‌ر، دانام، له‌ناوه‌، ـه‌سه‌، نیه‌، نه‌خێر، یان، به‌سه‌ربه‌خه‌یه‌، پۆشاندان، دابنێ، بریتن، سه‌ره‌تا، خۆش، چاوه‌ڕوانبه‌، چاوه‌ڕوانبه‌.
+, or, pass, raise, return, True, try, while.
+
+From: سه‌ره‌وه‌
+Global: جۆراوجی
+If: گه‌ر
+Import: دانان
+In: له‌
+Is: له‌
+Lambda: لامبدا
+None: هیچ
+Non-local: بۆشایی نه‌بوون
+Not: نه‌بوو
+Or: يا
+Pass: گشت
+Raise: نێوانیشاندان
+Return: گه‌ڕانه‌وه‌
+True: دروست
+Try: تاقیبوونه‌وه‌
+While: ده‌بێت
+
+
+ئەوە، پێشکەش، پێشکەشی نەگونجاوەکە، گەڕاندنەوە، درووست، هەوڵبدەوە، چاوەڕێ، بەکارهێنا، بیرووخسارەی ئاریشیمیکی،
+, Name Error, NotImplementedError, Syntax Error, Type Error, Value Error, ZeroDivisionError
+
+Assertion Error: تێدایەشی بەشداری
+Attribute Error: تێدایەشی وەکو خاسیەت
+Exception: ناوەخۆ
+End Of File Error: تێدایەشی دەستەوخۆی پەڕگە
+Floating Point Error: تێدایەشی ناوەڕاستی نیشانداو
+Generator Exit: دەرچوونی گەنەرەتوو
+Import Error: تێدایەشی کۆدی چوونەژوورەوە
+Indentation Error: تێدایەشی نیشاندانی
+Index Error: تێدایەشی نووسین
+Key Error: تێدایەشی پێناسە
+Name Error: تێدایەشی ناو
+NotImplementedError: تێدایەشی نەکراو
+Syntax Error: تێدایەشی دەق
+Type Error: تێدایەشی جۆر
+Value Error: تێدایەشی نرخ
+ZeroDivisionError: تێدایەشی بەشداریی نەگونجاو
+, Syntax Error, Tab Error, Type Error, Unicode Error, Value Error, Warning.
+
+Keyboard Interrupt: توقفی تاکبورد
+Lookup Error: سه‌رنگی شێوەزارە
+Memory Error: شێوەزاری بەرزی
+Name Error: شێوەزاری ناو
+Not Implemented Error: شێوەزاری ناکراو
+OS Error: شێوەزاری سیستەمی ئاوەس
+Overflow Error: شێوەزاری بەرزکردنەوە
+Reference Error: شێوەزاری بەستەر
+Runtime Error: شێوەزاری چالاککردن
+Stop Iteration: توقفی بۆ جۆراوجۆر
+Syntax Error: شێوەزاری دەستکاری
+Tab Error: شێوەزاری تاڤ
+Type Error: شێوەزاری جۆر
+Unicode Error: شێوەزاری یونی‌کۆد
+Value Error: شێوەزاری نرخ
+Warning: ئاگاداری
+.
+
+سنتاکس خراب: خطای سنتاکس
+تاب خراب: خطای تاب
+سیستم خراب: خطای سیستم
+سیستم خروج: خروج از سیستم
+خطای نوع: خطای نوع
+خطای محلی نشان نشده: خطای محلی نشان نشده
+خطای یونیکد: خطای یونیکد
+خطای امضای یونیکد: خطای امضای یونیکد
+خطای ترجمه یونیکد: خطای ترجمه یونیکد
+, Syntax Error
+
+Value Error: تێخشەی نرخ
+Zero Division Error: تێخشەی سەرچاوەی بەشداری
+Syntax Error: تێخشەی ناوی دەق

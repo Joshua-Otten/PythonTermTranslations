@@ -1,0 +1,237 @@
+.
+
+Valor absoluto, todo, cualquiera, ASCII, binario, booleano, arreglo de bytes, bytes, llamable, carácter.
+
+
+Clase método, compilar, complejo, eliminar atributo, diccionario, directorio, dividir módulo, enumerar, evaluar, ejecutar
+.
+
+Filter => Filtro
+Floating Point => Punto flotante
+Format => Formato
+Frozen Set => Conjunto congelado
+Get Attribute => Obtener atributo
+Globals => Globales
+Has Attribute => Tiene atributo
+Hash => Hash
+Help => Ayuda
+Hexadecimal => Hexadecimal
+.
+
+identidad, entrada, entero, es instancia, es subtipo, iterador, longitud, lista, locales, mapa
+.
+
+Máximo, vista de memoria, mínimo, siguiente, objeto, octal, abrir, ordinal, potencia, imprimir.
+
+
+Propiedad, rango, representar, invertido, redondeado, conjunto, establecer atributo, rebanada, ordenado, método estático
+, copy, count, endswith, expandtabs, find, format, index, isalnum, isalpha, isdecimal, isdigit, islower, isupper
+
+String => Cadena
+Summation => Sumatoria
+Superset => Superconjunto
+Tuple => Tupla
+Type => Tipo
+Variables => Variables
+Zip => Comprimir
+Capitalize => Capitalizar
+Case fold => Convertir a minúsculas
+Center => Centrar
+Copy => Copiar
+Count => Contar
+Endswith => Terminar con
+Expandtabs => Expandir tabulaciones
+Find => Encontrar
+Format => Formato
+Index => Índice
+Isalnum => Es alfanumérico
+Isalpha => Es alfabético
+Isdecimal => Es decimal
+Isdigit => Es dígito
+Islower => Está en minúscula
+Isupper => Está en mayúscula
+, is digit, is lower, is numeric, is title, is upper
+
+count => contar
+encode => codificar
+ends with => termina con
+expand tabs => expandir tabulaciones
+find => encontrar
+format map => mapa de formato
+index => índice
+is alphanumeric => es alfanumérico
+is alphabetic => es alfabético
+is ascii => es ascii
+is digit => es dígito
+is lower => es minúscula
+is numeric => es numérico
+is title => es título
+is upper => es mayúscula
+.
+
+is decimal => es decimal
+is digit => es dígito
+is identifier => es identificador
+is lower => es minúscula
+is numeric => es numérico
+is printable => es imprimible
+is space => es espacio
+is title => es título
+is uppercase => es mayúscula
+join => unir
+, right strip, split, startswith.
+
+left justify => justificar a la izquierda
+lower => minúscula
+left strip => recortar a la izquierda
+make translation => hacer traducción
+partition => partición
+replace => reemplazar
+reverse find => buscar inversamente
+reverse index => índice inverso
+right justify => justificar a la derecha
+right partition => partición derecha
+right strip => recortar a la derecha
+split => dividir
+startswith => comienza con
+
+
+right split => dividir a la derecha
+right strip => recortar a la derecha
+split => dividir
+split lines => dividir líneas
+starts with => empieza con
+strip => recortar
+swap case => intercambiar mayúsculas y minúsculas
+title => título
+translate => traducir
+uppercase => mayúsculas
+
+
+Zero fill => relleno de ceros,
+Append => agregar,
+Clear => limpiar,
+Copy => copiar,
+Extend => extender,
+Insert => insertar,
+Pop => extraer,
+Remove => eliminar,
+Reverse => invertir,
+Sort => ordenar.
+
+
+From: de
+Keys: claves
+Get: obtener
+Items: artículos
+Keys: claves
+Pop item: elemento pop
+Set default: establecer predeterminado
+Update: actualizar
+Values: valores
+Add: añadir
+Difference: diferencia
+.
+
+Diferencia actualizada, descartar, intersección, intersección actualizada, está desunido, es subconjunto, es superconjunto, diferencia simétrica, diferencia simétrica actualizada, unión.
+, tell
+
+close => cerrar
+detach => desconectar
+file number => número de archivo
+flush => vaciar
+is interactive => es interactivo
+read => leer
+readable => legible
+read line => leer línea
+read lines => leer líneas
+seek => buscar
+tell => decir
+.
+
+seekable: buscable
+tell: decir
+truncate: truncado
+writable: escribible
+write: escribir
+write lines: escribir líneas
+and: y
+as: como
+assert: afirmar
+break: romper
+, from, if, import, in, is, lambda, None, pass, raise, return, True, try, while.
+
+Clase, continuar, definir, eliminar, si no, sino, excepto, Falso, finalmente, para, desde, si, importar, en, es, lambda, Nada, pasar, levantar, devolver, Verdadero, intentar, mientras.
+, or, pass, raise, return, True, try, while.
+
+From: desde
+Global: Global
+If: Si
+Import: Importar
+In: En
+Is: Es
+Lambda: Lambda
+None: Ninguno
+Non-local: No local
+Not: No
+Or: O
+Pass: Pasar
+Raise: Levantar
+Return: Devolver
+True: Verdadero
+Try: Intentar
+While: Mientras
+
+
+Or => o
+Pass => pasar
+Raise Exception => levantar excepción
+Return => devolver
+True => Verdadero
+Try => intentar
+While => mientras
+With => con
+Yield => rendimiento
+Arithmetic Error => Error aritmético
+, Name Error, Syntax Error.
+
+Assertion Error => Error de aserción
+Attribute Error => Error de atributo
+Exception => Excepción
+End Of File Error => Error de fin de archivo
+Floating Point Error => Error de punto flotante
+Generator Exit => Salida de generador
+Import Error => Error de importación
+Indentation Error => Error de sangría 
+Index Error => Error de índice
+Key Error => Error de clave
+Name Error => Error de nombre
+Syntax Error => Error de sintaxis
+, Syntax Error
+
+Keyboard Interrupt => Interrupción de teclado
+Lookup Error => Error de búsqueda
+Memory Error => Error de memoria
+Name Error => Error de nombre
+Not Implemented Error => Error de no implementación
+OS Error => Error del sistema operativo
+Overflow Error => Error de desbordamiento
+Reference Error => Error de referencia
+Runtime Error => Error de tiempo de ejecución
+Stop Iteration => Detener iteración
+Syntax Error => Error de sintaxis
+
+
+Syntax Error => Error de sintaxis
+Tab Error => Error de tabulación
+System Error => Error de sistema
+System Exit => Salida del sistema
+Type Error => Error de tipo
+Unbound Local Error => Error local no vinculado
+Unicode Error => Error de Unicode
+Unicode Encode Error => Error de codificación de Unicode
+Unicode Decode Error => Error de decodificación de Unicode
+Unicode Translate Error => Error de traducción de Unicode
+, Syntax Error.
+
+Valor Error, Error de División Cero, Error de Sintaxis.

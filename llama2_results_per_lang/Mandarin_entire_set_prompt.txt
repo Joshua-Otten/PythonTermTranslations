@@ -1,0 +1,330 @@
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Absolute value -  (jué yì jí)
+2. All - 所有 (suǒ yǒu)
+3. Any - 任何 (rèn huī)
+4. ASCII - ASCII 编码 (ASCII biān mǎ)
+5. Binary - 二进制 (èr jìn shì)
+6. Boolean - 布尔值 (bù lü yì jí)
+7. Byte array - 字节数组 (zì jié shū zuò)
+8. Bytes - 字节 (zì jié)
+9. Callable - 可调用的 (kě zhào fù dung de)
+10. Character - 字符 (tictionary)
+
+Note: Some of the translations may not be exact, as the meaning of the term may vary depending on the context in which it is used.
+ Sure, here are the translations of the given Python terms into Mandarin:
+
+1. Class method: 类方法 (léi fāng fù)
+2. Compile: 编(biǎn yì)
+3. Complex: 复(fù dà)
+4. Delete attribute: 删除属性 (shū shú zhī xìng)
+5. Dictionary: 字典 (zǐ diǎn)
+6. Directory: 目录 (mù lù)
+7. Divide modulus: 模数分解 (mò kè bù kě)
+8. Enumerate: 列(liè tóu)
+9. Evaluate: (pí shì)
+10. Execute:  (zhí xíng)
+
+Note: These translations are in Simplified Chinese characters, which are used in mainland China and Singapore. Traditional Chinese characters are used in Hong Kong, Macau, Taiwan, and some other countries. If you need translations in Traditional Chinese characters, please let me know.
+ Sure, here are the translations of the given terms into Mandarin:
+
+* Filter:  (píngj Sélection)
+* Floating Point:  (fú zhì jùshuō lùxù)
+* Format: 格式 (gāi yì)
+* Frozen Set: 集合 (bīngjié jísuǒ)
+* Get Attribute: 取得属性 (qǔ dé zhòng xìng)
+* Globals: 全局变量 (quán guó biàn liàng)
+* Has Attribute: 属性 (róng yǒu shǒu xìng)
+* Hash:  (hā shǐ)
+* Help:  (bāngzhù)
+* Hexadecimal: 十六进制 (shíliù chùn zhì)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Identity: 身(shēng yuān)
+2. Input: 输入 (shū ruì)
+3. Integer:  (zhèng shù)
+4. Is instance: 是实例 (shì shí fāng)
+5. Is subclass: 是子类 (shì zǐ lè)
+6. Iterator: 器 (dài dài qì)
+7. Length: 长度 (cháng duò)
+8. List: 列表 (liè biǎo)
+9. Locals: 本地 (běn dì)
+10. Map: map 图 (dì tú)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. maximum - 最大 (zuìdà)
+2. memory view - 内存视图 (nèicí xiǎngtú)
+3. minimum - 最小 (zuòxiǎo)
+4. next - 下一个 (xiàyī gè)
+5. object - 对象 (duìxiangle)
+6. octal - 八进制 (bājítongshì)
+7. open - 打开 (dǎkāifang)
+8. ordinal -  (purgreensuǒ)
+9. power - 能量 (nénglì)
+10. print - 打(dǎyìn)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Property - 属性 (zhōng xìng)
+2. Range - (fāng yán)
+3. Represent - 表示 (biǎo shì)
+4. Reversed - 反转 (fǎn zhuān)
+5. Round - (juǎn kū)
+6. Set - 集合 (jí hé)
+7. Set attribute - 设置属性 (shè bù zhī xìng)
+8. Slice - 分(fēn gòu)
+9. Sort -  (pái xù)
+10. Static method - 方法 (jìng tài fāng màn)
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. String: 字符串 (tián zhì xiáng)
+2. Summation: 和 (hěn) or 加算 (jiā shù)
+3. Superset: 超集 (chāo jí)
+4. Tuple: 元组 (yuán zǔ)
+5. Type: 类型 (lèi xíng)
+6. Variables: 变量 (biàn yòu)
+7. Zip: (yā shū)
+8. Capitalize: 首字母大写 (shǒu zhī mǔ dà xí)
+9. Case fold: 小写 (xiǎo xí)
+10. Center: 中心 (zhōng xīn)
+
+Note that some of the translations may have multiple forms, and the choice of which one to use may depend on the context in which the term is being used.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Count - 计数 (jì shù)
+2. Encode - 编码 (biān mǎ)
+3. Ends with - 结 (jiégōng yú)
+4. Expand tabs -  (juǎn jī fēn)
+5. Find - 查(zhāo kě)
+6. Format map - 格式化图表 (gé shì huà tuǐ)
+7. Index - 索引 (suǒ yì)
+8. Is alphanumeric - 是字母numeric (shì zhī mǔ numeric)
+9. Is alphabetic - 是字母 (shì zhī mǔ)
+10. Is ASCII - 是ASCII (shì ASCII)
+
+Note that some terms may have multiple translations or variations in Mandarin, depending on the context and specific usage. These translations are provided based on their commonly used forms in the programming language context.
+ Sure, here are the translations of the given terms into Mandarin:
+
+* "is decimal" -> 是十进制 (shì shí zhòng zhì)
+* "is digit" -> 是数字 (shì yù zhī)
+* "is identifier" -> 是标 (shì biāo dèng wù)
+* "is lower" -> 是小写 (shì xiǎo xiě)
+* "is numeric" -> 是数值 (shì yù jù)
+* "is printable" -> 是可打 (shì kě bù yìn de)
+* "is space" -> 是空格 (shì kōng gòu)
+* "is title" -> 是标题 (shì biāo tiē)
+* "is uppercase" -> 是大写 (shì dà xiě)
+* "join" -> 连接 (lián jié)
+ Sure, here are the translations of the given terms into Mandarin:
+
+* Left justify: 左对(zuǒ duìzhí)
+* Lower: 小写 (xiǎoxiě)
+* Left strip: 左rip (zuǒ ríp)
+* Make translation: (fān yì)
+* Partition: 分区 (fēn qū)
+* Replace:  (tī huan)
+* Reverse find: 反向(fāng xiàng cháng jīn)
+* Reverse index: 反向索引 (fāng xiàng suǒ yì)
+* Right justify: 右对(yòu duìzhí)
+* Right partition: 右分区 (yòu fēn qū)
+
+I hope this helps!
+ Sure, here are the translations of the given terms into Mandarin:
+
+* Right split (right partition): 右 (yòu kuī fēn)
+* Right strip (right remove): 右移除 (yòu yí shāng)
+* Split: 分(fēn gē)
+* Split lines: 分行 (fēn hàng)
+* Starts with: 开头有 (kāi tóu yǒu)
+* Strip: 去(qù shuō)
+* Swap case: 交换大小写 (jiāo huàn dà xiǎo chuī)
+* Title: 标题 (biāng tiê)
+* Translate: (fān yì)
+* Uppercase: 大写 (dà xiǎo)
+ Sure, here are the translations of the given Python terms into Mandarin:
+
+1. Zero fill: (fóótàng wèi líng)
+2. Append:  (fùjīa)
+3. Clear: 清空 (qīngkōng)
+4. Copy: 复制 (fùzhì)
+5. Extend:  (kōngyì)
+6. Insert:  (pūnyù)
+7. Pop:  (dànchū)
+8. Remove: 删除 (shāng àndé)
+9. Reverse: 反转 (fǎn zhuán)
+10. Sort:  (purgle)
+
+Note that some of the translations may not be exact word-for-word equivalents, but they should convey the same meaning and be understandable to a Mandarin speaker.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. 从（keys）：从
+2. 获取（get）：获取
+3. 项目（items）：项目
+4. keys）：5. 项目（pop item）：项目
+6. 设置默认（set default）：设置默认
+7. 更新（update）：更新
+8. 值（values）：值
+9. 添加（add）：添加
+10. difference）：
+Note: These translations are in Simplified Chinese, which is used in mainland China. If you need Traditional Chinese characters, please let me know and I can provide them for you.
+ Sure, here are the translations of the given terms into Mandarin:
+
+* Difference update: 新 (dìng gēn xīn)
+* Discard:  (qù zhí)
+* Intersection: 交集 (jiāo jí)
+* Intersection update: 交集更新 (jiāo jí gēn xīn)
+* Is disjoint: 是 (shì l sàn de)
+* Is subset: 是子集的 (shì zǐ jiā de)
+* Is superset: 是超集的 (shì chāo jiā de)
+* Symmetric difference: 对称(duì xiàng dù)
+* Symmetric difference update: 对称新 (duì xiàng dù gēn xīn)
+* Union: 合并 (hé huì)
+ Sure, here are the translations of the given Python keywords and phrases into Mandarin Chinese:
+
+1. close - close (zhōng jí)
+2. detach - 分(fēn lí)
+3. file number - 文件号 (wén jiǎo hao)
+4. flush -  (shuā xīn)
+5. is interactive - 是交 (shì jiāo tán de)
+6. read -  (dú shū)
+7. readable - 可(kě yú)
+8. read line - 行 (dú shū hàng)
+9. read lines - 行数 (dú shū hàng shù)
+10. seek - (xún fín)
+ Sure, here are the translations of the given terms into Mandarin:
+
+* Seekable: 可查 (kě bù khahnsī de)
+* Tell: 告(gào yù)
+* Truncate:  (jiān dàn)
+* Writable: 可写的 (kě bù xiǎng de)
+* Write: 写 (xě)
+* Write lines: 写行 (xiǎng hàng)
+* And: 并 (bìng)
+* As: 作为 (zuò yǐ)
+* Assert: 确认 (zhèng mín)
+* Break: 间(jiān fēn)
+
+Note that some of the translations may not be exact word-for-word translations, but rather convey the same meaning and context as the original English terms.
+ Sure, here are the translations of the given Python keywords and phrases into Mandarin Chinese:
+
+* Class: 类 (pinyin: kè)
+* Continue: (pinyin: jìxù)
+* Define: 定义 (pinyin: dìngyì)
+* Delete: 删除 (pinyin: shanchū)
+* Else if: 否则如果 (pinyin: fāng zhī yǐ)
+* Else: 其(pinyin: qí tā)
+* Except: 除了 (pinyin: chú le)
+* False: 错(pinyin: wòng jué)
+* Finally:  (pinyin: zhōng yú)
+* For: 为 (pinyin: wèi)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given Python keywords into Mandarin:
+
+1. from - 从 (róng)
+2. global - 全局 (quán guó)
+3. if - 如果 (rú guī)
+4. import - 导入 (dào rù)
+5. in - 在 (zài)
+6. is - 是 (shì)
+7. lambda - λ (lambada)
+8. None - 无 (wú)
+9. non-local - 非本地 (fēi běn dì)
+10. not - 不 (bù)
+
+Note that the translations are in Simplified Chinese characters, which are used in mainland China and Singapore. Traditional Chinese characters could be used in other regions such as Taiwan and Hong Kong.
+ Certainly! Here are the translations of the given Python keywords and phrases into Mandarin Chinese:
+
+1. 或 (yǔ) - or
+2. 通过 (tōng guò) - pass
+3.  (yì cháng) - raise exception
+4. 返回 (fǎn kuí) - return
+5. 真 (zhēn) - True
+6.  (cháng shì) - try
+7. 在同じ时间 (zài tóng yī shí jī) - while
+8. 与 (yǔ) - with
+9.  (chén shēng) - yield
+10. 算数错(suàn shù gòu chāng wù) - Arithmetic Error
+11. 断言错(dànsūn gòu chāng wù) - Assertion Error
+12. 属性错(zhè xìng gòu chāng wù) - Attribute Error
+13. 处理 (yì cháng chuī shī) - Exception Handling
+14. 文件结(wén jiān jié shū gòu chāng wù) - End Of File Error
+15. 数错(piāo diǎn zhù shū gòu chāng wù) - Floating Point Error
+16. 生成器 (shēng chéng yì qǐ) - Generator Exit
+17. 导入错(dāo rù gòu chāng wù) - Import Error
+18. 错(sōu jìn gòu chāng wù) - Indentation Error
+19. 索引错(suǒ yì gòu chāng wù) - Index Error
+20. (jiàn gòu chāng wù) - Key Error
+21. 断 (jiàn bàn zhōng duàn) - Keyboard Interrupt
+22. 查(zhā cè gòu chāng wù) - Lookup Error
+23. 内存错(nèi yì gòu chāng wù) - Memory Error
+24. 名称错(míng chēng gòu chāng wù) - Name Error
+25. 未实现错(wèi shí jī gòu chāng wù) - Not Implemented Error
+26. 操作系统错(còu yòng xìtong gòu chāng wù) - OS Error
+27. 错(hè xū gòu chāng wù) - Overflow Error
+28. 参(cè nianshēng gòu chāng wù) - Reference Error
+29. 运行时间错(yùnxī jiān shí gòu chāng wù) - Runtime Error
+30.  (dùo zhì tuī shī) - Stop Iteration
+31. 语法错(yǔ fā gòu chāng wù) - Syntax Error
+32. 标(biǎo qian gòu chāng wù) - Tab Error
+33. 系统错(xì tón gòu chāng wù) - System Error
+34. 系统 (xì tón tuī shī) - System Exit
+35. 类型错(lèi xìng gòu chāng wù) - Type Error
+36. 本地未的错(běn dì wù jié bù zhī yì) - Unbound Local Error
+37. Unicode错(yù niú jī diǎn gòu chāng wù) - Unicode Error
+38. Unicode编码错(yù niú biǎo mǎ yì gòu chāng wù) - Unicode Encode Error
+39. Unicode解码错(yù niú jiě fā yì gòu chāng wù) - Unicode Decode Error
+40. Unicode(yù niú fāng yì gòu chāng wù) - Unicode Translate Error
+41. 值错(zhí kē gòu chāng wù) - Value Error
+42. 数除法错(piāo diǎn jī l shū gòu chāng wù) - Zero Division Error
+
+I hope this helps!
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Assertion Error - 断言错(pān yuè gòu chì)
+2. Attribute Error - 属性错(zhōng xìng gòu chì)
+3. Exception - 情(yìcháng qíng wèn)
+4. End Of File Error - 文件结(wén jiào jié shú gòu chì)
+5. Floating Point Error - 数错(fú diǎn jùshí gòu chì)
+6. Generator Exit - 生成器 (shēng chéng yì shū)
+7. Import Error - 导入错(dào rù gòu chì)
+8. Indentation Error - 错(suō jìn gòu chì)
+9. Index Error - 索引错(sEARCH índex gòu chì)
+10. Key Error - (jiàn gòu chì)
+
+Note: The translations are in Simplified Chinese characters, which are used in mainland China and Singapore. Traditional Chinese characters could be slightly different.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Keyboard Interrupt - 断 (jiàn jí zhòng duàn)
+2. Lookup Error - 查(zhǎo fín kuò wù)
+3. Memory Error - 内存错(nèi yì kuò wù)
+4. Name Error - 名称错(míng chēng kuò wù)
+5. Not Implemented Error - 未实现错(wèi shí jí kuò wù)
+6. OS Error - 操作系统错(còng zuò xìtong kuò wù)
+7. Overflow Error - 错(hè qū kuò wù)
+8. Reference Error - 引用错(yǐn jīng kuò wù)
+9. Runtime Error - 运行时间错(róng hù shí kuò wù)
+10. Stop Iteration -  (dùi qián dài yì)
+
+Note that some of these translations may not be strictly literal, but they should still convey the general meaning of the term in question.
+ Sure, here are the translations of the given terms into Mandarin:
+
+1. Syntax Error - 语法错(yǔfāng gòu zhì)
+2. Tab Error - 错(kǎwèi gòu zhì)
+3. System Error - 系统错(xìtǒng gòu zhì)
+4. System Exit - 系统 (xìtǒng Zhōngzhì)
+5. Type Error - 数据类型错(shùjú lèxiēng gòu zhì)
+6. Unbound Local Error - 未的本地错(wèibié dìng yīndào gòu zhì)
+7. Unicode Error - 字符编码错(zìfuā biān mǎ gòu zhì)
+8. Unicode Encode Error - 字符编码解(zìfuā biān mǎ jiě jí gòu zhì)
+9. Unicode Decode Error - 字符编码解码错(zìfuā biān mǎ jiě ma gòu zhì)
+10. Unicode Translate Error - 字符编码(zìfuā biān mǎ fāng yì gòu zhì)
+
+Note: The translations are in Simplified Chinese, which is used in mainland China. If you need Traditional Chinese characters, please let me know and I can provide them for you.
+ Sure, here are the translations of the two terms into Mandarin:
+
+Value Error: 值错(zhí shì yuè wù)
+Zero Division Error: 法错(ling chû fǎ yuè wù)

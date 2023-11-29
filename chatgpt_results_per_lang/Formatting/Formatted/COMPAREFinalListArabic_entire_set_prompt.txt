@@ -1,0 +1,222 @@
+absolute value : القيمة المطلقة
+all : الكل
+any : أي
+ascii : أسكي
+binary : ثنائي
+boolean : منطقي
+byte array : مصفوفة بايت
+bytes : بايت
+callable : قابل للاستدعاء
+character : حرف
+class method : الطريقة الصفية
+compile : تجميع
+complex : معقد
+delete attribute : حذف السمة
+dictionary : القاموس
+directory : الدليل
+divide modulus : فصل القسمة
+enumerate : تعداد
+evaluate : تقييم
+execute : تنفيذ
+filter : تصفية
+floating point : نقطة عائمة
+format : تنسيق
+frozen set : مجموعة مجمدة
+get attribute : الحصول على سمة
+globals : عالمي
+has attribute : لديه سمة
+hash : هاش
+help : مساعدة
+hexadecimal : سداسي العشري
+identity : الهوية
+input : الإدخال
+integer : الصحيح
+is instance : هل هو نموذج
+is subclass : هل هو أضافة
+iterator : التكرار
+length : الطول
+list : القائمة
+locals : المحليين
+map : الخريطة
+maximum : الحد الأقصى
+memory view : عرض الذاكرة
+minimum : الحد الأدنى
+next : التالي
+object : كائن
+octal : ثماني
+open : مفتوح
+ordinal : ترتيبي
+power : قوة
+print : طباعة
+property : الخاصية
+range : النطاق
+represent : التمثيل
+reversed : معكوس
+round : الدائرة
+set : المجموعة
+set attribute : ضبط السمة
+slice : القطعة
+sorted : مرتبة
+static method : طريقة ثابتة
+string : سلسلة
+summation : جمع
+superset : سوبر سيت
+tuple : توبل
+type : نوع
+variables : متغيرات
+zip : زيب
+capitalize : تشكيل
+case fold : حالة قاعدة
+center : مركز
+count : عدد
+encode : تشفير
+ends with : ينتهي بـ
+expand tabs : توسيع الألسنة
+find : البحث
+format map : خريطة التنسيق
+index : فهرس
+is alphanumeric : هو أبجدي رقمي
+is alphabetic : هو أبجدي
+is ascii : هو ascii
+is decimal : هو العدد العشري
+is digit : هو رقم
+is identifier : هو معرف
+is lower : هو أصغر
+is numeric : هو رقمي
+is printable : يمكن الطباعة
+is space : هو مساحة
+is title : هو العنوان
+is uppercase : هو أكبر
+join : انضم
+left justify : المحاذاة اليسرى
+lower : الأقل
+left strip : إزالة اليسار
+make translation : إجراء الترجمة
+partition : التقسيم
+replace : استبدال
+reverse find : البحث العكسي
+reverse index : الفهرس العكسي
+right justify : المحاذاة اليمين
+right partition : التقسيم اليمين
+right split : right split => تقسيم إلى اليمين
+right strip : right strip => إزالة اليمين
+split : split => فصل
+split lines : split lines => فصل الأسطر
+starts with : starts with => يبدأ بـ
+strip : strip => إزالة
+swap case : swap case => تبديل الحالة
+title : title => عنوان
+translate : translate => ترجم
+uppercase : uppercase => حروف كبيرة
+zero fill : zero fill => تعبئة صفر
+append : append => إلحاق
+clear : clear => واضح
+copy : copy => نسخ
+extend : extend => امتداد
+insert : insert => إدراج
+pop : pop => طرح
+remove : remove => إزالة
+reverse : reverse => عكس
+sort : sort => نوع
+from keys : from keys => من المفاتيح
+get : get => الحصول على
+items : items => العناصر
+keys : keys => المفاتيح
+pop item : pop item => عنصر البوب
+set default : set default => ضبط الافتراضي
+update : update => تحديث
+values : values => القيم
+add : add => إضافة
+difference : difference => فرق
+difference update : الفرق التحديث
+discard : التجاهل
+intersection : التقاطع
+intersection update : تحديث التقاطع
+is disjoint : هل هو منفصل
+is subset : هل هو جزء
+is superset : هل هو فوق الحد
+symmetric difference : الاختلاف المتماثل
+symmetric difference update : تحديث الاختلاف المتماثل
+union : الاتحاد
+close : إغلاق
+detach : فصل
+file number : رقم الملف
+flush : تأكيد
+is interactive : هو متفاعل
+read : قراءة
+readable : قابل للقراءة
+read line : قراءة السطر
+read lines : قراءة الأسطر
+seek : البحث
+seekable : قابل للبحث
+tell : قل
+truncate : اقتطاع
+writable : قابل للكتابة
+write : كتابة
+write lines : كتابة الأسطر
+and : و
+as : كما
+assert : أكد
+break : كسر
+class : الصف
+continue : الاستمرار
+define : التعريف
+delete : الحذف
+else if : الآخر في حالة
+else : الآخر
+except : باستثناء
+False : خاطئ
+finally : في النهاية
+for : ل
+from : من
+global : عالمي
+if : إذا
+import : استيراد
+in : في
+is : هو
+lambda : لامبدا
+None : لا شيء
+non-local : غير محلي
+not : لا
+or : أو
+pass : تمرير
+raise exception : رفع الاستثناء
+return : إرجاع
+True : صحيح
+try : حاول
+while : بينما
+with : مع
+yield : يولد
+Arithmetic Error : خطأ حسابي
+Assertion Error : خطأ التأكيد
+Attribute Error : خطأ السمة
+Exception : الاستثناء
+End Of File Error : خطأ نهاية الملف
+Floating Point Error : خطأ النقطة العائمة
+Generator Exit : خروج المولد
+Import Error : خطأ الاستيراد
+Indentation Error : خطأ الانحدار
+Index Error : خطأ الفهرس
+Key Error : خطأ المفتاح
+Keyboard Interrupt : التوقف المقطعي
+Lookup Error : خطأ البحث
+Memory Error : خطأ الذاكرة
+Name Error : خطأ الاسم
+Not Implemented Error : خطأ غير متوفر
+OS Error : خطأ نظام التشغيل
+Overflow Error : خطأ الحشو
+Reference Error : خطأ المرجع
+Runtime Error : خطأ التشغيل
+Stop Iteration : إيقاف التكرار
+Syntax Error : نظام التشغيل
+Tab Error : خطأ الحشو
+System Error : خطأ المرجع
+System Exit : خطأ التشغيل
+Type Error : إيقا
+Unbound Local Error : خطأ بناء الجملة
+Unicode Error : خطأ بالجدولة
+Unicode Encode Error : خطأ نظام
+Unicode Decode Error : خروج النظام
+Unicode Translate Error : خطأ نوع
+Value Error : خطأ محلي غير مرتبط
+Zero Division Error : خطأ يونيكود

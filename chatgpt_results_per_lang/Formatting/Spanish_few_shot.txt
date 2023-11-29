@@ -1,0 +1,118 @@
+.
+
+Valor absoluto, todo, cualquier, ASCII, binario, booleano, arreglo de bytes, bytes, llamable, caracter.
+
+
+Class method => Método de clase
+Compile => Compilar
+Complex => Complejo
+Delete attribute => Eliminar atributo
+Dictionary => Diccionario
+Directory => Directorio
+Divide modulus => División módulo
+Enumerate => Enumerar
+Evaluate => Evaluar
+Execute => Ejecutar
+
+
+filter => filtro, floating point => punto flotante, format => formato, frozen set => conjunto congelado, get attribute => obtener atributo, globals => globales, has attribute => tiene atributo, hash => hash, help => ayuda, hexadecimal => hexadecimal.
+, none, object
+
+Identity => Identidad, Input => Entrada, Integer => Entero, Is Instance => Es Instancia, Is Subclass => Es Subclase, Iterator => Iterador, Length => Longitud, List => Lista, Locals => Locales, Map => Mapear, None => Ninguno, Object => Objeto.
+
+
+Maximum => Máximo, Memory View => Vista de la memoria, Minimum => Mínimo, Next => Siguiente, Object => Objeto, Octal => Octal, Open => Abierto, Ordinal => Ordinal, Power => Elevar, Print => Imprimir.
+
+
+Propiedad, rango, representar, invertido, redondear, conjunto, establecer atributo, rebanada, ordenado, método estático
+
+
+String => Cadena, Summation => Sumatoria, Superset => Superconjunto, Tuple => Tupla, Type => Tipo, Variables => Variables, Zip => Comprimir, Capitalize => Capitalizar, Case Fold => Doblar el Caso, Center => Centrar.
+
+
+count => contar, encode => codificar, ends with => termina con, expand tabs => expandir tabulaciones, find => encontrar, format map => mapeo de formato, index => índice, is alphanumeric => es alfanumérico, is alphabetic => es alfabético, is ascii => es ascii
+.
+
+is decimal => es decimal, is digit => es dígito, is identifier => es identificador, is lower => es minúscula, is numeric => es numérico, is printable => es imprimible, is space => es espacio, is title => es título, is uppercase => es mayúscula, join => unir.
+, upper.
+
+left justify => justificar a la izquierda, lower => minúsculas, left strip => recortar a la izquierda, make translation => hacer traducción, partition => partición, replace => reemplazar, reverse find => buscar inverso, reverse index => índice inverso, right justify => justificar a la derecha, right partition => partición a la derecha, upper => mayúsculas.
+
+
+right split => dividir a la derecha, right strip => recortar a la derecha, split => dividir, split lines => dividir líneas, starts with => comienza con, strip => recortar, swap case => intercambiar mayúsculas y minúsculas, title => título, translate => traducir, uppercase => mayúsculas.
+.
+
+Zero fill => Relleno de ceros, Append => Añadir, Clear => Limpiar, Copy => Copiar, Extend => Extender, Insert => Insertar, Pop => Extraer, Remove => Quitar, Reverse => Invertir, Sort => Ordenar.
+
+
+From keys => De claves
+Get => Obtener
+Items => Elementos
+Keys => Claves
+Pop item => Elemento de extracción
+Set default => Establecer por defecto
+Update => Actualizar
+Values => Valores
+Add => Añadir
+Difference => Diferencia
+.
+
+Difference update => Actualización de la diferencia, Discard => Descartar, Intersección => Intersección, Intersection update => Actualización de la intersección, Is disjoint => Está separado, Is subset => Es subconjunto, Is superset => Es superconjunto, Symmetric difference => Diferencia simétrica, Symmetric difference update => Actualización de la diferencia simétrica, Union => Unión.
+, truncate
+
+close => cerrar
+detach => desconectar
+file number => número de archivo
+flush => vaciar
+is interactive => es interactivo
+read => leer
+readable => legible
+read line => leer línea
+read lines => leer líneas
+seek => buscar
+truncate => truncado
+.
+
+seekable => buscable, tell => decir, truncate => truncar, writable => escribible, write => escribir, write lines => escribir líneas, and => y, as => como, assert => afirmar, break => romper.
+.
+
+Clase, continuar, definir, eliminar, sino si, sino, excepto, Falso, finalmente, para.
+, or, pass, raise.
+
+From - desde
+Global - global
+If - si
+Import - importar
+In - en
+Is - es
+Lambda - lambda
+None - ninguno
+Non-local - no local
+Not - no
+Or - o
+Pass - pasar
+Raise - levantar
+
+
+Or => o
+Pass => pasar
+Raise exception => levantar excepción
+Return => devolver
+True => verdadero
+Try => intentar
+While => mientras
+With => con
+Yield => rendimiento
+Arithmetic Error => Error aritmético
+.
+
+Assertion Error => Error de afirmación, Attribute Error => Error de atributo, Exception => Excepción, End Of File Error => Error de fin de archivo, Floating Point Error => Error de punto flotante, Generator Exit => Salida del generador, Import Error => Error de importación, Indentation Error => Error de sangría, Index Error => Error de índice, Key Error => Error de clave.
+.
+
+Keyboard Interrupt => Interrupción desde el teclado, Lookup Error => Error de búsqueda, Memory Error => Error de memoria, Name Error => Error de nombre, Not Implemented Error => Error no implementado, OS Error => Error del sistema operativo, Overflow Error => Error de desbordamiento, Reference Error => Error de referencia, Runtime Error => Error en tiempo de ejecución, Stop Iteration => Detener iteración.
+
+
+Error de sintaxis, Error de tabulación, Error del sistema, Salida del sistema, Error de tipo, Error local no vinculado, Error Unicode, Error de codificación Unicode, Error de decodificación Unicode, Error de traducción Unicode.
+, Name Error
+
+Value Error => Error de valor, Zero Division Error => Error de división por cero

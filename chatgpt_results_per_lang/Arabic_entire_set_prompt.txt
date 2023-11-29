@@ -1,0 +1,366 @@
+, class method, compile, complex, delete attribute, dictionary, directory, divide modulus, enumerate, evaluate, execute, filter, floating point, format, frozen set, get attribute, globals, has attribute, hash, help, hexadecimal, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+القيمة المطلقة، الكل، أي، أسكي، ثنائي، منطقي، مصفوفة بايت، بايت، قابل للاستدعاء، حرف، طريقة الصنف، تحويل، معقد، حذف السمة، القاموس، الدليل، علامة القسمة، تعداد، تقييم، تنفيذ، تصفية، نقطة عائمة، الشكل، مجموعة مجمدة، الحصول على سمة، العالمي، لديه سمة، الهاش، المساعدة، السداسي، الهوية، الإدخال، عدد صحيح، هو نموذج، هو فئة فرعية، المطالب، الطول، القائمة، المحلي، الخريطة، الحد الأقصى، عرض الذاكرة، الحد الأدنى، ال
+, filter, floating point, format, frozen set, get attribute, globals, has attribute, hash, help, hexadecimal, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip
+
+الطريقة الصفية، تجميع، معقد، حذف السمة، القاموس، الدليل، فصل القسمة، تعداد، تقييم، تنفيذ، الفلتر، نقطة الطفو، الصيغة، مجموعة ثابتة، الحصول على السمة، العالمي، لديه السمة، الهاش، المساعدة، السداسية العشرية، الهوية، الإدخال، الصحيح، هو المثال، هو الفئة الفرعية، المكرر، الطول، القائمة، المحليين، الخريطة، الأقصى، عرض الذاكرة، الأدنى، التالي، الكائن، الثمانية، مفتوح، الترتيبي، السلطة، طباعة، الخاصية، النطاق، وتمثل، المعكوسة، الدائرة، المجموعة، وضع السمة، الشريحة، المرتبة، الطريقة الثابتة، السلسلة، الجمع، المجموعة الأكبر، الثوب، النوع، المتغيرات، المشكلة.
+, identity, input, integer, is instance, is subclass, iterator, length, list, locals, map, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Filter => تصفية
+Floating Point => نقطة عائمة
+Format => تنسيق
+Frozen Set => مجموعة مجمدة
+Get Attribute => الحصول على سمة
+Globals => عالمي
+Has Attribute => لديه سمة
+Hash => هاش
+Help => مساعدة
+Hexadecimal => سداسي العشري
+Identity => الهوية
+Input => الإدخال
+Integer => عدد صحيح
+Is Instance => هو نموذج
+Is Subclass => هو فئة فرعية
+Iterator => متكرر
+Length => طول
+List => قائمة
+Locals => المحليين
+Map => خريطة
+Maximum => أقصى
+Memory View => عرض الذاكرة
+Minimum => الحد الأدنى
+Next => التالي
+Object => كائن
+Octal => ثماني
+Open => مفتوح
+Ordinal => الترتيب
+Power => السلطة
+Print => طباعة
+Property => خاصية
+Range => نطاق
+Represent => يمثل
+Reversed => عكس
+Round => دائرة
+Set => مجموعة
+Set Attribute => ضبط السمة
+Slice => شريحة
+Sorted => مرتب
+Static Method => طريقة ثابتة
+String => سلسلة
+Summation => الجمع
+Superset => المجموعة الأكبر
+
+, maximum, memory view, minimum, next, object, octal, open, ordinal, power, print, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+الهوية, الإدخال, الصحيح, هل هو نموذج، هل هو أضافة، التكرار، الطول، القائمة، المحليين، الخريطة، الحد الأقصى، عرض الذاكرة، الحد الأدنى، التالي، الكائن، الثماني، المفتوح، الترتيبي، القوة، الطباعة، الخاصية، النطاق، التمثيل، المعكوس، الدورة، المجموعة، تعيين السمة، الشريحة، المرتب، الطريقة الثابتة، السلسلة، المجموع، المجموع الأكبر، الجمع، النوع، المتغيرات، الحزام المشدود، التشخيص، التحليل الحالي، الأبجدي الأرقامي، الأبجدي، الآسكي، العشري، الأرقام، المعرف، المنخفضة، الرقمية، القابلة للطباعة، الفضاء، العنوان، الكبيرة
+, property, range, represent, reversed, round, set, set attribute, slice, sorted, static method, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+maximum => الحد الأقصى
+memory view => عرض الذاكرة
+minimum => الحد الأدنى
+next => التالي
+object => كائن
+octal => ثماني
+open => مفتوح
+ordinal => ترتيبي
+power => قوة
+print => طباعة
+property => خاصية
+range => نطاق
+represent => تمثيل
+reversed => معكوس
+round => الدورة
+set => حزمة
+set attribute => تعيين السمة
+slice => لفة
+sorted => مرتب
+static method => طريقة ثابتة
+string => سلسلة
+summation => مجموع
+superset => مجموعة فرعية
+tuple => توبل
+type => نوع
+variables => متغيرات
+zip => الضغط
+capitalize => تحويل إلى حروف كبيرة
+case fold => حالة الطي
+center => المركز
+count => عدد
+encode => ترميز
+ends with => ينتهي ب
+expand tabs => امتداد الأرشادات
+find => البحث
+format map => خريطة التنسيق
+index => فهرس
+is alphanumeric => هو ألفا-رقمي
+is alphabetic => هو أبجدي
+is ascii => هو ASCII
+is decimal => هو عشري
+is digit => هو رقم
+is identifier => هو معرف
+is lower => هو أصغر
+is numeric => هو رقمي
+is printable => هو قاب
+, string, summation, superset, tuple, type, variables, zip, capitalize, case fold, center, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+Property => الخاصية 
+Range => النطاق 
+Represent => التمثيل 
+Reversed => معكوس 
+Round => الدائرة 
+Set => المجموعة 
+Set Attribute => ضبط السمة 
+Slice => القطعة 
+Sorted => مرتبة 
+Static Method => طريقة ثابتة 
+String => السلسلة 
+Summation => الجمع 
+Superset => المجموعة الكبيرة 
+Tuple => الزوج 
+Type => النوع 
+Variables => المتغيرات 
+Zip => الضغط 
+Capitalize => التحويل إلى حروف كبيرة 
+Case Fold => تصغير الحالة 
+Center => الوسط 
+Count => العد 
+Encode => الترميز 
+Ends With => ينتهي بـ 
+Expand Tabs => امتداد الأطباق 
+Find => البحث 
+Format Map => خريطة التنسيق 
+Index => الفهرس 
+Is Alphanumeric => هو ألفا رقمي 
+Is Alphabetic => هو ألفبي 
+Is Ascii => هو أسكي 
+Is Decimal => هو عشري 
+Is Digit => هو رقمي 
+Is Identifier => هو معرف 
+Is Lower => هو أصغر 
+Is Numeric => هو رقمي 
+Is Printable => هو قابل للطباعة 
+Is Space => هو مساحة 
+Is Title => هو عنوان 
+Is Uppercase => هو أكبر 
+Join => الانضمام 
+Left Justify
+, count, encode, ends with, expand tabs, find, format map, index, is alphanumeric, is alphabetic, is ascii, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+سلسلة، جمع، سوبر سيت، توبل، نوع، متغيرات، زيب، تشكيل، حالة قاعدة، مركز، عد، ترميز، ينتهي مع، توسيع الأزرار، البحث، خريطة التنسيق، فهرس، هو الألفانومريكي، هو الأبجدي، هو أسكي، هو العشري، هو الأرقام، هو المعرف، هو أقل، هو العددي، هو قابل للطباعة، هو الفضاء، هو العنوان، هو الكبير، الانضمام، التبليغ اليسار، أقل، شريط اليسار، جعل الترجمة، الجزء، استبدال، عكس البحث، فهرس العكسي، التبليغ اليمين، الجزء اليمين، فصل اليمين، شريط اليمين، فصل، فصل الأسطر، يبدأ مع، مشط، تبديل الحالة، العنوان، ترجمة، الكبير، ملء صفر، إلحاق، واضح، نسخ، تمديد، إدراج، عش،
+, is decimal, is digit, is identifier, is lower, is numeric, is printable, is space, is title, is uppercase, join, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+count => عدد
+encode => تشفير
+ends with => ينتهي بـ
+expand tabs => توسيع الألسنة
+find => البحث
+format map => خريطة التنسيق
+index => فهرس
+is alphanumeric => هو أبجدي رقمي
+is alphabetic => هو أبجدي
+is ascii => هو ASCII
+is decimal => هو عشري
+is digit => هو رقم
+is identifier => هو معرف
+is lower => هو أصغر
+is numeric => هو رقمي
+is printable => هو قابل للطباعة
+is space => هو فراغ
+is title => هو العنوان
+is uppercase => هو كبير
+join => الانضمام
+left justify => المحاذاة إلى اليسار
+lower => أقل
+left strip => إزالة اليسار
+make translation => إجراء الترجمة
+partition => التقسيم
+replace => استبدال
+reverse find => البحث العكسي
+reverse index => الفهرس العكسي
+right justify => المحاذاة إلى اليمين
+right partition => التقسيم الأيمن
+right split => الفصل الأيمن
+right strip => إزالة اليمين
+split => فصل
+split lines => فصل الأسطر
+starts with => يبدأ بـ
+strip => إزالة
+swap case => تبديل الحالة
+title => العنوان
+translate => ترجمة
+uppercase => كبير
+zero fill => ملء الصفر
+append => إلحاق
+clear => واضح
+copy => نسخ
+extend => تمديد
+insert => إدراج
+pop => طرح
+remove => إزال
+, left justify, lower, left strip, make translation, partition, replace, reverse find, reverse index, right justify, right partition, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error.
+
+is decimal => هو العدد العشري
+is digit => هو رقم
+is identifier => هو معرف
+is lower => هو أصغر
+is numeric => هو رقمي
+is printable => يمكن الطباعة
+is space => هو مساحة
+is title => هو العنوان
+is uppercase => هو أكبر
+join => انضم
+left justify => تبرير اليسار
+lower => أصغر
+left strip => يزيل اليسار
+make translation => تحويل
+partition => تقسيم
+replace => استبدال
+reverse find => العثور على العكس
+reverse index => فهرس العكس
+right justify => تبرير اليمين
+right partition => التقسيم الأيمن
+right split => يقسم الأيمن
+right strip => يزيل الأيمن
+split => يقسم
+split lines => يقسم الأسطر
+starts with => يبدأ بـ
+strip => يزيل
+swap case => تبديل الحالة
+title => العنوان
+translate => الترجمة
+uppercase => أكبر
+zero fill => ملء الصفر
+append => يضيف
+clear => واضح
+copy => نسخ
+extend => يمد
+insert => إدراج
+pop => البوب
+remove => يزيل
+reverse => العكس
+sort => نوع
+from keys => من المفاتيح
+get => الحصول على
+items => العناصر
+keys => المفاتيح
+pop item => العنصر البوب
+set default => تعيين الافتراضي
+update => تحديث
+values => القيم
+add => إضافة
+difference => فرق
+difference update => تحديث الفرق
+discard => تجاهل
+intersection => تقاطع
+intersection
+, right split, right strip, split, split lines, starts with, strip, swap case, title, translate, uppercase, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield
+
+المحاذاة اليسرى، الأقل، إزالة اليسار، إجراء الترجمة، التقسيم، استبدال، البحث العكسي، الفهرس العكسي، المحاذاة اليمين، التقسيم اليمين، التقسيم اليمين، إزالة اليمين، فصل، فصل الأسطر، يبدأ مع، يزيل، يبدل الحالة، العنوان، يترجم، الأحرف الكبيرة، ملء الصفر، إلحاق، واضح، نسخ، امتد، إدراج، ينتزع، يزيل، يعكس، يرتب، من المفاتيح، يحصل، العناصر، المفاتيح، ينتزع العنصر، تعيين الافتراضي، تحديث، القيم، إضافة، الاختلاف، تحديث الاختلاف، تجاهل، التداخل، تحديث التداخل، هل هو منفصل، هل هو مجموعة فرعية، هل هو مجموعة فرعية، الاختلاف المتماثل، تحديث الاختلاف المتماثل، الاتحاد، اغلاق، ينزع، رقم الملف، ينفض، هل هو متفاعل، قراءة، قابل للقراءة، قراءة السطر، قراءة الأسطر، البحث، قابل للبحث، يخبر، يقطع، قابل للكتابة، كتابة، كتابة الأسطر، و، ك، يؤكد، يكسر، الطبقة
+, zero fill, append, clear, copy, extend, insert, pop, remove, reverse, sort, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error.
+
+right split => تقسيم إلى اليمين, right strip => إزالة اليمين, split => فصل, split lines => فصل الأسطر, starts with => يبدأ بـ, strip => إزالة, swap case => تبديل الحالة, title => عنوان, translate => ترجم, uppercase => حروف كبيرة, zero fill => ملء صفر, append => إلحاق, clear => واضح, copy => نسخ, extend => توسيع, insert => إدراج, pop => عشوائي, remove => إزالة, reverse => عكس, sort => فرز, from keys => من المفاتيح, get => الحصول على, items => عناصر, keys => مفاتيح, pop item => عنصر عشوائي, set default => ضبط الافتراضي, update => تحديث, values => قيم, add => إضافة, difference => فرق, difference update => تحديث الاختلاف, discard => تجاهل, intersection => تقاطع, intersection update => تحديث التقاطع, is disjoint => منفصل, is subset => قسمة, is superset => كلّ, symmetric difference => فرق متماثل, symmetric difference update => تحديث الاختلاف المتماثل, union => اتحاد, close => إغلاق, detach => فصل, file number => رقم الملف, flush => تركيز, is interactive => متفاعل, read => قراءة, readable => قابل للقراءة, read line => قراءة السطر, read lines => قراءة الأسطر, seek => بحث, seekable => قابل للبحث, tell => قول, truncate => تقصير, writable => قابل للكتابة, write => كتابة, write lines => كتابة الأسطر, and => و, as => ك،, assert
+, from keys, get, items, keys, pop item, set default, update, values, add, difference, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error.
+
+zero fill => تعبئة صفر, append => إلحاق, clear => واضح, copy => نسخ, extend => امتداد, insert => إدراج, pop => طرح, remove => إزالة, reverse => عكس, sort => نوع, from keys => من المفاتيح, get => الحصول على, items => بنود, keys => مفاتيح, pop item => عنصر طرح, set default => تعيين افتراضي, update => تحديث, values => القيم, add => إضافة, difference => فرق, difference update => تحديث الفرق, discard => تجاهل, intersection => تقاطع, intersection update => تحديث التقاطع, is disjoint => هو منفصل, is subset => هو مجموعة فرعية, is superset => هو مجموعة رئيسية, symmetric difference => فرق متماثل, symmetric difference update => تحديث الفرق المتماثل, union => اتحاد, close => إغلاق, detach => فصل, file number => رقم الملف, flush => تفريغ, is interactive => هو تفاعلي, read => قراءة, readable => قابل للقراءة, read line => قراءة السطر, read lines => قراءة الأسطر, seek => البحث, seekable => قابل للبحث, tell => قول, truncate => قص, writable => قابل للكتابة, write => كتابة, write lines => كتابة الأسطر, and => و, as => كما, assert => تأكيد, break => كسر, class => صف, continue => مواصلة, define => تعريف, delete => حذف, else if => وإلا إذا, else => وإلا, except => باستثناء, False => خاطئ, finally => أخيرا, for => ل, from => من, global => عالمي, if => إذا, import
+, difference update, discard, intersection, intersection update, is disjoint, is subset, is superset, symmetric difference, symmetric difference update, union, close, detach, file number, flush, is interactive, read, readable, read line, read lines, seek, seekable, tell, truncate, writable, write, write lines, and, as, assert, break, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+From keys => من المفاتيح, Get => الحصول على, Items => العناصر, Keys => المفاتيح, Pop item => عنصر البوب, Set default => ضبط الافتراضي, Update => تحديث, Values => القيم, Add => إضافة, Difference => فرق, Difference update => تحديث الفرق, Discard => التجاهل, Intersection => التقاطع, Intersection update => تحديث التقاطع, Is disjoint => هل هو منفصل؟, Is subset => هل هو مجموعة فرعية؟, Is superset => هل هو مجموعة فرعية؟, Symmetric difference => الفرق المتماثل, Symmetric difference update => تحديث الفرق المتماثل, Union => الاتحاد, Close => إغلاق, Detach => فصل, File number => رقم الملف, Flush => تصفير, Is interactive => هو متفاعل؟, Read => قراءة, Readable => قابل للقراءة, Read line => قراءة السطر, Read lines => قراءة الأسطر, Seek => البحث, Seekable => قابل للبحث, Tell => قول, Truncate => الاقتطاع, Writable => قابل للكتابة, Write => كتابة, Write lines => كتابة الأسطر, And => و, As => كما, Assert => يؤكد, Break => كسر, Class => فئة, Continue => الاستمرار, Define => تعريف, Delete => حذف, Else if => وإلا لو, Else => وإلا, Except => إلا, False => خاطئ, Finally => وأخيرا, For => ل, From => من, Global => عالمي, If => إذا, Import => استيراد, In => في, Is => هو, Lambda => لامبدا, None => لا شيء, Non-local => غير محلي, Not => ليس, Or => أو, Pass => كلمة مرور, Raise exception => رفع
+.
+
+الفرق التحديث، التجاهل، التقاطع، تحديث التقاطع، هل هو منفصل، هل هو جزء، هل هو فوق الحد، الاختلاف المتماثل، تحديث الاختلاف المتماثل، الاتحاد
+, seekable, tell, truncate, writable, write, write lines.
+
+إغلاق، فصل، رقم الملف، تأكيد، هو متفاعل، قراءة، قابل للقراءة، قراءة السطر، قراءة الأسطر، البحث، قابل للبحث، أخبر، تقطيع، قابل للكتابة، كتابة، كتابة الأسطر
+, class, continue, define, delete, else if, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+seekable => قابل للبحث
+tell => قل
+truncate => اقتطاع
+writable => قابل للكتابة
+write => كتابة
+write lines => كتابة الأسطر
+and => و
+as => كما
+assert => أكد
+break => كسر
+class => فئة
+continue => مواصلة
+define => تعريف
+delete => حذف
+else if => وإلا إذا
+else => وإلا
+except => باستثناء
+False => خاطئ
+finally => أخيرا
+for => ل
+from => من
+global => عالمي
+if => اذا
+import => استيراد
+in => في
+is => هو
+lambda => لامبدا
+None => لا شيء
+non-local => غير محلي
+not => ليس
+or => أو
+pass => تمرير
+raise exception => رفع استثناء
+return => عودة
+True => صحيح
+try => حاول
+while => بينما
+with => مع
+yield => توليد
+Arithmetic Error => خطأ حسابي
+Assertion Error => خطأ التأكيد
+Attribute Error => خطأ السمة
+Exception => استثناء
+End Of File Error => خطأ نهاية الملف
+Floating Point Error => خطأ نقطة عائمة
+Generator Exit => خروج المولد
+Import Error => خطأ استيراد
+Indentation Error => خطأ التدوير
+Index Error => خطأ الفهرس
+Key Error => خطأ المفتاح
+Keyboard Interrupt => مقاطعة المفاتيح
+Lookup Error => خطأ البحث
+Memory Error => خطأ الذاكرة
+Name Error => خطأ الاسم
+Not Implemented Error => خطأ غير مطبق
+OS Error => خطأ النظام
+Overflow Error => خطأ التجاوز
+Reference Error => خطأ المرجع
+Runtime Error => خطأ الوقت الحر
+Stop Iteration => إيقاف التكرار
+Syntax Error => خطأ البناء
+Tab Error => خطأ التبويب
+System Error => خطأ النظام
+System Exit => خروج النظام
+Type Error => خطأ النوع
+Unbound Local Error => خ
+, from, global, if, import, in, is, lambda, None, non-local, not, or, pass, raise exception, return, True, try, while, with, yield, Arithmetic Error, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+الصف، الاستمرار، التعريف، الحذف، الآخر في حالة، الآخر، باستثناء، خاطئ، في النهاية، ل، من، عالمي، إذا، استيراد، في، هو، لامبدا، لا شيء، غير محلي، لا، أو، يمر، يرفع استثناء، العودة، صحيح، حاول، بينما، مع، يسلط، خطأ حسابي، خطأ التأكيد، خطأ السمة، استثناء، خطأ نهاية الملف، خطأ النقطة العائمة، خروج المولد، خطأ الاستيراد، خطأ الترابط، خطأ الفهرس، خطأ المفتاح، مقاطعة المفتاح، خطأ البحث، خطأ الذاكرة، خطأ الاسم، غير متوفر، خطأ النظام، خطأ التجاوز، خطأ المرجع، خطأ التشغيل، وقف التكرار، خطأ النحو، خطأ التبويب، خطأ النظام، خروج النظام، خطأ النوع، خطأ المحلي غير المرتبط، خطأ يونيكود، خطأ ترميز يونيكود، خطأ فك ترميز يونيكود، خطأ ترجمة يونيكود، خطأ القيمة، خطأ تقسيم الصفر.
+, or, pass, raise exception, return, True, try, while, with, yield
+
+من، عالمي، إذا، استيراد، في، هو، لامبدا، لا شيء، غير محلي، لا، أو، تمرير، رفع استثناء، إرجاع، صحيح، حاول، بينما، مع، يستحق،
+, Assertion Error, Attribute Error, Exception, End Of File Error, Floating Point Error, Generator Exit, Import Error, Indentation Error, Index Error, Key Error, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+أو، تمرير، رفع الاستثناء، إرجاع، صحيح، حاول، بينما، مع، يولد، خطأ حسابي، خطأ التأكيد، خطأ السمة، استثناء، خطأ نهاية الملف، خطأ نقطة عائمة، خروج المولد، خطأ الاستيراد، خطأ التداخل، خطأ الفهرس، خطأ المفتاح، مقاطعة المفاتيح، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير مطبق، خطأ النظام الأساسي، خطأ الحشو، خطأ الإشارة، خطأ التشغيل، إيقاف التكرار، خطأ النحو، خطأ الحاشية، خطأ النظام، خروج النظام، نوع الخطأ، خطأ محلي غير مرتبط، خطأ اليونيكود، خطأ ترميز اليونيكود، خطأ فك ترميز اليونيكود، خطأ ترجمة اليونيكود، خطأ القيمة، خطأ القسمة على صفر.
+, Keyboard Interrupt, Lookup Error, Memory Error, Name Error, Not Implemented Error, OS Error, Overflow Error, Reference Error, Runtime Error, Stop Iteration, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+خطأ التأكيد، خطأ السمة، الاستثناء، خطأ نهاية الملف، خطأ النقطة العائمة، خروج المولد، خطأ الاستيراد، خطأ الانحدار، خطأ الفهرس، خطأ المفتاح، مقاطعة لوحة المفاتيح، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير منفذ، خطأ نظام التشغيل، خطأ الطموح، خطأ المرجع، خطأ التشغيل، إيقاف التكرار، خطأ البناء، خطأ الحاشية، خطأ النظام، خروج النظام، نوع الخطأ، خطأ المحلي غير المرتبط، خطأ اليونيكود، خطأ كودينغ اليونيكود، خطأ فك الترميز اليونيكود، خطأ ترجمة اليونيكود، خطأ القيمة، خطأ القسمة الصفرية.
+, Syntax Error, Tab Error, System Error, System Exit, Type Error, Unbound Local Error, Unicode Error, Unicode Encode Error, Unicode Decode Error, Unicode Translate Error, Value Error, Zero Division Error
+
+القطع المفاتيح: التوقف المقطعي، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير متوفر، خطأ نظام التشغيل، خطأ الحشو، خطأ المرجع، خطأ التشغيل، إيقاف التكرار، خطأ نحوي، خطأ الجدول الزمني، خطأ النظام، خروج النظام، خطأ النوع، خطأ المحلي غير المرتبط، خطأ اليونيكود، خطأ ترميز اليونيكود، خطأ فك ترميز اليونيكود، خطأ ترجمة اليونيكود، خطأ القيمة، خطأ القسمة الصفرية.
+
+القطع المفاتيح: التوقف المقطعي، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير متوفر، خطأ نظام التشغيل، خطأ الحشو، خطأ المرجع، خطأ التشغيل، إيقاف التكرار، خطأ نحوي، خطأ الجدول الزمني، خطأ النظام، خروج النظام، خطأ النوع، خطأ المحلي غير المرتبط، خطأ اليونيكود، خطأ ترميز اليونيكود، خطأ فك ترميز اليونيكود، خطأ ترجمة اليونيكود، خطأ القيمة، خطأ القسمة الصفرية.
+
+القطع المفاتيح: التوقف المقطعي، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير متوفر، خطأ نظام التشغيل، خطأ الحشو، خطأ المرجع، خطأ التشغيل، إيقا
+, Value Error, Zero Division Error
+
+خطأ بناء الجملة، خطأ بالجدولة، خطأ نظام، خروج النظام، خطأ نوع، خطأ محلي غير مرتبط، خطأ يونيكود، خطأ ترميز يونيكود، خطأ فك ترميز يونيكود، خطأ ترجمة يونيكود، خطأ قيمة، خطأ تقسيم صفر
+
+
+خطأ قيمة، خطأ تقسيم صفر

@@ -1,0 +1,222 @@
+valeur absolue
+tous
+quelconque
+ascii
+binaire
+booléen
+tableau d'octets
+octets
+appelable
+personnage
+méthode de classe
+compiler
+complexe
+supprimer l'attribut
+dictionnaire
+annuaire
+module de division
+énumérer
+évaluer
+exécuter
+filtre
+point flottant
+format
+ensemble congelé
+obtenir l'attribut
+globales
+a un attribut
+hacher
+aider
+hexadécimal
+identité
+contribution
+entier
+est un exemple
+est une sous-classe
+itérateur
+longueur
+liste
+des locaux
+carte
+maximum
+mémoire visuelle
+le minimum
+suivant
+chose
+octal
+ouvrir
+ordinal
+Puissance
+imprimer
+biens
+Portée
+représenter
+renversé
+rond
+Positionner
+définir l'attribut
+tranche
+trié
+méthode statique
+chaîne
+addition
+sur-ensemble
+
+taper
+variables
+Zip *: français
+capitaliser
+cas pli
+centre
+compter
+encoder
+se termine par
+développer les onglets
+trouver
+formater la carte
+indice
+est alphanumérique
+est alphabétique
+est ASCII
+est décimal
+est un chiffre
+est un identifiant
+est plus bas
+est numérique
+est imprimable
+est l'espace
+est le titre
+est en majuscule
+rejoindre
+justifier à gauche
+plus bas
+bande gauche
+faire la traduction
+cloison
+remplacer
+recherche inversée
+index inversé
+justifier à droite
+cloison droite
+fractionnement à droite
+bande droite
+diviser
+lignes fractionnées
+commence avec
+déshabiller
+cas d'échange
+Titre
+Traduire
+majuscule
+zéro remplissage
+ajouter
+dégager
+copie
+se déployer
+insérer
+populaire
+éliminer
+inverser
+trier
+des clés
+obtenir
+éléments
+clés
+objet pop
+définir par defaut
+mettre à jour
+valeurs
+ajouter
+différence
+mise à jour de la différence
+Jeter
+intersection
+mise à jour de l'intersection
+est disjoint
+est un sous-ensemble
+est un sur-ensemble
+différence symétrique
+mise à jour de la différence symétrique
+syndicat
+Fermer
+détacher
+numéro de dossier
+affleurer
+est interactif
+lire
+lisible
+lire la ligne
+lire des lignes
+chercher
+recherchable
+raconter
+tronquer
+inscriptible
+écrivez
+écrire des lignes
+et
+comme
+affirmer
+Pause
+classer
+Continuez
+définir
+effacer
+sinon si
+autre
+sauf
+Faux
+finalement
+pour
+à partir de
+global
+si
+importer
+dans
+est
+lambda
+Aucun
+non local
+ne pas
+ou alors
+passer
+lever une exception
+revenir
+Vrai
+essayer
+tandis que
+avec
+rendement
+Erreur arithmétique
+Erreur d'assertion
+Erreur d'attribut
+Exception
+Erreur de fin de fichier
+Erreur en virgule flottante
+Sortie du générateur
+Erreur d'importation
+Erreur d'indentation
+Erreur d'index
+Erreur de clé
+Interruption clavier
+Erreur de recherche
+Erreur de mémoire
+Erreur de nom
+Erreur non implémentée
+Erreur du système d'exploitation
+Erreur de débordement
+Erreur de référence
+Erreur d'exécution
+Arrêter l'itération
+Erreur de syntaxe
+Erreur d'onglet
+Erreur système
+Sortie du système
+Erreur-type
+Erreur locale non liée
+Erreur Unicode
+Erreur d'encodage Unicode
+Erreur de décodage Unicode
+Erreur de traduction Unicode
+Erreur de valeur
+Erreur de division zéro

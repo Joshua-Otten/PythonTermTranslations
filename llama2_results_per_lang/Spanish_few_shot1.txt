@@ -1,0 +1,274 @@
+1. Absolute value - Valor absoluto
+2. All - Todos
+3. Any - Alguno
+4. ASCII - ASCII
+5. Binary - Binario
+6. Boolean - Booleano
+7. Byte array - Arreglo de bytes
+8. Bytes -Bytes
+9. Callable - Llamable
+10. Character - Carácter
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Class method - Método de clase
+2. Compile - Compilar
+3. Complex - Complejo
+4. Delete attribute - Eliminar atributo
+5. Dictionary - Diccionario
+6. Directory - Directorio
+7. Divide modulus - Dividir módulo
+8. Enumerate - Enumerar
+9. Evaluate - Evaluar
+10. Execute - Ejecutar
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Filter - Filtro
+2. Floating Point - Punto flotante
+3. Format - Formato
+4. Frozen Set - Conjunto congelado
+5. Get Attribute - Atributo get
+6. Globals - Variables globales
+7. Has Attribute - Tiene atributo
+8. Hash - Código de verificación (o "hash")
+9. Help - Ayuda
+10. Hexadecimal - Sistema numérico hexadecimal
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Identity - Identidad
+2. Input - Entrada
+3. Integer - Entero
+4. Is instance - Es instancia
+5. Is subclass - Es una clase derivada
+6. Iterator - Iterador
+7. Length - Longitud
+8. List - Lista
+9. Locals - Variables locales
+10. Map - Mapa
+ Sure, I'd be happy to help! Here are the translations of the given terms into Spanish:
+
+1. Maximum - Máximo
+2. Memory View - Vista de memoria
+3. Minimum - Mínimo
+4. Next - Siguiente
+5. Object - Objeto
+6. Octal - Octal
+7. Open - Abierto
+8. Ordinal - Ordenal
+9. Power - Poder
+10. Print - Imprimir
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Property - Propiedad
+2. Range - Rango
+3. Represent - Representar
+4. Reversed - Invertido
+5. Round - Redondeado
+6. Set - Conjunto
+7. Set attribute - Atributo de conjunto
+8. Slice - Trozo
+9. Sorted - Ordenado
+10. Static method - Método estático
+ Sure, I'd be happy to help! Here are the translations of the given terms into Spanish:
+
+1. String - Cadena
+2. Summation - Suma
+3. Superset - Conjunto superset
+4. Tuple - Tupla
+5. Type - Tipo
+6. Variables - Variables
+7. Zip - Archivar
+8. Capitalize - Capitalizar
+9. Case fold - Minúsculas
+10. Center - Centrar
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Count - Contar
+2. Encode - Codificar
+3. Ends with - Termina con
+4. Expand tabs -Expandir pestañas
+5. Find - Encontrar
+6. Format map - Mapa de formato
+7. Index - Índice
+8. Is alphanumeric - Es alfanumérico
+9. Is alphabetic - Es alfabético
+10. Is ASCII - Es ASCII
+ Sure, here are the translations of the given terms into Spanish:
+
+* "is decimal" = es decimal
+* "is digit" = es dígito
+* "is identifier" = es identificador
+* "is lower" = es inferior
+* "is numeric" = es numérico
+* "is printable" = es imprimible
+* "is space" = es espacio
+* "is title" = es título
+* "is uppercase" = es mayúsculo
+* "join" = unir
+ Sure, I'd be happy to help you with that! Here are the translations of the terms you provided:
+
+* Left justify: Justificar izquierda (This term refers to aligning text to the left margin.)
+* Lower: Mas bajo (This term refers to moving something down or to a lower position.)
+* Left strip: Desgaste izquierdo (This term refers to removing unnecessary characters from the left side of a string.)
+* Make translation: Traducción (This term refers to the process of converting text from one language to another.)
+* Partition: Partición (This term refers to dividing a large piece of data into smaller, more manageable parts.)
+* Replace: Reemplazar (This term refers to substituting one thing for another.)
+* Reverse find: Encontrar en reversa (This term refers to finding a specific element or pattern within a sequence of characters by starting at the end and working backwards.)
+* Reverse index: Índice inverso (This term refers to an index that lists the locations of specific elements or patterns within a sequence of characters, with the locations listed in reverse order.)
+* Right justify: Justificar derecha (This term refers to aligning text to the right margin.)
+* Right partition: Partición derecha (This term refers to dividing a large piece of data into smaller, more manageable parts, with the division happening on the right-hand side.)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, I'd be happy to help you with that! Here are the translations of the terms you provided:
+
+* Right split: "división derecha"
+* Right strip: "franja derecha"
+* Split: "dividir"
+* Split lines: "líneas divididas"
+* Starts with: "comienza con"
+* Strip: "franja"
+* Swap case: "cambiar caso"
+* Title: "título"
+* Translate: "traducir"
+* Uppercase: "mayúscula"
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Zero fill: relleno cero (or "rellenar con ceros" in some contexts)
+2. Append: agregar (or "apender" in some contexts)
+3. Clear: borrar (or "limpiar" in some contexts)
+4. Copy: copiar
+5. Extend: ampliar
+6. Insert: insertar
+7. Pop: eliminar (or "sacar" in some contexts)
+8. Remove: eliminar (or "retirar" in some contexts)
+9. Reverse: invertir
+10. Sort: ordenar
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Keys - Claves
+2. Get - Obtener
+3. Items - Elementos
+4. Keys - Claves (yes, it's the same word in English and Spanish)
+5. Pop item - Eliminar elemento
+6. Set default - Establecer como predeterminado
+7. Update - Actualizar
+8. Values - Valores
+9. Add - Agregar
+10. Difference - Diferencia
+ Sure, I'd be happy to help! Here are the translations of the terms you provided:
+
+* Difference update: actualización de la diferencia
+* Discard: descartar
+* Intersection: intersección
+* Intersection update: actualización de la intersección
+* Is disjoint: es disjunto
+* Is subset: es subconjunto
+* Is superset: es superconjunto
+* Symmetric difference: diferencia simétrica
+* Symmetric difference update: actualización de la diferencia simétrica
+* Union: unión
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Close - Cerrar
+2. Detach - Desconectar
+3. File number - Número de archivo
+4. Flush - Vaciar
+5. Is interactive - Es interactivo
+6. Read - Leer
+7. Readable - Legible
+8. Read line - Leer línea
+9. Read lines - Leer líneas
+10. Seek - Buscar
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Seekable - Buscable (adj.)
+2. Tell - Decir (verb)
+3. Truncate - Truncar (verb)
+4. Writable - Escriturable (adj.)
+5. Write - Escribir (verb)
+6. Write lines - Escribir líneas (verb)
+7. And - Y (conjunction)
+8. As - Como (adverb)
+9. Assert - Afirmar (verb)
+10. Break - Romper (verb)
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Class - Clase
+2. Continue - Continuar
+3. Define - Definir
+4. Delete - Eliminar
+5. Else if - Si no
+6. Else - En caso de que
+7. Except - Excepto
+8. False - Falso
+9. Finally - Finalmente
+10. For - Para
+ Sure, here are the translations of the given terms into Spanish:
+
+* From: de (preposition)
+* Global: global (adjective)
+* If: si (conjunction)
+* Import: importar (verb)
+* In: en (preposition)
+* Is: es (verb)
+* Lambda: lambda (noun)
+* None: ninguno (pronoun)
+* Non-local: no local (adjective)
+* Not: no (negation)
+ Sure, here are the translations of the given terms into Spanish:
+
+* Or: "o"
+* Pass: "pasar"
+* Raise exception: "lanzar excepción"
+* Return: "devolver"
+* True: "verdadero"
+* Try: "intentar"
+* While: "mientras"
+* With: "con"
+* Yield: "ceder"
+* Arithmetic Error: "error aritmético"
+
+## second run
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Assertion Error - Error de afirmación
+2. Attribute Error - Error de atributo
+3. Exception - Excepción
+4. End Of File Error - Error de final de archivo
+5. Floating Point Error - Error de punto flotante
+6. Generator Exit - Salida del generador
+7. Import Error - Error de importación
+8. Indentation Error - Error de identación
+9. Index Error - Error de índice
+10. Key Error - Error de clave
+ Sure, here are the translations of the given terms into Spanish:
+
+1. Keyboard Interrupt - Interrupción de teclado
+2. Lookup Error - Error de búsqueda
+3. Memory Error - Error de memoria
+4. Name Error - Error de nombre
+5. Not Implemented Error - Error no implementado
+6. OS Error - Error del sistema operativo
+7. Overflow Error - Error de desbordamiento
+8. Reference Error - Error de referencia
+9. Runtime Error - Error en tiempo de ejecución
+10. Stop Iteration - Parada de iteración
+ Here are the translations of the given terms into Spanish:
+
+1. Syntax Error - Error de sintaxis
+2. Tab Error - Error de pestaña
+3. System Error - Error del sistema
+4. System Exit - Salida del sistema
+5. Type Error - Error de tipo
+6. Unbound Local Error - Error local sin vinculación
+7. Unicode Error - Error Unicode
+8. Unicode Encode Error - Error de codificación Unicode
+9. Unicode Decode Error - Error de descodificación Unicode
+10. Unicode Translate Error - Error de traducción Unicode
+ Sure, I'd be happy to help! Here are the translations for "Value Error" and "Zero Division Error" in Spanish:
+
+* Value Error: Error de valor
+* Zero Division Error: Error de división por cero

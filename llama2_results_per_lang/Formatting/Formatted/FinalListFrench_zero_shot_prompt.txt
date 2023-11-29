@@ -1,0 +1,222 @@
+Valeur absolue
+Tous
+N'importe quel
+ASCII
+Binaire
+Booléen
+Tableau de bytes
+Octets
+Appelable
+Caractère
+méthode de classe
+compiler
+complexe
+supprimer attribut
+dictionnaire
+répertoire
+diviser modulo
+énumérer
+évaluer
+exécuter
+Filtre
+Nombre à virgule flottante
+Formatage
+Ensemble figé
+Attribut get
+Variables globales
+A une propriété
+Haash
+Aide
+Hexadécimal
+Identité
+Entrée
+Entier
+Est-ce qu'il s'agit d'une instance?
+Sous-classe
+Itérateur
+Longueur
+Liste
+Locaux
+Carte
+Maximun
+Vue de la mémoire
+Minimum
+Suivant
+Objet
+Octal
+Ouvert
+Ordinale
+Puissance
+Impression
+propriété
+plage
+représenter
+inverse
+arrondi
+ensemble
+attribut de l'ensemble
+trananche
+trié
+méthode statique
+Chaîne
+Sommation
+Ensemble contenant
+Tupla
+Type
+Variables
+Zippé
+Capitaliser
+Folding en majuscule
+Centre
+Compter
+Coder
+Se termine par
+Élargir les onglets
+Trouver
+Carte de formatage
+Index
+Est-ce que c'est alphanumérique?
+Est-ce que c'est alphabétique?
+Est-ce que c'est en ASCII ?
+est décimal
+est un chiffre
+est un identificateur
+est en bas
+est numérique
+est imprimable
+est une espace
+est un titre
+est en majuscule
+fusionner
+Justifier à gauche
+Diminué
+Effacer à gauche
+Faire une traduction
+Partitionner
+Remplacer
+Trouver en sens inverse
+Index inverse
+Justifier à droite
+Partitionner à droite
+right fractioning
+right strip
+Fractionner
+Lignes de fractionnement
+starts with
+Bandeau
+Inverser les cases
+Titre
+Traduire
+Majuscule
+remplir avec zéro
+ajouter
+effacer
+copier
+étendre
+insérer
+retirer
+enlever
+inverser
+trier
+clés
+obtenir
+articles
+clés
+retirer un article
+définir par défaut
+mettre à jour
+valeurs
+ajouter
+différence
+mise à jour de la différence
+élimination
+intersection
+mise à jour de l'intersection
+est disjoint
+est un sous-ensemble
+est un ensemble contenant tous les éléments d'un autre ensemble
+différence symétrique
+mise à jour de la différence symétrique
+union
+Fermer
+Détacher
+Numéro de fichier
+Évacuer
+Est interactif
+Lire
+Lecturable
+Lire une ligne
+Lire des lignes
+Rechercher
+Accessible
+Raconter
+Tronquer
+Écrire
+Écrire
+Écrire des lignes
+Et
+Comme
+Affirmer
+Casser
+Classe
+Continuer
+Définir
+Supprimer
+Sinon si
+Sinon
+Sauf
+Faux
+Enfin
+Pour
+deh
+globe-al
+see
+im-pohr-tey
+dahns
+ehst
+lahnda
+nohnee
+nohn-loh-kah
+neh ... pahs
+ou
+passer
+lever une exception
+renvoyer
+vrai
+essayer
+pendant
+avec
+rapporter
+erreur arithmétique
+Erreur d'assertion
+Erreur d'attribut
+Exception
+Erreur de fin de fichier
+Erreur de point flottant
+Fin de générateur
+Erreur d'importation
+Erreur de mise en forme
+Erreur d'indexation
+Erreur de clé
+Interruption de clavier
+Erreur de recherche
+Erreur de mémoire
+Erreur de nom
+Erreur non implémentée
+Erreur de système d'exploitation
+Erreur de débordement
+Erreur de référence
+Erreur au moment de l'exécution
+Arrêt de la boucle
+Erreur de syntaxe
+Erreur de tabulation
+Erreur système
+Sortie du système
+Erreur de type
+Erreur de variable non liée
+Erreur Unicode
+Erreur d'encodage Unicode
+Erreur de décodage Unicode
+Erreur de traduction Unicode
+Erreur de valeur
+Erreur de division par zéro

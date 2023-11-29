@@ -1,0 +1,322 @@
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms in Sorani Kurdish:
+
+1. Absolute value - بەهای ەها (bihāy rēhā)
+2. All - همه‌ (hamah)
+3. Any - یکی وه‌ (yeki wah)
+4. ASCII - آسی‌سی (asī sī)
+5. Binary - بیناری‌ (binārī)
+6. Boolean - بولی‌ (būlī)
+7. Byte array - شعبه‌ی بايت‌ (shabeh-e bāyt)
+8. Bytes - بايت‌ (bāyt)
+9. Callable - قابل باخی‌ (qābel bākhi)
+10. Character - کاراکتر (kārāktar)
+
+I hope these translations are helpful for your project! If you have any other questions or need further assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Sorani Kurdish:
+
+1. Class method: ئەكلی فوقت (Ekli foqat)
+2. Compile: تەواوير (Tevawir)
+3. Complex: ش Rivaj (Sh rivaj)
+4. Delete attribute: ئەوان حذف کردن (Ewân hêl î berkirin)
+5. Dictionary: فرهنگ (Farhang)
+6. Directory: دیمەنی وەرگی (Dîmenî wergî)
+7. Divide modulus: راستووŞ (Virâstûş)
+8. Enumerate: لیست کردن (Listhê kirin)
+9. Evaluate: واپسینی بین (Wapsonî bin)
+10. Execute: جارbüün (Jâr-bûn)
+
+Note: Please note that the translations provided above are in the Sorani Kurdish dialect, which is spoken in Iran. The translations may vary slightly for other Kurdish dialects.
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms in Sorani Kurdish:
+
+* Filter: فیلتر
+* Floating point: نقطه‌ى عشوه‌ای
+* Format: فورمه‌ت
+* Frozen set: مجموعه‌ى ستونی
+* Get attribute: وەرگی خاص
+* Globals: گロبال‌ها
+* Has attribute: ه‍ cxebête وەرگی
+* Hash: ه‍ش
+* Help: خوشhal
+* Hexadecimal: شاZeდecimal
+
+I hope these translations are helpful for your project! If you have any further questions or need additional assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Sorani Kurdish:
+
+1. Identity - بیrane (bîran)
+2. Input - وارد (wârd)
+3. Integer - عدد (adad)
+4. Is instance - یەکی بوون (yeki bivan)
+5. Is subclass - پلی ئەدەب (pûli edeb)
+6. Iterator - گ iterate (gere iterate)
+7. Length - قەسمان (qesmân)
+8. List - لیست (list)
+9. Locals - مەغrebeli (meğrebelî)
+10. Map - ناوبرگی (nav-bareki)
+
+I hope this helps! If you have any other questions or need further assistance, please don't hesitate to ask.
+ I'm glad you're working on translating Python's key terms into Sorani Kurdish! Here are the translations for the terms you provided:
+
+* Maximum: ھەMAXIMUM (hə maxımum)
+* Memory view: دیمەنی بیرگە (dîmenî birgê)
+* Minimum: ھەMINIMUM (hə minımum)
+* Next: بعد (ba'ed)
+* Object: واقف (waqif)
+* Octal: 八进制 (hâliselUL)
+* Open: خانه‌ی ئەول (xânesê ewl)
+* Ordinal: ترتيب (tartıb)
+* Power: هز (heyz)
+* Print: چاپکردن (çapkurdan)
+
+I hope this helps! If you have any other questions or need further assistance, please don't hesitate to ask.
+ Certainly! Here are the translations of the given Python terms into Sorani Kurdish:
+
+1. Property - خاصية (khāṣiyyah)
+2. Range - دواجن (dōwajin)
+3. Represent - پرتوی (partawazî)
+4. Reversed - ئtmlrinn (yamli nemū)
+5. Round - لور (lawar)
+6. Set - ھى (hîn)
+7. Set attribute - وسیله‌ی خاصية (waseile khāṣiyyah)
+8. Slice - قالب (qalb)
+9. Sorted - پدووس (prê dorûs)
+10. Static method - شيعه‌ی وارد (shay'e wârd)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Sorani Kurdish:
+
+* String => سەرەو (serêw)
+* Summation => ھەمووش (hemûsh)
+* Superset => جامعه‌كانی بیرگە (jâma`a kânî bîrgê)
+* Tuple => تولپ (tolp)
+* Type => ید (glide)
+* Variables => پارامетرەکان (parâmeterekân)
+* Zip => پوشش (poşş)
+* Capitalize => ئەەلی بکە (yekgır bükeler)
+* Case fold => پارامéter بە کەسی بە وا بەخشی بیرگە (parâmetre bê kesî bê wâ birgê)
+* Center => ناوبرا (navbrâz)
+
+I hope these translations are helpful for your project! If you have any further questions or need additional assistance, please don't hesitate to ask.
+ I'm glad you're working on translating Python's key terms into Sorani Kurdish! Here are the translations for the terms you provided:
+
+1. Count - مار (jimār)
+2. Encode - ئەنجومە (encodë)
+3. Ends with - بەع correlative particle (bə correlatif pərtikkel)
+4. Expand tabs - گرووش لایفا (girwush liyafa)
+5. Find - پاش کردن (pāsh kardan)
+6. Format map - نقش و خارGA (naqş ve xārgāh)
+7. Index - ئيندXY (indoksī)
+8. Is alphanumeric - ئەل‌الفبە یا نومی (el-alfbe ya nomi)
+9. Is alphabetic - ئەل‌الفبە (el-alfbe)
+10. Is ASCII - ئەس‌کی‌اسی (es-ki-asi)
+
+I hope these translations help you in your project! If you have any other questions or need further assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Sorani Kurdish:
+
+* absolute value = بەهای ەها (bihay rəhā)
+* memory view = دیمەنی بیرگە (dīmēnī bīrgā)
+* power = هز (hêz)
+* print = چاپکردن (chāp-kardan)
+* Syntax Error = هەەی ستەسازی (hələyı rstsazı)
+
+Here are the translations of the additional keywords you mentioned:
+
+* is decimal = ئای  Dezimal است (ai dezimāl ist)
+* is digit = ئای رقم است (ai raqam ist)
+* is identifier = ئای یا Azka است (ai yā azka ist)
+* is lower = ئای کوچک است (ai kuçak ist)
+* is numeric = ئای عددی است (ai adadi ist)
+* is printable = ئای چاپلان است (ai chāplān ist)
+* is space = ئای فضا است (ai fada ist)
+* is title = ئای نوم است (ai nom ist)
+* is uppercase = ئای بی است (ai bali ist)
+* join = وارد کردن (vārd kardan)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Sorani Kurdish:
+
+* Left justify: لەوانەکردنی چوار (levanekardni chuwari)
+* Lower: پاشی‌خوان (pashikhoon)
+* Left strip: پاشی‌چوار (pashichuwar)
+* Make translation: ترجمە کردن (tarjome kardn)
+* Partition: پارتیشن (partision)
+* Replace: جایگزینی کردن (jaygazinikardn)
+* Reverse find: ئامادە پاشی‌چوار (amade pashichuwar)
+* Reverse index: نogle پاشی‌چوار (nogel pashichuwar)
+* Right justify: راستەنەکردنی چوار (rastenekardni chuwari)
+* Right partition: پارتیشنی راستە (partision-e raaste)
+
+I hope these translations are helpful for your project! If you have any other questions or need further assistance, please don't hesitate to ask.
+ Sure, I'm happy to help! Here are the translations of the given terms into Sorani Kurdish:
+
+1. Right split: ئەسوز تقسیم (Elsuz Taksime)
+2. Right strip: ئەسوز پشتی (Elsuz Pashte)
+3. Split: تقسیم (Taksime)
+4. Split lines: خطوات تقسیمی (Khutuwat Taksimee)
+5. Starts with: دەستی ب ئەلا (Desti bo Ala)
+6. Strip: پشتی (Pashte)
+7. Swap case: بەج بەرگە (Bajê Berge)
+8. Title: ناوی پەرویستە (Nawi Pêrojistê)
+9. Translate: ترجمە کردن (Tarjamé Kardn)
+10. Uppercase: بەرگە بالا (Berga Bala)
+
+I hope these translations are helpful for your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Sorani Kurdish:
+
+1. Zero fill: نولانی بەهايی (nolani bahai)
+2. Append: ئای بخش (aji bakhsh)
+3. Clear: پاک کردن (pak kardan)
+4. Copy: کopy (kopy)
+5. Extend: بیرگە داری (birega darri)
+6. Insert: وارد کردن (vared kardan)
+7. Pop: بیردن (biredan)
+8. Remove: برچسبه کردن (brechsbaha kardan)
+9. Reverse: عكاس بەخش (akeas bakhsh)
+10. Sort: پووار کردن (pawwar kardan)
+
+I hope these translations are helpful for your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Sorani Kurdish:
+
+* "from" = بەمان
+* "keys" = ئەوەندaki
+* "get" = بگر
+* "items" = بیرگەھا
+* "pop item" = بیرگە بەرگر
+* "set default" = پنووس بە تایبەت
+* "update" = نووسی بە جر
+* "values" = قیمتەر
+* "add" = خەری Dre
+* "difference" = تفاوت
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.
+ Sure, I'd be happy to help you with that! Here are the translations of the terms you provided into Sorani Kurdish:
+
+* Difference update: تعاونی گذرا (ta'awoni gozar)
+* Discard: پاش ئەوە (pash ewe)
+* Intersection: وارونی (varuni)
+* Intersection update: وارونی گذرا (varuni gozar)
+* Is disjoint: جانباز نیست (jân baz nist)
+* Is subset: لەگواری ئەدە (legowari ede)
+* Is superset: لەگواری خوارە (legowari khware)
+* Symmetric difference: تفاوت مقל (tefawot mokol)
+* Symmetric difference update: تفاوت مقل گذرا (tefawot mokol gozar)
+* Union: یەکی شان (yeki shan)
+
+I hope these translations are helpful for your project! If you have any further questions or need additional assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python key terms you provided into Sorani Kurdish:
+
+* Close: بسوت (bast)
+* Detach: لاوان GP (lavan GP)
+* File number: شماره پەگە (shamarah pärgäh)
+* Flush: پاک کردن (pak kardn)
+* Is interactive: ئاگان بە Interactive (agān bē interaktīv)
+* Read: خواندن (xwāndan)
+* Readable: قابل خواندن (qābel xwāndan)
+* Read line: خواندن لین (xwāndan līn)
+* Read lines: خواندن لین‌ها (xwāndan līnhā)
+* Seek: جیت کردن (jīt kardn)
+
+I hope these translations are helpful for your project! If you have any further questions or need additional assistance, please don't hesitate to ask.
+ I'm glad you're working on translating Python's key terms into Sorani Kurdish! This will definitely help people who speak Sorani Kurdish to learn programming and understand coding concepts more easily. Here are the translations for the terms you provided:
+
+* Seekable: ئەبل Kurdish (meaning "accessible" or "seekable")
+* Tell: ناوبرایم (meaning "to say" or "to tell")
+* Truncate: خاardin بکری (meaning "to shorten" or "to truncate")
+* Writable: بیرگە بووان (meaning "writable" or "can be written")
+* Write: چاپ کردن (meaning "to write")
+* Write lines: لین‌ها چاپ کردن (meaning "to write lines")
+* And: و (meaning "and")
+* As: کە (meaning "as")
+* Assert: پشش کردن (meaning "to assert" or "to confirm")
+* Break: وقفه‌ی شکستن (meaning "break" or "stop doing something")
+
+I hope these translations are helpful for your project! If you have any other questions or need further assistance, please don't hesitate to ask.
+ Sure, I'd be happy to help you with that! Here are the translations of the Python keywords you provided into Sorani Kurdish:
+
+* Class: لigin (Ligîn)
+* Continue: پوان (Pêrawan)
+* Define: تعیین کردن (Ta'yin Kardan)
+* Delete: سین بئربرە (Sernameer bia Bêrbûr)
+* Else if: ئایل ئەگەر (Ayil Eger)
+* Else: ئایل (Ayil)
+* Except: ھەمووش (Hemûsh)
+* False: كاره‌ی نابوalu (Kâr-e Nâbûl)
+* Finally: دواتر کردن (Dowlat Kardan)
+* For: ب ئەوبىر (Borê wan)
+
+I hope these translations are helpful for your project! However, please note that Sorani Kurdish is a complex language with many variations and dialects. The translations I provided are in the standardized form used in Iraqi Kurdistan, but there may be slight differences in other regions or dialects.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Sorani Kurdish:
+
+* From: فرم (farm)
+* Global: گلوبال (golubal)
+* If: ئاگاد (agad)
+* Import: یخشی (yekshi)
+* In: دەری (deri)
+* Is: ئەست (est)
+* Lambda: لامبدا (lambada)
+* None: هیچ (hich)
+* Non-local: نامناسبی (namnasibi)
+* Not: نا (na)
+
+I hope this helps you with your project! If you have any other questions or need further assistance, feel free to ask.
+ Sure, I'd be happy to help you with that! Here are the translations for the given terms into Sorani Kurdish:
+
+* Or: وەرگی (wargi)
+* Pass: پاس (pas)
+* Raise exception: خطای انفورم بکە (khetaye inform bakê)
+* Return: پیشاندن (pishandan)
+* True: حقیقی (haqiqi)
+* Try: سعی کردن (saee kardan)
+* While: لە ئانداز هەا (le andaz henga)
+* With: بە هموم (bê homom)
+* Yield: پروali کردن (parvulari kardan)
+* Arithmetic Error: خطای رقمی (khetaye raqami)
+
+I hope these translations are helpful for your project! If you have any further questions or need additional assistance, please don't hesitate to ask.
+ I'm glad to help you with translating Python's key terms into Sorani Kurdish! Here are the translations for the terms you provided:
+
+* Assertion Error: ئاكار خووشتنی (Akār Khowoshni)
+* Attribute Error: خاصية خووشتنی (Khāṣiyyah Khowoshni)
+* Exception: عادلة (ʿĀdilah)
+* End Of File Error: خاتاليق فايل خووشتنی (Khātalīq Fāyel Khowoshni)
+* Floating Point Error: حطيمة نقطية (Ḥaṭima Nakiṭiyah)
+* Generator Exit: خروج گينر (Kharooj Ginir)
+* Import Error: خامseh واردات خووشتنی (Khāmeh-e Vārdāt Khowoshni)
+* Indentation Error: خامseh پهنووسی (Khāmeh-e Pahēnūwosī)
+* Index Error: خامseh آانس院 (Khāmeh-e Āzhānsī)
+* Key Error: خامseh کلید (Khāmeh-e Kulīd)
+
+I hope these translations are helpful for your project!
+ I'm glad to help you with translating Python's key terms into Sorani Kurdish! Here are the translations for the terms you provided:
+
+* Keyboard Interrupt: ئامادەری كوردی (AMADeri KOREDI)
+* Lookup Error: خاتالی لووپ (KHATALI LOOP)
+* Memory Error: خاتالی مەموری (KHATALI MEMORI)
+* Name Error: خاتالی نام (KHATALI NAM)
+* Not Implemented Error: خاتالی پیش فرض (KHATALI PESH FARZ)
+* OS Error: خاتالی آпераتور (KHATALI APERTUR)
+* Overflow Error: خاتالی تکثیر (KHATALI TAKESER)
+* Reference Error: خاتالی رجاعت (KHATALI REJAAT)
+* Runtime Error: خاتالی زمان بخش (KHATALI ZAMAN BAKHSH)
+* Stop Iteration: ئامادەری پاند (AMADeri PRANAND)
+
+Note that the translations are in the Sorani Kurdish dialect, which is spoken in Iraq and Iran. The translations may slightly vary depending on the region or dialect.
+ I'm glad you're working on translating Python's key terms into Sorani Kurdish! Here are the translations for the terms you provided:
+
+1. Syntax Error: هەەی ستەسازی (Hêlê yê rastesazî)
+2. Tab Error: بەرمە تաב (Bermê tab)
+3. System Error: وه‌ی سیستم (Vah-e sistem)
+4. System Exit: خروج سیستم (Khuruj sistem)
+5. Type Error: هنی وه‌ی جواب (Huny wah-e jawab)
+6. Unbound Local Error: وه‌ی لokal بەرمە (Wah-e lokal bermê)
+7. Unicode Error: وه‌ی یونیکود (Wah-e Yunikod)
+8. Unicode Encode Error: وه‌ی یونیکودی نووسین (Wah-e Yunikodî nivoseyn)
+9. Unicode Decode Error: وه‌ی یونیکودی پارسین (Wah-e Yunikodî parsîn)
+10. Unicode Translate Error: وه‌ی یونیکودی ترجمه‌سازی (Wah-e Yunikodî tarjamah-sazî)
+
+I hope these translations are helpful for your project!
+ Sure, I'd be happy to help you with that! Here are the translations for the two terms you provided:
+
+* Value Error: هزی بەهای (Hêzî bähây)
+* Zero Division Error: زgar لە مارە (Razgare le jimare)
+
+I hope this helps! Let me know if you have any other questions or need further assistance.

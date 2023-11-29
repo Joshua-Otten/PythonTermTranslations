@@ -1,0 +1,222 @@
+valor absoluto
+todo
+cualquier
+ascii
+binario
+booleano
+matriz de bytes
+bytes
+invocable
+car
+método de clase
+compilar
+complejo
+eliminar atributo
+diccionario
+directorio
+módulo de división
+enumerar
+evaluar
+ejecutar
+filtrar
+punto flotante
+formato
+conjunto inmutable
+obtener atributo
+globales
+tiene atributo
+dispersión
+ayuda
+hexadecimal
+identidad
+entrada
+entero
+es instancia
+es subclase
+iterador
+longitud
+lista
+locales
+mapa
+max
+vista de la memoria
+min
+próximo
+obj
+octales
+abrir
+ordinal
+elevar
+imprimir
+propiedad
+rango
+representar
+invertido
+redondear
+conjunto
+establecer atributo
+rebanada
+ordenado
+método estático
+cadena
+suma
+superconjunto
+tupla
+tipo
+vars
+cremallera
+capitalizar
+minusc
+centrar
+contar
+codificar
+termina con
+expandir pestañas
+encontrar
+formatear mapa
+índice
+es alfanumérico
+es alfabético
+es ascii
+es decimal
+es dígito
+es identificador
+es minuscula
+es numérico
+es imprimible
+es espacio
+es titulo
+es mayúscula
+unir
+justificar a la izquierda
+en minuscula
+remover izquierda
+traducir
+particionar
+reemplazar
+búsqueda inversa
+índice inverso
+justificar a la derecha
+partición derecha
+división derecha
+remueve derecha
+dividir
+separar lineas
+comienza con
+remueve
+intercambiar caso
+título
+traducir
+mayúscula
+rellenar con cero
+adjuntar
+limpiar
+copiar
+extender
+insertar
+retirar
+eliminar
+invertir
+ordenar
+desde llaves
+obtener
+elementos
+llaves
+retirar elemento
+asignar predeterminado
+actualizar
+valores
+agregar
+diferencia
+actualizar diferencia
+descartar
+intersección
+actualizar intersección
+es disjunto
+es subconjunto
+es superconjunto
+diferencia simétrica
+actualizar diferencia simétrica
+unión
+cerrar
+despegar or separar
+número de archivos
+terminar compresión
+es interactivo
+leer
+legible
+leer linea
+leer lineas
+buscar
+buscable
+retornar fotograma
+truncar
+escribible
+escribir
+escribir lineas
+y
+como
+confirmar
+romper
+clase
+continuar
+definir
+borrar
+sino si
+sino
+excepto
+falso
+finalmente
+para
+desde
+global
+si
+importar
+en
+es
+lambda
+ninguno
+no local
+no
+o
+pasar
+elevar excepción
+retornar
+verdadero
+intentar
+mientras
+con
+ceder
+error aritmético
+error de aserción
+error de atributo
+excepción
+error de fin de archivo
+error de punto flotante
+salida del generador
+error de importación
+error de indentación
+error de índice
+error de llave
+interrupción del teclado
+error de búsqueda
+error de memoria
+error de nombre
+error de no implementación
+error del sistema operativo
+error de desbordamiento
+error de referencia
+error de tiempo de ejecución
+detener iteración
+error de sintaxis
+error de pestaña
+error del sistema
+salida del sistema
+error de tipeo
+error local no enlazado
+error de unicode
+error de codificación unicode
+error de decodificación unicode
+error de traducción de unicode
+error de valor
+error de división cero

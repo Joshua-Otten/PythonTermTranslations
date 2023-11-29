@@ -1,0 +1,235 @@
+在 Python 中，要使用返回数字绝对值的表达式，写：absolute value。
+在 Python 中，要使用在可迭代对象中的所有项都为真时返回 True 的表达式，请编写：all。
+在 Python 中，要使用在可迭代对象中的任何项为真时返回 True 的表达式，请编写：any。
+在 Python 中，要使用返回对象的可读版本并将非 ascii 字符替换为转义字符的表达式，请编写：ascii。
+在 Python 中，要使用返回数字二进制版本的表达式，请编写：binary。
+在 Python 中，要使用返回指定对象的布尔值的表达式，写：boolean。
+在 Python 中，要使用返回字节数组的表达式，请编写：byte array。
+在 Python 中，要使用返回字节对象的表达式，请编写：bytes。
+在 Python 中，要使用在指定对象可调用时返回 True 的表达式，否则返回 False，请编写：callable。
+在 Python 中，要使用从指定的 Unicode 代码返回字符的表达式，请编写：character。
+在 Python 中，要使用将方法转换为类方法的表达式，请编写：class method。
+在 Python 中，要使用将指定源作为对象返回并准备执行的表达式，请编写：compile。
+在 Python 中，要使用返回复数的表达式，请编写：complex。
+在Python中，要使用从指定对象中删除指定属性（属性或方法）的表达式，写：delete attribute。
+在 Python 中，要使用返回字典 (Array) 的表达式，请编写：dictionary。
+在 Python 中，要使用返回指定对象的属性和方法列表的表达式，请编写：directory。
+在 Python 中，要使用当 argument1 除以 argument2 时返回商和余数的表达式，写：divide modulus。
+在 Python 中，要使用接受集合（例如元组）并将其作为枚举对象返回的表达式，请编写：enumerate。
+在 Python 中，要使用计算和执行表达式的表达式，请编写：evaluate。
+在 Python 中，要使用执行指定代码（或对象）的表达式，写：execute。
+在 Python 中，要使用过滤器函数过滤可迭代对象中的项目的表达式，请编写：filter。
+在 Python 中，要使用返回浮点数的表达式，请编写：floating point。
+在 Python 中，要使用格式化指定值的表达式，请编写：format。
+在 Python 中，要使用返回冻结集对象的表达式，请编写：frozen set。
+在 Python 中，要使用返回指定属性（属性或方法）值的表达式，写：get attribute。
+在 Python 中，要使用返回当前全局符号表的表达式作为字典，写：globals。
+在 Python 中，要使用如果指定对象具有指定属性（属性/方法）则返回 True 的表达式，请编写：has attribute。
+在 Python 中，要使用返回指定对象哈希值的表达式，写：hash。
+在 Python 中，要使用执行内置帮助系统的表达式，请编写：help。
+在 Python 中，要使用将数字转换为十六进制值的表达式，请编写：hexadecimal。
+在 Python 中，要使用返回对象 ID 的表达式，请编写：identity。
+在 Python 中，要使用允许用户输入的表达式，请编写：input。
+在 Python 中，要使用返回整数的表达式，请编写：integer。
+在 Python 中，要使用如果指定对象是指定对象的实例则返回 True 的表达式，写：is instance。
+在 Python 中，要使用如果指定类是指定对象的子类则返回 True 的表达式，写：is subclass。
+在 Python 中，要使用返回迭代器对象的表达式，请编写：iterator。
+在 Python 中，要使用返回对象长度的表达式，请编写：length。
+在 Python 中，要使用返回列表的表达式，请编写：list。
+在 Python 中，要使用返回当前本地符号表的更新字典的表达式，请编写：locals。
+在 Python 中，要使用返回指定迭代器的表达式并将指定函数应用于每个项目，请编写：map。
+在 Python 中，要使用返回可迭代对象中最大项的表达式，请编写：maximum。
+在 Python 中，要使用返回内存视图对象的表达式，请编写：内存视图。
+在 Python 中，要使用返回可迭代对象中最小项的表达式，请编写：minimum。
+在 Python 中，要使用返回可迭代对象中下一项的表达式，请编写：next。
+在 Python 中，要使用返回新对象的表达式，请编写：object。
+在 Python 中，要使用将数字转换为八进制的表达式，请编写：octal。
+在 Python 中，要使用打开文件并返回文件对象的表达式，请编写：open。
+在 Python 中，要使用转换表示指定字符的 Unicode 的整数的表达式，请编写：ordinal。
+在 Python 中，要使用返回 x 值的 y 次方的表达式，请编写：power。
+在 Python 中，要使用打印到标准输出设备的表达式，请编写：print。
+在 Python 中，要使用获取、设置或删除属性的表达式，请编写：property。
+在 Python 中，要使用返回数字序列的表达式，从 0 开始并递增 1（默认情况下），请编写：range。
+在 Python 中，要使用返回对象的可读版本的表达式，请编写：represent。
+在 Python 中，要使用返回反向迭代器的表达式，请编写：reversed。
+在 Python 中，要使用对数字进行舍入的表达式，请编写：round。
+在 Python 中，要使用返回新集合对象的表达式，请编写：set。
+在 Python 中，要使用设置对象属性（属性/方法）的表达式，请编写：set attribute。
+在 Python 中，要使用返回切片对象的表达式，请编写：slice。
+在 Python 中，要使用返回排序列表的表达式，请编写：sorted。
+在 Python 中，要使用将方法转换为静态方法的表达式，写成：static method。
+在 Python 中，要使用返回字符串对象的表达式，请编写：string。
+在 Python 中，要使用对迭代器的项求和的表达式，请编写：summation。
+在 Python 中，要使用返回表示父类的对象的表达式，请编写：superset。
+在 Python 中，要使用返回元组的表达式，请编写：tuple。
+在 Python 中，要使用返回对象类型的表达式，请编写：type。
+在 Python 中，要使用返回对象的 dict 属性的表达式，请编写：variables。
+在 Python 中，要使用从两个或多个迭代器返回迭代器的表达式，请编写：zip。
+在 Python 中，要使用将第一个字符转换为大写的表达式，请编写：capitalize。
+在 Python 中，要使用将字符串转换为小写的表达式，请编写：case fold”。
+在 Python 中，要使用返回居中字符串的表达式，请编写：center。
+在 Python 中，要使用返回指定值在字符串中出现的次数的表达式，请编写：count。
+在 Python 中，要使用返回字符串编码版本的表达式，请编写：encode。
+在 Python 中，要使用在字符串以指定值结尾时返回 true 的表达式，请编写：ends with。
+在 Python 中，要使用设置字符串制表符大小的表达式，请编写：expand tabs。
+在 Python 中，要使用在字符串中搜索指定值并返回找到它的位置的表达式，请编写：find。
+在 Python 中，要使用格式化字符串中指定值的表达式，请编写：format。
+在 Python 中，要使用格式化字符串中指定值的表达式，请编写：format map。
+在 Python 中，要使用在字符串中搜索指定值并返回找到它的位置的表达式，请编写：index。
+在 Python 中，要使用如果字符串中的所有字符都是字母数字则返回 True 的表达式，写：是字母数字。
+在 Python 中，要使用如果字符串中的所有字符都在字母表中则返回 True 的表达式，请编写：is alphabetic。
+在 Python 中，要使用如果字符串中的所有字符都是 ascii 字符则返回 True 的表达式，请写：is ascii。
+在 Python 中，要使用如果字符串中的所有字符都是小数则返回 True 的表达式，请编写：is decimal。
+在 Python 中，要使用如果字符串中的所有字符都是数字则返回 True 的表达式，请编写：is digit。
+在 Python 中，要使用如果字符串是标识符则返回 True 的表达式，请编写：is identifier。
+在 Python 中，要使用如果字符串中的所有字符均为小写则返回 True 的表达式，请编写：is lower。
+在 Python 中，要使用在字符串中的所有字符都是数字时返回 True 的表达式，请编写：is numeric。
+在 Python 中，要使用在字符串中的所有字符都可打印时返回 True 的表达式，请编写：is printable。
+在 Python 中，要使用如果字符串中的所有字符都是空格则返回 True 的表达式，请写：is space。
+在 Python 中，要使用如果字符串遵循标题规则则返回 True 的表达式，请编写：is title。
+在 Python 中，要使用如果字符串中的所有字符均为大写则返回 True 的表达式，请编写：is uppercase。
+在 Python 中，要使用将可迭代对象的元素转换为字符串的表达式，请编写：join。
+在 Python 中，要使用返回字符串左对齐版本的表达式，请编写：left justify。
+在 Python 中，要使用将字符串转换为小写的表达式，请编写：lower。
+在 Python 中，要使用返回字符串左修剪版本的表达式，请编写：left strip。
+在 Python 中，要使用返回要在翻译中使用的翻译表的表达式，请编写：make translation。
+在 Python 中，要使用返回元组的表达式，其中字符串分为三部分，请编写：partition。
+在 Python 中，要使用返回字符串的表达式，其中指定值被替换为指定值，请编写：replace。
+在 Python 中，要使用在字符串中搜索指定值并返回找到它的最后位置的表达式，请编写：reverse find。
+在 Python 中，要使用在字符串中搜索指定值并返回找到它的最后位置的表达式，请编写：reverse index。
+在 Python 中，要使用返回字符串右对齐版本的表达式，请编写：right justify。
+在 Python 中，要使用返回字符串被分成三部分的元组的表达式，请编写：right partition。
+在 Python 中，要使用在指定分隔符处拆分字符串并返回列表的表达式，请编写：right split。
+在 Python 中，要使用返回字符串右修剪版本的表达式，请编写：right strip。
+在 Python 中，要使用在指定分隔符处拆分字符串并返回列表的表达式，请编写：split。
+在 Python 中，要使用在换行符处拆分字符串并返回列表的表达式，请编写：split lines。
+在 Python 中，要使用在字符串以指定值开头时返回 true 的表达式，请编写：starts with。
+在 Python 中，要使用返回字符串的修剪版本的表达式，请编写：strip。
+在 Python 中，要使用交换大小写的表达式，小写变为大写，反之亦然，写：swap case。
+在 Python 中，要使用将每个单词的第一个字符转换为大写的表达式，请编写：title。
+在 Python 中，要使用返回已翻译字符串的表达式，请编写：“translate”
+在 Python 中，要使用将字符串转换为大写的表达式，请编写："uppercase"
+在 Python 中，要使用在开头用指定数量的 0 值填充字符串的表达式，请编写：零填充。
+在 Python 中，要使用在列表末尾添加元素的表达式，请编写：append。
+在 Python 中，要使用从列表中删除所有元素的表达式，请编写：clear。
+在 Python 中，要使用返回列表副本的表达式，请编写：copy。
+在 Python 中，要使用返回具有指定值的元素数的表达式，写：count。
+在 Python 中，要使用将列表（或任何可迭代对象）的元素添加到当前列表末尾的表达式，请编写：extend。
+在 Python 中，要使用返回具有指定值的第一个元素的索引的表达式，请编写：index。
+在 Python 中，要使用在指定位置添加元素的表达式，写：insert。
+在Python中，要使用删除指定位置元素的表达式，写：pop。
+在 Python 中，要使用删除具有指定值的第一项的表达式，请编写：remove。
+在 Python 中，要使用反转列表顺序的表达式，请编写：reverse。
+在 Python 中，要使用对列表进行排序的表达式，请编写：sort。
+在 Python 中，要使用从字典中删除所有元素的表达式，请编写：clear。
+在 Python 中，要使用返回字典副本的表达式，请编写：copy。
+在 Python 中，要使用返回具有指定键和值的字典的表达式，请编写：from keys。
+在 Python 中，要使用返回指定键值的表达式，写：get。
+在 Python 中，要使用返回包含每个键值对元组的列表的表达式，请编写：items。
+在 Python 中，要使用返回包含字典键的列表的表达式，请编写：keys。
+在 Python 中，要使用删除具有指定键的元素的表达式，请编写：pop。
+在 Python 中，要使用删除最后插入的键值对的表达式，请编写：pop item。
+在Python中，要使用返回指定键值的表达式，如果该键不存在，则插入具有指定值的键，写：set default。
+在 Python 中，要使用用指定的键值对更新字典的表达式，写：update。
+在 Python 中，要使用返回字典中所有值列表的表达式，请编写：values
+在 Python 中，要使用返回指定值在元组中出现次数的表达式，请编写：count。
+在 Python 中，要使用在元组中搜索指定值并返回找到它的位置的表达式，请编写：index。
+在 Python 中，要使用向集合添加元素的表达式，请编写：add。
+在 Python 中，要使用从集合中删除所有元素的表达式，请编写：clear。
+在 Python 中，要使用返回集合副本的表达式，请编写：copy。
+在 Python 中，要使用返回包含两个或多个集合之间差异的集合的表达式，请编写：difference。
+在 Python 中，要使用表达式删除此集合中同时包含在另一个指定集合中的项目，请编写：difference update。
+在 Python 中，要使用删除指定项的表达式，写：discard。
+返回一个集合，即两个或多个集合的交集，写成：intersection。
+在 Python 中，要使用表达式删除此集合中不存在于其他指定集合中的项目，请编写：intersection update。
+在 Python 中，要使用返回两个集合是否有交集的表达式，请写：is disjoint。
+在 Python 中，要使用返回另一个集合是否包含该集合的表达式，请写：is subset。
+在 Python 中，要使用返回此集合是否包含另一个集合的表达式，请写：is superset。
+在 Python 中，要使用从集合中删除元素的表达式，请编写：pop。
+在 Python 中，要使用删除指定元素的表达式，请编写：remove。
+在 Python 中，要使用返回具有两个集合的对称差异的集合的表达式，请编写：symmetric difference。
+在 Python 中，要使用从这个集合和另一个集合中插入对称差异的表达式，请编写：symmetric difference update。
+在 Python 中，要使用返回包含集合并集的集合的表达式，请编写：union。
+在 Python 中，要使用用另一个集合或任何其他可迭代对象更新集合的表达式，请编写：update。
+在 Python 中，要使用关闭文件的表达式，写：close。
+在 Python 中，要使用从缓冲区返回分离的原始流的表达式，请编写：detach。
+在 Python 中，要使用返回表示流的数字的表达式，从操作系统的角度来看，写：文件号。
+在 Python 中，要使用刷新内部缓冲区的表达式，请编写：flush。
+在 Python 中，要使用返回文件流是否交互的表达式，写：is interactive。
+在 Python 中，要使用返回文件内容的表达式，write:read。
+在Python中，要使用返回文件流是否可读的表达式，写：readable。
+在 Python 中，要使用从文件返回一行的表达式，请写：读取行。
+在 Python 中，要使用从文件返回行列表的表达式，请写：读取行。
+在 Python 中，要使用改变文件位置的表达式，写：seek。
+在 Python 中，要使用返回文件是否允许我们更改文件位置的表达式，请编写：seeable。
+在 Python 中，要使用返回当前文件位置的表达式，请编写：tell。
+在 Python 中，要使用将文件大小调整为指定大小的表达式，请编写：truncate。
+在 Python 中，要使用返回文件是否可以写入的表达式，请写：writable。
+在 Python 中，要使用将指定字符串写入文件的表达式，write：write。
+在 Python 中，要使用将字符串列表写入文件的表达式，请写入：write lines。
+在 Python 中，要将表达式用于逻辑运算符，请编写：and。
+在 Python 中，要使用创建别名的表达式，请编写：as。
+在 Python 中，要使用表达式进行调试，请编写：assert。
+在 Python 中，要使用中断循环的表达式，请编写：break。
+在 Python 中，要使用定义类的表达式，请编写：class。
+在 Python 中，要使用继续到循环的下一次迭代的表达式，请编写：continue。
+在 Python 中，要使用定义函数的表达式，请编写：define。
+在 Python 中，要使用删除对象的表达式，写：delete。
+在 Python 中，要将表达式用于条件语句，与 else if 相同，写成：else if。
+在 Python 中，要将表达式用于条件语句，请编写：else。
+在Python中，要用exception的表达式，出现异常时怎么办，写：except。
+在 Python 中，要使用布尔值表达式，比较运算的结果，写：False。
+在 Python 中，要使用 used with exceptions 的表达式，不管是否有异常都会执行的代码块，写成：finally。
+在 Python 中，要使用创建 for 循环的表达式，请编写：for。
+在 Python 中，要使用导入模块特定部分的表达式，请编写：from。
+在 Python 中，要使用声明全局变量的表达式，请编写：global。
+在 Python 中，要使用构成条件语句的表达式，请编写：if。
+在 Python 中，要使用导入模块的表达式，请编写：import。
+在 Python 中，要使用检查值是否存在于列表、元组等中的表达式，请编写：in。
+在 Python 中，要使用测试两个变量是否相等的表达式，请编写：is。
+在 Python 中，要使用创建匿名函数的表达式，请编写：lambda。
+在 Python 中，要使用表示空值的表达式，请编写：None。
+在 Python 中，要使用声明非局部变量的表达式，请编写：non-local。
+在 Python 中，要使用逻辑运算符的表达式，请编写：not。
+在 Python 中，要将表达式用于逻辑运算符，请编写：or。
+在 Python 中，要将表达式用于 null 语句，即什么都不做的语句，请编写：pass。
+在 Python 中，要使用引发异常的表达式，请编写：raise exception。
+在 Python 中，要使用退出函数并返回值的表达式，请编写：return。
+在 Python 中，要将表达式用于布尔值、比较操作的结果，请编写：True。
+在 Python 中，要使用构成 try...except 语句的表达式，请编写：try。
+在 Python 中，要使用创建 while 循环的表达式，请编写：while。
+在 Python 中，要使用简化异常处理的表达式，写：with。
+在 Python 中，要使用结束函数的表达式，返回一个生成器，写：yield。
+在 Python 中，要使用在数值计算中出现错误时引发错误的表达式，请编写：Arithmetic Error。
+在 Python 中，要使用在 assert 语句失败时引发错误的表达式，请编写：Assertion Error。
+在 Python 中，要使用在属性引用或赋值失败时引发错误的表达式，请编写：Attribute Error。
+在 Python 中，要使用作为所有异常的基类的表达式，请编写：Exception。
+在 Python 中，要使用在 input() 方法遇到“文件结束”条件 (EOF) 时引发错误的表达式，请编写：End Of File Error。
+在 Python 中，要使用在浮点计算失败时引发错误的表达式，请编写：Floating Point Error。
+在 Python 中，要使用在关闭生成器时引发错误的表达式（使用 close() 方法），请编写：Generator Exit。
+在 Python 中，要使用在导入模块不存在时引发错误的表达式，请编写：Import Error。
+在 Python 中，要使用在缩进不正确时引发错误的表达式，请编写：Indentation Error。
+在 Python 中，要使用在序列索引不存在时引发错误的表达式，请编写：Index Error。
+在 Python 中，要使用在字典中不存在键时引发错误的表达式，请编写：Key Error。
+在 Python 中，要使用在用户按下 Ctrl+c、Ctrl+z 或 Delete 时引发错误的表达式，请编写：Keyboard Interrupt。
+在 Python 中，要使用在无法找到引发的错误时引发错误的表达式，请编写：Lookup Error。
+在 Python 中，要使用在程序内存不足时引发错误的表达式，请编写：Memory Error。
+在 Python 中，要使用在变量不存在时引发错误的表达式，请编写：Name Error。
+在 Python 中，要使用在抽象方法需要继承类覆盖该方法时引发错误的表达式，请编写：Not Implemented Error。
+在 Python 中，要使用在系统相关操作导致错误时引发错误的表达式，请编写：OS Error。
+在 Python 中，要使用在数值计算结果过大时引发错误的表达式，请编写：Overflow Error。
+在 Python 中，要使用在弱引用对象不存在时引发错误的表达式，请编写：Reference Error。
+在 Python 中，要使用在发生不属于任何特定异常的错误时引发错误的表达式，请编写：Runtime Error。
+在 Python 中，要使用在迭代器的 next() 方法没有更多值时引发错误的表达式，请编写：Stop Iteration。
+在 Python 中，要使用在出现语法错误时引发错误的表达式，请编写 Syntax Error。
+在 Python 中，要使用在缩进由制表符或空格组成时引发错误的表达式，请编写：Tab Error。
+在 Python 中，要使用在发生系统错误时引发错误的表达式，请编写：System Error。
+在 Python 中，要使用在调用 sys.exit() 函数时引发错误的表达式，请编写：System Exit。
+在 Python 中，要使用在组合两种不同类型时引发错误的表达式，请编写：Type Error。
+在 Python 中，要使用在赋值前引用局部变量时引发错误的表达式，请编写：Unbound Local Error。
+在 Python 中，要使用在出现 unicode 问题时引发错误的表达式，请编写：Unicode Error。
+在 Python 中，要使用在出现 unicode 编码问题时引发错误的表达式，请编写：Unicode Encode Error。
+在 Python 中，要使用在出现 unicode 解码问题时引发错误的表达式，请编写：Unicode Decode Error。
+在 Python 中，要使用在出现 unicode 转换问题时引发错误的表达式，请编写：Unicode Translate Error。
+在 Python 中，要使用在指定数据类型中存在错误值时引发错误的表达式，请编写：Value Error。
+在 Python 中，要使用当除法中的第二个运算符为零时引发错误的表达式，请编写：零除法错误。

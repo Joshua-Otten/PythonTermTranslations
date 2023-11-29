@@ -1,0 +1,222 @@
+absolute value : Valor absoluto
+all : Todos
+any : Alguno
+ascii : ASCII
+binary : Binario
+boolean : Booleano
+byte array : Arreglo de bytes
+bytes : ytes
+callable : Llamable
+character : Carácter
+class method : Método de clase
+compile : Compilar
+complex : Complejo
+delete attribute : Eliminar atributo
+dictionary : Diccionario
+directory : Directorio
+divide modulus : Dividir módulo
+enumerate : Enumerar
+evaluate : Evaluar
+execute : Ejecutar
+filter : Filtro
+floating point : Punto flotante
+format : Formato
+frozen set : Conjunto congelado
+get attribute : Atributo get
+globals : Variables globales
+has attribute : Tiene atributo
+hash : Sello
+help : Ayuda
+hexadecimal : Hexadecimal
+identity : Identidad
+input : Entrada
+integer : Entero
+is instance : Es instancia
+is subclass : Es una subclase
+iterator : Iterador
+length : Longitud
+list : Lista
+locals : Localidades
+map : Mapa
+maximum : Máximo
+memory view : Vista de memoria
+minimum : Mínimo
+next : Siguiente
+object : Objeto
+octal : Octal
+open : Abierto
+ordinal : Ordenal
+power : Poder
+print : Imprimir
+property : Propiedad
+range : Rango
+represent : Representar
+reversed : Invertido
+round : Redondeado
+set : Conjunto
+set attribute : Atributo del conjunto
+slice : Trozo
+sorted : Ordenado
+static method : Método estático
+string : Cadena
+summation : Suma
+superset : Conjunto suplementario
+tuple : Tupla
+type : Tipo
+variables : Variables
+zip : Archivar
+capitalize : Capitalizar
+case fold : Minúsculas
+center : Centro
+count : Contar
+encode : Codificar
+ends with : Termina con
+expand tabs : Explicar las pestañas
+find : Encontrar
+format map : Mapa de formato
+index : Índice
+is alphanumeric : Es alfanumérico
+is alphabetic : Es alfabético
+is ascii : Es ASCII
+is decimal : es decimal
+is digit : es dígito
+is identifier : es identificador
+is lower : es menor
+is numeric : es numérico
+is printable : es imprimible
+is space : es espacio
+is title : es título
+is uppercase : es mayúsculo
+join : unir
+left justify : "justificar izquierda"
+lower : "inferior"
+left strip : "desgarradura izquierda"
+make translation : "hacer una traducción"
+partition : "partición"
+replace : "reemplazar"
+reverse find : "encontrar en reversa"
+reverse index : "índice inverso"
+right justify : "justificar derecha"
+right partition : "partición derecha"
+right split : "división derecha"
+right strip : "franja derecha"
+split : "dividir"
+split lines : "líneas divididas"
+starts with : "comienza con"
+strip : "franja"
+swap case : "cambiar caso"
+title : "título"
+translate : "traducir"
+uppercase : "mayúscula"
+zero fill : relleno de cero (filling with zeros)
+append : agregar (to add)
+clear : limpiar (to clean)
+copy : copiar (to copy)
+extend : extender (to extend)
+insert : insertar (to insert)
+pop : eliminar (to remove)
+remove : quitar (to remove)
+reverse : invertir (to reverse)
+sort : ordenar (to sort)
+from keys : "desde"
+get : "claves"
+items : "obtener"
+keys : elementos
+pop item : "claves" (again, since it's a repeated term)
+set default : eliminar elemento
+update : "establecer como predeterminado"
+values : "actualizar"
+add : "valores"
+difference : "agregar"
+difference update : actualización de la diferencia
+discard : descartar
+intersection : intersección
+intersection update : actualización de la intersección
+is disjoint : es disjunto
+is subset : es subconjunto
+is superset : es superconjunto
+symmetric difference : diferencia simétrica
+symmetric difference update : actualización de la diferencia simétrica
+union : unión
+close : Cerrar
+detach : Desconectar
+file number : Número de archivo
+flush : Vaciar
+is interactive : Es interactivo
+read : Leer
+readable : Legible
+read line : Leer línea
+read lines : Leer líneas
+seek : Buscar
+seekable : Buscable (adjective)
+tell : Decir (verb)
+truncate : Truncar (verb)
+writable : Grabable (adjective)
+write : Escribir (verb)
+write lines : Escribir líneas (verb)
+and : Y (conjunction)
+as : Como (adverb)
+assert : Afirmar (verb)
+break : Romper (verb)
+class : Clase
+continue : Continuar
+define : Definir
+delete : Eliminar
+else if : Si no
+else : En caso de que
+except : Excepción
+False : Falso
+finally : Finalmente
+for : Para
+from : de (preposition)
+global : global (adjective)
+if : si (conjunction)
+import : importar (verb)
+in : en (preposition)
+is : es (verb)
+lambda : lambda (noun)
+None : ninguno (pronoun)
+non-local : no local (adjective)
+not : no (negation)
+or : o
+pass : pasar
+raise exception : levantar excepción
+return : devolver
+True : verdadero
+try : intentar
+while : mientras
+with : con
+yield : ceder
+Arithmetic Error : error aritmético
+Assertion Error : Error de afirmación
+Attribute Error : Error de atributo
+Exception : Excepción
+End Of File Error : Error de final de archivo
+Floating Point Error : Error de punto flotante
+Generator Exit : Salida del generador
+Import Error : Error de importación
+Indentation Error : Error de identación
+Index Error : Error de índice
+Key Error : Error de clave
+Keyboard Interrupt : Interrupción de teclado
+Lookup Error : Error de búsqueda
+Memory Error : Error de memoria
+Name Error : Error de nombre
+Not Implemented Error : Error no implementado
+OS Error : Error del sistema operativo
+Overflow Error : Error de desbordamiento
+Reference Error : Error de referencia
+Runtime Error : Error en tiempo de ejecución
+Stop Iteration : Parada de iteración
+Syntax Error : Error de sintaxis
+Tab Error : Error de pestaña
+System Error : Error del sistema
+System Exit : Salida del sistema
+Type Error : Error de tipo
+Unbound Local Error : Error de variable local no ligada
+Unicode Error : Error de Unicode
+Unicode Encode Error : Error de codificación Unicode
+Unicode Decode Error : Error de decodificación Unicode
+Unicode Translate Error : Error de traducción Unicode
+Value Error : Zero Division Error
+Zero Division Error : Error de valor

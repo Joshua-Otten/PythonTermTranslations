@@ -1,0 +1,222 @@
+Valor absoluto
+Todos
+Alguno
+ASCII
+Binario
+Booleano
+Arreglo de bytes
+ytes
+Llamable
+Carácter
+Método de clase
+Compilar
+Complejo
+Eliminar atributo
+Diccionario
+Directorio
+Dividir módulo
+Enumerar
+Evaluar
+Ejecutar
+Filtro
+Punto flotante
+Formato
+Conjunto congelado
+Atributo get
+Variables globales
+Tiene atributo
+hash
+Ayuda
+Sistema numérico hexadecimal
+Identidad
+Entrada
+Entero
+Es instancia
+Es una clase derivada
+Iterador
+Longitud
+Lista
+Variables locales
+Mapa
+Máximo
+Vista de memoria
+Mínimo
+Siguiente
+Objeto
+Octal
+Abierto
+Ordenal
+Poder
+Imprimir
+Propiedad
+Rango
+Representar
+Invertido
+Redondeado
+Conjunto
+Atributo de conjunto
+Trozo
+Ordenado
+Método estático
+Cadena
+Suma
+Conjunto superset
+Tupla
+Tipo
+Variables
+Archivar
+Capitalizar
+Minúsculas
+Centrar
+Contar
+Codificar
+Termina con
+xpandir pestañas
+Encontrar
+Mapa de formato
+Índice
+Es alfanumérico
+Es alfabético
+Es ASCII
+is decimal
+is digit
+is identifier
+is lower
+is numeric
+is printable
+is space
+is title
+is uppercase
+join
+Justificar izquierda (This term refers to aligning text to the left margin.)
+Mas bajo (This term refers to moving something down or to a lower position.)
+Desgaste izquierdo (This term refers to removing unnecessary characters from the left side of a string.)
+Traducción (This term refers to the process of converting text from one language to another.)
+Partición (This term refers to dividing a large piece of data into smaller, more manageable parts.)
+Reemplazar (This term refers to substituting one thing for another.)
+Encontrar en reversa (This term refers to finding a specific element or pattern within a sequence of characters by starting at the end and working backwards.)
+Índice inverso (This term refers to an index that lists the locations of specific elements or patterns within a sequence of characters, with the locations listed in reverse order.)
+Justificar derecha (This term refers to aligning text to the right margin.)
+Partición derecha (This term refers to dividing a large piece of data into smaller, more manageable parts, with the division happening on the right-hand side.)
+división derecha
+franja derecha
+dividir
+líneas divididas
+comienza con
+franja
+cambiar caso
+título
+traducir
+mayúscula
+rellenar con ceros
+apender
+limpiar
+copiar
+ampliar
+insertar
+sacar
+retirar
+invertir
+ordenar
+Claves
+Obtener
+Elementos
+Claves (yes, it's the same word in English and Spanish)
+Eliminar elemento
+Establecer como predeterminado
+Actualizar
+Valores
+Agregar
+Diferencia
+actualización de la diferencia
+descartar
+intersección
+actualización de la intersección
+es disjunto
+es subconjunto
+es superconjunto
+diferencia simétrica
+actualización de la diferencia simétrica
+unión
+Cerrar
+Desconectar
+Número de archivo
+Vaciar
+Es interactivo
+Leer
+Legible
+Leer línea
+Leer líneas
+Buscar
+Buscable (adj.)
+Decir (verb)
+Truncar (verb)
+Escriturable (adj.)
+Escribir (verb)
+Escribir líneas (verb)
+Y (conjunction)
+Como (adverb)
+Afirmar (verb)
+Romper (verb)
+Clase
+Continuar
+Definir
+Eliminar
+Si no
+En caso de que
+Excepto
+Falso
+Finalmente
+Para
+de (preposition)
+global (adjective)
+si (conjunction)
+importar (verb)
+en (preposition)
+es (verb)
+lambda (noun)
+ninguno (pronoun)
+no local (adjective)
+no (negation)
+o
+pasar
+lanzar excepción
+devolver
+verdadero
+intentar
+mientras
+con
+ceder
+error aritmético
+Error de afirmación
+Error de atributo
+Excepción
+Error de final de archivo
+Error de punto flotante
+Salida del generador
+Error de importación
+Error de identación
+Error de índice
+Error de clave
+Interrupción de teclado
+Error de búsqueda
+Error de memoria
+Error de nombre
+Error no implementado
+Error del sistema operativo
+Error de desbordamiento
+Error de referencia
+Error en tiempo de ejecución
+Parada de iteración
+Error de sintaxis
+Error de pestaña
+Error del sistema
+Salida del sistema
+Error de tipo
+Error local sin vinculación
+Error Unicode
+Error de codificación Unicode
+Error de descodificación Unicode
+Error de traducción Unicode
+Error de valor
+Error de división por cero

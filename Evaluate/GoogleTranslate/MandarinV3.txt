@@ -1,0 +1,222 @@
+absolute value
+all
+any
+ascii
+binary
+boolean
+byte array
+bytes
+callable
+character
+class method
+compile
+complex
+delete attribute
+dictionary
+directory
+divide modulus
+enumerate
+evaluate
+execute
+filter
+floating point
+format
+frozen set
+get attribute
+globals
+has attribute
+hash
+help
+hexadecimal
+identity
+input
+integer
+is instance
+is subclass
+iterator
+length
+list
+locals
+map
+maximum
+内存视图
+minimum
+next
+object
+octal
+open
+ordinal
+power
+print
+property
+range
+represent
+reversed
+round
+set
+set attribute
+slice
+sorted
+static method
+string
+summation
+superset
+tuple
+type
+variables
+zip
+capitalize
+case fold”
+center
+count
+encode
+ends with
+expand tabs
+find
+format map
+index
+是字母数字
+is alphabetic
+is ascii
+is decimal
+is digit
+is identifier
+is lower
+is numeric
+is printable
+is space
+is title
+is uppercase
+join
+left justify
+lower
+left strip
+make translation
+partition
+replace
+reverse find
+reverse index
+right justify
+right partition
+right split
+right strip
+split
+split lines
+starts with
+strip
+swap case
+title
+“translate”
+"uppercase"
+零填充
+append
+clear
+copy
+extend
+insert
+pop
+remove
+reverse
+sort
+from keys
+get
+items
+keys
+pop item
+set default
+update
+values
+add
+difference
+difference update
+discard
+intersection
+intersection update
+is disjoint
+is subset
+is superset
+symmetric difference
+symmetric difference update
+union
+close
+detach
+文件号
+flush
+is interactive
+read
+readable
+读取行
+读取行
+seek
+seeable
+tell
+truncate
+writable
+write
+write lines
+and
+as
+assert
+break
+class
+continue
+define
+delete
+else if
+else
+except
+false
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+none
+non-local
+not
+or
+pass
+raise exception
+return
+true
+try
+while
+with
+yield
+arithmetic error
+assertion error
+attribute error
+exception
+end of file error
+floating point error
+generator exit
+import error
+indentation error
+index error
+key error
+keyboard interrupt
+lookup error
+memory error
+name error
+not implemented error
+os error
+overflow error
+reference error
+runtime error
+stop iteration
+Syntax Error
+tab error
+system error
+system exit
+type error
+unbound local error
+unicode error
+unicode encode error
+unicode decode error
+unicode translate error
+value error
+零除法错误

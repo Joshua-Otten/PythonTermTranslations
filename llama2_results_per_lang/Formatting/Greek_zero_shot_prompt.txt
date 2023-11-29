@@ -1,0 +1,279 @@
+ Sure, here are the translations of the given terms into Greek:
+
+1. Absolute value: απολαυστική τιμή (apolausikí tis timís)
+2. All: όλα (ola)
+3. Any: κάποια (kápoia)
+4. ASCII: ASCII (ásiki si kalo)
+5. Binary: δίχρονος (dikhónos)
+6. Boolean: ψευδούμενο (pseudoumeno)
+7. Byte array: πίνακας BYTE (pínakas BYTE)
+8. Bytes: βάйт (váyt)
+9. Callable: λειτουργικός (leitourgikós)
+10. Character: χαρακτήρ (kharaktér)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Class method: Μέθοδος της κλάσης (Method of the class)
+2. Compile: Συναγωγή (Compilation)
+3. Complex: Περίπλε α (Complex)
+4. Delete attribute: Διαγραφή προότητος (Deletion of an attribute)
+5. Dictionary: Λεξικό (Dictionary)
+6. Directory: Καταλογό (Directory)
+7. Divide modulus: Χωρίζον μοдуλό (Division modulo)
+8. Enumerate: Αρίθμηση (Enumeration)
+9. Evaluate: Εκτίμηση (Evaluation)
+10. Execute: Εκτέλεση (Execution)
+
+Note that the translations are written in the Greek alphabet, so the letters may appear different from the English terms.
+ Sure, here are the translations of the given terms into Greek:
+
+* Filter: φίλτρο (fylto)
+* Floating point: ασης πεδίο (asēs pedion)
+* Format: μορφή (morphē)
+* Frozen set: κρυστάλλια (krystallia)
+* Get attribute: ένθετη προπός (enthetē propios)
+* Globals: παγκόσμια (pangkosmia)
+* Has attribute: έχει ένθετη προπός (echei enthetē propios)
+* Hash: κύμα (kyma)
+* Help: βοήθεια (boītheia)
+* Hexadecimal: εξακία (hexakia)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Identity - ταυτότης (tautotitas)
+2. Input - ίνπουτ (input)
+3. Integer - ακέραιος (akeraios)
+4. Is instance - είναι παράδειγμα (einai paradigma)
+5. Is subclass - είναι υποκλήση (einai hypoklesis)
+6. Iterator - πρόβαδος (probados)
+7. Length - μήκος (mikros)
+8. List - λίστα (lista)
+9. Locals - τοπικοί (topikoí)
+10. Map - χάρτης (chartis)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Maximum - μέγιστο (megisto)
+2. Memory view - προσωπική φάνταση (prosopeia fantasia)
+3. Minimum - ελάχιστο (elachisto)
+4. Next - επόμενο (epomeno)
+5. Object - όβјектο (objecto)
+6. Octal - οκταλ (oktal)
+7. Open - ανοιγμένο (anoigmeno)
+8. Ordinal - ταξιδίωτης (taxidiotis)
+9. Power - ίσχυς (ischys)
+10. Print - εκδότης (ekdotes)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Property: Ιδιοκτησία (Idioktesia)
+2. Range: Διάπαson (Diapasoun)
+3. Represent: Προσωπικός (Prosopikos)
+4. Reversed: Αναστρέος (Anastreos)
+5. Round: Σφαιρικός (Sphairikos)
+6. Set: Ταμπλόν (Tamplon)
+7. Set attribute: Ιδιοκτησία περιογκή (Idioktesia periochnē)
+8. Slice: Επίθεση (Epithesis)
+9. Sorted: Ταξινόμητος (Taxinomitos)
+10. Static method: Στατική μетоδική (Statiki metodiki)
+ Sure, here are the translations of the given terms into Greek:
+
+1. String - Συντομή (syntomí)
+2. Summation - Σύνοψη (sýnopsē)
+3. Superset - Υπερέσχημα (ypeerschema)
+4. Tuple - Συνόλο (synólo)
+5. Type - Τύπος (týpos)
+6. Variables - Αλλαγικά (allagika)
+7. Zip - Ζίπ (zip)
+8. Capitalize - Κεντρικώ (kentrı́ko)
+9. Case fold - Πτυσσόμενα (ptyssómena)
+10. Center - Κέντρο (kéntrro)
+ Sure, here are the translations of the given terms into Greek:
+
+1. "Count" - μετρώ (metrō)
+2. "Encode" - ανακωδικopo (anakodikopo)
+3. "Ends with" - τελείωση (teleiosē)
+4. "Expand tabs" - έξοδοι καρτερή (exodioi karteri)
+5. "Find" - βρήκω (brēkō)
+6. "Format map" - χάρτης προσβολή (chartis prosbolē)
+7. "Index" - ίνдеks (indeks)
+8. "Is alphanumeric" - είναι αλφανούμερος (einai alfanumeros)
+9. "Is alphabetic" - είναι αλφαβητικός (einai alphabetikos)
+10. "Is ASCII" - είναι AΣCI (einai Askī)
+
+Note that the translations are written in the Greek alphabet, which consists of 24 letters and is used to write the Greek language.
+ Sure, here are the translations of the given terms into Greek:
+
+* "is decimal" can be translated as "είναι δεκαδικός" (eínai dekadikós)
+* "is digit" can be translated as "είναι ψηφίδιο" (eínai psifídio)
+* "is identifier" can be translated as "είναι πρωτογενής πληcpp" (eínai protogenēs plīcpp)
+* "is lower" can be translated as "είναι κάτω" (eínai káto)
+* "is numeric" can be translated as "είναι αριθμητικός" (eínai arithmētikós)
+* "is printable" can be translated as "είναι εκτυπωτικός" (eínai ektipōtikós)
+* "is space" can be translated as "είναι χώρος" (eínai chos)
+* "is title" can be translated as "είναι τίτλος" (eínai títtlos)
+* "is uppercase" can be translated as "είναι μεγάλος" (eínai megálos)
+* "join" can be translated as "συνέβαζε" (synébaze)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Left justify: Αριστερή Προσαρμόγηση (Aristeri Prosarmogisi)
+2. Lower: Κάτω (Kato)
+3. Left strip: Αριστερή Διακοπή (Aristeri Diakopi)
+4. Make translation: Μετάφραση (Metaphrasi)
+5. Partition: Σχίζουμενη (Schizontomeni)
+6. Replace: Αντικαθιστάμενη (Antikathistameni)
+7. Reverse find: Ανακτήριος Εύρεση (Anaktirion Euresi)
+8. Reverse index: Ανακτήριος Ινδέξ (Anaktirion Indeks)
+9. Right justify: Δεξιά Προσαρμόγηση (Dexia Prosarmogisi)
+10. Right partition: Δεξιά Σχίζουμενη (Dexia Schizontomeni)
+ Sure, here are the translations of the given terms into Greek:
+
+* Right split: Δεξιότης διαίρεση (dexiotēs diairesē)
+* Right strip: Δεξιότης πλάκα (dexiotēs plaka)
+* Split: Διαίρεση (diairesē)
+* Split lines: Διαίρεση γραμμές (diairesē grammes)
+* Starts with: Ξεκινώ από (xe kinō apo)
+* Strip: Πλάка (plaka)
+* Swap case: Αλλαγή πεδίου (allagī pediou)
+* Title: Τίτλος (titlos)
+* Translate: Μετάφραση (metafrasē)
+* Uppercase: Μεγαλύνθραση (megalynthrasē)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Zero fill: μη πλήρωση (mi plirōsē)
+2. Append: προσθήκη (prosthēkī)
+3. Clear: εκκαθάριση (ekkathārisē)
+4. Copy: αντίγrafhein (antigrafein)
+5. Extend: έκταση (ektasis)
+6. Insert: εἰσόδος (eisodos)
+7. Pop: παραβίαση (parabiasē)
+8. Remove: αφαιρώ (afairō)
+9. Reverse: ανακράτηση (anakratiasē)
+10. Sort: ταξινόμηση (taxinomēsē)
+ Sure, here are the translations of the given terms into Greek:
+
+1. "keys" - κλειδία (kleidia)
+2. "get" - πάψτης (papstis)
+3. "items" - αντικείμενα (antikiemena)
+4. "keys" - κλειδία (kleidia) (same as #1)
+5. "pop item" - επαναληπτικό σχόλιο (epanalipchtiko scholio)
+6. "set default" - ορισμός προεπισκόπησης (orismos proepiskopisis)
+7. "update" - ενημέρωση (enimerosis)
+8. "values" - τιμές (times)
+9. "add" - προσθήκη (prosthiki)
+10. "difference" - διαφορά (diafora)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Difference update: Διαφορά εντός (diaphora entos)
+2. Discard: Αθέτηση (athetisee)
+3. Intersection: Συγκρότηση (synkrotisi)
+4. Intersection update: Ενημερωτική συγκρότηση (enimerotikē synkrotisi)
+5. Is disjoint: Είναι διαχωριστό (einai diachōristo)
+6. Is subset: Είναι πολυπαραγωγός (einai polyparagōgos)
+7. Is superset: Είναι υπερπαραγωγός (einai hyperparagōgos)
+8. Symmetric difference: Ισόψηφος διαφορά (isopsēphoros diaphora)
+9. Symmetric difference update: Ενημερωτική ισόψηφος διαφορά (enimerotikē isopsēphoros diaphora)
+10. Union: Ένωση (enōsē)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Close: Κλοπίδι (Klopidi)
+2. Detach: Αποσύνδεση (Aposynthesis)
+3. File number: Αριθμός της φακέλωσης (Arithmos tis fakekoulis)
+4. Flush: Εκχυλισμός (Ekchylismos)
+5. Is interactive: Είναι ενεργοποιημένο; (Einai energopeimenon)
+6. Read: Διάβαση (Diavasi)
+7. Readable: Πιστοποιημένος (Pistopoiimenos)
+8. Read line: Διάβαση γραμμής (Diavasi grammis)
+9. Read lines: Διάβαση γραμμών (Diavasi grammon)
+10. Seek: Σύνδεση (Synthesis)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Seekable (συναισθητή) - αποκλειστικός
+2. Tell (δηλώνω) - έννοια
+3. Truncate (κόψη) - κοπτροποίηση
+4. Writable (γράφω) - γράφιμος
+5. Write (γράφω) - γράφιμος
+6. Write lines (γράφω γραμμές) - γραμματογράφιμος
+7. And (και) - και
+8. Assert (αποδείξω) - αποδείξις
+9. Break (ρυθμίζω) - ρυθμιστική
+
+Note that the translation of "seekable" is not a direct equivalent, but rather a word that conveys a similar meaning in Greek.
+ Sure, here are the translations of the given terms into Greek:
+
+1. Class - τάξη (taxí)
+2. Continue - συνεχίζειν (synechízein)
+3. Define - ορίζειν (orízein)
+4. Delete - διαγράφειν (diagráfein)
+5. Else if - αλλού εἰ μή (alloú ei mī)
+6. Else - ἄλλος (állos)
+7. Except - έκτοτε (éktote)
+8. False - ψεῦδος (pseûdos)
+9. Finally - πρωτογενής (prōtoyenitís)
+10. For - για (gia)
+ Sure, here are the translations of the given terms into Greek:
+
+* from: προέλεση (proelesi)
+* global: παγκόσμιος (pangkosmios)
+* if: εἰ (ei)
+* import: εἰσαγωγή (eisagogi)
+* in: ἐν (en)
+* is: εἰ (ei)
+* lambda: λάμδα (lambda)
+* None: οὐδέν (ouden)
+* non-local: ἀποτυχία (apotychia)
+* not: οὐ (ou)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Or: ή ορ (i.e., "or" in Greek is written as "ή ορ")
+2. Pass: παράβολη (parábolē)
+3. Raise Exception: εκτιμήσαγγειον (ektimíshaggeliou)
+4. Return: επιστρέφω (epistrofō)
+5. True: αληθινός (alithinos)
+6. Try: προσπαθώ (prospath
+7. While: ώς (ōs)
+8. With: μετά (metá)
+9. Yield: προϊόν (proïón)
+10. Arithmetic Error: Σφάλma Αριθμητικής (Sphálma Aristotelikis)
+
+Note that the Greek language has many variations and dialects, so the translations provided above may differ slightly depending on the specific context and dialect used.
+ Sure, here are the translations of the given terms into Greek:
+
+1. Assertion Error - Σφάλμα προειδοποίησης (Sfálma proeidopóisis)
+2. Attribute Error - Σφάλμα προέργων (Sfálma proérgōn)
+3. Exception - Εκτέθεση (Ektéthexis)
+4. End Of File Error - Σφάλμα τελείου ἀρχείου (Sfálma teleíou archeíou)
+5. Floating Point Error - Σφάλμα προσβολής σημαντικής (Sfálma prosbolēs sigmadeutikis)
+6. Generator Exit - Ἐξόδος γенеρατόρα (Exodos generatora)
+7. Import Error - Σφάλμα εἰσαγωγῆς (Sfálma eisagogēs)
+8. Indentation Error - Σφάλμα καταστροφῆς προσβολής (Sfálma katastrofēs prosbolēs)
+9. Index Error - Σφάλμα καταλόγου (Sfálma katalogou)
+10. Key Error - Σφάλμα κλειδίου (Sfálma kleidiou)
+
+Note: Please note that the translations are written in Greek using the Greek alphabet, and may appear differently when translated to Latin characters.
+ Sure, here are the translations of the given terms into Greek:
+
+1. Keyboard Interrupt - Επισύσκεψη Κlavier (Episyksepsē Klavier)
+2. Lookup Error - Σφάλμα Αναζήτησης (Sfálma Anazítis)
+3. Memory Error - Σφάλμα Μνήμης (Sfálma Mnēs)
+4. Name Error - Σφάλμα νοματος (Sfálma Onomatos)
+5. Not Implemented Error - Σφάλμα Διαθεσιμότητας (Sfálma Diakesimótitas)
+6. OS Error - Σφάλμα Οпераτινγ Συστήματος (Sfálma Operating Systemos)
+7. Overflow Error - Σφάλμα Προβολής (Sfálma Provolis)
+8. Reference Error - Σφάλμα Αναφοράς (Sfálma Anaphorás)
+9. Runtime Error - Σφάλμα Χρόνου (Sfálma Chronou)
+10. Stop Iteration - Σφάλμα Διακοπής Ιтераció (Sfálma Diakopisis Iteracíon)
+ Sure, here are the translations of the given terms into Greek:
+
+1. Syntax Error - Σύνδεση Σφάλκλου (Syntaxis Sfalklou)
+2. Tab Error - Ερρωσιότητα Πίνακα (Errosipiotita Pinaaka)
+3. System Error - Σύστημα Σφάλκλου (Systema Sfalklou)
+4. System Exit - Έξοδος Σύστηματος (Exodos Systematos)
+5. Type Error - Τυποθέτης Σφάλκλου (Typothetis Sfalklou)
+6. Unbound Local Error - Ανύπαρκτη Λοкаль Σφάλκλου (Anuparkti Lokal Sfalklou)
+7. Unicode Error - Σφάλκλου Κώδικα Unicode (Sfalklou Kodika Unicode)
+8. Unicode Encode Error - Σφάλκλου Κώδικα Unicode Ενκωδή (Sfalklou Kodika Unicode Enkodi)
+9. Unicode Decode Error - Σφάλκλου Κώδικα Unicode Δεκόδη (Sfalklou Kodika Unicode Dekodi)
+10. Unicode Translate Error - Σφάλκλου Κώδικα Unicode Μετάφραση (Sfalklou Kodika Unicode Metaphrasi)
+ Sure, I'd be happy to help! Here are the translations of the two terms you provided:
+
+Value Error: Σφάλμα τιμής (Sphálma tis timís)
+Zero Division Error: Σφάλμα διαίρεσης  zero (Sphálma diaíresis zero)
+
+I hope this helps! Let me know if you have any other questions.

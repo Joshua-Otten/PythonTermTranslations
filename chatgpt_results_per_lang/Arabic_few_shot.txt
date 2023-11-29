@@ -1,0 +1,117 @@
+.
+
+القيمة المطلقة، الكل، أي، أسكي، ثنائي، بوليان، مصفوفة بايت، بايت، قابل للاستدعاء، حرف.
+.
+
+Class method => طريقة الصنف, Compile => تجميع, Complex => معقد, Delete Attribute => حذف السمة, Dictionary => قاموس, Directory => الدليل, Divide Modulus => قسمة المودولس, Enumerate => تعداد, Evaluate => تقييم, Execute => تنفيذ.
+.
+
+Filter => الفلتر, Floating Point => نقطة عائمة, Format => التنسيق, Frozen Set => مجموعة مجمدة, Get Attribute => الحصول على السمة, Globals => العالميات, Has Attribute => لديه السمة, Hash => هاش, Help => مساعدة, Hexadecimal => السداسي.
+.
+
+الهوية, الإدخال, الصحيح الصحيح, هو سيءءء, هو فرع من, المشغل, الطول, القائمة, المحليون, الخريطة.
+
+
+Maximum => الحد الأقصى, Memory View => عرض الذاكرة, Minimum => الحد الأدنى, Next => التالي, Object => كائن, Octal => ثماني, Open => مفتوح, Ordinal => رتبي, Power => قوة, Print => طباعة.
+, string, and tuple.
+
+property => خاصية, range => نطاق, represent => يمثل, reversed => معكوس, round => مستدير, set => مجموعة, set attribute => تعيين السمة, slice => شريحة, sorted => مرتب, static method => طريقة ثابتة, string => سلسلة, tuple => توبل.
+.
+
+String => سلسلة، 
+Summation => مجموع، 
+Superset => مجموعة رئيسية، 
+Tuple => توبل، 
+Type => نوع، 
+Variables => متغيرات، 
+Zip => ضغط، 
+Capitalize => التشكيل العلوي، 
+Case Fold => ضغط الحالة، 
+Center => مركز.
+, is digit
+
+count => عد, encode => ترميز, ends with => ينتهي بـ, expand tabs => توسيع الألسنة, find => العثور على, format map => خريطة التنسيق, index => الفهرس, is alphanumeric => هو أبجدي رقمي؟, is alphabetic => هو أبجدي؟, is ascii => هو ASCII؟, is digit => هو رقم؟
+
+
+is decimal => هو عشري
+is digit => هو رقم
+is identifier => هو معرف
+is lower => هو حرف صغير
+is numeric => هو رقمي
+is printable => هو قابل للطباعة
+is space => هو فراغ
+is title => هو عنوان
+is uppercase => هو حرف كبير
+join => انضم
+, right strip.
+
+left justify => تحاذي اليسار
+lower => أصغر
+left strip => قص اليسار
+make translation => عمل الترجمة
+partition => تقسيم
+replace => استبدال
+reverse find => البحث العكسي
+reverse index => فهرس عكسي
+right justify => تحاذي اليمين
+right partition => تقسيم اليمين
+right strip => قص اليمين
+.
+
+right split => فصل يميني, right strip => شريط يميني, split => فصل, split lines => فصل الأسطر, starts with => يبدأ بـ, strip => شريط, swap case => تبديل الحالة, title => عنوان, translate => ترجمة, uppercase => حروف كبيرة.
+.
+
+صفر ملء، إلحاق، واضح، نسخ، امتداد، إدراج، طرح، إزالة، عكس، ترتيب
+.
+
+from keys => من المفاتيح, get => الحصول على, items => العناصر, keys => المفاتيح, pop item => عنصر الانتقال, set default => ضبط الافتراضي, update => تحديث, values => القيم, add => إضافة, difference => الفرق.
+.
+
+الفرق التحديث، تجاهل، التقاطع، تحديث التقاطع، هل هو متفرق؟، هل هو جزء من؟، هل هو مجموعة فرعية؟، الاختلاف المتماثل، تحديث الاختلاف المتماثل، الاتحاد
+.
+
+close => اغلاق, detach => فصل, file number => رقم الملف, flush => تصفير, is interactive => هو تفاعلي؟, read => قراءة, readable => قابل للقراءة, read line => قراءة السطر, read lines => قراءة الأسطر, seek => البحث.
+.
+
+seekable => قابل للبحث, tell => أخبر, truncate => قص, writable => قابل للكتابة, write => كتابة, write lines => كتابة الأسطر, and => و, as => كما, assert => أكد, break => كسر.
+, global, if, in, is, lambda, None, return, True.
+
+الصنف, استمر, حدد, احذف, وإلا إذا, وإلا, إلا, خاطئ, أخيراً, لكي, عالمي, إذا, في, هو, لامبدا, لا شيء, أعيد, صحيح.
+, or, pass, raise, return, True.
+
+From => من, Global => عالمي, If => لو, Import => استيراد, In => في, Is => هو, Lambda => لامبدا, None => لا شيء, Non-Local => غير محلي, Not => ليس, Or => أو, Pass => تمرير, Raise => رفع, Return => عودة, True => صحيح.
+.
+
+or => أو 
+pass => لا تحدث 
+raise exception => رفع استثناء 
+return => إرجاع 
+True => صحيح 
+try => حاول 
+while => بينما 
+with => مع 
+yield => يعطي 
+Arithmetic Error => خطأ حسابي
+.
+
+Assertion Error => خطأ التأكيد, Attribute Error => خطأ السمة, Exception => استثناء, End Of File Error => خطأ نهاية الملف, Floating Point Error => خطأ نقطة تطابق, Generator Exit => خروج المولد, Import Error => خطأ الاستيراد, Indentation Error => خطأ المسافة, Index Error => خطأ الفهرس, Key Error => خطأ المفتاح.
+.
+
+فصل المفاتيح، خطأ البحث، خطأ الذاكرة، خطأ الاسم، خطأ غير منفذ، خطأ النظام، خطأ الحدوث، خطأ المرجع، خطأ التشغيل، توقف التكرار.
+
+
+Syntax Error: خطأ لغوي
+Tab Error: خطأ الجدول
+System Error: خطأ نظام
+System Exit: خروج النظام
+Type Error: خطأ نوع
+Unbound Local Error: خطأ محلي غير محدد
+Unicode Error: خطأ يونيكود
+Unicode Encode Error: خطأ ترميز يونيكود
+Unicode Decode Error: خطأ فك ترميز يونيكود
+Unicode Translate Error: خطأ ترجمة يونيكود
+, and Module.
+
+Value Error => خطأ قيمة
+Zero Division Error => خطأ تقسيم الصفر
+Module => وحدة

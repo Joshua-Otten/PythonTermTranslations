@@ -1,0 +1,313 @@
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Absolute value - स्पष्ट मान (Sapashṭ Maan)
+2. All - सभी (Sabhī)
+3. Any - को(Koi)
+4. Ascii - आसकिया (Aaskiya)
+5. Binary - दुविyci (Duvići)
+6. Boolean - सत्याशी (Satyaashi)
+7. Byte array - बा आरे (Baait Aare)
+8. Bytes - बा (Baait)
+9. Callable - क करने योग्य (Kol Karnē Yōgy)
+10. Character - चरैक्टर (Charaktēr)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Class method - क्लास मेथ (Klaas Metchod)
+2. Compile - संपायुजन (Sampayujan)
+3. Complex - सмпत (Samapt)
+4. Delete attribute - अत्रिबुट समाप्ति (Atribut Samaapti)
+5. Dictionary - शब्दकोश (Shabdkosh)
+6. Directory - अनुjetsdict (Anujsdict)
+7. Divide modulus - सांचालक विभाजन (Saanchalak Vibhaajan)
+8. Enumerate - सूची संग्रह (Soochi Sangrahasha)
+9. Evaluate - मत पर (Mat Par)
+10. Execute - कार्य आदान (Kaary Aadaan)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Filter - िल्टर (philtr)
+2. Floating Point - में अंक (ghoomne ank)
+3. Format - संबंधन (sambandhan)
+4. Frozen Set - मुजमा सड़ (muzma sadd)
+5. Get Attribute - आत्रित संपाद (atrit sampad)
+6. Globals - विश्व (vishv)
+7. Has Attribute - की है (ki hai)
+8. Hash - हेश (hesh)
+9. Help - सहायता (sahayata)
+10. Hexadecimal - हेक्साडीश (heksaadeshi)
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Identity - तिHA (intihā)
+2. Input - आवेश (āvesh)
+3. Integer - संख्या (saṃkhyā)
+4. Is instance - किस प्रकार का ाहरण है? (kis prakār kā udayaharan hai?)
+5. Is subclass - किस प्रकार का अध্‍ CsSil है? (kis prakār kā adhclic silsila hai?)
+6. Iterator - ान्त (ekānt)
+7. Length - लम्बा(lambāī)
+8. List - सूची (sūcī)
+9. Locals - स्थानी (sthānī)
+10. Map - नक़्शा (nakśhā)
+
+I hope these translations are helpful for you! Let me know if you need any further assistance.
+ Sure, here are the translations of the given Python terms into Hindi:
+
+1. Maximum - सबसे अधिक (Sabse Adhik)
+2. Memory View - मेमोरी व्यू (Memorie Vyu)
+3. Minimum - सबसे निम्न (Sabse Nimn)
+4. Next - आगामी (Aagami)
+5. Object - ्यां (Udyan)
+6. Octal - आल (Akatla)
+7. Open - खुला (Khula)
+8. Ordinal - स서्य (Sasy)
+9. Power - शक्ति (Shakti)
+10. Print - प्रिंट (Printh)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Property - संवेदन (Sampatti)
+2. Range - सुर Clement (Sambhavna)
+3. Represent - प्रतिनिधि (Pratinidhi)
+4. Reversed - पलटा हुआ (Palta Huia)
+5. Round - ेलू (Gharelu)
+6. Set - समुहाय (Samuhay)
+7. Set attribute - समुहाय का संवेदन (Samuhay Ka Sampatti)
+8. Slice - टी समुहाय (Chhoti Samuhay)
+9. Sort - संशuffle करना (Sanshuffle Karna)
+10. Static method - स्थायी विधि (Stahayee Vidhi)
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+* String: स्ट्रिंग (striṃg)
+* Summation: समाहार (samāhār)
+* Superset: सुपरबेश (supar-beś)
+* Tuple: टुपल (ṭupal)
+* Type: प्रकार (prakār)
+* Variables: वैज्निक चanging (vainjnānik changing)
+* Zip: जीप (jīp)
+* Capitalize: मात्र अक्षर (mātra akṣar)
+* Case fold: कस ोल्ड (kas foṛld)
+* Center: सेंटर (sēntēra)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Count - गिनती (ginta)
+2. Encode - संकोदित करना (sankodit karna)
+3. Ends with - समयुक्त है (samagayukt hai)
+4. Expand tabs - टैबलें प्रशंसनीय करना (tabelen prashansaniya karna)
+5. Find - खोज करना (khoj karna)
+6. Format map - माप संकोदित करना (map sankodit karna)
+7. Index - सूचक अभ्यर्थन (suchak abhyarthana)
+8. Is alphanumeric - आकसंख्या (akad samkhyata)
+9. Is alphabetic - आकवर्ण-माप (akad varn-map)
+10. Is ASCII - ASCII संकोद (ASCII sankod)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+* Is decimal: संख्या (saṃkhyā)
+* Is digit: े (auke)
+* Is identifier: पहचान (pah-chān)
+* Is lower: लिट (lifṭ)
+* Is numeric: संख्यात्मaka (saṃkhyātma-ka)
+* Is printable: प्‍त (chhāpt)
+* Is space: अंतर (antar)
+* Is title: शीर्ष (śīrṣa)
+* Is uppercase: मajuscule (majūskula)
+* Join: जोड़ (joṛ)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Left Justify: लेट जस्टि(Leaft Jastifai)
+2. Lower: निचला (Nichala)
+3. Left Strip: लेट स트リп (Leaft Sutripa)
+4. Make Translation: अनुवाद करना (Anuvaad Karnaa)
+5. Partition: पार्टीशन (Paartiishan)
+6. Replace: संशोधित करना (Sanshodhit Karnaa)
+7. Reverse Find: पलेकमान खोज (Palekamān Khōj)
+8. Reverse Index: पलेकमान  Sloka (Palekamān Sloka)
+9. Right Justify: रा जस्टि(Rā'it Jastifai)
+10. Right Partition: रा पार्टीशन (Rā'it Paartiishan)
+
+I hope these translations are helpful for your project!
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Right split - दा स्प्लिट (Daaen Split)
+2. Right strip - दा स्ट्रीप (Daaen Streep)
+3. Split - स्प्लिट (Split)
+4. Split lines - लिन्के स्प्लिट (Linkaye Split)
+5. Starts with - से शुरू होता है (Se Shuru Hota Hai)
+6. Strip - स्ट्रीप (Streep)
+7. Swap case - केस लिप (Kes Flip)
+8. Title - शीर्षक (Shirshak)
+9. Translate - अनुवाद करना (Anuvad Karna)
+10. Uppercase - रCASE (UparCase)
+ Sure, here are the translations of the given terms into Hindi:
+
+1. Zero fill - शुन्य ल (shunya phil)
+2. Append - संग्रह (sangraha)
+3. Clear - सा करें (saaf karen)
+4. Copy - की (kopya)
+5. Extend - विस्तार (vistaar)
+6. Insert - समावेश (samavesh)
+7. Pop - बाहर निकालो (baahar nikaalo)
+8. Remove - हटाना (hataana)
+9. Reverse - पलट (palt)
+10. Sort - सूची करें (soochi karren)
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. From keys: किसी के द्वारा (kisike dvara)
+2. Get: प्राप्त (prāpt)
+3. Items: आम्स (āitams)
+4. Keys: कीज (kīj)
+5. Pop item: पोप आम् (pōpa āitam)
+6. Set default: डेल्ट सेट (dephalt seṭ)
+7. Update: अप्डेट (apṛdet)
+8. Values: मान्यता (mānyatā)
+9. Add: संख्या (saṃkhya)
+10. Difference: संहारNA (saṃhārna)
+11. Symmetric difference: संहारNA संधि (saṃhārna saṃdhī)
+12. Union: संगत (saṅgathit)
+13. Intersection: संयोजन (saṃyojan)
+14. Is disjoint: अलग है (alag hai)
+15. Is subset: सबकuch है (sab kuch hai)
+16. Is superset: सुपर सेट है (supar set hai)
+17. Is alphanumeric: अल्-नमेरिक है (alfa-nameerik hai)
+18. Is identifier:   identificador है (ek identifikator hai)
+19. Is lowercase: मेल कейस है (mel kees hai)
+20. Is numeric: संख्या है (saṃkhya hai)
+21. Is uppercase: दीर्केस है (dīrgha keś hai)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Difference update: अंतरिानी अपडेट (Anteriyaan Apdeit)
+2. Discard: ित जोड़ (Uchit Joda)
+3. Intersection: सम्पर्क (Sampark)
+4. Intersection update: सम्पर्क अपडेट (Sampark Apdeit)
+5. Is disjoint: विखिन्न (Vikhinna)
+6. Is subset: सबसे कम (Sabse Kam)
+7. Is superset: सबसे बड़ा (Sabse Bada)
+8. Symmetric difference: समानुप Migitation  (Samanupamigitation)
+9. Symmetric difference update: समानुप अपडेट (Samanupa Apdeit)
+10. Union: संयोजन (Sanyojan)
+
+I hope these translations help you in your project!
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Close - सबंद (Saband)
+2. Detach - अलग (Alag)
+3. File number -  क्रमशला (File Kramshankhala)
+4. Flush - निकास (Nikasa)
+5. Is interactive - सम्मेलनीय (Sammelanniy)
+6. Read - प (Pada)
+7. Readable - पने योग्य (Padhne Yogya)
+8. Read line - ला प (Laain Padhaar)
+9. Read lines - लाें प (Laainen Padhaaren)
+10. Seek - खोज (Khoj)
+ Sure, I can help you with that! Here are the translations of the given terms into Hindi:
+
+1. Seekable - स्ट्रीम कल (stream kaunshl)
+2. Tell - बताना (batana)
+3. Truncate - चुनी करना (chunautee karna)
+4. Writable - लिखने योग्य (likhne yogya)
+5. Write - लिखना (likhna)
+6. Write lines - लिखने लि(likhne liye)
+7. And -  Aur (aur)
+8. As - जैसे (jaisa)
+9. Assert - संप्रेत करना (sampreet karna)
+10. Break - टूटना (tootna)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Class - क्लास (Klaas)
+2. Continue - संतिने (Santine)
+3. Define - डि (Diafain)
+4. Delete - मिटाना (Mitaana)
+5. Else if - अन्यथा की गार्ड करें (Anyatha ki gaar dkaren)
+6. Else - आशा (Aasha)
+7. Except - रोक्त (Uparokt)
+8. False - ht (Nisht)
+9. Finally - अंत में (Ant mein)
+10. For - कभी (Kabhi)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, here are the translations of the given Python keywords into Hindi:
+
+* from: से (se)
+* global: विश्व (vishv)
+* if: यदि (yadi)
+* import: आयात (aayat)
+* in: में (mein)
+* is: है (hai)
+* lambda: लाмбDA (lambda)
+* None: को(koi)
+* non-local: अन्य स्थानी (anya sthaani)
+* not: नहीं (nahin)
+
+Note that these translations are written in the Devanagari script, which is used to write Hindi and many other languages.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Or - या (ya)
+2. Pass - संभव (sambhav)
+3. Raise exception - ्सेपशन ना (eksaepshan uthana)
+4. Return - लाना (lautauna)
+5. True - सच (sach)
+6. Try - कoshish करना (koshish karna)
+7. While - जब तक (jab tak)
+8. With - साथ में (saath mein)
+9. Yield - आमुहैबा (aaf mohiba)
+10. Arithmetic Error - आरिथमेटिक र (aritmetik err)
+
+I hope this helps! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Assertion Error - आसERTION र (Aasertion Erar)
+2. Attribute Error - अत्रिबЮТ र (Atribyut Erar)
+3. Exception - ्सेप्शन (Eksepshan)
+4. End Of File Error -  की खतमाह र (Phail Ki Khatamah Erar)
+5. Floating Point Error - लोटिंग पट र (Floating Poinit Erar)
+6. Generator Exit - जेनरेटर ्सिट (Jeneretor Ekshit)
+7. Import Error - आयात र (Ayat Erar)
+8. Indentation Error - अंतर र (Antra Erar)
+9. Index Error - डेक्स र (Indeks Erar)
+10. Key Error - कीय र (Kiya Erar)
+
+I hope these translations are helpful to you! Let me know if you need any further assistance.
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Keyboard Interrupt - कीबोर्ड टररुप्त (Kīborād Inṭarrupt)
+2. Lookup Error - लूकअप र (Lūkāp Ērrar)
+3. Memory Error - मेमोरी र (Mēmōrī Ērrar)
+4. Name Error - नाम र (Nām Ērrar)
+5. Not Implemented Error - नहीं Implemented र (Nahīn Implemented Ērrar)
+6. OS Error -  र (Ōs Ērrar)
+7. Overflow Error - लो र (Phlow Ērrar)
+8. Reference Error - रेेंस र (Rēfarenśa Ērrar)
+9. Runtime Error - श्रचना र (Śracnā Ērrar)
+10. Stop Iteration - आव्ति स्थिति (Avarttī Sthiti)
+
+I hope these translations are helpful to you!
+ Sure, I'd be happy to help you with that! Here are the translations of the given terms into Hindi:
+
+1. Syntax Error - संविधान र (Sanchavidhan Erar)
+2. Tab Error - टैब र (Tab Erar)
+3. System Error - प्रणالी र (Pranali Erar)
+4. System Exit - प्रणالी समाप्ति (Pranali Samapti)
+5. Type Error - प्रकार र (Prakar Erar)
+6. Unbound Local Error - अनब्ड लोकल र (Anbound Lokkal Erar)
+7. Unicode Error - यूनिकोड र (Unicode Erar)
+8. Unicode Encode Error - यूनिकोड कोडिंग र (Unicode Koding Erar)
+9. Unicode Decode Error - यूनिकोड डेकोडिंग र (Unicode Decoding Erar)
+10. Unicode Translate Error - यूनिकोड अनुवाद र (Unicode Anuvaad Erar)
+
+I hope these translations help you in your efforts to translate Python terms into Hindi!
+ Sure, I'd be happy to help! Here are the translations of the two terms you provided:
+
+1. Value Error: मानत अभिलेख (Mant Abhilekh)
+2. Zero Division Error: शुन्य संक्षिप्ट चा (Shunya Sankshipt Chudha)
+
+I hope this helps! Let me know if you have any other questions or need further assistance.

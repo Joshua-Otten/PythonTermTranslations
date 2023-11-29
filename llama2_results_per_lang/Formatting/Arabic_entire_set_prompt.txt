@@ -1,0 +1,298 @@
+ Sure, here are the translations of the given terms into Arabic:
+
+1. absolute value - قيمة أBSOLUTE (qiymah absolut)
+2. all - كل (kul)
+3. any - 任何 (jahilun kul)
+4. ASCII - ASCII (pronounced "ask-ee")
+5. binary - بيناري (binari)
+6. boolean - بولياني (boolyani)
+7. byte array - أرRAY بيت (bit raya')
+8. bytes - بيتس (bits)
+9. callable - 可以调用的 (madhhaban li-ta'rif)
+10. character - حرف (harf)
+
+I hope this helps! Let me know if you need anything else translated.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Class method: مетод الصنف (metod al-snaf)
+2. Compile: ترميز (tarmyz)
+3. Complex: معقد (ma'qad)
+4. Delete attribute: حذف سوارة (hathaf sawara)
+5. Dictionary: 사전 (sandan)
+6. Directory: دلال (dilal)
+7. Divide modulus: تقسيم المخطوف (taqseem al-makhtoof)
+8. Enumerate: تعديل (ta'deel)
+9. Evaluate: تقييم (taqyim)
+10. Execute: تنفيذ (tanfeef)
+
+Note: The translations are written in the Arabic script and are based on the Modern Standard Arabic dialect.
+ Sure, here are the translations of the given terms into Arabic:
+
+* Filter: فلتر (falter)
+* Floating Point: نقطة يساعدها التشغيل (niqat yusaa'idha al-tashghil)
+* Format: شكل (shakal)
+* Frozen Set: مجموعة مقفلة (mojma'a muqaffala)
+* Get Attribute:  obtenir atributo (kasrat al-atribute)
+* Globals: أعظم بيانات (a'zam bayanat)
+* Has Attribute: لدي عنصر (ludi 'ansar)
+* Hash: ضبط عشاSHA (dabt 'asha')
+* Help: مساعدة (misseada)
+* Hexadecimal: ألف sixteen (alf sisin)
+
+I hope this helps!
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Identity - الهوية (al-huwiyah)
+2. Input - الإدخال (al-idkhel)
+3. Integer - العدد (al-adad)
+4. Is instance - هو مثال (huwa al-mithal)
+5. Is subclass - هو فرقة (huwa farqah)
+6. Iterator - المستور (al-mustawir)
+7. Length - الطول (al-tul)
+8. List - القائمة (al-qaaimah)
+9. Locals - المحلين (al-muhallabin)
+10. Map - الخريطة (al-khareeta)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. maximum - الحد الأقصى (al-had al-'aqsy)
+2. memory view - عرض الميموري (ára'id al-míymori)
+3. minimum - الحد الأدنى (al-had al-'adny)
+4. next - التالي (al-táliv)
+5. object - كرة (kura)
+6. octal - برoom (baroom)
+7. open - فتحة (fat-hah)
+8. ordinal - ترتيل (tartil)
+9. power - سلطة (sulṭah)
+10. print - تطباع (taṭbān)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Property: خاصية (khāṣiyyah)
+2. Range: مدى (madda)
+3. Represent: تمثيل (tamthīl)
+4. Reversed: عكس (ʿaks)
+5. Round: كروجي (karrūjī)
+6. Set: مجموعة (majmūʿah)
+7. Set attribute: مقف مجموعة (muaqif majmūʿah)
+8. Slice: شريط (sharīṭ)
+9. Sorted: مرتب (martab)
+10. Static method: مетод ثابت (metoded thābit)
+ Sure, here are the translations of the given terms into Arabic:
+
+* String: سلسلة (silsila)
+* Summation: تجميع (tajmeeya)
+* Superset: مجma'a (mujma'a)
+* Tuple: تعاون (ta'awon)
+* Type: نوع (noun)
+* Variables: متغيرات (muttaghayyirat)
+* Zip: زيب (zib)
+* Capitalize: كتابة (kataba)
+* Case fold: حالة مكتبة (hala maktaba)
+* Center: الوسط (al-wast)
+
+Note that the translations are written in the Arabic script, which is read from right to left. Also, please note that the translations are not word-for-word, but rather they convey the meaning of the original English terms as closely as possible.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Count: عدد (adad)
+2. Encode: تصوير (taswir)
+3. Ends with: ينتهي ب (yunthi bi)
+4. Expand tabs: Expand أقساط (aqdah)
+5. Find: إيجاد (ijad)
+6. Format map: خانة تمود (khana tamwud)
+7. Index: فهرس (fihris)
+8. Is alphanumeric: هو الحروف الألفباعي (huroof al-alphabet)
+9. Is alphabetic: هو الحروف (huroof)
+10. Is ASCII: هو كود أسكي بالحروف (huwa kod ASCII bil-huruf)
+
+Note that the translations are written in the Arabic script, which may not be displayable on all devices or platforms.
+ Sure, here are the translations of the given terms into Arabic:
+
+* "is decimal" -> "هو نقطة ديسمبرية" (huwa al-nakat al-dismabaryah)
+* "is digit" -> "هو أحد الأرقام" (huwa ahad al-arqam)
+* "is identifier" -> "هو تعليم مجموع" (huwa ta'lil majmu')
+* "is lower" -> "هو فرعية" (huwa far'iyyah)
+* "is numeric" -> "هو كرنول" (huwa karnul)
+* "is printable" -> "هو ممون للطباعة" (huwa mumun lilt-taba'a)
+* "is space" -> "هو مساء الخال Sarah" (huwa masa' al-khal Sarah)
+* "is title" -> "هو عنوان مرموق" (huwa 'anwan marmuduk)
+* "is uppercase" -> "هو بالحروف الأعلى" (huwa bial-haruf al-'ala)
+* "join" -> "التقاطع" (al-taqaaT)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Left justify - تحريك اليسار (tahtil al-yassar)
+2. Lower - أدنى (adna)
+3. Left strip - قصة اليسquierdo (qissa al-yassourdo)
+4. Make translation - عمل الترجمة (alm al-tarjama)
+5. Partition - مولفة (mowlifah)
+6. Replace - تبديل (tabdil)
+7. Reverse find - إيجاد معكوس (ijad ma'akos)
+8. Reverse index - 索引 المعكوس (soruj al-ma'akos)
+9. Right justify - تحريك اليمن (tahtil al-yaman)
+10. Right partition - مولفة اليمن (mowlifah al-yaman)
+
+Note: The translations are written in the Arabic script, which is read from right to left. Therefore, the order of the words may be different than what you expect if you are used to reading English or other languages that use a different script.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Right split - تقسيم يمين (taqseem yamyn)
+2. Right strip - محاولة يمين (mohaawala yamyn)
+3. Split - تقسيم (taqseem)
+4. Split lines - خطوات تقسيم (khaatowat taqseem)
+5. Starts with - بدأ مع (bada'a ma'a)
+6. Strip - محاولة (mohaawala)
+7. Swap case - بدل حال (badil haal)
+8. Title - عنوان (anwaan)
+9. Translate - ترجمة (tarjama)
+10. Uppercase - كلمة رئيسية (kalima rayiysiya)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Zero fill: ملء الصفر (milla' al-safir)
+2. Append: إضافة (idda'a)
+3. Clear: مسح (mash)
+4. Copy: نسخ (nuskh)
+5. Extend: توسع (tawse')
+6. Insert: إدراج (idraaj)
+7. Pop: بraste (brawst)
+8. Remove: إزالة (izalah)
+9. Reverse: تبويب (tabweeb)
+10. Sort: ترتيب (tartib)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. من الكلمات (min al-kalimāt) - "from keys"
+2. وصف (wuṣf) - "get"
+3. عدد (ʿadad) - "items"
+4. كلمات (kalimāt) - "keys"
+5. حذف عنصر (ḥaḏaf ʿanṣar) - "pop item"
+6. تعيين بدون (taʿyīn badtūn) - "set default"
+7. تحديث (taḥdīṯ) - "update"
+8. قيم (qiyām) - "values"
+9. زمل (zamal) - "add"
+10. خلけ (khalak) - "difference"
+ Sure, here are the translations of the given terms into Arabic:
+
+* Difference update: تحديث الفرق (tahdith al-farq)
+* Discard: إزالة (izala)
+* Intersection: مقابلة (muqabalah)
+* Intersection update: تحديث المقابلة (tahdith al-muqabalah)
+* Is disjoint: هو منفصل (huwa minfasil)
+* Is subset: هو مجموعة خاصة (huwa majmooa khassah)
+* Is superset: هو مجموعة أكبر (huwa majmooa akbar)
+* Symmetric difference: فرق يمسك (farq yamski)
+* Symmetric difference update: تحديث الفرق اليمسك (tahdith al-farq al-yamski)
+* Union: الاتحاد (al-ittiḥād)
+ Sure, here are the translations of the given terms into Arabic:
+
+1. close - إغلاق (ighlaaq)
+2. detach - فصل (fasl)
+3. file number - رقم الملف (raqm al-malaf)
+4. flush - تنظيف (tinzif)
+5. is interactive - هو يشارك (huwa yasharak)
+6. read - قرأ (qaraa')
+7. readable - قارئ (qaari')
+8. read line - قراء خط (qaraa' khut)
+9. read lines - قراء سطر (qaraa' sutur)
+10. seek - بحث (ba'th)
+ Sure, here are the translations of the given terms into Arabic:
+
+* Seekable: مبعد البحث (mabda' al-baḥth)
+* Tell: إخبار (iār)
+* Truncate: قصوى (qasūya)
+* Writable: مكتوبة (maktūbah)
+* Write: كتابة (katābah)
+* Write lines: كتابة أسطر (katābah aṣṭar)
+* And: و (wa)
+* As: ك (ka)
+* Assert: يق Alf (yaqin 'alf)
+* Break: يلغ (yulgh)
+
+Note that the translations are written in the Modern Standard Arabic (MSA) dialect, which is the most widely used and understood dialect across different Arabic-speaking countries. However, please note that there may be slight variations in the translations depending on the specific dialect or regional variation.
+ Sure, here are the translations of the given terms into Arabic:
+
+* Class: كلاس (klas)
+* Continue: إستمرار (istimrar)
+* Define: تعريف (ta'reef)
+* Delete: محول (mohool)
+* Else if: أخذ الامر إن أمر (akhd al-amr in amr)
+* Else: غير (gayr)
+* Except: بدون (bodon)
+* False: كاذب (kadhib)
+* Finally: نهاية (nohaia)
+* For: لأسباب (li-asbaab)
+
+I hope this helps! Let me know if you have any other questions.
+ Sure, here are the translations of the given Python keywords into Arabic:
+
+* from: من (min)
+* global: عالملكي (aalamliki)
+* if: إذا (idhaa)
+* import: تسويق (tasweeq)
+* in: في (fi)
+* is: هو (huwa)
+* lambda: لامبدا (lambdah)
+* None: لا شيء (laa shay')
+* non-local: غير محلي (gheir mahali)
+* not: ليس (lais)
+ Sure, here are the translations of the given Python keywords and phrases into Arabic:
+
+* or: أو
+* pass: مرشح
+* raise exception: رفع استثناء
+* return: إسترجاع
+* True: صحيح
+* try: محاولة
+* while: بshal
+* with: مع
+* yield: توليد
+
+Here are the translations of the Python error messages into Arabic:
+
+* Arithmetic Error: خطاء الحساب
+
+
+Please note that the translations are written in Modern Standard Arabic, and may vary depending on regional dialects and variations.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Assertion Error - خطأ التقري assertion (khuṭā’ al-taqrī’)
+2. Attribute Error - خطأ الصفحة attribute (khuṭā’ al-ṣifḥa)
+3. Exception - استثناء (istithnā’)
+4. End Of File Error - خطأ نهاية الملف (khitā’ nihāyat al-mulaf)
+5. Floating Point Error - خطأ نقطة الflug (khuṭā’ nuqṭah al-flūg)
+6. Generator Exit - خطأ مغادرة الجينيوم (khuṭā’ mughādarah al-jīniyuum)
+7. Import Error - خطأ إستيراκ الموדيل (khitā’ istirāk al-mudīl)
+8. Indentation Error - خطأ التسميم (khuṭā’ at-tasmīm)
+9. Index Error - خطأ العدد (khuṭā’ al-‘adad)
+10. Key Error - خطأ المفتاح (khuṭā’ al-muftaḥ)
+
+Note: These translations are written in the Arabic script, which may not be displayed correctly on all devices. If you have any issues reading the translations, please let me know and I can provide them in a different format.
+ Sure, here are the translations of the given Python keywords and error messages into Arabic:
+
+1. Keyboard Interrupt - إنقاش مفاجأ (Inqāsh Mufājā)
+2. Lookup Error - غلطة بحث (Ghalatah Bahth)
+3. Memory Error - خطأ ميory (Khata' Mīry)
+4. Name Error - غلطة اسم (Ghalatah Ism)
+5. Not Implemented Error - غلطة تنفيذ (Ghalatah Tinifid)
+6. OS Error - خطأ نظام التشغيل (Khata' Nẓām al-Tashghīl)
+7. Overflow Error - خطأ تورма (Khata' Tawarma)
+8. Reference Error - غلطة مرجع (Ghalatah Marja')
+9. Runtime Error - خطأ مjalma (Khata' Mjalma)
+10. Stop Iteration - إقصاء التكرار (Iqṣā' al-Takrār)
+
+Note that the translations are written in Arabic script, which may not be displayed correctly on all devices or platforms.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Syntax Error: خطأ الصياغة (khuṭā' al-ṣiyāgha)
+2. Tab Error: خطأ التعليق (khuṭā' at-taʿlīq)
+3. System Error: خطأ النظام (khuṭā' an-naẓām)
+4. System Exit: خروج النظام (khurūj an-naẓām)
+5. Type Error: خطأ النوع (khuṭā' an-nwāʿ)
+6. Unbound Local Error: خطأ المحل المستشفي (khuṭā' al-muḥall al-mustashfī)
+7. Unicode Error: خطأ الكود الويب (khuṭā' al-kōd al-wēb)
+8. Unicode Encode Error: خطأ الت Encoding (khuṭā' at-t Encoding)
+9. Unicode Decode Error: خطأ الت Decoding (khuṭā' at-t Decoding)
+10. Unicode Translate Error: خطأ الترجمة (khuṭā' at-tarjama)
+
+Note that the translations are written in Arabic script, which may not be visible on all devices or platforms. If you have trouble viewing the Arabic text, please let me know and I can provide the transliterations instead.
+ Sure, here are the translations of the given terms into Arabic:
+
+1. Value Error: خطأ القيمة (khaṭā' al-qīma)
+2. Zero Division Error: خطأ القسوة الصفرية (khaṭā' al-qaswah al-ṣafriyah)
+
+Note that the translations are written in Arabic script, which may not be displayed correctly on all devices or platforms. If you have any issues reading the translations, please let me know and I can provide them in a different format.
